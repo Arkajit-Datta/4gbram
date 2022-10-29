@@ -1,0 +1,1 @@
+from .getcomment import GetComment
