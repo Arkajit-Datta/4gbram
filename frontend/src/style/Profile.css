@@ -1,0 +1,63 @@
+.bigContainer{
+    display:flex;
+    position: relative;
+    height:100%;
+    padding: 5%;
+    color: #fff;
+    /* background-color: red; */
+}
+
+.mainContent{
+    width:60%;  
+    display: block;
+}
+
+.mainContentItem1{
+    background-color:rgba(255,255,255,0.15);
+    border-radius: 5px;
+    position: relative;
+    height: 30%;
+    margin-bottom: 4%;
+    padding: 10px 20px;
+}
+
+.mainContentItem2{
+    display: grid;
+    height: 35%;
+    position: relative;
+    /* padding: 10px 20px; */
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.mainItem{
+    background-color: rgba(255,255,255,0.15);
+    border-radius: 5px;
+    padding: 10px 20px;
+    /* margin: 10px; */
+}
+
+.communityRelated{
+    display: block;
+    width: 35%;
+    margin-left: 5%;
+}
+
+.communityCard{
+    height: 15%;
+    border-radius: 5px;
+    padding: 30px 20px 0 20px;
+    margin-bottom: 5%;
+    background-color: rgba(255,255,255,0.15);
+    cursor: pointer;
+}
+
+.communityCard:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.communityCard p{
+    padding-top: 10px;
+    font-size: 14px;
+    color: rgba(255,255,255,0.7);
+}

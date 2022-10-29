@@ -7,6 +7,8 @@ import Commentary from './pages/Commentary.js';
 import Rewards from './pages/Rewards.js';
 import Home from './pages/Home.js';
 import CommentaryHome from './pages/CommentaryHome.js';
+import Leaderboard from './pages/Leaderboard';
+import Stats from './pages/Stats';
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
                 <Route path="/profile" exact component={Profile} />
                 <Route path="/commentary/play" exact component={Commentary} />
                 <Route path="/commentary" exact component={CommentaryHome} />
+                <Route path="/profile/mystats" exact component={Stats} />
+                <Route path="/profile/currentstandings" exact component={Leaderboard} />
                 <Route path="/rewards" exact component={Rewards} />
               </Switch>
             // </AnimatePresence>

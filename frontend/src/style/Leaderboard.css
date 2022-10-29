@@ -1,0 +1,49 @@
+.leaderboard{
+
+    display: flex;
+}
+.leaderboardLeft{
+    /* position: absolute; */
+    width:20%;
+    margin:0 auto;
+}
+.leaderboardRight{
+    /* position: absolute; */
+    
+    width:70%;
+    margin:0 auto;
+}
+
+.filters{
+    display:block;
+    padding: 5%;
+}
+
+.filterItems{
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+    margin:20px 0;
+    background-color: rgba(255,255,255,0.4);
+}
+
+.listHeading,
+.user{
+    display: flex;
+}
+
+.user{
+    background-color: rgba(102, 100, 120, 0.4);
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.user:hover{
+    background-color: rgba(255,255,255,0.4);
+}
+
+.listItem{
+
+    color: #fff;
+    margin: 10px 40px;
+}
