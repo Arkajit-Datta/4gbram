@@ -7,7 +7,7 @@ import './../style/Location.css'
 import { useEffect } from "react";
 
 //import Iternary from '../comps/Iternary';
-//import Recommends from '../comps/Recommends';
+import Recommends from '../pages/comps/Recommends';
 import Maps from '../pages/comps/Map.js';
 import { geocodeByAddress } from "react-places-autocomplete";
 import axios from 'axios';
@@ -140,15 +140,11 @@ export default function Rewards() {
                             </div>
                             <hr></hr> */}
 {/* 
-                            <h2>Recomendations</h2>
+                            <h2>Recomendations</h2>*/
                             <div className='recommendations'>
                                 <Recommends name="Gas Stations" />
-                                <Recommends name="Restaurants" />
-                                <Recommends name="Music" />
-                                <Recommends name="Tourist Spots" />
-                                <Recommends name="Music" />
-                                <Recommends name="Amusement Parks" />
-                            </div> */}
+                               
+                            </div> }
                         </div>
                     </div>
                 </div>
