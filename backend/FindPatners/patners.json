@@ -1,0 +1,20 @@
+{
+    "list_of_patners": [
+        "relience",
+        "chroma",
+        "ikea",
+        "more",
+        "heritage",
+        "fabindia",
+        "digital",
+        "bajaj-electronics",
+        "fresh"
+    ],
+    "patner_types":[
+        "shops",
+        "electronic shops",
+        "grocerry"
+    ],
+    "radius": 10000,
+    "filteration_radius": 5000
+}
