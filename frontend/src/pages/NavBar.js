@@ -18,19 +18,19 @@ const NavBar = () => {
                 <Link to="/commentary">
                     <div className="navbarItem">
                     {/* <img src={Location} alt="" /> */}
-                    commentary
+                    Commentary
                     </div>
                 </Link>
                 <Link to="/rewards">
                     <div className="navbarItem">
                     {/* <img src={Music} alt="" /> */}
-                    rewards
+                    Rewards
                     </div>
                 </Link>
                 <Link to="/profile">
                     <div className="navbarItem">
                     {/* <img src={Emotion} alt="" /> */}
-                    profile
+                    Profile
                     </div>
                 </Link>
                 {/* <Link to="/random">

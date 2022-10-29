@@ -10,5 +10,48 @@
     width:80vw;
     margin: 0 auto;
     border-radius: 10px;
-    margin: 2.5vh auto;
+    margin: 2.5vh 10vw;
+    position: relative;
+}
+
+.options{
+    color: #fff;
+    display: flex;
+    position: absolute;
+    top:5%;
+    width:90%;
+    margin: 0 5%;
+    /* background-color: red; */
+    justify-content: space-between;
+}
+
+.cancelOption,
+.mode{
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.15);
+}
+
+.suggestions{
+    position: absolute;
+    color: #fff;
+    top:70%;
+    width:80%;
+    margin: 0 10%;
+    line-height: 1.8;
+    /* background-color: red; */
+}
+
+.audioAnimation{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* width:80px; */
+    margin: 0;
+}
+
+.audioAnimation img{
+    width: 300px;
 }

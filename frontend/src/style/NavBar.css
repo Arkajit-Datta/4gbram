@@ -14,21 +14,21 @@
 
 .items{
     display: flex;
-    width:25%;
-    margin: 0.5% 30%; 
+    width:34%;
+    margin: 0.5% auto; 
 }
 
 .navbarItem{
     color:#fff;
     text-decoration: none;
-   
+    padding: 8px;
 }
 
 a{
     text-decoration: none;
     padding: 3px;
     /* background-color: red; */
-    margin: 10px 25px;
+    margin: 10px 0;
 }
 
 a img{
