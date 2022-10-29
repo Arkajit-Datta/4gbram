@@ -1,0 +1,298 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6149645,
+                    "lng": 78.1957843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61635247989272,
+                        "lng": 78.19715542989272
+                    },
+                    "southwest": {
+                        "lat": 18.61365282010728,
+                        "lng": 78.19445577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shankar Kirana Store",
+            "place_id": "ChIJj5r2fFLPzTsRxLzP-25sGq0",
+            "plus_code": {
+                "compound_code": "J57W+X8 Nizamabad, Telangana",
+                "global_code": "7JCWJ57W+X8"
+            },
+            "rating": 0,
+            "reference": "ChIJj5r2fFLPzTsRxLzP-25sGq0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5, 60, opp. Sri Sai Supermarket NearJama Masjid, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6242445,
+                    "lng": 78.2029232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62554262989272,
+                        "lng": 78.20421667989272
+                    },
+                    "southwest": {
+                        "lat": 18.62284297010728,
+                        "lng": 78.20151702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Venkateshwara Kirana & General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115530028895853816766\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNGVHyf4ZCaHOYQ7CDtO7LSFYmS7I2OdErkcTPHfU3yCcJ1WMbCpNlio3hy8zm-UF8owoE3SGeF3T6wWfavoKlu3ypL7tcuHPJzcGXMNiODwWje7Q06BAzWHQoDujvBd9t_wUW8B-5yrSNLe1_ThVb3HGQqz9zI_zMD5dmpuztNrFT",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJtSxvps_JzTsR1jiGf9z3owE",
+            "plus_code": {
+                "compound_code": "J6F3+M5 Nadepalle, Telangana",
+                "global_code": "7JCWJ6F3+M5"
+            },
+            "rating": 5,
+            "reference": "ChIJtSxvps_JzTsR1jiGf9z3owE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SHOP NO 4-20/15, Deveapalli, near HANUMAN TEMPLE"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6131012,
+                    "lng": 78.1987899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61439852989272,
+                        "lng": 78.20012147989272
+                    },
+                    "southwest": {
+                        "lat": 18.61169887010728,
+                        "lng": 78.19742182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRI SAI KIRANA SHOP",
+            "place_id": "ChIJm0-9mBnPzTsRFSnDZfVQL3g",
+            "plus_code": {
+                "compound_code": "J57X+6G Dichpally, Telangana",
+                "global_code": "7JCWJ57X+6G"
+            },
+            "rating": 0,
+            "reference": "ChIJm0-9mBnPzTsRFSnDZfVQL3g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5-3, near New Bustand, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5981864,
+                    "lng": 78.2004362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59928307989272,
+                        "lng": 78.2028275
+                    },
+                    "southwest": {
+                        "lat": 18.59658342010728,
+                        "lng": 78.19963909999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "VIRESHAM KIRANA",
+            "place_id": "ChIJB7d15c3PzTsRwrvkG5rRaE0",
+            "plus_code": {
+                "compound_code": "H6X2+75 Dichpally, Telangana",
+                "global_code": "7JCWH6X2+75"
+            },
+            "rating": 2,
+            "reference": "ChIJB7d15c3PzTsRwrvkG5rRaE0",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "S N3-30, near Hanuman Temple, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6151507,
+                    "lng": 78.19586699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61641957989272,
+                        "lng": 78.19717692989272
+                    },
+                    "southwest": {
+                        "lat": 18.61371992010728,
+                        "lng": 78.19447727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Sai Super Market",
+            "place_id": "ChIJy3Yg_0jPzTsRjZTYSG22rhw",
+            "plus_code": {
+                "compound_code": "J58W+28 Dichpally, Telangana",
+                "global_code": "7JCWJ58W+28"
+            },
+            "rating": 0,
+            "reference": "ChIJy3Yg_0jPzTsRjZTYSG22rhw",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dichpally Opp Railway Station Line S.No.9-3-17"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.484845,
+                    "lng": 78.2823286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48616572989272,
+                        "lng": 78.28366822989273
+                    },
+                    "southwest": {
+                        "lat": 18.48346607010728,
+                        "lng": 78.28096857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vegetable Market",
+            "place_id": "ChIJUanzIobKzTsRfom0XFFZJHc",
+            "rating": 2,
+            "reference": "ChIJUanzIobKzTsRfom0XFFZJHc",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F7MJ+XW9, Sirnapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.581102,
+                    "lng": 78.22666319999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58251312989272,
+                        "lng": 78.22813952989272
+                    },
+                    "southwest": {
+                        "lat": 18.57981347010728,
+                        "lng": 78.22543987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRI JAGADHAMBA KIRANA",
+            "place_id": "ChIJrZvEpuvJzTsRRwEG3XVnrQ0",
+            "plus_code": {
+                "compound_code": "H6JG+CM Kamalapur, Telangana",
+                "global_code": "7JCWH6JG+CM"
+            },
+            "rating": 0,
+            "reference": "ChIJrZvEpuvJzTsRRwEG3XVnrQ0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H No 11-61/3 Dichpally"
+        }
+    ],
+    "status": "OK"
+}

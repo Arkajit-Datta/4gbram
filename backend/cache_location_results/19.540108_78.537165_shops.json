@@ -1,0 +1,785 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRijqh0j-n958GAXpuV00fbdKwL25sCK52FEiaumYQvGDSXDckXchgTElPL9lX7cwAodYL6uTUxq7ycZUqfOzSdAYmpEUespsUUN4JJ0ewRlNF3B12f77PspZX-PvPkbOjPVjm2FGMMh46p0mSk31TqTaG8RLL-E8spV_vS4Ssed-fk283oJAxL1U6hGwVyjkH4kLNNBAKvfBxwrkRsSFH3yNgxz85gNrJByY6P6lAvDQVoIWxBO0cVLFyj3JfQML8ywmHdLv_JEbZxgQQj3GYg_m_EeMYY_zgpLCr8SuJVhb3jwSwE7HgnfzNxlONgVQ2yXUO9l-iteGEJzwK-g3tK76-7p3a1VZfrFeCLtuxk4GBnvu6YAWsdSyBngoji0LUvoPn0Gi3xxf5J5yfD69RVC8OxvnYJtYb2ZI-zXaEipJQ3yQOx6sw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5250962,
+                    "lng": 78.5618001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52643642989272,
+                        "lng": 78.56314847989273
+                    },
+                    "southwest": {
+                        "lat": 19.52373677010728,
+                        "lng": 78.56044882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Guru Krupa Vegetables Shop",
+            "place_id": "ChIJNxh3ALdn0jsR_fNS22mXf94",
+            "plus_code": {
+                "compound_code": "GHG6+2P Tosham, Telangana",
+                "global_code": "7JFWGHG6+2P"
+            },
+            "rating": 0,
+            "reference": "ChIJNxh3ALdn0jsR_fNS22mXf94",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 4-7, opp. Zphs School, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4847962,
+                    "lng": 78.4974676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48615332989272,
+                        "lng": 78.49881977989273
+                    },
+                    "southwest": {
+                        "lat": 19.48345367010728,
+                        "lng": 78.49612012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Siddi Vinayaka Kirana Shop",
+            "place_id": "ChIJfYrTlpJl0jsRt2upTuaOTbk",
+            "plus_code": {
+                "compound_code": "FFMW+WX Adilabad(U), Telangana",
+                "global_code": "7JFWFFMW+WX"
+            },
+            "rating": 0,
+            "reference": "ChIJfYrTlpJl0jsRt2upTuaOTbk",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S N 6-55, BC Colony, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5250042,
+                    "lng": 78.5611105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52635457989272,
+                        "lng": 78.56245502989272
+                    },
+                    "southwest": {
+                        "lat": 19.52365492010728,
+                        "lng": 78.55975537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ramu kirana shop",
+            "place_id": "ChIJOaeXDnVn0jsR0DVCKdej1nw",
+            "rating": 5,
+            "reference": "ChIJOaeXDnVn0jsR0DVCKdej1nw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GHG6+2C4, Unnamed Road, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.513708,
+                    "lng": 78.5854006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51502747989272,
+                        "lng": 78.58672102989271
+                    },
+                    "southwest": {
+                        "lat": 19.51232782010728,
+                        "lng": 78.58402137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tukaram Kirana Shop",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117726756019220302078\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhWr7dZiccY3VGemVdDgRD182fxPf9bz-IMT6g_Y8Lxwc42CN9PYC89RQdJD6yUj-jvshigNHskkX_IRM6txXXf69u-vKPxkKTZWPc2ddNYZWn0QKMalJFHzRc7dhw7snGiqhwl3qcabAyZ24UhRNhYziOGPQRT_qTO949OZJfCSg8z",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJnzUU8QJh0jsRexjhyP7Yl-Q",
+            "plus_code": {
+                "compound_code": "GH7P+G5 Adilabad(U), Telangana",
+                "global_code": "7JFWGH7P+G5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJnzUU8QJh0jsRexjhyP7Yl-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "2-22 Near Dhanora Road Dhanora, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5135797,
+                    "lng": 78.6305907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51491822989272,
+                        "lng": 78.63194142989272
+                    },
+                    "southwest": {
+                        "lat": 19.51221857010728,
+                        "lng": 78.62924177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "NITHIN KIRANA SHOP",
+            "place_id": "ChIJU5pyGWNh0jsR-4UViaD_z4g",
+            "plus_code": {
+                "compound_code": "GJ7J+C6 Muthnur1, Telangana",
+                "global_code": "7JFWGJ7J+C6"
+            },
+            "rating": 0,
+            "reference": "ChIJU5pyGWNh0jsR-4UViaD_z4g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 5-6, Muthnur, near Bustand, Muthnur1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5133904,
+                    "lng": 78.5664287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51474167989272,
+                        "lng": 78.56782452989272
+                    },
+                    "southwest": {
+                        "lat": 19.51204202010728,
+                        "lng": 78.56512487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tulja bhavani kirana shop",
+            "place_id": "ChIJD8xSVyRh0jsRV1xVMy8N8eI",
+            "rating": 5,
+            "reference": "ChIJD8xSVyRh0jsRV1xVMy8N8eI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GH78+9H3, Tocham Tanda Rd, Dhannura K"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5350925,
+                    "lng": 78.5143391
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53644047989272,
+                        "lng": 78.51568322989272
+                    },
+                    "southwest": {
+                        "lat": 19.53374082010728,
+                        "lng": 78.51298357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pragathi Pan Shop",
+            "place_id": "ChIJ4xMg4ztn0jsR1K-T_aq_NAA",
+            "plus_code": {
+                "compound_code": "GGP7+2P Gudihathinur, Telangana",
+                "global_code": "7JFWGGP7+2P"
+            },
+            "rating": 0,
+            "reference": "ChIJ4xMg4ztn0jsR1K-T_aq_NAA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5-4, Near, Utnoor Road, Gudihathinur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5290223,
+                    "lng": 78.5649585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53034197989272,
+                        "lng": 78.56628752989272
+                    },
+                    "southwest": {
+                        "lat": 19.52764232010728,
+                        "lng": 78.56358787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pasa kirana shop",
+            "place_id": "ChIJTy6j94Bn0jsRyMrtyvvF3rw",
+            "plus_code": {
+                "compound_code": "GHH7+JX Tosham, Telangana",
+                "global_code": "7JFWGHH7+JX"
+            },
+            "rating": 0,
+            "reference": "ChIJTy6j94Bn0jsRyMrtyvvF3rw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Unnamed Road, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5365434,
+                    "lng": 78.5176319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53851197989272,
+                        "lng": 78.51918727989272
+                    },
+                    "southwest": {
+                        "lat": 19.53581232010728,
+                        "lng": 78.51648762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahalaxmi Pan Shop",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107729166300665575308\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtkazPatNaCtIdpP0ZYS7JLnGdPQbUUCu5uHmCdOgvZt2PwOWmybR89ITHj7uDzJidxQnGsYpPBpUjwW7HSEjWLopb6uF784ieHd6Fj8TjZgV5dA7xC6TgfMqgVWNGak8S8IbFVK155A5_-haEbACJJNPdkVy2h94HplbyZHGl2OQd",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJtWVWMQln0jsRL_FQncmFWjQ",
+            "plus_code": {
+                "compound_code": "GGP9+J3 Gudihathinur, Telangana",
+                "global_code": "7JFWGGP9+J3"
+            },
+            "rating": 5,
+            "reference": "ChIJtWVWMQln0jsRL_FQncmFWjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 6, Near, X Road, Gudihathinur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5252302,
+                    "lng": 78.5616173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52651137989272,
+                        "lng": 78.56295842989272
+                    },
+                    "southwest": {
+                        "lat": 19.52381172010728,
+                        "lng": 78.56025877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ASLAM PAAN SHOP",
+            "place_id": "ChIJ--I084Vn0jsRZMByPibiFd0",
+            "plus_code": {
+                "compound_code": "GHG6+3J Tosham, Telangana",
+                "global_code": "7JFWGHG6+3J"
+            },
+            "rating": 0,
+            "reference": "ChIJ--I084Vn0jsRZMByPibiFd0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 6-7/2, near Zphs School, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.525004,
+                    "lng": 78.5611121
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52635477989272,
+                        "lng": 78.56245502989272
+                    },
+                    "southwest": {
+                        "lat": 19.52365512010728,
+                        "lng": 78.55975537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vijay paan shop",
+            "place_id": "ChIJ18gQwTBn0jsR05nri_aNvB0",
+            "rating": 0,
+            "reference": "ChIJ18gQwTBn0jsR05nri_aNvB0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GHG6+2C5, Unnamed Road, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5333391,
+                    "lng": 78.5326539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53469877989272,
+                        "lng": 78.53400732989272
+                    },
+                    "southwest": {
+                        "lat": 19.53199912010728,
+                        "lng": 78.53130767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivam Kiran Shop",
+            "place_id": "ChIJLVQnNexn0jsR7n02soKMBqU",
+            "plus_code": {
+                "compound_code": "GGMM+83 Adilabad(U), Telangana",
+                "global_code": "7JFWGGMM+83"
+            },
+            "rating": 0,
+            "reference": "ChIJLVQnNexn0jsR7n02soKMBqU",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4-66, Main Road, near Indervelly, Mankapoor, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4814137,
+                    "lng": 78.4943538
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48278307989272,
+                        "lng": 78.49569717989272
+                    },
+                    "southwest": {
+                        "lat": 19.48008342010728,
+                        "lng": 78.49299752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SRI SAI PAN SHOP",
+            "place_id": "ChIJ-aRoN6dl0jsR7LrwWHMwHnE",
+            "plus_code": {
+                "compound_code": "FFJV+HP Mannur, Telangana",
+                "global_code": "7JFWFFJV+HP"
+            },
+            "rating": 0,
+            "reference": "ChIJ-aRoN6dl0jsR7LrwWHMwHnE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H. No. 2-45, Mannur Gudethnoor, Near, Shambuguda Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4859203,
+                    "lng": 78.49746329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48727752989272,
+                        "lng": 78.49879757989272
+                    },
+                    "southwest": {
+                        "lat": 19.48457787010728,
+                        "lng": 78.49609792010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhawani Pan Shop",
+            "place_id": "ChIJ8bD8Zk5l0jsRmqdDaEORe_Q",
+            "plus_code": {
+                "compound_code": "FFPW+9X Mannur, Telangana",
+                "global_code": "7JFWFFPW+9X"
+            },
+            "rating": 0,
+            "reference": "ChIJ8bD8Zk5l0jsRmqdDaEORe_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Pass Road, Mannur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5302058,
+                    "lng": 78.5147813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53152682989272,
+                        "lng": 78.51615592989272
+                    },
+                    "southwest": {
+                        "lat": 19.52882717010727,
+                        "lng": 78.51345627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ambika Garsansar Shop",
+            "place_id": "ChIJPfd1Twhn0jsRh6DyDYxt3kQ",
+            "plus_code": {
+                "compound_code": "GGJ7+3W Gudihathinur, Telangana",
+                "global_code": "7JFWGGJ7+3W"
+            },
+            "rating": 0,
+            "reference": "ChIJPfd1Twhn0jsRh6DyDYxt3kQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1-23 Opp Sai Baba Tempul Gudethnoor, Adilabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5293044,
+                    "lng": 78.5143887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53067497989272,
+                        "lng": 78.51574492989272
+                    },
+                    "southwest": {
+                        "lat": 19.52797532010727,
+                        "lng": 78.51304527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivaraj Kiran Shop",
+            "place_id": "ChIJTYA3Fexn0jsRb1g8cY8GLas",
+            "plus_code": {
+                "compound_code": "GGH7+PQ Gudihathinur, Telangana",
+                "global_code": "7JFWGGH7+PQ"
+            },
+            "rating": 0,
+            "reference": "ChIJTYA3Fexn0jsRb1g8cY8GLas",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 5-2, near Auto Stand, Gudihathinur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4860233,
+                    "lng": 78.6269303
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48737152989272,
+                        "lng": 78.62828572989272
+                    },
+                    "southwest": {
+                        "lat": 19.48467187010728,
+                        "lng": 78.62558607010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Manikanta Kirana Shop",
+            "place_id": "ChIJZ73VI6xj0jsRNZyOVvmp7pg",
+            "plus_code": {
+                "compound_code": "FJPG+CQ Adilabad(U), Telangana",
+                "global_code": "7JFWFJPG+CQ"
+            },
+            "rating": 0,
+            "reference": "ChIJZ73VI6xj0jsRNZyOVvmp7pg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3-06 Sirikonda, Main Road, Keshlapur, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5298753,
+                    "lng": 78.51456739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53124167989272,
+                        "lng": 78.51590267989273
+                    },
+                    "southwest": {
+                        "lat": 19.52854202010727,
+                        "lng": 78.51320302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hari Om Pan Shop",
+            "place_id": "ChIJK7Zp0JNn0jsRH1Eg5Qv9vvw",
+            "plus_code": {
+                "compound_code": "GGH7+XR Gudihathinur, Telangana",
+                "global_code": "7JFWGGH7+XR"
+            },
+            "rating": 0,
+            "reference": "ChIJK7Zp0JNn0jsRH1Eg5Qv9vvw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 1-5 Nera Majjed, Gudihathinur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.6299871,
+                    "lng": 78.4581434
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.6306682,
+                        "lng": 78.45922667989272
+                    },
+                    "southwest": {
+                        "lat": 19.62794379999999,
+                        "lng": 78.45652702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prabhakar kirana shop",
+            "place_id": "ChIJ6QmFYB1D0jsRMiWqhLjNqmc",
+            "rating": 0,
+            "reference": "ChIJ6QmFYB1D0jsRMiWqhLjNqmc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JFH5+X7R, Kajjarla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5253257,
+                    "lng": 78.5606079
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52668407989272,
+                        "lng": 78.56192157989273
+                    },
+                    "southwest": {
+                        "lat": 19.52398442010728,
+                        "lng": 78.55922192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Seetharam pan shop",
+            "place_id": "ChIJtUggK8Jn0jsRK1g_8MdN9Lw",
+            "rating": 0,
+            "reference": "ChIJtUggK8Jn0jsRK1g_8MdN9Lw",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GHG6+46Q, Unnamed Road, Tosham"
+        }
+    ],
+    "status": "OK"
+}

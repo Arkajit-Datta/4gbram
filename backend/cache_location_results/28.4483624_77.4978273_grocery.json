@@ -1,0 +1,909 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgSK9n7eJKqY3-DN0CABF3e7kCWZ6-YtVJN6u20xLFOJ210SzPcKCv5NYo333JKTGLLcFZjLJhDtquQgUH4dV17tP6OxiWs3X1I-lc71rj6F5SjwseG5QqHRC-lpspqRZuDXkjcuKbwDrYRTqi2A1kZJd36XSccEKEK1idUVvJB24-bPK8cSr2p83EuDUlOi-_Qa2pC4m0Ouz0vxkT6ltvGLNiTH2T0tqcVtr7R_kQFpOIwM-jd2Yu_TlkSJea6Qn5AeUMOSUp0KuTsQw9lmSA36eOTwneJ9AvR6i5ef5kAxetBnsXbkK3F4xIw93ZLIeGj4lM0RCpy3udON45ZyAnUdBidYKl25HXYbOlHOcA6WSyJoXq66zwzzGZDAi90IDGf7KncSa1oHWK9YDLZGW1Ic2RA66lDLTghIvNnYqIqOoFf8PcTrI2c",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.428714,
+                    "lng": 77.56906239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43006162989272,
+                        "lng": 77.5704230798927
+                    },
+                    "southwest": {
+                        "lat": 28.42736197010727,
+                        "lng": 77.56772342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jai Shri Krishna Grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111577648336282553579\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgUg44-d18ApxxwVWBeomwuw-vk1jCOMhjBa-_l9EACZ7mhfpMKnAJo-jiER08aahipkPf_PSImvBQblobbFRgPQ9o-_7auipx_q7Vn03mr6YWvWGq3a9ITxk-eZRaBXaCjMfB4ZjGW7W7qBUFduX9o0nLUnKyZp52sKQe1KuRVlNg1",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJu3xU4AS_DDkR8PnaNYPNEZc",
+            "plus_code": {
+                "compound_code": "CHH9+FJ Noida, Uttar Pradesh",
+                "global_code": "7JWVCHH9+FJ"
+            },
+            "rating": 5,
+            "reference": "ChIJu3xU4AS_DDkR8PnaNYPNEZc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "near Shiv Mandir, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5003844,
+                    "lng": 77.421545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50176552989273,
+                        "lng": 77.42285137989272
+                    },
+                    "southwest": {
+                        "lat": 28.49906587010728,
+                        "lng": 77.42015172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery On Door",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103513503583687537918\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjV1POt_3HsuCLyfIBVHOxVG6ALfoUTn_9BzKgwZlVtmET2uVNRpoeu_XSMMS5nILl8qaF6zWCkwUWhiLA3KDUIdpJmG3xGO8NsL9XdWoBac5hyz-G7BEDP1r_L7y0toXajkQh50_EtspNxlqGmvlVIn3khYcyCCki11Puob1AzMEsd",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJeThdilToDDkRAAAAMD-3xX0",
+            "plus_code": {
+                "compound_code": "GC2C+5J Noida, Uttar Pradesh",
+                "global_code": "7JWVGC2C+5J"
+            },
+            "rating": 3.7,
+            "reference": "ChIJeThdilToDDkRAAAAMD-3xX0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop.no.7, Sector 143B, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5344929,
+                    "lng": 77.40904019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53583812989272,
+                        "lng": 77.41035292989271
+                    },
+                    "southwest": {
+                        "lat": 28.53313847010728,
+                        "lng": 77.40765327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shreejee grocery store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115444745494424978979\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJjg6GUrVTPPdZzqg-n9HEyM2NPCDuIQpAiobMl00xZt-oB_x-wkxMB8uW85TmgGjcGSCyfRhD7N7AMyjcAzLzvEs6bb4Xs-9hxlz6YgdFCNk3AXBH3KR5fyrYNxvGqUt1bopTuEjrBCiokQCDafUkyYsM5RnJpEzjitxhdu_C3ems",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJMWUTfsjpDDkRTtJZZuuKboE",
+            "plus_code": {
+                "compound_code": "GCM5+QJ Noida, Uttar Pradesh",
+                "global_code": "7JWVGCM5+QJ"
+            },
+            "rating": 0,
+            "reference": "ChIJMWUTfsjpDDkRTtJZZuuKboE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no 1 , Mahagun Mywoods Mart , opp to Gaur city 2, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4387488,
+                    "lng": 77.5557312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44011827989272,
+                        "lng": 77.55707167989273
+                    },
+                    "southwest": {
+                        "lat": 28.43741862010728,
+                        "lng": 77.55437202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aggrwal Kirana Store",
+            "place_id": "ChIJRVs6yXDADDkRAAAAMABnfQw",
+            "plus_code": {
+                "compound_code": "CHQ4+F7 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCHQ4+F7"
+            },
+            "rating": 5,
+            "reference": "ChIJRVs6yXDADDkRAAAAMABnfQw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop Num 1, Sector Ecotech-1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.418784,
+                    "lng": 77.5545564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.42012422989272,
+                        "lng": 77.55589812989273
+                    },
+                    "southwest": {
+                        "lat": 28.41742457010728,
+                        "lng": 77.55319847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harsh Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJTST2PITADDkRlQlVJxWZuJU",
+            "plus_code": {
+                "compound_code": "CH93+GR Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCH93+GR"
+            },
+            "rating": 0,
+            "reference": "ChIJTST2PITADDkRlQlVJxWZuJU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NCR Region, 1, Villege Lukshar, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4936284,
+                    "lng": 77.4097069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49493482989272,
+                        "lng": 77.41116957989273
+                    },
+                    "southwest": {
+                        "lat": 28.49223517010728,
+                        "lng": 77.40846992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "URBAN GROCERY at shop no 27",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJEaFcCNzpDDkR4_KAzMChvdQ",
+            "plus_code": {
+                "compound_code": "FCV5+FV Noida, Uttar Pradesh",
+                "global_code": "7JWVFCV5+FV"
+            },
+            "rating": 5,
+            "reference": "ChIJEaFcCNzpDDkR4_KAzMChvdQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "GH - 01B, Urbtech Xavier, Chhaprauli Bangar, Sector 168, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5282649,
+                    "lng": 77.415959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52963787989272,
+                        "lng": 77.41733317989271
+                    },
+                    "southwest": {
+                        "lat": 28.52693822010728,
+                        "lng": 77.41463352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "S & S Kirana and General stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ1ZojwzPpDDkRTnxG26ZKNII",
+            "plus_code": {
+                "compound_code": "GCH8+89 Noida, Uttar Pradesh",
+                "global_code": "7JWVGCH8+89"
+            },
+            "rating": 0,
+            "reference": "ChIJ1ZojwzPpDDkRTnxG26ZKNII",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gali Number 3, Nayagaon, Sikandarpur village, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.526597,
+                    "lng": 77.5256206
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52800657989272,
+                        "lng": 77.52695322989271
+                    },
+                    "southwest": {
+                        "lat": 28.52530692010728,
+                        "lng": 77.52425357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Verma Grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJiWn_jg_rDDkRslYbQBRzRGM",
+            "plus_code": {
+                "compound_code": "GGGG+J6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGGGG+J6"
+            },
+            "rating": 5,
+            "reference": "ChIJiWn_jg_rDDkRslYbQBRzRGM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "NCR Region, Shop N 0 845, Mail, Dadri Main Rd, Tilapta Village, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4762784,
+                    "lng": 77.51534079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47764312989272,
+                        "lng": 77.51671602989272
+                    },
+                    "southwest": {
+                        "lat": 28.47494347010728,
+                        "lng": 77.51401637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravi Kirana Store",
+            "place_id": "ChIJm9lLnX3qDDkRAAAAcN5g3gQ",
+            "rating": 0,
+            "reference": "ChIJm9lLnX3qDDkRAAAAcN5g3gQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FGG8+G48, 1st St, Pocket F, Block F, Tugalpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4462191,
+                    "lng": 77.5163366
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44767507989272,
+                        "lng": 77.51766852989272
+                    },
+                    "southwest": {
+                        "lat": 28.44497542010728,
+                        "lng": 77.51496887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111551685111420076275\">Aman Pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRjd5QfANKlQqforYFaC_E3BjX9UKtRKJt73eAnwzro-O3us1WCE7AUqUcueCUpVFLTzE2Gbj7BCBBgfj9DO1N7PNPxke-ittbgz7BG5sT9ikdCYYZMfBCGLrqlzyfvnhcyBpeJKS5cOUDkzzIocTN5pGNWiHKtfx7sSV0QWjGoqbh17",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJhY9tSjXADDkRuLF_KE0xzf4",
+            "plus_code": {
+                "compound_code": "CGW8+FG Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGW8+FG"
+            },
+            "rating": 3,
+            "reference": "ChIJhY9tSjXADDkRuLF_KE0xzf4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "201310, Jalvayu Vihar, Phi II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5355326,
+                    "lng": 77.4517401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53687967989272,
+                        "lng": 77.45309962989272
+                    },
+                    "southwest": {
+                        "lat": 28.53418002010728,
+                        "lng": 77.45039997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Deepak Grocery Mart",
+            "place_id": "ChIJLzD9RkHpDDkRWT5Rd11XAjM",
+            "plus_code": {
+                "compound_code": "GFP2+6M Habibpur, Uttar Pradesh",
+                "global_code": "7JWVGFP2+6M"
+            },
+            "rating": 0,
+            "reference": "ChIJLzD9RkHpDDkRWT5Rd11XAjM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ecotech III, Habibpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4670773,
+                    "lng": 77.5055117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46839492989272,
+                        "lng": 77.50695712989273
+                    },
+                    "southwest": {
+                        "lat": 28.46569527010728,
+                        "lng": 77.50425747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Keshav Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJKwUcCXjqDDkRsnR1-iegohI",
+            "plus_code": {
+                "compound_code": "FG84+R6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG84+R6"
+            },
+            "rating": 0,
+            "reference": "ChIJKwUcCXjqDDkRsnR1-iegohI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NCR Region, 10, Teja Gurjar Plaza, Park, Tugalpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5286874,
+                    "lng": 77.5228891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53001057989272,
+                        "lng": 77.52427027989272
+                    },
+                    "southwest": {
+                        "lat": 28.52731092010728,
+                        "lng": 77.52157062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Arush Groceries",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116035418152817046726\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgA2Y4_HyUTLEu5Rqh-IvWzwbPOOyRiQsvB4TdYqFQmx1ctkpZpMZo7Dl6ruOwJFpL7If0lDkcGIGFeV3lt2vrMmdWExj-ERnsRbonB_WEzj-TWqr7cCx7KFfQNHgm9GnFIRpVtpINNwTNSZx6IBG3TyS4_WFx6xLHmTt0B3Btbb9en",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ49m9fJrrDDkRFPnTq0eN5N4",
+            "plus_code": {
+                "compound_code": "GGHF+F5 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGGHF+F5"
+            },
+            "rating": 5,
+            "reference": "ChIJ49m9fJrrDDkRFPnTq0eN5N4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Shop no-01,Harpal market,Bhuda road,Tilapta karanwas, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5022426,
+                    "lng": 77.4220235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50358032989272,
+                        "lng": 77.42337827989272
+                    },
+                    "southwest": {
+                        "lat": 28.50088067010728,
+                        "lng": 77.42067862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Puja Kirana And General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJg65TAlXoDDkRaeESeeNLs00",
+            "rating": 0,
+            "reference": "ChIJg65TAlXoDDkRaeESeeNLs00",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NCR Region, Shahdara, Sector 141, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4657307,
+                    "lng": 77.537267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46709247989273,
+                        "lng": 77.53862157989273
+                    },
+                    "southwest": {
+                        "lat": 28.46439282010728,
+                        "lng": 77.53592192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Apna Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJwVW9viHADDkR4ZsKZD2YE_E",
+            "plus_code": {
+                "compound_code": "FG8P+7W Noida, Uttar Pradesh",
+                "global_code": "7JWVFG8P+7W"
+            },
+            "rating": 0,
+            "reference": "ChIJwVW9viHADDkR4ZsKZD2YE_E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2, Greater Noida, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4700295,
+                    "lng": 77.55205389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47134492989272,
+                        "lng": 77.5533168798927
+                    },
+                    "southwest": {
+                        "lat": 28.46864527010728,
+                        "lng": 77.55061722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Agarwal Grocery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJBYW5lQLADDkRHaGbO091T40",
+            "plus_code": {
+                "compound_code": "FHC2+2R Noida, Uttar Pradesh",
+                "global_code": "7JWVFHC2+2R"
+            },
+            "rating": 0,
+            "reference": "ChIJBYW5lQLADDkRHaGbO091T40",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7, Greater Noida, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5087321,
+                    "lng": 77.4152201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51010532989272,
+                        "lng": 77.41651837989272
+                    },
+                    "southwest": {
+                        "lat": 28.50740567010728,
+                        "lng": 77.41381872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aarna Supermart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 609,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116591124456268870989\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgsKKxr4hPRoMGTmlpQj_pCj1oiXEbtpa3sDToNyaBJbf4kjNmYuCg4E8OKstCJZGk4cy66VlfOEsseCPXG4Fmv8hI9ZnP7ylTK-NoDsf7UYW7EDuUr0UuHcyxwEY8tyOlJ7s0c3Bki0w9gaYY8nUE1VqEcYrpqd5IVUhORsbUsKMjq",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJeVDRehjpDDkRMK89vpmV0Dw",
+            "plus_code": {
+                "compound_code": "GC58+F3 Noida, Uttar Pradesh",
+                "global_code": "7JWVGC58+F3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJeVDRehjpDDkRMK89vpmV0Dw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "Sh-23, Ground Floor, Reet Square, opposite Logix Blossom County, Sector 141, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4352777,
+                    "lng": 77.5427073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43663617989272,
+                        "lng": 77.54405612989272
+                    },
+                    "southwest": {
+                        "lat": 28.43393652010727,
+                        "lng": 77.54135647010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rakesh Gernal Store",
+            "place_id": "ChIJWaS56FzBDDkRHFEn6Is-6Bo",
+            "rating": 5,
+            "reference": "ChIJWaS56FzBDDkRHFEn6Is-6Bo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CGPV+434, Block B, Surajpur Site V, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4643545,
+                    "lng": 77.5038366
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46569987989272,
+                        "lng": 77.50518147989271
+                    },
+                    "southwest": {
+                        "lat": 28.46300022010728,
+                        "lng": 77.50248182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Om Khushi Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlbUYM_jBDDkRpssCz3rGnRs",
+            "rating": 4.5,
+            "reference": "ChIJlbUYM_jBDDkRpssCz3rGnRs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FG73+PGW, Tugalpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5114847,
+                    "lng": 77.47486479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51284762989272,
+                        "lng": 77.47622282989272
+                    },
+                    "southwest": {
+                        "lat": 28.51014797010728,
+                        "lng": 77.47352317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Everyday Grocery Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103100705254825930113\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpNH7NO7SlQaOHFElYhAqZ_1vhefUMLslZElGhGFezZIsBqRhNTjw49XViMAynro3jPpGJDM-YfrYx4yyttC74_76sshM8EX6Zibn-FxvyQaUgGz-nLMqTOtKwKjj4l_9Ed9ajhgsAu5zOJ4BiOgPPmAoCUtWl0OIkxFHZRY6kt-EN",
+                    "width": 474
+                }
+            ],
+            "place_id": "ChIJQxvHs7brDDkRfXTUQOwQEvg",
+            "plus_code": {
+                "compound_code": "GF6F+HW Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGF6F+HW"
+            },
+            "rating": 0,
+            "reference": "ChIJQxvHs7brDDkRfXTUQOwQEvg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Surajpur, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

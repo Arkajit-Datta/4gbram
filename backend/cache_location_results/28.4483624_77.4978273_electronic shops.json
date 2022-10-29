@@ -1,0 +1,868 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhywC0dYS2Cv2oPXLRgp70qB6Uxw-j7pW-wsxdL-G--7Xdw_wJFOMGXSMYdDxIljEtaesmzmMTFzH4YWsDY5VBwFeILjQyQFGZ6UnbOpba804jbLFPx3Z8cnR7X2h9_VXfzZatOyfGg_VQR622O221hIudZsU47Ksiaw9TIxGoC_pmrNLcBZCQJMwmvHS3Sa3NnTd1vCxwcJ2OyOOdA7Wr-G9mw8NVfp_xnOTzbnSvcOsplEaL2-JYlDhbOULNMuk8wXfDQN-Mb2L4VNtf3eIgDGyevXker_NJsiB6X3V1x_EpgCWCps7_by7o9clXIotJFUUot-sLKODFL8dhiZKSx10SRVPoPNpW27qXWePpAdztsZtfus4dBaGMYC5xlrsXA5kKPUIyzHBKI2AYaVgGZDO5T_0aTRiSwUfvif1W0G29CtK4nQFP33cew8PYTjFLH",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4646188,
+                    "lng": 77.5080342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46574417989272,
+                        "lng": 77.50951862989272
+                    },
+                    "southwest": {
+                        "lat": 28.46304452010727,
+                        "lng": 77.50681897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110745451219980256606\">vibhor khare</a>"
+                    ],
+                    "photo_reference": "AcYSjRivySzNIqpOJhc1HBgIiklmMFcQN68rKf8TM-uQNaC2_H7YvXxAepVBEKhIYC7ccGCBgeBHwttlBtmJavg1m8ae9XBMi943uIgRPnXLaaAF8IhV1s0Xx8gCaLG3SQvKKGm8tvffem0c4NSUrYPKX3UM_ToSWr0mkkZ2bMATPjzJoVuV",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJQ-FAVtbBDDkReLW3itLNKr4",
+            "plus_code": {
+                "compound_code": "FG75+R6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG75+R6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJQ-FAVtbBDDkReLW3itLNKr4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1012,
+            "vicinity": "Shop Nos. G43-G46A, Plot Nos. 1, Ansal Plaza, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4637461,
+                    "lng": 77.50726929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46506487989272,
+                        "lng": 77.50859167989272
+                    },
+                    "southwest": {
+                        "lat": 28.46236522010727,
+                        "lng": 77.50589202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110563407320143898162\">Croma</a>"
+                    ],
+                    "photo_reference": "AcYSjRjABn2s4H2H9yLkggjPIugZ347QsTFrDaFRTcazmaFRM2UNbwpF8MCUz-liRjQQC8Zen3FJzd4GFHDR4gFo5sG1DbSucDEfqKkwu1e7xthwaD8zpfybREDVbON84Kv2lKbpDSBMLeFuUcCV93s7jlEdKlEWzZu4_nFYRCoLwHXyWTEm",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJy0HOA9fBDDkRLSmGkaW69g0",
+            "plus_code": {
+                "compound_code": "FG74+FW Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG74+FW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJy0HOA9fBDDkRLSmGkaW69g0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2965,
+            "vicinity": "Unit no.A G, 16&22, Pari Chowk, Sadarpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5061627,
+                    "lng": 77.4692268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50751422989272,
+                        "lng": 77.4705764298927
+                    },
+                    "southwest": {
+                        "lat": 28.50481457010728,
+                        "lng": 77.46787677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Navlesh Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106935262332124312452\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg7QZ95soFhDCNAAnvui4CvC8fCMEhtM8u6ydpSsuAQZoo3Xkf59sZOJ1VLCpN8xvZSEOLJu4ihHR4sozo0QKrMyOTKsGB1UbYidn-PFMV64DxuFdZ9P9Q1w00ESVMv4TsEmajcWLgY0ooqWa2yjVnM8dDsOR1oHmw3uKlMtF9ptvvH",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJC6A3Vr7pDDkR1P9eOJlDoMI",
+            "plus_code": {
+                "compound_code": "GF49+FM Noida, Uttar Pradesh",
+                "global_code": "7JWVGF49+FM"
+            },
+            "rating": 0,
+            "reference": "ChIJC6A3Vr7pDDkR1P9eOJlDoMI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Market Rd, Khora Colony, Malakpur Village, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4552812,
+                    "lng": 77.50465129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45670712989272,
+                        "lng": 77.5059313298927
+                    },
+                    "southwest": {
+                        "lat": 28.45400747010728,
+                        "lng": 77.50323167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aadhya Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJiT8zVDjvDDkReYyzlZA6vaE",
+            "plus_code": {
+                "compound_code": "FG43+4V Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG43+4V"
+            },
+            "rating": 5,
+            "reference": "ChIJiT8zVDjvDDkReYyzlZA6vaE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No. 19-20 Amrapali icon leisure valley, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4315937,
+                    "lng": 77.5028798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43308602989273,
+                        "lng": 77.50414812989273
+                    },
+                    "southwest": {
+                        "lat": 28.43038637010728,
+                        "lng": 77.50144847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sourav Electronic",
+            "place_id": "ChIJQY_zEXLBDDkRoK0NEhkL5Mo",
+            "plus_code": {
+                "compound_code": "CGJ3+J5 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGJ3+J5"
+            },
+            "rating": 0,
+            "reference": "ChIJQY_zEXLBDDkRoK0NEhkL5Mo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12 Nimbus, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4716414,
+                    "lng": 77.5933143
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47300782989272,
+                        "lng": 77.59472292989273
+                    },
+                    "southwest": {
+                        "lat": 28.47030817010728,
+                        "lng": 77.59202327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mohit Electronic",
+            "place_id": "ChIJkUa1j22_DDkRq469K4pwpJk",
+            "plus_code": {
+                "compound_code": "FHCV+M8 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFHCV+M8"
+            },
+            "rating": 0,
+            "reference": "ChIJkUa1j22_DDkRq469K4pwpJk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mohit Electronic, Ajaybpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5061627,
+                    "lng": 77.4692276
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50751422989272,
+                        "lng": 77.47057712989272
+                    },
+                    "southwest": {
+                        "lat": 28.50481457010727,
+                        "lng": 77.46787747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHUBHAM ELECTRONICS",
+            "place_id": "ChIJmzYxiYDpDDkRAAAAMAQ_v2c",
+            "plus_code": {
+                "compound_code": "GF49+FM Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGF49+FM"
+            },
+            "rating": 0,
+            "reference": "ChIJmzYxiYDpDDkRAAAAMAQ_v2c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "A 214, Main Market, Malakpur Village, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.475696,
+                    "lng": 77.5020352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47699267989272,
+                        "lng": 77.50329207989272
+                    },
+                    "southwest": {
+                        "lat": 28.47429302010728,
+                        "lng": 77.50059242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Brij Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ-bUwUnDqDDkRAAAAMIS4ABU",
+            "plus_code": {
+                "compound_code": "FGG2+7R Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGG2+7R"
+            },
+            "rating": 0,
+            "reference": "ChIJ-bUwUnDqDDkRAAAAMIS4ABU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1 Main Park, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4751822,
+                    "lng": 77.5121025
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47651847989273,
+                        "lng": 77.51342802989272
+                    },
+                    "southwest": {
+                        "lat": 28.47381882010728,
+                        "lng": 77.51072837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sagar Electronic",
+            "place_id": "ChIJKxaC2KfrDDkRRTPn-oasSFs",
+            "plus_code": {
+                "compound_code": "FGG6+3V Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGG6+3V"
+            },
+            "rating": 0,
+            "reference": "ChIJKxaC2KfrDDkRRTPn-oasSFs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "D-106, 1st St, IRWO Palm Court Rail Vihar, Block D, Alpha I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5199,
+                    "lng": 77.4587239
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52105227989272,
+                        "lng": 77.45989282989271
+                    },
+                    "southwest": {
+                        "lat": 28.51835262010728,
+                        "lng": 77.45719317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Joshi Electronic and Electrical's",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJmzxe5aDpDDkRlKoddXjcPW4",
+            "rating": 5,
+            "reference": "ChIJmzxe5aDpDDkRlKoddXjcPW4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GF95+XF9, Surajpur Devla Road Sunday Market Tower wale Gale, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4798681,
+                    "lng": 77.5058201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48120162989272,
+                        "lng": 77.50722217989272
+                    },
+                    "southwest": {
+                        "lat": 28.47850197010728,
+                        "lng": 77.50452252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anjali Electronics",
+            "place_id": "ChIJt04eRxfrDDkRmSLOvmW_Lvo",
+            "plus_code": {
+                "compound_code": "FGH4+WC Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGH4+WC"
+            },
+            "rating": 0,
+            "reference": "ChIJt04eRxfrDDkRmSLOvmW_Lvo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Beta 1, Block E, Beta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4048255,
+                    "lng": 77.4154607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.40610652989273,
+                        "lng": 77.41677452989273
+                    },
+                    "southwest": {
+                        "lat": 28.40340687010728,
+                        "lng": 77.41407487010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronic store",
+            "place_id": "ChIJ98ldCWHDDDkR12Ua8bUDgHg",
+            "rating": 0,
+            "reference": "ChIJ98ldCWHDDDkR12Ua8bUDgHg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CC38+W58, Badarpur Said"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5305826,
+                    "lng": 77.4352371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53193667989272,
+                        "lng": 77.43659547989272
+                    },
+                    "southwest": {
+                        "lat": 28.52923702010728,
+                        "lng": 77.43389582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anil Electronic Shop",
+            "place_id": "ChIJI0aU973pDDkRmR9vpMtXSDc",
+            "plus_code": {
+                "compound_code": "GCJP+63 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGCJP+63"
+            },
+            "rating": 0,
+            "reference": "ChIJI0aU973pDDkRmR9vpMtXSDc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No-66, Near Chowki, Kulesara, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4315937,
+                    "lng": 77.5028798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43308602989273,
+                        "lng": 77.50414812989273
+                    },
+                    "southwest": {
+                        "lat": 28.43038637010728,
+                        "lng": 77.50144847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Priyanka Electronic",
+            "place_id": "ChIJjbVXx73BDDkRK3wh_xdi0ws",
+            "plus_code": {
+                "compound_code": "CGJ3+J5 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGJ3+J5"
+            },
+            "rating": 0,
+            "reference": "ChIJjbVXx73BDDkRK3wh_xdi0ws",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nimbus 2 Churuphur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4888707,
+                    "lng": 77.5659091
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49021177989272,
+                        "lng": 77.56726627989272
+                    },
+                    "southwest": {
+                        "lat": 28.48751212010728,
+                        "lng": 77.56456662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Perfect Electronic work",
+            "place_id": "ChIJm-NwqIGVDDkR_K5vH66HxpE",
+            "plus_code": {
+                "compound_code": "FHQ8+G9 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFHQ8+G9"
+            },
+            "rating": 5,
+            "reference": "ChIJm-NwqIGVDDkR_K5vH66HxpE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "mu 2 plt- no-480, Sector MU 2, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5322194,
+                    "lng": 77.4179319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53361957989273,
+                        "lng": 77.41927537989272
+                    },
+                    "southwest": {
+                        "lat": 28.53091992010728,
+                        "lng": 77.41657572010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shri Ganesh Electronics",
+            "place_id": "ChIJfzjbW3npDDkRQduynJMtjZE",
+            "plus_code": {
+                "compound_code": "GCJ9+V5 Noida, Uttar Pradesh",
+                "global_code": "7JWVGCJ9+V5"
+            },
+            "rating": 0,
+            "reference": "ChIJfzjbW3npDDkRQduynJMtjZE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00, Hosiery Complex, Block D, Noida Phase-2, Yakubpur, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4665857,
+                    "lng": 77.504601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46792852989272,
+                        "lng": 77.50596632989271
+                    },
+                    "southwest": {
+                        "lat": 28.46522887010728,
+                        "lng": 77.50326667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ekta electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102066364097801938676\">krishan kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_FxS__DnK7rVBzCEkEQQPF4NmeD7VetP9FlmJgMAKbRQCUjdURlPPXYksy4EHCVDr833sywU1u9FQi3vTp8I0jY-9NhaJ8J0lbmTWbF0kpZX1yzfxlxEMRT1Y3Bo6XaKxCTjP-8TZY2NRb8qSOSp0kac0HoXQC2MKndzHcSO8fNxj",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJh-SA_9fBDDkR_Fn904wt3bU",
+            "plus_code": {
+                "compound_code": "FG83+JR Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG83+JR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJh-SA_9fBDDkR_Fn904wt3bU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No. 1.Prakash Pradhan Market, Tugalpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4360231,
+                    "lng": 77.5447472
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43730627989272,
+                        "lng": 77.54631082989272
+                    },
+                    "southwest": {
+                        "lat": 28.43460662010727,
+                        "lng": 77.54361117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronics in Greater Noida",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109988801976774420355\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpmT_58kWHt2x-I7bEJLrs2RZGT3HMZF14FlvLH3szT3SqjWyjFNy47mxCFXz-qWcrhs9HyD-ev_sFMa60d9dVDw5DYXlQaZWgxY0mrVWVFDTBWvIxyJlQInjm6SEtBHi9fADQSSDgz6jQ8E1ijWAEhe2Khl6wqvmrROwbN3pyzSnG",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJFW4Zk0PBDDkRE3RUKGjdWmE",
+            "plus_code": {
+                "compound_code": "CGPV+CV Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGPV+CV"
+            },
+            "rating": 5,
+            "reference": "ChIJFW4Zk0PBDDkRE3RUKGjdWmE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Chaudhari harveer Pahalwan market, Main Rd, Kasna Village, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4884283,
+                    "lng": 77.51392849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49063884999999,
+                        "lng": 77.51668074999999
+                    },
+                    "southwest": {
+                        "lat": 28.48769145,
+                        "lng": 77.51277774999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108170687377772697686\">Sushil Kasana</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpN8Qz1rpIGRT1R78S5xhaxMc83hwUcYmD0w7OsmEXTgOBlqhXfzqMkMETWpnfZXGD9cRmrmWwinfwb39qYYfKI6bjLAUoGu2Gv5cwbDmI60DfmG5DLQJBvwNl4DZeKeLYuE9yiB0CtVe6ZXrAIoeHv-PL4O5R_b1VmQMBb1jNA9oK",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJvTT4RGDqDDkRND-Hoy6Zztc",
+            "plus_code": {
+                "compound_code": "FGQ7+9H Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGQ7+9H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJvTT4RGDqDDkRND-Hoy6Zztc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6623,
+            "vicinity": "OMAXE MALL, Shop No 29-30 Ground Floor, Omaxe Connaught Place, Beta II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4757024,
+                    "lng": 77.5020352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47711087989272,
+                        "lng": 77.50347122989271
+                    },
+                    "southwest": {
+                        "lat": 28.47441122010728,
+                        "lng": 77.50077157010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jagat Singh",
+            "place_id": "ChIJMQE6UnDqDDkRAAAAMAR5-Wk",
+            "plus_code": {
+                "compound_code": "FGG2+7R Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGG2+7R"
+            },
+            "rating": 0,
+            "reference": "ChIJMQE6UnDqDDkRAAAAMAR5-Wk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1 Main Park, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,820 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjtl3Qs2NAykg0R6APUvOB9jvZrS9K2MgRWGTTDljNiv83O45isliPc-jizDTKASRquqVCppcoVbTi1lSTKoF3AQ9ZrHseNnMEH7l9MFyk8-wzN-kDBYf1EZ2RenoP4Ru-U8ng-gGAGoxHUSGLs18IX6fu5TjwfeGQH6yh9Q3p-ZQdSG_KMzK24s_vNcxoJzxph0TVLBKuqTu9qV4n7zdRH8t26hg5iw1sDi9RYlO-YhKXDDx2hJfoL1_v9Ozej_oor5lQ-3Bb7IfRZRQx6p4jz7rRUf_Yg4sfmW7w5k6wxwJtQG2CSST2lDs52HMgXPBLYvXyTWzUJCiT7lx1JYN8MvEIXJ7fgzJNxZY-5Mgvd3KRsVlbTlM-bEbRCGaEGT6e6IYbQySNDawhwkYWYVBx6iIbM77y0-QM7qWERwHA6OK03Osgt9tNII_1KAQ4ucxVC",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1541608,
+                    "lng": 78.0379547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15549287989272,
+                        "lng": 78.03930462989273
+                    },
+                    "southwest": {
+                        "lat": 27.15279322010728,
+                        "lng": 78.03660497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ridhi Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJV--iQT9xdDkR7VcnYabfg8w",
+            "rating": 0,
+            "reference": "ChIJV--iQT9xdDkR7VcnYabfg8w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "523Q+J5P, Shaheed Nagar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1443391,
+                    "lng": 78.03412159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14568347989272,
+                        "lng": 78.03551832989272
+                    },
+                    "southwest": {
+                        "lat": 27.14298382010728,
+                        "lng": 78.03281867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dikash Electronic Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJL61hHf5xdDkRVsiXG08icXs",
+            "plus_code": {
+                "compound_code": "42VM+PJ Agra, Uttar Pradesh",
+                "global_code": "7JVW42VM+PJ"
+            },
+            "rating": 0,
+            "reference": "ChIJL61hHf5xdDkRVsiXG08icXs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rajpur Chungi, Shamsabad, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1535696,
+                    "lng": 78.04829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15491917989272,
+                        "lng": 78.04967927989271
+                    },
+                    "southwest": {
+                        "lat": 27.15221952010727,
+                        "lng": 78.04697962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deepak Electronic",
+            "place_id": "ChIJQefmwIVxdDkR7lH54kWdYxw",
+            "plus_code": {
+                "compound_code": "523X+C8 Agra, Uttar Pradesh",
+                "global_code": "7JVW523X+C8"
+            },
+            "rating": 0,
+            "reference": "ChIJQefmwIVxdDkR7lH54kWdYxw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Fatehabad Rd, near Saga, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1919747,
+                    "lng": 78.0226362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19317387989272,
+                        "lng": 78.02393852989272
+                    },
+                    "southwest": {
+                        "lat": 27.19047422010728,
+                        "lng": 78.02123887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanjeev Electronic",
+            "place_id": "ChIJ3_F1F7JxdDkRQ7xS89KrNdM",
+            "plus_code": {
+                "compound_code": "52RF+Q3 Agra, Uttar Pradesh",
+                "global_code": "7JVW52RF+Q3"
+            },
+            "rating": 0,
+            "reference": "ChIJ3_F1F7JxdDkRQ7xS89KrNdM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "6/63, Belanganj, Civil Lines, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1914144,
+                    "lng": 77.9584945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19276542989272,
+                        "lng": 77.95984552989272
+                    },
+                    "southwest": {
+                        "lat": 27.19006577010728,
+                        "lng": 77.95714587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jafri Electronic Store",
+            "place_id": "ChIJjab6_kd3dDkRvaN39Q479BI",
+            "plus_code": {
+                "compound_code": "5XR5+H9 Agra, Uttar Pradesh",
+                "global_code": "7JVV5XR5+H9"
+            },
+            "rating": 0,
+            "reference": "ChIJjab6_kd3dDkRvaN39Q479BI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Bodla Rd, Bodla, Shahganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730033,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419967989272,
+                        "lng": 78.04163719999998
+                    },
+                    "southwest": {
+                        "lat": 27.17150002010728,
+                        "lng": 78.0378964
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Galaxy Electronic S Electricals Service Kathare Gk",
+            "place_id": "ChIJoUtG8sNxdDkRnI4tSFspAUE",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJoUtG8sNxdDkRnI4tSFspAUE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "74/1 Bright School Dodda Gowdanpalya Dodda, Gowdanpalya Main Rd, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1500196,
+                    "lng": 77.9819954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15140512989272,
+                        "lng": 77.98336697989272
+                    },
+                    "southwest": {
+                        "lat": 27.14870547010728,
+                        "lng": 77.98066732010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ram Electronic Shop",
+            "place_id": "ChIJsRjmye53dDkRNBNvOkk8bz0",
+            "plus_code": {
+                "compound_code": "5X2J+2Q Agra, Uttar Pradesh",
+                "global_code": "7JVV5X2J+2Q"
+            },
+            "rating": 0,
+            "reference": "ChIJsRjmye53dDkRNBNvOkk8bz0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bar Wali Gali, Naripura, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751456,
+                    "lng": 78.042144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17614722989272,
+                        "lng": 78.0448361
+                    },
+                    "southwest": {
+                        "lat": 27.17344757010727,
+                        "lng": 78.04105449999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lakshya Electrical",
+            "place_id": "ChIJg1YbHyBxdDkRAAAAMNfN2yg",
+            "plus_code": {
+                "compound_code": "52GR+3V Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 0,
+            "reference": "ChIJg1YbHyBxdDkRAAAAMNfN2yg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "01 Kana Market, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1614105,
+                    "lng": 77.9841339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16277422989272,
+                        "lng": 77.98541217989272
+                    },
+                    "southwest": {
+                        "lat": 27.16007457010728,
+                        "lng": 77.98271252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Riya Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJFR3Iv_p2dDkREEcSdSOOfio",
+            "rating": 0,
+            "reference": "ChIJFR3Iv_p2dDkREEcSdSOOfio",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5X6M+HJ9, Kushwah Complex Kheriya Mode, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1351322,
+                    "lng": 78.0165353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13648347989272,
+                        "lng": 78.01788537989272
+                    },
+                    "southwest": {
+                        "lat": 27.13378382010728,
+                        "lng": 78.01518572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Om Sai Ram Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJx0XWX6x2dDkRSEFtkW2R4_U",
+            "plus_code": {
+                "compound_code": "42P8+3J Agra, Uttar Pradesh",
+                "global_code": "7JVW42P8+3J"
+            },
+            "rating": 0,
+            "reference": "ChIJx0XWX6x2dDkRSEFtkW2R4_U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "movie_rental",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 1,2, Deori Rd, Tundpura, Gopal Pura, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1352248,
+                    "lng": 78.04070639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13653882989272,
+                        "lng": 78.04202842989271
+                    },
+                    "southwest": {
+                        "lat": 27.13383917010728,
+                        "lng": 78.03932877010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rashmi Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108806550792346375608\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiHKG25qhOoSrZ4f7df04jFAlNOYfbpCGVQ2m147JHJKzi793a02MVPl0S9ZJ37EZCGyZsEJgM_ObAsY-7_fqQh4Kf0DUpt0c1iyZkIajqfV92IsUrTjfqzlz7BtOAdKKAkK7HDe9k1NQFNgI6-diPnrCoD2KG0Lj5oqeCEkMTomD6X",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJpzvR7-9xdDkR1JuILFjOYeE",
+            "plus_code": {
+                "compound_code": "42PR+37 Agra, Uttar Pradesh",
+                "global_code": "7JVW42PR+37"
+            },
+            "rating": 4.9,
+            "reference": "ChIJpzvR7-9xdDkR1JuILFjOYeE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "Kaharai Mod, Mauja ukkhra, Shamsabaad road, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.173003,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419937989272,
+                        "lng": 78.04163714999999
+                    },
+                    "southwest": {
+                        "lat": 27.17149972010728,
+                        "lng": 78.03789655
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "YASH ELETRICALS & ELECTRONIC",
+            "place_id": "ChIJt_bg0gdxdDkRnLbnXeo1hsI",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJt_bg0gdxdDkRnLbnXeo1hsI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "AVATAR NAGAR, Bhadesi Rd, Dharmapuri, Forest Colony, Tajganj, Aligarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1705927,
+                    "lng": 77.9842457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17192192989272,
+                        "lng": 77.98555947989271
+                    },
+                    "southwest": {
+                        "lat": 27.16922227010728,
+                        "lng": 77.98285982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arora Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115968196920157104497\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRicHt7_aCIxWYaf1C0Gfcs759bflkM29ubedqHvGGQRMwmnyc3WwvcUt_xA1oxvoovX_sixVRZmhgQ7WGRJihD4IJZfxRe2LCmw-cVyftw-mhKCIc_2Uh2hkpI_TUQIbHDRBkJw5fZFMn3mytDGrvEbRieGNpEcZ_WrmNFxgSAsrma6",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJH6e6RP12dDkRKMHeAe0Vqqs",
+            "plus_code": {
+                "compound_code": "5XCM+7P Agra, Uttar Pradesh",
+                "global_code": "7JVV5XCM+7P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJH6e6RP12dDkRKMHeAe0Vqqs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Shop No.51/10C/1B/B, Tantpur Rd, Arjun Nagar Crossing, East Arjun Nagar, Arjun Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1280318,
+                    "lng": 78.0549751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.12941447989272,
+                        "lng": 78.05638212989273
+                    },
+                    "southwest": {
+                        "lat": 27.12671482010727,
+                        "lng": 78.05368247010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aaditya Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJYR7ldNdzdDkRqu7aJyKaSmw",
+            "rating": 0,
+            "reference": "ChIJYR7ldNdzdDkRqu7aJyKaSmw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "43H4+62C, Samshabad Road, Barauli Aheer, Vishwakarmapuram Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1930285,
+                    "lng": 78.0231115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19437907989272,
+                        "lng": 78.02446202989273
+                    },
+                    "southwest": {
+                        "lat": 27.19167942010728,
+                        "lng": 78.02176237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "shivam traders",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJwdk1zIlxdDkRClG24HONWdc",
+            "plus_code": {
+                "compound_code": "52VF+66 Agra, Uttar Pradesh",
+                "global_code": "7JVW52VF+66"
+            },
+            "rating": 0,
+            "reference": "ChIJwdk1zIlxdDkRClG24HONWdc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1 tikoniya, Belanganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1751488,
+                    "lng": 78.042144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17614882989272,
+                        "lng": 78.0448367
+                    },
+                    "southwest": {
+                        "lat": 27.17344917010728,
+                        "lng": 78.0410543
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Piyush Shankhwar",
+            "place_id": "ChIJda4cHyBxdDkRAAAAMA8k0n0",
+            "plus_code": {
+                "compound_code": "52GR+3V Agra, Uttar Pradesh",
+                "global_code": "7JVW52GR+3V"
+            },
+            "rating": 5,
+            "reference": "ChIJda4cHyBxdDkRAAAAMA8k0n0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "1 Tapa Paith"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1621913,
+                    "lng": 78.0547611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16353402989272,
+                        "lng": 78.05614437989273
+                    },
+                    "southwest": {
+                        "lat": 27.16083437010728,
+                        "lng": 78.05344472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gayatri Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJc9aqJA5xdDkRZsW3ze_U7Ms",
+            "plus_code": {
+                "compound_code": "5363+VW Basai, Uttar Pradesh",
+                "global_code": "7JVW5363+VW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJc9aqJA5xdDkRZsW3ze_U7Ms",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Unnamed Road, Taj Nagari Phase 1, Telipara, Tajganj, Basai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1407226,
+                    "lng": 78.0309541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14208487989272,
+                        "lng": 78.03225557989272
+                    },
+                    "southwest": {
+                        "lat": 27.13938522010728,
+                        "lng": 78.02955592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maa Vaishno Electronic",
+            "place_id": "ChIJG3sydFxxdDkRqx_kUmGiNWo",
+            "plus_code": {
+                "compound_code": "42RJ+79 Agra, Uttar Pradesh",
+                "global_code": "7JVW42RJ+79"
+            },
+            "rating": 0,
+            "reference": "ChIJG3sydFxxdDkRqx_kUmGiNWo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sainik Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1505429,
+                    "lng": 77.97903989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15182322989272,
+                        "lng": 77.98033852989272
+                    },
+                    "southwest": {
+                        "lat": 27.14912357010727,
+                        "lng": 77.97763887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R. V Electronic",
+            "place_id": "ChIJD02ZNsJ3dDkRilNwjp7rdQg",
+            "plus_code": {
+                "compound_code": "5X2H+6J Agra, Uttar Pradesh",
+                "global_code": "7JVV5X2H+6J"
+            },
+            "rating": 0,
+            "reference": "ChIJD02ZNsJ3dDkRilNwjp7rdQg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jagner Road, Naripura, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1374202,
+                    "lng": 77.9657699
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13877002989272,
+                        "lng": 77.96711972989273
+                    },
+                    "southwest": {
+                        "lat": 27.13607037010728,
+                        "lng": 77.96442007010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\ud835\udde0\ud835\uddee\ud835\uddee \ud835\uddd5\ud835\uddf5\ud835\uddee\ud835\ude03\ud835\uddee\ud835\uddfb\ud835\uddf6 \ud835\uddd8\ud835\uddf9\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\uddf0 \ud835\uddd6\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff",
+            "place_id": "ChIJHypzH7N3dDkRIEh_LYLa6T4",
+            "rating": 0,
+            "reference": "ChIJHypzH7N3dDkRIEh_LYLa6T4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4XP8+X86, Jagner Rd, Nagla, Kishan Garh, Agra"
+        }
+    ],
+    "status": "OK"
+}

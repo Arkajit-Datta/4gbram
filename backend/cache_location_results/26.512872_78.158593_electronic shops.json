@@ -1,0 +1,695 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.482658,
+                    "lng": 78.2558597
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.48402222989272,
+                        "lng": 78.25722632989272
+                    },
+                    "southwest": {
+                        "lat": 26.48132257010727,
+                        "lng": 78.25452667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u092e\u0939\u093e\u0915\u093e\u0932 \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0915\u0932",
+            "place_id": "ChIJd_43d3q9djkRyBs0c-KmlgE",
+            "rating": 0,
+            "reference": "ChIJd_43d3q9djkRyBs0c-KmlgE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F7M4+389, Bara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.59403,
+                    "lng": 78.0823084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.59566712989272,
+                        "lng": 78.08380682989272
+                    },
+                    "southwest": {
+                        "lat": 26.59296747010728,
+                        "lng": 78.08110717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AKASH ELECTRICAL SHOP",
+            "place_id": "ChIJD_O8mQ6pdjkRHhxe3ToM5_Y",
+            "rating": 0,
+            "reference": "ChIJD_O8mQ6pdjkRHhxe3ToM5_Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H3VJ+JW7, Kurwai, Baretha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5643167,
+                    "lng": 78.2093817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56565607989272,
+                        "lng": 78.2107220798927
+                    },
+                    "southwest": {
+                        "lat": 26.56295642010727,
+                        "lng": 78.20802242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A2Z electronic and furniture",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2210,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109067221185097253902\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-gKf03YTsD8xS8BDx4PL_HFc2viXCvpBNjZ09oN2SgxBgoJvfBVMNCU-r1VW2H23ZZWQ4GtM959ykmz3C3cbsFWoECx_EXEFgRaV63AWO3j-p6mRBgm8PNp7oHRhmsDXvIOslD75O0n6HX_Hg4dcC_4SeNqDsJThTyGu1NoZS8y1g",
+                    "width": 1020
+                }
+            ],
+            "place_id": "ChIJdwnlGvOjdjkRJ9nE-6OBftc",
+            "plus_code": {
+                "compound_code": "H675+PQ Khadiyahar, Madhya Pradesh",
+                "global_code": "7JRWH675+PQ"
+            },
+            "rating": 5,
+            "reference": "ChIJdwnlGvOjdjkRJ9nE-6OBftc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Main Rd, Khadiyahar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5954306,
+                    "lng": 78.0776705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.59677102989273,
+                        "lng": 78.07899042989271
+                    },
+                    "southwest": {
+                        "lat": 26.59407137010728,
+                        "lng": 78.07629077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rampratap parmar",
+            "place_id": "ChIJV2uY3MapdjkRfLzNXy0qs0w",
+            "rating": 0,
+            "reference": "ChIJV2uY3MapdjkRfLzNXy0qs0w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H3WH+53G, Baretha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5496815,
+                    "lng": 78.093071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55090577989272,
+                        "lng": 78.09456952989272
+                    },
+                    "southwest": {
+                        "lat": 26.54820612010728,
+                        "lng": 78.09186987010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DINESH ELECTRICALS",
+            "place_id": "ChIJ5ZJA922vdjkRWK85rh_H4zo",
+            "plus_code": {
+                "compound_code": "G3XV+V6 Kheda Mewda, Madhya Pradesh",
+                "global_code": "7JRWG3XV+V6"
+            },
+            "rating": 0,
+            "reference": "ChIJ5ZJA922vdjkRWK85rh_H4zo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00 Kheda Mewada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5526872,
+                    "lng": 78.079925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55400212989272,
+                        "lng": 78.08131612989273
+                    },
+                    "southwest": {
+                        "lat": 26.55130247010727,
+                        "lng": 78.07861647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MIRZA FEBRICATION",
+            "place_id": "ChIJU0AJKjevdjkRBZZZu-Bgjmc",
+            "plus_code": {
+                "compound_code": "H33H+3X Kheda Mewda, Madhya Pradesh",
+                "global_code": "7JRWH33H+3X"
+            },
+            "rating": 0,
+            "reference": "ChIJU0AJKjevdjkRBZZZu-Bgjmc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ambah - Morena Rd, Kheda Mewda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4213345,
+                    "lng": 78.0560995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.42264102989272,
+                        "lng": 78.05737087989273
+                    },
+                    "southwest": {
+                        "lat": 26.41994137010728,
+                        "lng": 78.05467122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanvi Electronic",
+            "place_id": "ChIJtzppy1KxdjkRrv-bZ6tpGac",
+            "plus_code": {
+                "compound_code": "C3C4+GC Morena, Madhya Pradesh",
+                "global_code": "7JRWC3C4+GC"
+            },
+            "rating": 0,
+            "reference": "ChIJtzppy1KxdjkRrv-bZ6tpGac",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00 A, B Road, Morena"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5610434,
+                    "lng": 78.0883842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56237887989272,
+                        "lng": 78.08975302989273
+                    },
+                    "southwest": {
+                        "lat": 26.55967922010728,
+                        "lng": 78.08705337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "deepak Online Center",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107947749726540009707\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhwahW_Z6guAtPJcMc122w2WfoqgJgQhIQSPcM_IxGYhQNlrodbDTSM-7iZnfAwG8WIvR5yLTc85Mqba9kDNLUSfxwqeBBX5ZRNfHfTY9BPzkunlCncchIL2ItPZnViooS8vlPGHbm31YpPT1vYkANXcPWwHvUORtBCR4lYgnw-BcaO",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJNyaXu7GvdjkR2srMID3ZvLo",
+            "plus_code": {
+                "compound_code": "H36Q+C9 Kheda Mewda, Madhya Pradesh",
+                "global_code": "7JRWH36Q+C9"
+            },
+            "rating": 0,
+            "reference": "ChIJNyaXu7GvdjkR2srMID3ZvLo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00 kheda Mevda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4660308,
+                    "lng": 78.1261356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.46741782989272,
+                        "lng": 78.12749722989273
+                    },
+                    "southwest": {
+                        "lat": 26.46471817010728,
+                        "lng": 78.12479757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "vidut SAB STESAN",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJexOHgVW7djkRsAPqpccc854",
+            "rating": 5,
+            "reference": "ChIJexOHgVW7djkRsAPqpccc854",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "F48G+CC8, Bichola"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5643861,
+                    "lng": 78.2085347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56566812989272,
+                        "lng": 78.20990117989271
+                    },
+                    "southwest": {
+                        "lat": 26.56296847010728,
+                        "lng": 78.20720152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "neha online workshop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109330590664474029098\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRggXpa7wJF8jYTdMKLMgj7mHzbWi5YaRxGGg6iPVVdTiVMnBCuUVgua_WbilZ2XTRoFT95psaJyae2_wx1armBGBX713Qs1BHRklpLFIDA0aFNkqaDV4HzIOUQxV9iNTNg74Yus0meExJZ06R_MPEDA_GszD6AvsIgleqHSCnfCK2rM",
+                    "width": 1968
+                }
+            ],
+            "place_id": "ChIJx2jwEWOjdjkRuL01LZ5O3R4",
+            "plus_code": {
+                "compound_code": "H675+QC Morena, Madhya Pradesh",
+                "global_code": "7JRWH675+QC"
+            },
+            "rating": 0,
+            "reference": "ChIJx2jwEWOjdjkRuL01LZ5O3R4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "neha online workshop, Morena"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5406886,
+                    "lng": 78.1432079
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.54203732989272,
+                        "lng": 78.1445618798927
+                    },
+                    "southwest": {
+                        "lat": 26.53933767010728,
+                        "lng": 78.14186222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dabbu lodhi",
+            "place_id": "ChIJ-ye-eU2ldjkRKDk9ICrnojk",
+            "rating": 3,
+            "reference": "ChIJ-ye-eU2ldjkRKDk9ICrnojk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "G4RV+77H, Tau Baba Road, Kalika Mata Mandir Land Mark, Dongarpur Lodha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5548968,
+                    "lng": 78.2050677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55624702989272,
+                        "lng": 78.20641292989272
+                    },
+                    "southwest": {
+                        "lat": 26.55354737010728,
+                        "lng": 78.20371327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shrinivas palac",
+            "place_id": "ChIJ7emaBJGjdjkRKc8PWCL10sY",
+            "rating": 0,
+            "reference": "ChIJ7emaBJGjdjkRKc8PWCL10sY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H634+X23, ShrinivasKhadiyahar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5431163,
+                    "lng": 78.0681385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.54435467989272,
+                        "lng": 78.06960432989273
+                    },
+                    "southwest": {
+                        "lat": 26.54165502010728,
+                        "lng": 78.06690467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bijli Ghar(Power House)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ7S0GIpavdjkR7VKaYIet3qc",
+            "rating": 0,
+            "reference": "ChIJ7S0GIpavdjkR7VKaYIet3qc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G3V9+67R, Jongali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5373298,
+                    "lng": 78.06216189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.53865682989272,
+                        "lng": 78.06359507989272
+                    },
+                    "southwest": {
+                        "lat": 26.53595717010728,
+                        "lng": 78.06089542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ajeet Yadav Electric Shop",
+            "place_id": "ChIJhb36hfWvdjkRW_am9DRYaVQ",
+            "plus_code": {
+                "compound_code": "G3P6+WV Morena, Madhya Pradesh",
+                "global_code": "7JRWG3P6+WV"
+            },
+            "rating": 0,
+            "reference": "ChIJhb36hfWvdjkRW_am9DRYaVQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "No.2, Ambah - Morena Rd, Morena"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4278713,
+                    "lng": 78.09563779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.42922492989272,
+                        "lng": 78.09696707989274
+                    },
+                    "southwest": {
+                        "lat": 26.42652527010728,
+                        "lng": 78.09426742010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Apni haveli",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105187486242981763107\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiunTz8HEqv8ABL9GgXQXinxq5h9mra4xjx7iZoxdixWDXFx3oo-6LfaAw9V7R3NyF5bJjHPGFP357AVC3J4zlGDmATgTIZpTFt9effD9mHtX4v9ZIz6BMXbOdVOA0XiQknsH5BWcUQ4gQHD8CnQtRu5r_rRn1fsKJ8MHfiN-N5EnYv",
+                    "width": 2256
+                }
+            ],
+            "place_id": "ChIJ1df6QgyxdjkRrkK9WJofQ2E",
+            "rating": 5,
+            "reference": "ChIJ1df6QgyxdjkRrkK9WJofQ2E",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "C3HW+572, Jainagar, Barenda"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 26.4826384,
+                    "lng": 78.25618460000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.48394142989272,
+                        "lng": 78.25747992989271
+                    },
+                    "southwest": {
+                        "lat": 26.48124177010728,
+                        "lng": 78.25478027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "lavi-avi electronics",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100266289231878047491\">Ankit S. Kaurav</a>"
+                    ],
+                    "photo_reference": "AcYSjRiphjwCEind12Zq6Me_9RRCE0-6dLHoRLcdktMcQLQS0FHLsiNmpR2HmfM2RM1dGsQq1BP-0ryA8xn416dal5HBoMm1rkYwGX3q712y8f40KJJjzi2zfp7WJae4VmiaSm8tydNhwoBC8tgtpgeO93UITByujZkYldOCBMKQ3J7njKKz",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJV5WdWCS9djkR9lZCTEb9D40",
+            "plus_code": {
+                "compound_code": "F7M4+3F Bara, Madhya Pradesh",
+                "global_code": "7JRWF7M4+3F"
+            },
+            "rating": 3.5,
+            "reference": "ChIJV5WdWCS9djkR9lZCTEb9D40",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Bara, 477117, Badi Gwaltoli Rd, Veer Savarkar Market, Indore"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 26.4922901,
+                    "lng": 78.1131746
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.49363892989272,
+                        "lng": 78.11454057989272
+                    },
+                    "southwest": {
+                        "lat": 26.49093927010728,
+                        "lng": 78.11184092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0915\u0941\u0924\u0941\u092c\u0941\u0926\u094d\u0926\u0940\u0928 \u092e\u093f\u0938\u094d\u0930\u0940",
+            "permanently_closed": true,
+            "place_id": "ChIJtRQuzTildjkRamuG3npeVqo",
+            "rating": 0,
+            "reference": "ChIJtRQuzTildjkRamuG3npeVqo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F4R7+W76, Kaji Basai"
+        }
+    ],
+    "status": "OK"
+}

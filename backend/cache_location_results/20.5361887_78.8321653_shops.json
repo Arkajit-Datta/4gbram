@@ -1,0 +1,800 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi8maGwS5MCQfuX5yOmQZ4YfohFVDx3sjGbYzn2s4K16RHK5DbvPa9eooV0j-sGQLSfWZVCfONAsb0PoiMMiiGO4gAQGNKyEeZFnYMQSbEKF0pOtn-Ywhf9n1N7dJy8_vyDxaYBjaZL0Z-2n6j_6cR6v71Ni7DTmffyLJo0CdUYmrJLKweiOdfkjH9GiKWcBV2QP4aYg-OdBOYPSWnWCWR1gI8JoI-pWZIZBFrRpuUKlUpm70ncSkZUcU1Oio1r2CMrSykcEZSumCRpNcB0Ooi-AAz3Zoa3zZAxY94Jt3ZoEg5ouiJoZTayoeoQs2QKuq-r0CZ2mC84qyJrYNN9d_eBHj5ObtrCxA4C2qkmpiFA5Dp9v7DpFmFgaRez0wf2P7czsHh6RwHTJml6XuLtSfUvGGacckUZZDPfspPix93sFW1VmzTWSA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5453291,
+                    "lng": 78.8359638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54668537989272,
+                        "lng": 78.83726532989272
+                    },
+                    "southwest": {
+                        "lat": 20.54398572010728,
+                        "lng": 78.83456567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Seema Shop",
+            "place_id": "ChIJSSH5keZ70zsR7JDUYeuYivg",
+            "plus_code": {
+                "compound_code": "GRWP+49 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRWP+49"
+            },
+            "rating": 0,
+            "reference": "ChIJSSH5keZ70zsR7JDUYeuYivg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna Road, Electronic Zone, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.6145368,
+                    "lng": 78.8324246
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.61613362989272,
+                        "lng": 78.83393122989271
+                    },
+                    "southwest": {
+                        "lat": 20.61343397010727,
+                        "lng": 78.83123157010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gautam Shop",
+            "place_id": "ChIJO4D1wyV70zsRTmZ_9hVBOyo",
+            "plus_code": {
+                "compound_code": "JR7J+RX Govindpur, Maharashtra",
+                "global_code": "7JGWJR7J+RX"
+            },
+            "rating": 5,
+            "reference": "ChIJO4D1wyV70zsRTmZ_9hVBOyo",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.5, Govindpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.551942,
+                    "lng": 78.8381169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55328362989272,
+                        "lng": 78.83946287989271
+                    },
+                    "southwest": {
+                        "lat": 20.55058397010728,
+                        "lng": 78.83676322010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vishal Shop",
+            "place_id": "ChIJsXAP9Wh70zsRWHlo_A7fM7c",
+            "plus_code": {
+                "compound_code": "HR2Q+Q6 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2Q+Q6"
+            },
+            "rating": 0,
+            "reference": "ChIJsXAP9Wh70zsRWHlo_A7fM7c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4 Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5067548,
+                    "lng": 78.7898068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.50811672989272,
+                        "lng": 78.79114942989273
+                    },
+                    "southwest": {
+                        "lat": 20.50541707010728,
+                        "lng": 78.78844977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shoppy",
+            "place_id": "ChIJSxi8eb9x0zsRMcd4t-8D0kw",
+            "rating": 0,
+            "reference": "ChIJSxi8eb9x0zsRMcd4t-8D0kw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GQ4Q+PWG, Kutki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5360563,
+                    "lng": 78.84765689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53748067989272,
+                        "lng": 78.84891592989273
+                    },
+                    "southwest": {
+                        "lat": 20.53478102010727,
+                        "lng": 78.84621627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dhyneshwari Shop",
+            "place_id": "ChIJyfUHE8pv0zsRSH_r0HCMwGs",
+            "plus_code": {
+                "compound_code": "GRPX+C3 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRPX+C3"
+            },
+            "rating": 0,
+            "reference": "ChIJyfUHE8pv0zsRSH_r0HCMwGs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dhantoli, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5538649,
+                    "lng": 78.8307808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55544162989272,
+                        "lng": 78.83247532989273
+                    },
+                    "southwest": {
+                        "lat": 20.55274197010728,
+                        "lng": 78.82977567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rajeshri Kirana Shop",
+            "place_id": "ChIJ6SgV6UJ70zsR41kRaU0GLLU",
+            "plus_code": {
+                "compound_code": "HR3J+G8 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR3J+G8"
+            },
+            "rating": 0,
+            "reference": "ChIJ6SgV6UJ70zsR41kRaU0GLLU",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2 Chepe Chowk, Tilak Ward, Wardha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5529115,
+                    "lng": 78.8458689
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55426457989272,
+                        "lng": 78.84721942989273
+                    },
+                    "southwest": {
+                        "lat": 20.55156492010727,
+                        "lng": 78.84451977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shahid Pan Shop",
+            "place_id": "ChIJIRYeadhl0zsRajn-xHL-SOM",
+            "plus_code": {
+                "compound_code": "HR3W+58 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR3W+58"
+            },
+            "rating": 0,
+            "reference": "ChIJIRYeadhl0zsRajn-xHL-SOM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dhantoli, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5306138,
+                    "lng": 78.7959623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53203147989272,
+                        "lng": 78.79671090000001
+                    },
+                    "southwest": {
+                        "lat": 20.52933182010728,
+                        "lng": 78.79371650000002
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sachin Needs Shop",
+            "place_id": "ChIJL0Tz2SRx0zsR_mdZ0mC-XLI",
+            "plus_code": {
+                "compound_code": "GQJW+69 Sonegaon, Maharashtra",
+                "global_code": "7JGWGQJW+69"
+            },
+            "rating": 0,
+            "reference": "ChIJL0Tz2SRx0zsR_mdZ0mC-XLI",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "172 Manish Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5252814,
+                    "lng": 78.8241068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.52683537989272,
+                        "lng": 78.82550392989272
+                    },
+                    "southwest": {
+                        "lat": 20.52413572010728,
+                        "lng": 78.82280427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "V D Shop",
+            "place_id": "ChIJxRsyjmxx0zsRif_B5VnbHj0",
+            "plus_code": {
+                "compound_code": "GRGF+4J Nandgaon, Maharashtra",
+                "global_code": "7JGWGRGF+4J"
+            },
+            "rating": 0,
+            "reference": "ChIJxRsyjmxx0zsRif_B5VnbHj0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5357272,
+                    "lng": 78.83361020000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53713557989272,
+                        "lng": 78.83496617989272
+                    },
+                    "southwest": {
+                        "lat": 20.53443592010728,
+                        "lng": 78.83226652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shonu Shop",
+            "place_id": "ChIJ40nGh65x0zsRyqeyueYx8y8",
+            "plus_code": {
+                "compound_code": "GRPM+7C Hinganghat, Maharashtra",
+                "global_code": "7JGWGRPM+7C"
+            },
+            "rating": 0,
+            "reference": "ChIJ40nGh65x0zsRyqeyueYx8y8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 7, Sayaji Nagar, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5517756,
+                    "lng": 78.8391493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55315967989272,
+                        "lng": 78.84050012989273
+                    },
+                    "southwest": {
+                        "lat": 20.55046002010728,
+                        "lng": 78.83780047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pan Shop",
+            "place_id": "ChIJx8wx_BJl0zsRGYo0ZzgdOtI",
+            "plus_code": {
+                "compound_code": "HR2Q+PM Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2Q+PM"
+            },
+            "rating": 0,
+            "reference": "ChIJx8wx_BJl0zsRGYo0ZzgdOtI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "13 Manish Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5531274,
+                    "lng": 78.8336412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55447712989272,
+                        "lng": 78.83496397989272
+                    },
+                    "southwest": {
+                        "lat": 20.55177747010728,
+                        "lng": 78.83226432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sanvi Cak Shop",
+            "place_id": "ChIJO4Xfjtt70zsRtvqS8VmmlAQ",
+            "plus_code": {
+                "compound_code": "HR3M+7F Hinganghat, Maharashtra",
+                "global_code": "7JGWHR3M+7F"
+            },
+            "rating": 0,
+            "reference": "ChIJO4Xfjtt70zsRtvqS8VmmlAQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5543234,
+                    "lng": 78.8528633
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55565287989272,
+                        "lng": 78.85420937989271
+                    },
+                    "southwest": {
+                        "lat": 20.55295322010728,
+                        "lng": 78.85150972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nisarg Super Shop",
+            "photos": [
+                {
+                    "height": 473,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112599091603756793189\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7GC00R6wE7cofsEQbv9He_g7lEvS1o0pBEGRHiCgN1A3q7wbnc2rYMDz0Vh7TbCtR8D6S5-gixHk0Igg09T9v4Wdg7mxuS61tMQD2odfJdU4Q9muJULdtQHJzLa-yUrdpiW78v_yMq8VIY4uFdZziYCpiTXSk84-N-VzX0gImekE",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJXQyT6j1l0zsRNL2rsEOaUlM",
+            "plus_code": {
+                "compound_code": "HV33+P4 Hinganghat, Maharashtra",
+                "global_code": "7JGWHV33+P4"
+            },
+            "rating": 5,
+            "reference": "ChIJXQyT6j1l0zsRNL2rsEOaUlM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Bidkar Ward, layout, Sant Tukdoji Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5484988,
+                    "lng": 78.84241879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54981962989272,
+                        "lng": 78.84388392989271
+                    },
+                    "southwest": {
+                        "lat": 20.54711997010728,
+                        "lng": 78.84118427010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Food wafers shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJq8UW-tBl0zsR300Xn4soQq4",
+            "plus_code": {
+                "compound_code": "GRXR+9X Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXR+9X"
+            },
+            "rating": 0,
+            "reference": "ChIJq8UW-tBl0zsR300Xn4soQq4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Tahsil ward. Hinganghat, near, Madha colony, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5475063,
+                    "lng": 78.83634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54890297989272,
+                        "lng": 78.83769597989271
+                    },
+                    "southwest": {
+                        "lat": 20.54620332010728,
+                        "lng": 78.83499632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sai Pan Shop",
+            "place_id": "ChIJRx6Hqw170zsR9xvmL5z8FWk",
+            "plus_code": {
+                "compound_code": "GRXP+2G Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXP+2G"
+            },
+            "rating": 0,
+            "reference": "ChIJRx6Hqw170zsR9xvmL5z8FWk",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4648002,
+                    "lng": 78.8390562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.46621742989272,
+                        "lng": 78.84041717989271
+                    },
+                    "southwest": {
+                        "lat": 20.46351777010728,
+                        "lng": 78.83771752010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mohan Pan Center And Kirana Store",
+            "place_id": "ChIJyUqhVRJv0zsRAVDk-now780",
+            "rating": 0,
+            "reference": "ChIJyUqhVRJv0zsRAVDk-now780",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FR7Q+WJF, Burkoni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.612084,
+                    "lng": 78.9275361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.61342432989272,
+                        "lng": 78.92889737989272
+                    },
+                    "southwest": {
+                        "lat": 20.61072467010728,
+                        "lng": 78.92619772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "SACHIN Shop",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104580266352083605092\">Aniruddha Ganguly</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXt464VJVgJrR-0yPYP5kS90soj5aIGIs2Gr7nnWlUdEds1uCt7f4ZRMFj5k73-UwRc8b9ARX6xloiz_o3JOwK8EHKs40XQbvXM_Dy2Ug2t3lUd2EfH58ITJf0C0ytsyEo2GzcuKqDGGH6F8L1kyufnMck3WE_SpZSFmpm-v9s8cZP",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJq24-9-Fl0zsRXJbLKjWK59I",
+            "plus_code": {
+                "compound_code": "JW6H+R2 Jamb, Maharashtra",
+                "global_code": "7JGWJW6H+R2"
+            },
+            "rating": 5,
+            "reference": "ChIJq24-9-Fl0zsRXJbLKjWK59I",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Nagpur Jamb Highway Jamb, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.491885,
+                    "lng": 78.86710389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.49320577989272,
+                        "lng": 78.86848637989272
+                    },
+                    "southwest": {
+                        "lat": 20.49050612010728,
+                        "lng": 78.86578672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pan Shop Hingana Rod",
+            "place_id": "ChIJ4ce1LTBv0zsRpOwKmCyc3Dw",
+            "plus_code": {
+                "compound_code": "FVR8+QR Waldhur, Maharashtra",
+                "global_code": "7JGWFVR8+QR"
+            },
+            "rating": 0,
+            "reference": "ChIJ4ce1LTBv0zsRpOwKmCyc3Dw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "01 01, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5420494,
+                    "lng": 78.7986981
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54338262989272,
+                        "lng": 78.80007012989272
+                    },
+                    "southwest": {
+                        "lat": 20.54068297010728,
+                        "lng": 78.79737047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Megha Pan Shop",
+            "place_id": "ChIJ-5xJXVF70zsRptk8W7Svl7g",
+            "plus_code": {
+                "compound_code": "GQRX+RF Hinganghat, Maharashtra",
+                "global_code": "7JGWGQRX+RF"
+            },
+            "rating": 2,
+            "reference": "ChIJ-5xJXVF70zsRptk8W7Svl7g",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 5 Wani, Road, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5569303,
+                    "lng": 78.8499411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55835807989272,
+                        "lng": 78.85128257989273
+                    },
+                    "southwest": {
+                        "lat": 20.55565842010728,
+                        "lng": 78.84858292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mamta Collection shop",
+            "place_id": "ChIJ5y_aObVl0zsR1aiGaYFHUr0",
+            "rating": 5,
+            "reference": "ChIJ5y_aObVl0zsR1aiGaYFHUr0",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HR4X+QXG, Sant Dhnyneshwar Ward, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

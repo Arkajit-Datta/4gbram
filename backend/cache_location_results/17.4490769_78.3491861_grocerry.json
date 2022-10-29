@@ -1,0 +1,919 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRih7zJ4YHNgSSz_-W_Y4HKtv20zApean2B-gKzVmPAcS5a2uHV6Fx7ZiEGZTMe9abFtVEaR-NjY-vk2sF9gtqRtmHL1As8JOvcPqsoc5RdNsDpmgz0VtZqQojs0fMnZg69yJGkNdDL_2re44OEBy58khCA4_U7aN6i5EzoJBusru4vbI_c135IrVGnbz_-Qa2G25xXUoaph0rAc4xh2WLHluy3Y9v0_e9sZWgBHzHvK-xJ0mWErCdbmvvQwjMtjTbbEr8BOZQx7htiuMnOxLhYS6Oea-RsCUlOz_hCJUa98GyKgSTTPo5EAOkjxBTSAQSqQ5fsaAiAggHmolwgeGqPBPT1Glqnn8UFs38IUrUdTjkVJxW94sXboQqxzc9eBu2-LQSLoOmg9E6epYUJAYgR4Bp0TBxleoJw1er7yQ9RnDn89jQhGbeH6PA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4109571,
+                    "lng": 78.39612369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41230967989272,
+                        "lng": 78.39746767989271
+                    },
+                    "southwest": {
+                        "lat": 17.40961002010728,
+                        "lng": 78.39476802010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ramesh Kirana General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 405,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107664325409471273815\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjACs8LX_2-kXVcjOQsapMDT_G3b6jU1d4hH5_nLgWi5oYgsgiQ6S-E_VOYCz7dhzwCvBGgBq-7fXHf5_iBeeRSKp4Fe3kN8XQPWSAGecVbnO1kifWChAEHppHiltviDdNCENy0y-lPjbcDzpkDrBTJCH8uKMJausGg8I9Pv_8BghuV",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ3e9j6u6XyzsRffo8Uv7lSlU",
+            "plus_code": {
+                "compound_code": "C96W+9C Hyderabad, Telangana",
+                "global_code": "7J9WC96W+9C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ3e9j6u6XyzsRffo8Uv7lSlU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "8-1-293/A/8, Dwaraka Nagar Colony, KLM Villa, Shaikpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.428658,
+                    "lng": 78.3264605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43001197989272,
+                        "lng": 78.32780647989271
+                    },
+                    "southwest": {
+                        "lat": 17.42731232010728,
+                        "lng": 78.32510682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Laxmi Kirana And General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJG1NJOGWTyzsRAAAA0N5B5kY",
+            "plus_code": {
+                "compound_code": "C8HG+FH Hyderabad, Telangana",
+                "global_code": "7J9WC8HG+FH"
+            },
+            "rating": 0,
+            "reference": "ChIJG1NJOGWTyzsRAAAA0N5B5kY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QCity Q City, Gowlidoddy, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4007316,
+                    "lng": 78.38361259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40207157989272,
+                        "lng": 78.38500977989271
+                    },
+                    "southwest": {
+                        "lat": 17.39937192010728,
+                        "lng": 78.38231012010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiva Durga Kirana General Store",
+            "place_id": "ChIJtX_h2h-UyzsRAAAAcNaxvE8",
+            "rating": 0,
+            "reference": "ChIJtX_h2h-UyzsRAAAAcNaxvE8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C92M+7CX, Secretariat Colony, Sri Ram Nagar Colony, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4076712,
+                    "lng": 78.3916984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40899152989272,
+                        "lng": 78.39304517989272
+                    },
+                    "southwest": {
+                        "lat": 17.40629187010727,
+                        "lng": 78.39034552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Durga Grocery Mart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJu84KTKSWyzsRDJzSfunjAGg",
+            "plus_code": {
+                "compound_code": "C95R+3M Hyderabad, Telangana",
+                "global_code": "7J9WC95R+3M"
+            },
+            "rating": 0,
+            "reference": "ChIJu84KTKSWyzsRDJzSfunjAGg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8-1-284/320, near Beemas, OU Colony, Shaikpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4386876,
+                    "lng": 78.2685113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44003562989272,
+                        "lng": 78.26985372989272
+                    },
+                    "southwest": {
+                        "lat": 17.43733597010728,
+                        "lng": 78.26715407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sithara Kirana Store",
+            "place_id": "ChIJUehjxtftyzsRHnvA7KyGIp0",
+            "plus_code": {
+                "compound_code": "C7Q9+FC Hyderabad, Telangana",
+                "global_code": "7J9WC7Q9+FC"
+            },
+            "rating": 0,
+            "reference": "ChIJUehjxtftyzsRHnvA7KyGIp0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near Birlla High School, Osman Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4518369,
+                    "lng": 78.36413739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45318857989272,
+                        "lng": 78.36547387989272
+                    },
+                    "southwest": {
+                        "lat": 17.45048892010728,
+                        "lng": 78.36277422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Sale Grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJIanSHceTyzsRA8uNor0Bk1g",
+            "plus_code": {
+                "compound_code": "F927+PM Gachibowli, Hyderabad, Telangana",
+                "global_code": "7J9WF927+PM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJIanSHceTyzsRA8uNor0Bk1g",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "6/134, Anjaiah Nagar, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4221956,
+                    "lng": 78.3473966
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42347497989272,
+                        "lng": 78.34871897989272
+                    },
+                    "southwest": {
+                        "lat": 17.42077532010727,
+                        "lng": 78.34601932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Heritage Fresh",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101650184791044729218\">Preksh Innovations 080-41149416</a>"
+                    ],
+                    "photo_reference": "AcYSjRiadDndKPNwZipYFDLAjADsv-a6p8j6EuVavVR2aJBOnuLrn1QIWHZm8BS5OIW-Eoj81Vhgsrj3Uvb-fDI9HAA3PqoPToKYuCbbYMK9k_V2ebcPDk3gaGCiqDHpspQn00u_wROjZFKC3SaTWlMklB5rMLk2XROcpBMdr25o0_0fxLBq",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJm9NbqIeTyzsRJBQvKhrjkkE",
+            "plus_code": {
+                "compound_code": "C8CW+VX Hyderabad, Telangana",
+                "global_code": "7J9WC8CW+VX"
+            },
+            "rating": 3.8,
+            "reference": "ChIJm9NbqIeTyzsRJBQvKhrjkkE",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 882,
+            "vicinity": "Gr.Floor, Sy.No.142, Nanakramguda, Serilingampally Opp. Trendset Towers Mandalam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3752701,
+                    "lng": 78.4192119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37660452989272,
+                        "lng": 78.42056827989272
+                    },
+                    "southwest": {
+                        "lat": 17.37390487010728,
+                        "lng": 78.41786862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "More Supermarket",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113789945378079485137\">Sai Ram</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9_kdQLlttuSzmtV432_f2BI5yJOkr6J4bLpeojjoKuOAOZDXcHjf1VDDEWiS-ExGD_uP6Afm6Rh_KxcekNPKLyXE_I3Nd9zh0vnOTaJI1M6zHJ7cuZr2O7DEtzN7_Ej6yXUsM5gd60blzrpw24QLGsZTi1ubg38jL8KJvMmJoga0m",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJSc7gIRBQphARvB4M9yj1Wf4",
+            "plus_code": {
+                "compound_code": "9CG9+4M Hyderabad, Telangana",
+                "global_code": "7J9W9CG9+4M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJSc7gIRBQphARvB4M9yj1Wf4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 957,
+            "vicinity": "9-1-43/17, Prashanth Nagar, Langar Houz, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4271191,
+                    "lng": 78.3269124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42844047989272,
+                        "lng": 78.32825392989271
+                    },
+                    "southwest": {
+                        "lat": 17.42574082010728,
+                        "lng": 78.32555427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Blessy kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJVaYZcuqTyzsRQen2cSgU7-s",
+            "plus_code": {
+                "compound_code": "C8GG+RQ Hyderabad, Telangana",
+                "global_code": "7J9WC8GG+RQ"
+            },
+            "rating": 5,
+            "reference": "ChIJVaYZcuqTyzsRQen2cSgU7-s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Gowlidoddy, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3844094,
+                    "lng": 78.4421783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38580542989272,
+                        "lng": 78.44354152989271
+                    },
+                    "southwest": {
+                        "lat": 17.38310577010728,
+                        "lng": 78.44084187010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Star General kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111387084189090655974\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOyyTCZ5-u1kC6ZfYv2svq5nnnsIFMl1FfsTpX_C6Z7QTXNTkFJy8x2bhnAKeOwNYUoghW1UIW2nCNKTURGp75ynN7t2quY88UZ19DUJsf8TMjbhYBOx2d4RLXIyClEvADKdIY_iAjAXfXh6kiMd90zJSrPljTLZ137iwDv3hRWEqY",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJhdoUBpCXyzsREFUTzkpDl20",
+            "plus_code": {
+                "compound_code": "9CMR+QV Hyderabad, Telangana",
+                "global_code": "7J9W9CMR+QV"
+            },
+            "rating": 5,
+            "reference": "ChIJhdoUBpCXyzsREFUTzkpDl20",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "12-2, 418/3/36, Viswas Nagar Colony, Priya Colony, Murad Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4395956,
+                    "lng": 78.4280859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44091067989272,
+                        "lng": 78.42943012989272
+                    },
+                    "southwest": {
+                        "lat": 17.43821102010727,
+                        "lng": 78.42673047010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hooriya Kirana And General Store",
+            "place_id": "ChIJpZWICyeRyzsRAAAAcPFCiHQ",
+            "plus_code": {
+                "compound_code": "CCQH+R6 Hyderabad, Telangana",
+                "global_code": "7J9WCCQH+R6"
+            },
+            "rating": 0,
+            "reference": "ChIJpZWICyeRyzsRAAAAcPFCiHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8-3-229/E/98, Yadagiri Nagar, Shaikpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.433604,
+                    "lng": 78.3149474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43483552989272,
+                        "lng": 78.31614937989274
+                    },
+                    "southwest": {
+                        "lat": 17.43213587010728,
+                        "lng": 78.31344972010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRI BALAJI KIRANA, GENERAL STORES & VEGETABLES",
+            "place_id": "ChIJHw9rQ4aTyzsR9Y42ChSvZyg",
+            "plus_code": {
+                "compound_code": "C8M7+CX Hyderabad, Telangana",
+                "global_code": "7J9WC8M7+CX"
+            },
+            "rating": 0,
+            "reference": "ChIJHw9rQ4aTyzsR9Y42ChSvZyg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "opp.to Monarch Twins Prestige towers (Software PG For Men and Women), Journalists Colony Phase 3, Phase 3, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.364949,
+                    "lng": 78.38456169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36629757989272,
+                        "lng": 78.38590952989271
+                    },
+                    "southwest": {
+                        "lat": 17.36359792010728,
+                        "lng": 78.38320987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GOLDY KIRANA STORE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJj4byddeXyzsR-DFD2WVbwBs",
+            "rating": 5,
+            "reference": "ChIJj4byddeXyzsR-DFD2WVbwBs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "997M+XRW, Madhavi Nagar, Hydershakote"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3975589,
+                    "lng": 78.3897944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39890737989272,
+                        "lng": 78.39115347989271
+                    },
+                    "southwest": {
+                        "lat": 17.39620772010728,
+                        "lng": 78.38845382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sainath kirana & General Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104861370586883191067\">Sainath Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRjj0_FYwusbrL448IpNRwrbqL3HsISNjOc8_ydcMw1lOZz-yitV8m_xlM0nWBwP3AiwsseAUe9E_7qAjznBFJYy2xbzzxVEiA1lCMBTUGpWQY-1ubmWxsynidcV_UobD6R23N7sW4Mnlekme779xnUpl_9Ct8dXZlbBCyUaqAuU-dWX",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJI3altJiWyzsRcNmG16vFxF8",
+            "plus_code": {
+                "compound_code": "99XQ+2W Hyderabad, Telangana",
+                "global_code": "7J9W99XQ+2W"
+            },
+            "rating": 5,
+            "reference": "ChIJI3altJiWyzsRcNmG16vFxF8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "4-3-0332, Friends Colony, Puppal Guda, Qutub Shahi Tombs, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3892913,
+                    "lng": 78.37018979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39061147989272,
+                        "lng": 78.37153497989273
+                    },
+                    "southwest": {
+                        "lat": 17.38791182010728,
+                        "lng": 78.36883532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "TTR GROCERIES",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ0eqlm2WVyzsRP1IOtz86cWE",
+            "rating": 0,
+            "reference": "ChIJ0eqlm2WVyzsRP1IOtz86cWE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "99QC+P38, Alkapur Main Rd, Huda, Alkapur Twp, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4071462,
+                    "lng": 78.37964939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40854172989272,
+                        "lng": 78.38104667989272
+                    },
+                    "southwest": {
+                        "lat": 17.40584207010728,
+                        "lng": 78.37834702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mahadev Kirana And General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104718491503389874668\">Prasad Pln</a>"
+                    ],
+                    "photo_reference": "AcYSjRgkgJ__cRFyYflQK3S1FAXR0e4aTz-v2uwYptuP-mtNVfoqti0MZGYSyT7wcS7Bqf8prScey-wyjMpsVJUVMmnJgN3SRxJ9ePjNSnuRHlt2wJwNKE3dRfbUXG5NjtKXUUOvnu2SbaaLdewu4RYIYOdY5qk4IA-UnxIhCrpfW25oSWo",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJi3i7YRyUyzsRIqxPv3BDsmw",
+            "plus_code": {
+                "compound_code": "C94H+RV Manikonda Jagir, Telangana",
+                "global_code": "7J9WC94H+RV"
+            },
+            "rating": 4,
+            "reference": "ChIJi3i7YRyUyzsRIqxPv3BDsmw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Lanco Hills Rd, opposite Shivalayam, Shivapuri Colony, Hanuman Nagar, Shirdi Sai Nagar, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3837373,
+                    "lng": 78.335529
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38507432989272,
+                        "lng": 78.33682932989272
+                    },
+                    "southwest": {
+                        "lat": 17.38237467010727,
+                        "lng": 78.33412967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Fww Groceries store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJm9m1enqVyzsRjkpOUJOsZFM",
+            "plus_code": {
+                "compound_code": "98MP+F6 Gandipet, Telangana",
+                "global_code": "7J9W98MP+F6"
+            },
+            "rating": 5,
+            "reference": "ChIJm9m1enqVyzsRjkpOUJOsZFM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Whistling enclave, Narsingi, Gandipet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3910048,
+                    "lng": 78.3438626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39240802989272,
+                        "lng": 78.34530712989272
+                    },
+                    "southwest": {
+                        "lat": 17.38970837010728,
+                        "lng": 78.34260747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Heritage Fresh",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117107738259910005640\">Ashay Shukla</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1H9QW9yC605hHb3hYQjo4UvNSZ0b2RBbs3FuK0fCoTaSvebAZhRnXJoq4kjd8gR0QWOsnIcOqaAghXJXtu2_kamd6QNSZaGhXz93l6REGTKYeeLAkEI2Zw0G4IBae1onD2jAW3mB1hYQmISEV7mQDWJgJq_PipjcGqM8leAB7Yc5C",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJAQAAH1yUyzsR95607uzlXZg",
+            "plus_code": {
+                "compound_code": "98RV+CG Hyderabad, Telangana",
+                "global_code": "7J9W98RV+CG"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJAQAAH1yUyzsR95607uzlXZg",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1514,
+            "vicinity": "Ground Floor,Survey No.131,164,165 & 168, Narsingi Village & Gram Panchyat, RajendraNagar Mandal, Ranga Reddy, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.399174,
+                    "lng": 78.4082782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40052132989273,
+                        "lng": 78.40968792989271
+                    },
+                    "southwest": {
+                        "lat": 17.39782167010728,
+                        "lng": 78.40698827010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Azhar Kirana and General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJaZK-veqWyzsR4oBAE6YoSFc",
+            "plus_code": {
+                "compound_code": "9CX5+M8 Hyderabad, Telangana",
+                "global_code": "7J9W9CX5+M8"
+            },
+            "rating": 3.3,
+            "reference": "ChIJaZK-veqWyzsR4oBAE6YoSFc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "9-4-137/51, 7 Tombs Rd, Jamali Kunta, Jhansi Nagar Colony, Hans Nagar Colony, Toli Chowki, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4196879,
+                    "lng": 78.3523324
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42111237989272,
+                        "lng": 78.35370342989272
+                    },
+                    "southwest": {
+                        "lat": 17.41841272010728,
+                        "lng": 78.35100377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jai Mataji Kirana and General store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJIRpUkiqTyzsRXRapbxCt0ac",
+            "plus_code": {
+                "compound_code": "C992+VW Nanakaramguda, Telangana",
+                "global_code": "7J9WC992+VW"
+            },
+            "rating": 4,
+            "reference": "ChIJIRpUkiqTyzsRXRapbxCt0ac",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2-40, Nanakaramguda"
+        }
+    ],
+    "status": "OK"
+}

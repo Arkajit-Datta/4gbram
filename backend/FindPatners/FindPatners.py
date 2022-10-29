@@ -27,7 +27,7 @@ class FindPatners:
             result_in_string = result[0][4]
             return json.loads(result_in_string)
         return False
-    
+
     def _get_route(self) -> dict:
         result = self._get_cached_route()
         if not result:
@@ -38,7 +38,7 @@ class FindPatners:
         return result, True
     
     def _read_config(self):
-        path = f"{PROJ_FILE}/FindPatners/config.json"
+        path = f"{PROJ_FILE}/FindPatners/patners.json"
         with open(path, "rb") as f:
             return json.load(f)
     
@@ -151,7 +151,6 @@ class FindPatners:
         x, y = location
         total_filtered_results = []
         for keyword in keywords:
-            filtered_results = []
             # implementing caching
             results = self._get_cache_result(
                 location=location, keyword=keyword)
@@ -160,7 +159,12 @@ class FindPatners:
                 url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={x}%2C{y}&radius={self.config['radius']}&type=&keyword={keyword}&key=AIzaSyBRCBv1g2bhMCxviR1JYWYicWIfHyQMVCQ"
                 response = requests.request("GET", url, headers={}, data={})
                 results = response.json()
-                print(results)
+                for idx in range(len(results["results"])):
+                    dict_temp = results["results"][idx]
+                    if 'rating' in dict_temp:
+                        continue   
+                    results["results"][idx]["rating"] = 0
+                # print(results)
                 filename_to_save = self._save_in_cache(
                     results=results, location=location, keyword=keyword
                 )
@@ -170,25 +174,12 @@ class FindPatners:
                     keyword=keyword,
                     filename=filename_to_save,
                 )
+                
 
-            # filtering the results < 5000 m
-            for result in results["results"]:
-                if (
-                    int(
-                        self._distance(
-                            location,
-                            (
-                                result["geometry"]["location"]["lat"],
-                                result["geometry"]["location"]["lng"],
-                            ),
-                        )
-                    )
-                    < self.config["filteration_radius"]
-                ):
-                    filtered_results.append(result)
+            filtered_results = [result for result in results["results"] if (int(self._distance(location, (result["geometry"]["location"]["lat"], result["geometry"]["location"]["lng"],),)) < self.config["filteration_radius"])]
 
             total_filtered_results.extend(filtered_results)
-
+        total_filtered_results = sorted(total_filtered_results, key=lambda x: x["rating"], reverse=True)
         return total_filtered_results
     
     def _get_keywords(self) -> list:
@@ -207,7 +198,7 @@ class FindPatners:
             for our_patners in self.config["list_of_patners"]:
                 sim = jellyfish.jaro_similarity(data["name"], our_patners)
                 if sim > 0.8:
-                    finds.append((data["name"], data["geometry"]["location"]))
+                    finds.append((data["name"], data["geometry"]["location"], data["rating"]))
         return finds
     def get_place(self) -> list:
         final_res = [] # Final Result to be returned
@@ -217,8 +208,27 @@ class FindPatners:
             search_res = self.search(location=(storage[0],storage[1]), keywords=keywords)
             if res := self._find_patners_exist(search_res):
                 final_res.extend(res)
-        return final_res
+        final_res = sorted(final_res, key=lambda x: x[2],reverse=True)
+        return final_res[:3]
 
+
+class GetTurnings:
+    def __init__(self, start_latitude, start_longitude, dest_latitude, dest_longitude) -> None:
+        self.start_latitude = start_latitude
+        self.start_longitude = start_longitude
+        self.dest_latitude = dest_latitude
+        self.dest_longitude = dest_longitude
+        self._get()
+        
+    def _get(self) -> None:
+        url = f"https://maps.googleapis.com/maps/api/directions/json?origin={self.start_latitude}%2C{self.start_longitude}&destination={self.dest_latitude}%2C{self.dest_longitude}&key=AIzaSyBRCBv1g2bhMCxviR1JYWYicWIfHyQMVCQ"
+        response = requests.request("GET", url=url, headers={}, data={})
+        data = response.json()
+        number_of_turnings = len(data["routes"][0]["legs"][0]["steps"])
+        self.turnings = number_of_turnings
+        
 if __name__ == "__main__":
     obj = FindPatners(17.449146, 78.349206, 28.704400, 77.102500)
     print(obj.get_place())
+    # obj = GetTurnings(17.449146, 78.349206, 28.704400, 77.102500)
+    

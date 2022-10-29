@@ -1,0 +1,779 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjVEL01VvYe6FDVeGVnVecfdU0My3tCbH9doP554TMhQjLC_gUaass11dIv2LwXz1EIHhP5ml8uA03yGf5Gd6-Enfk2j--t9kWSv7a4B94EX6tGkAHL0uNmzJZyxrYn6GcqIn_gdtbwSFk23awxHqNnTbGQ4sDnXck7dszbXjsnltqvCG44n_RvrT04-61Nstxfrx74Dg-DT6YReqF6rNmfIkP07z1sDfhqFPRhSS70ETjAzIsJpzMYCaynlLqTTrX2NW6-KxHmIcyIt5cn2mioeCA1J7ywQNzj5Sbx6PdET4o449UefBLmWmdBucBDxsFJLdVlptXAXGyY9qZs6dHljjzN_Q4IuJVbsnI0G2YOzvIiVCbwoJOFTjFmgY9AbJcqNOQKqFx1PX8az7vLY67YQuJO650YB6Nir4U-BV86T2SnToQemg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5587723,
+                    "lng": 78.08819110000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56056737989272,
+                        "lng": 78.08899657989272
+                    },
+                    "southwest": {
+                        "lat": 26.55786772010727,
+                        "lng": 78.08629692010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirana Stor",
+            "place_id": "ChIJYY44MxSvdjkRv5woPu-sWK8",
+            "plus_code": {
+                "compound_code": "H35Q+G7 Nawali Badagaon, Madhya Pradesh",
+                "global_code": "7JRWH35Q+G7"
+            },
+            "rating": 0,
+            "reference": "ChIJYY44MxSvdjkRv5woPu-sWK8",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H4F7 FC, Nawali Badagaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5803189,
+                    "lng": 78.10961449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.58168817989272,
+                        "lng": 78.11099327989271
+                    },
+                    "southwest": {
+                        "lat": 26.57898852010728,
+                        "lng": 78.10829362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dharam Singh kirana store shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109602355232299941204\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiFP7tqrsiKQtFS3ONq9rmP8AYyPoxWU34l5e_tEoFTmJC3pxMBkAGeiDIH4o1x60i2lYua_7QSAYQMyvPMoIIwy5m0ABplHel10KLEckVeBgap04FDXFJWIXWdM5zxIVdzJS2rPuMFcqewl0krnxDrkAyeCZ6_Q1YpON6CXGEZuAC8",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJAYBRVKapdjkRUDfnl7KyeZ8",
+            "plus_code": {
+                "compound_code": "H4J5+4R Nawali Badagaon, Madhya Pradesh",
+                "global_code": "7JRWH4J5+4R"
+            },
+            "rating": 5,
+            "reference": "ChIJAYBRVKapdjkRUDfnl7KyeZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Ghusgava, Nawali Badagaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4667862,
+                    "lng": 78.1344802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.46813517989272,
+                        "lng": 78.13580662989271
+                    },
+                    "southwest": {
+                        "lat": 26.46543552010728,
+                        "lng": 78.13310697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ravi kirana store",
+            "place_id": "ChIJFWErTbS7djkRcg7Z_lzDjb0",
+            "rating": 0,
+            "reference": "ChIJFWErTbS7djkRcg7Z_lzDjb0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F48M+PQ8, Bichola"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4973328,
+                    "lng": 78.2150592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.49885997989272,
+                        "lng": 78.21811994999999
+                    },
+                    "southwest": {
+                        "lat": 26.49616032010728,
+                        "lng": 78.21403894999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prarthana Emporium",
+            "place_id": "ChIJLU2BC02jdjkRAAAAMOXgg0E",
+            "rating": 0,
+            "reference": "ChIJLU2BC02jdjkRAAAAMOXgg0E",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F6W8+W2M, M S Road Rathi Complex, Morena"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5169471,
+                    "lng": 78.1248166
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.51834702989272,
+                        "lng": 78.12617752989273
+                    },
+                    "southwest": {
+                        "lat": 26.51564737010727,
+                        "lng": 78.12347787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arun Rathor kirana stor",
+            "place_id": "ChIJOfBF4W2ldjkRgh1WlpALFNE",
+            "rating": 0,
+            "reference": "ChIJOfBF4W2ldjkRgh1WlpALFNE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Arun Rathor kirana store mata, Basaiya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5615021,
+                    "lng": 78.1640195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56285252989272,
+                        "lng": 78.16536662989272
+                    },
+                    "southwest": {
+                        "lat": 26.56015287010728,
+                        "lng": 78.16266697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Murari mahor kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJJ_cD8puldjkRoEViJsTZDvs",
+            "rating": 5,
+            "reference": "ChIJJ_cD8puldjkRoEViJsTZDvs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H567+WWQ, Ghurghan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5347831,
+                    "lng": 78.09975879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.53592152989272,
+                        "lng": 78.10104302989271
+                    },
+                    "southwest": {
+                        "lat": 26.53322187010728,
+                        "lng": 78.09834337010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dev kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ8TYxPuKvdjkRuH-vAuktVqE",
+            "rating": 0,
+            "reference": "ChIJ8TYxPuKvdjkRuH-vAuktVqE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G3MX+WW6, Raseelpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4858722,
+                    "lng": 78.2529834
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.48717987989272,
+                        "lng": 78.25430647989272
+                    },
+                    "southwest": {
+                        "lat": 26.48448022010728,
+                        "lng": 78.25160682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anand Kiran store barahed",
+            "place_id": "ChIJuTl5BPW9djkRH1Tb6k_4VY0",
+            "rating": 5,
+            "reference": "ChIJuTl5BPW9djkRH1Tb6k_4VY0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F7P3+95, Bara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5857402,
+                    "lng": 78.06061439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.58679192989272,
+                        "lng": 78.06227042989272
+                    },
+                    "southwest": {
+                        "lat": 26.58409227010728,
+                        "lng": 78.05957077010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sevaram kirana store",
+            "place_id": "ChIJk9px-wypdjkRs3xLevATT4Y",
+            "rating": 5,
+            "reference": "ChIJk9px-wypdjkRs3xLevATT4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H3P6+76X, Unnamed Road, Palpura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5510641,
+                    "lng": 78.0800961
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55240497989272,
+                        "lng": 78.08144922989271
+                    },
+                    "southwest": {
+                        "lat": 26.54970532010728,
+                        "lng": 78.07874957010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "All In One Kirana Store",
+            "place_id": "ChIJXUDEO12vdjkR6A9q5SUCDX0",
+            "plus_code": {
+                "compound_code": "H32J+C3 Jigni, Madhya Pradesh",
+                "global_code": "7JRWH32J+C3"
+            },
+            "rating": 0,
+            "reference": "ChIJXUDEO12vdjkR6A9q5SUCDX0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00, Jigni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5520857,
+                    "lng": 78.1706939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55321745,
+                        "lng": 78.17150267989273
+                    },
+                    "southwest": {
+                        "lat": 26.54869044999999,
+                        "lng": 78.16880302010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Murari mahor kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107914995425752119403\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRibozNiiLgTaOYjdw9Xmg6EUnKheOXiv7nL-3JLsX4ZZg6aLlv_a6L9PF8bYqCHdYv1gu1PMorqIJ5vN0Ic-GDtkHUZuijVVEwuGC9230N6xYYrQHWur_iXVmNctU00j7aOTF3hn0up47xKoCvk_JboM2_lGSqOUsuXXkCY_P4SKWZ3",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJmePDzo-ldjkRzkR5QatvdPc",
+            "rating": 0,
+            "reference": "ChIJmePDzo-ldjkRzkR5QatvdPc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H52C+R7P, Ghurghan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5870201,
+                    "lng": 78.0932364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.58831257989273,
+                        "lng": 78.09456952989272
+                    },
+                    "southwest": {
+                        "lat": 26.58561292010728,
+                        "lng": 78.09186987010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rohan kirana store",
+            "place_id": "ChIJvVZpx5ipdjkRJ0GVATBQBFE",
+            "rating": 1,
+            "reference": "ChIJvVZpx5ipdjkRJ0GVATBQBFE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H3PV+R79, Unnamed Road, Baretha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5515813,
+                    "lng": 78.07871349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55287932989272,
+                        "lng": 78.08012077989271
+                    },
+                    "southwest": {
+                        "lat": 26.55017967010728,
+                        "lng": 78.07742112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ashu kirana shop",
+            "place_id": "ChIJIUtZZo2vdjkRKJH8Q381bLc",
+            "rating": 5,
+            "reference": "ChIJIUtZZo2vdjkRKJH8Q381bLc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H32H+JFP, Jigni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4832423,
+                    "lng": 78.2551251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.48465477989271,
+                        "lng": 78.25652722989271
+                    },
+                    "southwest": {
+                        "lat": 26.48195512010727,
+                        "lng": 78.25382757010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "K.k. kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113463826323179885141\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh7qSAK0mLSjxAnVHmjnrYfyqOjd99ckqdSrtT3mmO5F4g9oQITVU3phn7QZ8l7A0vZkhl_Uok5PyYaQB7ORCgCxrvO65S7QT1hOs-VflGM_ltKSAD3-LT6PS2o198tyIaAeMnmbJBEUZhspEnj1e3Xh0GY4xrvsbqpe8dVsmHa9Oib",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJB8EPskq9djkR-VPUu9eZbec",
+            "plus_code": {
+                "compound_code": "F7M4+83 Bara, Madhya Pradesh",
+                "global_code": "7JRWF7M4+83"
+            },
+            "rating": 5,
+            "reference": "ChIJB8EPskq9djkR-VPUu9eZbec",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Barahed Rd, Barahed"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.601743,
+                    "lng": 78.2234071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.60307387989272,
+                        "lng": 78.22475037989273
+                    },
+                    "southwest": {
+                        "lat": 26.60037422010728,
+                        "lng": 78.22205072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tomar kirana store",
+            "place_id": "ChIJFbTE6iihdjkR4ir_SpMz4jk",
+            "rating": 5,
+            "reference": "ChIJFbTE6iihdjkR4ir_SpMz4jk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J62F+M9V, Katelapura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5400407,
+                    "lng": 78.18810739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.54147962989272,
+                        "lng": 78.18904447989271
+                    },
+                    "southwest": {
+                        "lat": 26.53877997010728,
+                        "lng": 78.18634482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yogendra Singh Kirana Store",
+            "place_id": "ChIJuy1J4gSldjkRpU0FGZ6Jet0",
+            "plus_code": {
+                "compound_code": "G5RQ+26 Morena, Madhya Pradesh",
+                "global_code": "7JRWG5RQ+26"
+            },
+            "rating": 0,
+            "reference": "ChIJuy1J4gSldjkRpU0FGZ6Jet0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Chhichhawali Morena Chhichhawali, Morena"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5518432,
+                    "lng": 78.0793011
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55321797989272,
+                        "lng": 78.08063142989273
+                    },
+                    "southwest": {
+                        "lat": 26.55051832010728,
+                        "lng": 78.07793177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DEEPAK KIRANA STORE",
+            "place_id": "ChIJO5Lw4MOvdjkR3nSjYf94yf0",
+            "plus_code": {
+                "compound_code": "H32H+PP Kheda Mewda, Madhya Pradesh",
+                "global_code": "7JRWH32H+PP"
+            },
+            "rating": 0,
+            "reference": "ChIJO5Lw4MOvdjkR3nSjYf94yf0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00, Ambah - Morena Rd, Kheda Mewda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5682284,
+                    "lng": 78.1722035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56960672989272,
+                        "lng": 78.17355382989273
+                    },
+                    "southwest": {
+                        "lat": 26.56690707010727,
+                        "lng": 78.17085417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sheetal tomar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJTUpF1QyldjkRZGLYS5gVFy8",
+            "rating": 5,
+            "reference": "ChIJTUpF1QyldjkRZGLYS5gVFy8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H59C+8VH, Unnamed Road, Mirghan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5485226,
+                    "lng": 78.09371709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55016527989272,
+                        "lng": 78.09472242989273
+                    },
+                    "southwest": {
+                        "lat": 26.54746562010728,
+                        "lng": 78.09202277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rathore canteen",
+            "place_id": "ChIJ-UWzPHavdjkR8arHRJ4iQQ4",
+            "rating": 0,
+            "reference": "ChIJ-UWzPHavdjkR8arHRJ4iQQ4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G3XV+CF4, Kheda Mewda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5678161,
+                    "lng": 78.1728688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56916727989272,
+                        "lng": 78.17421242989272
+                    },
+                    "southwest": {
+                        "lat": 26.56646762010727,
+                        "lng": 78.17151277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anjali kirana store Mirghan",
+            "place_id": "ChIJz7MBfCWldjkR5TqETFQ2ucg",
+            "rating": 3,
+            "reference": "ChIJz7MBfCWldjkR5TqETFQ2ucg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "H59F+45C, Mirghan chouraha, Mirghan"
+        }
+    ],
+    "status": "OK"
+}

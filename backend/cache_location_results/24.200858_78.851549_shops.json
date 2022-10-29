@@ -1,0 +1,804 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhYIk1WCQV6_982ZLXSddcYIr72R2wSE2YXQz8QV_2ONCtFjKpvn80zVDgRI3wDQpFDnn7_UTRDZTlLY9Tmduh9w3_fr3OUVXdK2ppPVcfAVC8ugckZT_jLLz8jTyWMDxPSgijJMzD37O4-IjclJSf8Zzm8VZoADPTWCf2xZioSoMPqQeytcfgFt-ewkpu9umO55zs2IRhGMtgL52DYjC04Fr9gPdHhx7lfAc3-zmxfXJICiK-y7hbmyQuhXDQ3Blz3dY57-ZQvGGIkJAfESv_bYb5c3GXx2VeZsLt2GPVEIYTiMRPsAW14JxC7Ta2j99Nx9xYw7knoBbgd6zk9vZBO6oMx-2hmFqPqcvm2YiQJQ2QJDsm-7WkFOoN-YpXq9COoCWHzKBbRk52E0l7sCKtXrUCjIT1QwU6mNf74H4Tb0Z6rpECAVw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2323754,
+                    "lng": 78.9481072
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.23373197989272,
+                        "lng": 78.94944677989271
+                    },
+                    "southwest": {
+                        "lat": 24.23103232010727,
+                        "lng": 78.94674712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ram kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3088,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117416504993751222214\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjhfat-vZR6O3CE41fVc_QhphHHWW1o9s_zx2_wNSk6_wUDvay1j6mBGLK9zCH5fCqEDGJupgph8Rnzuria-7O8go9wU8K28qdC7n2oGfUvq5xfoWDRg1ckeovTVuc-_EGUCeK_1LPTNvK-m6i7pDqE0pi29p2VUT2x7nImTO_KrkKI",
+                    "width": 3088
+                }
+            ],
+            "place_id": "ChIJKxt2uIPteDkRBX4jdtqOXAs",
+            "rating": 5,
+            "reference": "ChIJKxt2uIPteDkRBX4jdtqOXAs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6WJX+X7, Dhawara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2881584,
+                    "lng": 78.9340928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.28951002989272,
+                        "lng": 78.93543747989273
+                    },
+                    "southwest": {
+                        "lat": 24.28681037010728,
+                        "lng": 78.93273782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0906\u0938\u094d\u0925\u093e \u0936\u094d\u0930\u0902\u0917\u093e\u0930 \u0938\u0926\u0928 \u090f\u0902\u0921 \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0930",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108719735280211991125\">Akhilesh Namdev</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9U-1E6z-mG1XZj-LhEVQ9hVw_fq6dgRyQq2zVhS_xI2Dqo4HnotitlKWU--lA60aIrx3Xur-9Ye95cXi1thaCeaqpvjogZ4ul82EYOKPHKmCIM3CWZr0fG89gmuRGfdQPhiv4HHJciADS0YF8GVGrNHuSFd7vJrihd5q-dz-4TJ4m",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJDQ9M85XteDkRlzaDi-kPrcY",
+            "rating": 2,
+            "reference": "ChIJDQ9M85XteDkRlzaDi-kPrcY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7WQM+7J5, Barayatha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2909756,
+                    "lng": 78.936398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29231207989272,
+                        "lng": 78.93776317989271
+                    },
+                    "southwest": {
+                        "lat": 24.28961242010727,
+                        "lng": 78.93506352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u092a\u094d\u0930\u0940\u0924\u0947\u0936 \u091c\u0948\u0928 \u0915\u093f\u0930\u093e\u0928\u093e \u0926\u0941\u0915\u093e\u0928",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112761129268774268675\">Preetesh Jain</a>"
+                    ],
+                    "photo_reference": "AcYSjRiUxDX660B5ewBd-oTTOZUQeSEnQgZLZY8xKxKKQWNy9xLBsauiPASH-7o7iz1oPyey9ZEoI1H0K3v5uyddZltQX0Trbh-SbSwd34kqP20MS6AM3cauhSlZwoHIxY-HWnXF58NjtxVRdr8TVbDQBuZLqwYhJmf6ZhM2SemEme8-u64D",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJvZV9nebteDkRdBtkI8Q9ieM",
+            "rating": 4.3,
+            "reference": "ChIJvZV9nebteDkRdBtkI8Q9ieM",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "7WRP+9HR, Unnamed Road, Uttar Pradesh, Barayatha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.195829,
+                    "lng": 78.90952539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.19717822989272,
+                        "lng": 78.91086022989272
+                    },
+                    "southwest": {
+                        "lat": 24.19447857010728,
+                        "lng": 78.90816057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u092e\u0939\u093e\u0915\u093e\u0932 \u0915\u093f\u0930\u093e\u0928\u093e \u0938\u094d\u091f\u094b\u0930\u094d\u0938",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 689,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103303170889102295881\">Deepak Raikwar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXQIey019umK1r7SN1OjQboy3kEeZbs0cGXTVNZLWnPSjHYKWRtngZYJa0Vg44jsMWOSnaNu26_xHqcK3qb7krBjFeK_dR80gSNxm3mjpnxjkWeKET4ZXi88j593lhAMXvttSHzFeZ5k-l7XKUzOrCQRTmTynpGOnMe2VZ9cCJICkH",
+                    "width": 552
+                }
+            ],
+            "place_id": "ChIJYS_Ys1jpeDkR93AGrbuW1qM",
+            "rating": 2.8,
+            "reference": "ChIJYS_Ys1jpeDkR93AGrbuW1qM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "5WW5+8RF, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.197644,
+                    "lng": 78.908982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.19898642989272,
+                        "lng": 78.91032552989272
+                    },
+                    "southwest": {
+                        "lat": 24.19628677010728,
+                        "lng": 78.90762587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ankit Sahu",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 570,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101371315741603309944\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjCk3O7EdkLhac1Dp3HAXd4Jpm5oFfI-7B7LNZZs3xXcXdFRqdclab-LR8t0XK6x_4JW-GBQI425Wq4dtp003cWDij9-hxgERYHv6GlcCNtCFyKTIpy5-o8LA-GCUo2FvHE81K2IiwK3-bwQIz17xDL_5KXPxtQ4JikmqdLSfhxvmtY",
+                    "width": 570
+                }
+            ],
+            "place_id": "ChIJddYsi8XpeDkR35T5-yTEoEU",
+            "plus_code": {
+                "compound_code": "5WX5+3H Barethi, Madhya Pradesh",
+                "global_code": "7JPW5WX5+3H"
+            },
+            "rating": 0,
+            "reference": "ChIJddYsi8XpeDkR35T5-yTEoEU",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Unnamed Road, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2640738,
+                    "lng": 78.7788573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.26537152989273,
+                        "lng": 78.78030187989272
+                    },
+                    "southwest": {
+                        "lat": 24.26267187010728,
+                        "lng": 78.77760222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yadav kirana store pk raju",
+            "place_id": "ChIJ13AquNTleDkRW5gGzZvP8bc",
+            "rating": 4,
+            "reference": "ChIJ13AquNTleDkRW5gGzZvP8bc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7Q7H+JGP, Thangana"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1987492,
+                    "lng": 78.91016379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.20010157989272,
+                        "lng": 78.91156552989273
+                    },
+                    "southwest": {
+                        "lat": 24.19740192010728,
+                        "lng": 78.90886587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0938\u093e\u0939\u0942 \u0915\u093f\u0930\u093e\u0928\u093e \u0938\u094d\u091f\u094b\u0930 \u092c\u0930\u0947\u0920\u0940",
+            "place_id": "ChIJkTN9sZ7peDkRROflKchWtJY",
+            "rating": 0,
+            "reference": "ChIJkTN9sZ7peDkRROflKchWtJY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5WX6+F3V, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1291284,
+                    "lng": 78.87367189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.13048977989272,
+                        "lng": 78.87499907989272
+                    },
+                    "southwest": {
+                        "lat": 24.12779012010727,
+                        "lng": 78.87229942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0930\u093e\u0928\u0942 \u0932\u094b\u0927\u0940 \u0915\u093f\u0930\u093e\u0928\u093e \u0936\u0949\u092a",
+            "place_id": "ChIJN2J4Lt_peDkRb5foekR3gf0",
+            "rating": 0,
+            "reference": "ChIJN2J4Lt_peDkRb5foekR3gf0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4VHF+MF, Patan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1281699,
+                    "lng": 78.8716788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.12950742989272,
+                        "lng": 78.87304882989271
+                    },
+                    "southwest": {
+                        "lat": 24.12680777010728,
+                        "lng": 78.87034917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vishal kirana",
+            "place_id": "ChIJIWntm-zpeDkRLl96GFhjYx4",
+            "rating": 3,
+            "reference": "ChIJIWntm-zpeDkRLl96GFhjYx4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "4VHC+7M7, Unnamed Road, Patan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2928775,
+                    "lng": 78.8589298
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29429452989272,
+                        "lng": 78.86025097989271
+                    },
+                    "southwest": {
+                        "lat": 24.29159487010728,
+                        "lng": 78.85755132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bablu raikwar kirana store \ud83c\udfea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJxbapuefveDkRaG3_bXz_bWU",
+            "rating": 3.7,
+            "reference": "ChIJxbapuefveDkRaG3_bXz_bWU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "7VV5+5H3, Unnamed Road, Dhauri Sagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2887853,
+                    "lng": 78.934973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29014202989272,
+                        "lng": 78.93631212989273
+                    },
+                    "southwest": {
+                        "lat": 24.28744237010728,
+                        "lng": 78.93361247010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Baraytha diggi Jian gernal store",
+            "place_id": "ChIJja5U09_teDkRHldVgpwOvlo",
+            "rating": 0,
+            "reference": "ChIJja5U09_teDkRHldVgpwOvlo",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7WQM+GXP, Barayatha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1492421,
+                    "lng": 78.8849711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.15064227989272,
+                        "lng": 78.88632317989271
+                    },
+                    "southwest": {
+                        "lat": 24.14794262010728,
+                        "lng": 78.88362352010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Sandeep Lodhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJz5XhM0npeDkRlRLFp_4pyn4",
+            "rating": 4.3,
+            "reference": "ChIJz5XhM0npeDkRlRLFp_4pyn4",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "4VXM+QX, Dulona"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1267538,
+                    "lng": 78.8723053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.12812677989272,
+                        "lng": 78.87366547989272
+                    },
+                    "southwest": {
+                        "lat": 24.12542712010728,
+                        "lng": 78.87096582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u092c\u093e\u0932\u093e \u091c\u0940 \u0915\u093f\u0930\u093e\u0928\u093e \u092d\u0902\u0921\u093e\u0930",
+            "place_id": "ChIJaZd_w6PpeDkRFZJS1HHDLEQ",
+            "rating": 0,
+            "reference": "ChIJaZd_w6PpeDkRFZJS1HHDLEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4VGC+PW3, Unnamed Road, Patan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2829789,
+                    "lng": 78.9300617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.28443087989272,
+                        "lng": 78.93125967989272
+                    },
+                    "southwest": {
+                        "lat": 24.28173122010728,
+                        "lng": 78.92856002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aadinath kirana",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJiSm0hdfteDkR9BE12IMfx8U",
+            "rating": 0,
+            "reference": "ChIJiSm0hdfteDkR9BE12IMfx8U",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7WMJ+52V, New thana chouraha Baraytha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2909498,
+                    "lng": 78.933618
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29197007989272,
+                        "lng": 78.93519737989271
+                    },
+                    "southwest": {
+                        "lat": 24.28927042010728,
+                        "lng": 78.93249772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Balaji fulki senter",
+            "place_id": "ChIJGdSZzKHteDkRS6K8Mnx2ht0",
+            "plus_code": {
+                "compound_code": "7WRM+9C Barayatha, Madhya Pradesh",
+                "global_code": "7JPW7WRM+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJGdSZzKHteDkRS6K8Mnx2ht0",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "bus stand, Barayatha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2348137,
+                    "lng": 78.9469604
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.23626292989272,
+                        "lng": 78.94848632989272
+                    },
+                    "southwest": {
+                        "lat": 24.23356327010728,
+                        "lng": 78.94578667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ram kirana stor and Silai work Preeti yadav Dhawara",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102395277783791905601\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgx-bNCTWFOWY2me6Zs95Zh_y9KczfXbow8Bm1muTxCxMkyI8_0ihmPobv0PvG1FVUUDs0ddfXudXjp3rd2JNe4PI6_LLtjo06ic3VNkEN4fogH-OCavrl-tpXex4BLBh1KZiIDGDpNtFbLqsx-cE2GzWUOfHyKKKBz4Yvt7JrlBYus",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJh6cbi7nteDkRlVLOWVLcDHY",
+            "rating": 5,
+            "reference": "ChIJh6cbi7nteDkRlVLOWVLcDHY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "6WMW+WQ, Dhawara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1981896,
+                    "lng": 78.90936649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.19952057989272,
+                        "lng": 78.91074617989273
+                    },
+                    "southwest": {
+                        "lat": 24.19682092010728,
+                        "lng": 78.90804652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0909\u092e\u0947\u0936 \u0938\u093e\u0939\u0942",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJtXwImbTpeDkR9h0Ng7ifYcY",
+            "rating": 0,
+            "reference": "ChIJtXwImbTpeDkR9h0Ng7ifYcY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5WX5+2W9, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1391372,
+                    "lng": 78.9256582
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.14046882989272,
+                        "lng": 78.92695497989273
+                    },
+                    "southwest": {
+                        "lat": 24.13776917010728,
+                        "lng": 78.92425532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sandeep lodhi",
+            "place_id": "ChIJscXrpBfpeDkR7FvyFxYzibE",
+            "rating": 0,
+            "reference": "ChIJscXrpBfpeDkR7FvyFxYzibE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4WQG+M73, Bus estend, Gugra Khurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1989506,
+                    "lng": 78.91031430000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.20028672989272,
+                        "lng": 78.91166577989272
+                    },
+                    "southwest": {
+                        "lat": 24.19758707010728,
+                        "lng": 78.90896612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0927\u0930\u092e \u0915\u093f\u0930\u093e\u0928\u093e \u0926\u0941\u0915\u093e\u0928 \u092c\u0930\u0947\u0920\u0940",
+            "place_id": "ChIJA_CISMDpeDkRxn1gr0HG790",
+            "rating": 5,
+            "reference": "ChIJA_CISMDpeDkRxn1gr0HG790",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "5WX6+H4P, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1087493,
+                    "lng": 78.84876009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.11006982989272,
+                        "lng": 78.85010362989271
+                    },
+                    "southwest": {
+                        "lat": 24.10737017010728,
+                        "lng": 78.84740397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shubham janral store",
+            "place_id": "ChIJA5f_QpnDeDkRvP9JpHFuMoo",
+            "rating": 0,
+            "reference": "ChIJA5f_QpnDeDkRvP9JpHFuMoo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4R5X+FGR, Unnamed Road, Binaika"
+        }
+    ],
+    "status": "OK"
+}
