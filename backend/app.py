@@ -50,15 +50,38 @@ def commentry():
             }
         }
 
+@app.get('/goals')
+def goals():
+    return{
+        'status':200,
+        'result':
+        {
+            'goal1':0,
+            'goal2':1
+        }
+    }
+@app.get('/test')
+def test():
+    return{
+        'status':200,
+        'result':
+        [
+            {'name':'bot'},
+            {'name':'bot'},
+            {'name':'bot'},
+            {'name':'bot'},
+            {'name':'bot'}
+        ]
+    }
 
-def generate_job_id():
-    try:
-        logging.info("generating unique job id")
-        id = uuid.uuid4().hex
-        return id[::2][:10]
-    except Exception as e:
-        logging.error(e)
-        logging.error("error generating unique job_id")
+# def generate_job_id():
+#     try:
+#         logging.info("generating unique job id")
+#         id = uuid.uuid4().hex
+#         return id[::2][:10]
+#     except Exception as e:
+#         logging.error(e)
+#         logging.error("error generating unique job_id")
 
 
 if __name__ == "__main__":
