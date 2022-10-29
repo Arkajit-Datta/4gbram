@@ -24,7 +24,7 @@ const NavBar = () => {
                 <Link to="/rewards">
                     <div className="navbarItem">
                     {/* <img src={Music} alt="" /> */}
-                    Rewards
+                    Map
                     </div>
                 </Link>
                 <Link to="/profile">

@@ -1,0 +1,104 @@
+.white{
+    color: #fff;
+}
+
+input{
+    border-radius: 5px;
+    border: 0px;
+    padding: 6px;
+    margin-right: 16px;
+    background-color: rgba(255,255,255,0.15);
+    color: white;
+}
+
+label{
+    padding-right: 12px;
+}
+
+.inputFields{
+    padding:20px 10px;
+    margin:0 10px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    color: white;
+}
+
+.moodContainer{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
+.mapContainer{
+    width:90%;
+    height:75%;
+    margin: 0 20px;
+    background-color:red;
+    border-radius: 10px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+}
+
+.filter{
+    display:block;
+    color:#fff;
+}
+
+.flex0{
+    display: flex;
+    height: 100%;
+}
+.flex{
+    height: 100%;
+    width:50%;
+}
+
+ul{
+    display:flex;
+}
+
+
+li{
+    list-style: none;
+    margin: 18px 15px 18px 0;
+}
+
+li img{
+    width:30px;
+}
+
+.filter{
+    display: flex;
+    
+}
+
+select{
+    margin: 15px 0px 15px 20px;
+    width:200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.15);
+}
+
+input[type*='submit']{
+    width:100px;
+    height: 40px;
+    margin: 15px;
+}
+
+.iterItems{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+hr{
+    margin: 15px auto;
+    height: 0.3px;
+}

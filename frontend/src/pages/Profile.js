@@ -2,6 +2,8 @@ import React from 'react'
 import NavBar from './NavBar'
 import './../style/Profile.css'
 import { useHistory } from "react-router-dom";
+import './../style/Commentary.css'
+
 const Profile = () => {
     const history = useHistory();
     function changePage(s){
@@ -45,8 +47,10 @@ const Profile = () => {
                 </div>
             </div>
             
+        
             <NavBar />
         </div>
+        
     </>
   )
 }
