@@ -17,12 +17,9 @@ function App() {
             // <AnimatePresence exitBeforeEnter>
               <Switch>
                 <Route path="/" exact component={Home} />
-                {/* <Route path="/video" exact component={Video} /> */}
-
                 <Route path="/profile" exact component={Profile} />
                 <Route path="/commentary" exact component={Commentary} />
                 <Route path="/rewards" exact component={Rewards} />
-                {/* <Route path="/random" exact component={Random} /> */}
               </Switch>
             // </AnimatePresence>
           )}

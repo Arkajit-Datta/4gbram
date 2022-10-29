@@ -1,8 +1,13 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const Profile = () => {
   return (
-    <div>Profile</div>
+    <>
+        <div className='viewContainer'>
+            <NavBar />
+        </div>
+    </>
   )
 }
 

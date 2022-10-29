@@ -15,30 +15,30 @@ const NavBar = () => {
                     Home
                     </div>
                 </Link>
-                <Link to="/location">
+                <Link to="/commentary">
                     <div className="navbarItem">
                     {/* <img src={Location} alt="" /> */}
-                    Location
+                    commentary
                     </div>
                 </Link>
-                <Link to="/video">
+                <Link to="/rewards">
                     <div className="navbarItem">
                     {/* <img src={Music} alt="" /> */}
-                    Music
+                    rewards
                     </div>
                 </Link>
-                <Link to="/emotion">
+                <Link to="/profile">
                     <div className="navbarItem">
                     {/* <img src={Emotion} alt="" /> */}
-                    Emotion
+                    profile
                     </div>
                 </Link>
-                <Link to="/random">
+                {/* <Link to="/random">
                     <div className="navbarItem">
-                    {/* <img src={Random} alt="" /> */}
+                  
                     Random
                     </div>
-                </Link>
+                </Link> */}
             </div>
         </div>
     </>
