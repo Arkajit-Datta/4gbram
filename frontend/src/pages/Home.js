@@ -1,13 +1,15 @@
 import React from 'react'
 import './../style/Commentary.css'
-const Commentary = () => {
+import NavBar from './NavBar'
+
+const Home = () => {
   return (
     <>
         <div className='viewContainer'>
-            
+            <NavBar />
         </div>
     </>
   )
 }
 
-export default Commentary
+export default Home
