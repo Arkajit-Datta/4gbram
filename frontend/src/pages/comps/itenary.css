@@ -1,0 +1,46 @@
+.IternaryPreview{
+    width:270px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 14px;
+    margin-right: 14px;
+    background-color: #5f758e;
+    cursor: pointer;
+}
+
+h3{
+    /* padding:0px; */
+    padding: 10px 10px 0px 10px;
+}
+
+p{
+    font-size: 15px;
+    padding:5px 10px;
+}
+
+a{
+    font-size: 12px;
+    padding:0px;
+    margin: 0 10px;
+}
+
+.recommendations{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.recommendItems{cursor: pointer;
+    width:600px;
+    height: 700px;
+    background-color: rgba(255,255,255,0.2);
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 1fr 1fr 1fr !important;
+    border-radius: 5px;
+    font-size: 14px;
+    padding:5px 0 5px 20px;
+}
+
+.goals{
+    
+}
