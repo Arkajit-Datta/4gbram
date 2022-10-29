@@ -124,11 +124,11 @@ export default function Rewards() {
                                 <li style={{ backgroundColor: selectedEmotion == "neutral" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('neutral')}>
                                     <img src={Neutral} alt=""></img></li> */}
                             </ul>
-                            <select>
+                            {/* <select>
                                 <option>One</option>
                                 <option>Two</option>
                                 <option>Three</option>
-                            </select>
+                            </select> */}
                             <input type="submit" onClick={handleSubmit} />
                         </div>
                         <div className='itineries'>
