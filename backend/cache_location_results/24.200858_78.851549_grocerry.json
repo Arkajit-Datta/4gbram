@@ -1,0 +1,55 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2323754,
+                    "lng": 78.9481072
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.23373197989272,
+                        "lng": 78.94944677989271
+                    },
+                    "southwest": {
+                        "lat": 24.23103232010727,
+                        "lng": 78.94674712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ram kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3088,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117416504993751222214\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgiYgq2bYCyhstvJ5zDVxmlN3ZUV4SNhsjBnz8uJagscYYtuTADnZp-XiFfR97T6XROZ-j3qDqMEVu3aP7ZVPx5MtXGT8e7wX-ZJZbSlDNTbmqOlHMWe4as0ItzQxKQwzONXtTbPc0vIDejBdgjy9TCWMlVTaLxyO5A9vxo8C2ty8mJ",
+                    "width": 3088
+                }
+            ],
+            "place_id": "ChIJKxt2uIPteDkRBX4jdtqOXAs",
+            "rating": 5,
+            "reference": "ChIJKxt2uIPteDkRBX4jdtqOXAs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6WJX+X7, Dhawara"
+        }
+    ],
+    "status": "OK"
+}

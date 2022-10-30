@@ -1,0 +1,858 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhnWR87ry1-cUvozQMGNuaKe2uoTbzNeSkkKjrDaoQMXRFayWjOovvMdDKsSHrn7wbLcAZTJTzg43Uk77RyQyQgMNC9zL8i4PPxahlDQ7ZQspOen81_-gGkI6jNt9yUPKc-OAykb_-y7SqPe-Dvl6s1PAqBHSuq1PIW3tm7sdDWaola7SPZ5JPBQkm92BlLiBGxXqIZtf94GqsMY25Bb-kJwlhAXNdPIrUIPGgu-tFv8wsL_FNegI9A8Sqv6Ot60sTngTZKB2K7ViDOW7XKigKDxunsPuV4XKcoq4Ty5t9Vry2ZYGQjols2Hy6VCRpq5nPBTrdaUVDDa8Ydk-ZKWX73sfPGwNVSb6zyPFhp6u_X_NuZvLJIvLqe1zCnEQERr3mHjZgtHFgpLZzYn81JK9H9rZiUGeOcavKuhAhuKUROXHKRHdfWvdg7",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2208656,
+                    "lng": 78.06326109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22222087989272,
+                        "lng": 78.06461817989273
+                    },
+                    "southwest": {
+                        "lat": 27.21952122010727,
+                        "lng": 78.06191852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Shyam Ji Grocery Store",
+            "place_id": "ChIJm0Y0dMBxdDkR9WEROCvH92o",
+            "plus_code": {
+                "compound_code": "63C7+88 Agra, Uttar Pradesh",
+                "global_code": "7JVW63C7+88"
+            },
+            "rating": 0,
+            "reference": "ChIJm0Y0dMBxdDkR9WEROCvH92o",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HIG D-862, 100 Foot Road, Kalindi Vihar Rd, Naraich, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.173,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419647989272,
+                        "lng": 78.0416367
+                    },
+                    "southwest": {
+                        "lat": 27.17149682010728,
+                        "lng": 78.03789789999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Surendra Grocery Store",
+            "place_id": "ChIJiUneSz9xdDkRkXmC7ugD_Uw",
+            "rating": 0,
+            "reference": "ChIJiUneSz9xdDkRkXmC7ugD_Uw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "52FR+622, Main Market, Forest Colony, Mansarovar, Jaipur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2104052,
+                    "lng": 78.0228537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21175977989272,
+                        "lng": 78.02414322989272
+                    },
+                    "southwest": {
+                        "lat": 27.20906012010727,
+                        "lng": 78.02144357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "THE BEST CHOICE (Grocery)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 697,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110344645615034716385\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-ypGRnWfhbBZi_2ggRyV7OoQAIZuqIYXsrZvbn5sIZya8bFZySirMcUzO564IhDFzHZXL_Cme0oLWYLcpQEZn6yg1-Bd3KDmRa61UGc7XX6C3ZhQGBt2gtYakaxh_yT6wqZV4_PDqv_VNfw15TVLZVuZpoNVY-FcliMGKph41wNCB",
+                    "width": 1275
+                }
+            ],
+            "place_id": "ChIJaZmaO-RxdDkRuD2RJQC3k44",
+            "plus_code": {
+                "compound_code": "626F+54 Agra, Uttar Pradesh",
+                "global_code": "7JVW626F+54"
+            },
+            "rating": 4.8,
+            "reference": "ChIJaZmaO-RxdDkRuD2RJQC3k44",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "department_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 72,
+            "vicinity": "E 28, Pani Ki Tanki Rd, Professors Colony, Ghatwasan, Kamla Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1663787,
+                    "lng": 78.0425151
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16773427989272,
+                        "lng": 78.04391822989272
+                    },
+                    "southwest": {
+                        "lat": 27.16503462010727,
+                        "lng": 78.04121857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yadram grocery store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112459001626307266172\">Priyansh Kaushal</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsL1YBOLNI9bNikzyw7BeKizpAtoRtmwq6HNVtPiIS9tnYS5z3zUwxMLu-tFl3AyU3_uRd9gFj9syymm5ZzhzDVkyU_2tMkTqIJcfNFOgsnS2imIyqWSiLfrlGahsSgykegxoeQLPwKukoFcJ548EO-4iF4YhSIFNJ-ur3B3IycAGF",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJl2Vd4Q9xdDkRVvyXx3jSPOs",
+            "plus_code": {
+                "compound_code": "528V+H2 Agra, Uttar Pradesh",
+                "global_code": "7JVW528V+H2"
+            },
+            "rating": 4,
+            "reference": "ChIJl2Vd4Q9xdDkRVvyXx3jSPOs",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42,
+            "vicinity": "Navada bazar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1379085,
+                    "lng": 78.02042089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13925777989272,
+                        "lng": 78.02177617989273
+                    },
+                    "southwest": {
+                        "lat": 27.13655812010728,
+                        "lng": 78.01907652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gupta Grocery Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJpe1KxFJxdDkRE3biKKOEvhU",
+            "rating": 4.3,
+            "reference": "ChIJpe1KxFJxdDkRE3biKKOEvhU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "42QC+557, Madhuvan Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1619195,
+                    "lng": 78.0492661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16326652989272,
+                        "lng": 78.05061542989272
+                    },
+                    "southwest": {
+                        "lat": 27.16056687010728,
+                        "lng": 78.04791577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rakesh grocery store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJg__jQPdxdDkRyL8LjH2GTHI",
+            "rating": 4,
+            "reference": "ChIJg__jQPdxdDkRyL8LjH2GTHI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "526X+QP6, Unnamed Road, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1474258,
+                    "lng": 78.0529179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14867717989272,
+                        "lng": 78.05416812989272
+                    },
+                    "southwest": {
+                        "lat": 27.14597752010728,
+                        "lng": 78.05146847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Krishna grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108355412085135032186\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhRndU3se32oKa25jVIMA-5RWFQfkQeFptuKzsShOi62Y9A9kSTtYbCu7q7iCpiaz1bgMQZXgwIRVEyo1Wn4w5dIyp8HWEPCvwALjHFLY-I74O0A_i2TkHnCt4dxehbTKvDht1mPYxMiexVuSfyRMNEbBWQjrAT5iTxT5QyOTrAmEzl",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJw3Vs9yNxdDkR9L_rzLif9LI",
+            "plus_code": {
+                "compound_code": "43W3+X5 Agra, Uttar Pradesh",
+                "global_code": "7JVW43W3+X5"
+            },
+            "rating": 5,
+            "reference": "ChIJw3Vs9yNxdDkR9L_rzLif9LI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Panchwati Plaza, Kaveri Vihar Phase II, Shamsabad, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420107989273,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150142010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Madhav Store",
+            "place_id": "ChIJmUpDKHpxdDkR1NBRY_Gb73U",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJmUpDKHpxdDkR1NBRY_Gb73U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3, Dharmapuri, Forest Colony, Sikandra, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2011741,
+                    "lng": 78.038513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20252927989272,
+                        "lng": 78.03986932989272
+                    },
+                    "southwest": {
+                        "lat": 27.19982962010728,
+                        "lng": 78.03716967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Everyday store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118170047401720918174\">Sagar Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRhe7kIoBNs63-wb8RmjSM66R5nRNHzIaJ79tj3gpQKqZ64YYga22-IeqEBn68AOYjFVKlayUf4NawDioWIrEHb-egs7MD6E4qgYh1zyONyq0pY3mINUcKM9rKAUPW3-1aUmHPXKRBYQPC5p_FT1ljxb0ERfEZIdAVXkXDDNqUCLKbPr",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJ-VsgRRxxdDkRLwZB4LqVmOs",
+            "plus_code": {
+                "compound_code": "622Q+FC Agra, Uttar Pradesh",
+                "global_code": "7JVW622Q+FC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-VsgRRxxdDkRLwZB4LqVmOs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "11, 34, Rambagh, Sita Nagar, Katra Wazir Khan, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420107989273,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150142010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aapeshwar Provision Store",
+            "place_id": "ChIJRzLBgy1xdDkRr3FGn3R4Nvk",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 5,
+            "reference": "ChIJRzLBgy1xdDkRr3FGn3R4Nvk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 424, opp. Chirag Primary School, Dharmapuri, Forest Colony, Vasna, Ahmedabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.173,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419647989272,
+                        "lng": 78.0416367
+                    },
+                    "southwest": {
+                        "lat": 27.17149682010728,
+                        "lng": 78.03789789999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery",
+            "place_id": "ChIJwxhb9slxdDkRpxT2Wr60ETc",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJwxhb9slxdDkRpxT2Wr60ETc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 02, Dharmapuri, Forest Colony, Raj Nagar Extension, Ghaziabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730062,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420242989272,
+                        "lng": 78.04163765
+                    },
+                    "southwest": {
+                        "lat": 27.17150277010727,
+                        "lng": 78.03789505
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bharunath Kirana Store",
+            "place_id": "ChIJ5Qy0rJ9xdDkRsWSQ_eZUZUc",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJ5Qy0rJ9xdDkRsWSQ_eZUZUc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop Nomber 10 Kothri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2137312,
+                    "lng": 78.0623103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21503812989272,
+                        "lng": 78.06374067989273
+                    },
+                    "southwest": {
+                        "lat": 27.21233847010728,
+                        "lng": 78.06104102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Radhya store groceries",
+            "place_id": "ChIJowIkpPpxdDkRdENV9nlIdJc",
+            "plus_code": {
+                "compound_code": "6376+GW Agra, Uttar Pradesh",
+                "global_code": "7JVW6376+GW"
+            },
+            "rating": 5,
+            "reference": "ChIJowIkpPpxdDkRdENV9nlIdJc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Nagla Rambal, Kalindi Vihar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.03999999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420112989272,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150147010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sanjay Kumar",
+            "place_id": "ChIJTTUmrCFxdDkRAAAAMAEPT10",
+            "plus_code": {
+                "compound_code": "52FQ+6X Agra, Uttar Pradesh",
+                "global_code": "7JVW52FQ+6X"
+            },
+            "rating": 5,
+            "reference": "ChIJTTUmrCFxdDkRAAAAMAEPT10",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1407175,
+                    "lng": 78.0309541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14207997989272,
+                        "lng": 78.03225477989272
+                    },
+                    "southwest": {
+                        "lat": 27.13938032010728,
+                        "lng": 78.02955512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kushwah Kirana Store",
+            "place_id": "ChIJc-J1V1VxdDkRJ5IE6kAaOz0",
+            "plus_code": {
+                "compound_code": "42RJ+79 Agra, Uttar Pradesh",
+                "global_code": "7JVW42RJ+79"
+            },
+            "rating": 0,
+            "reference": "ChIJc-J1V1VxdDkRJ5IE6kAaOz0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sainik Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2127416,
+                    "lng": 78.0460418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21409867989273,
+                        "lng": 78.04737227989273
+                    },
+                    "southwest": {
+                        "lat": 27.21139902010728,
+                        "lng": 78.04467262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "S.k grocery store",
+            "place_id": "ChIJXw2taJJxdDkRQGobS1OghXg",
+            "plus_code": {
+                "compound_code": "627W+3C Agra, Uttar Pradesh",
+                "global_code": "7JVW627W+3C"
+            },
+            "rating": 0,
+            "reference": "ChIJXw2taJJxdDkRQGobS1OghXg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Trans Yamuna Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2324099,
+                    "lng": 78.1986747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.23368472989272,
+                        "lng": 78.19997397989272
+                    },
+                    "southwest": {
+                        "lat": 27.23098507010728,
+                        "lng": 78.19727432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rakesh Provision Store",
+            "place_id": "ChIJ_xFVWlRvdDkRAAAAsCjs1Ho",
+            "plus_code": {
+                "compound_code": "65JX+XF Etmadpur, Uttar Pradesh",
+                "global_code": "7JVW65JX+XF"
+            },
+            "rating": 0,
+            "reference": "ChIJ_xFVWlRvdDkRAAAAsCjs1Ho",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.16, Main, Market, Tajganj, Etmadpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1653853,
+                    "lng": 78.0423215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16673202989272,
+                        "lng": 78.04367942989272
+                    },
+                    "southwest": {
+                        "lat": 27.16403237010728,
+                        "lng": 78.04097977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ram Babu Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJZfXQqSJxdDkRAYXP6Z6Ug0g",
+            "plus_code": {
+                "compound_code": "528R+5W Agra, Uttar Pradesh",
+                "global_code": "7JVW528R+5W"
+            },
+            "rating": 4.1,
+            "reference": "ChIJZfXQqSJxdDkRAYXP6Z6Ug0g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Dr Shyam Lal Rd, Navada, Kaserat Bazar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1439223,
+                    "lng": 78.04861960000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14523552989272,
+                        "lng": 78.04995192989273
+                    },
+                    "southwest": {
+                        "lat": 27.14253587010728,
+                        "lng": 78.0472522701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "K r general Store",
+            "place_id": "ChIJ_UO_gUVxdDkRg4utOR-9D2g",
+            "plus_code": {
+                "compound_code": "42VX+HC Agra, Uttar Pradesh",
+                "global_code": "7JVW42VX+HC"
+            },
+            "rating": 0,
+            "reference": "ChIJ_UO_gUVxdDkRg4utOR-9D2g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shamshad road, near, Chamrauli Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730051,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420137989272,
+                        "lng": 78.0416375
+                    },
+                    "southwest": {
+                        "lat": 27.17150172010728,
+                        "lng": 78.0378955
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rawat General Store",
+            "place_id": "ChIJn5b_mWVxdDkRfJFmaqnoToQ",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJn5b_mWVxdDkRfJFmaqnoToQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Deoriya Road, Dharmapuri, Forest Colony, Nagra, Ajmer"
+        }
+    ],
+    "status": "OK"
+}

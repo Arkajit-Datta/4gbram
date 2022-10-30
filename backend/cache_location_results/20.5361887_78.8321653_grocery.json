@@ -1,0 +1,806 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRj3Ybyl_r-D4d7D72hlb-3k4YWHdFkU_t5uy3LnMwscjlX3rOSoUig85kG044vVVf7Sf3ikE9W11OnCN-xxnn55_JQA2zEzhE_2ODea04gML8gPxXeotH8bTruuvv6PNeZepTG7jaiMt7yFCiqESMuruOzNspCs1BhIZ_V64fMlOrNI9LQFzvv6uw8ORhCMTORm4Z6CMsBE1hAKdCIWwKyZipiyY0F4C7Ah-M5yaW-b3kANa4LHplve5gXzbJON73I9JHUWVnHn4Y2V8XkxUK_rHRRvT06PhTi5AsOlWKy4w0oI3v3LOnQMkzMp5OAnyfvT-qBR29JgL82eaYsfKSaT_n3U7oShggla6K9IBOoydjAd0D_BZ9YeI1YeWB077z-bJ0Xnh_BVrLOOl87yabX_C9X3kgt1l23uJ-1haXdFGL6ylRCcozGK",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.6181628,
+                    "lng": 78.77577869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.61941082989272,
+                        "lng": 78.77846895
+                    },
+                    "southwest": {
+                        "lat": 20.61671117010728,
+                        "lng": 78.77488195
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Lakhe Kirana Stores",
+            "place_id": "ChIJp4n7dZ570zsRzaJBUNuBDqU",
+            "plus_code": {
+                "compound_code": "JQ9G+78 Dalalpur, Maharashtra",
+                "global_code": "7JGWJQ9G+78"
+            },
+            "rating": 0,
+            "reference": "ChIJp4n7dZ570zsRzaJBUNuBDqU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Wardha Road, Hingna, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5609336,
+                    "lng": 78.83313240000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.56224857989272,
+                        "lng": 78.83448592989272
+                    },
+                    "southwest": {
+                        "lat": 20.55954892010728,
+                        "lng": 78.83178627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nagose Kirana",
+            "place_id": "ChIJU37pEdd70zsRAC2mhBrB3i0",
+            "plus_code": {
+                "compound_code": "HR6M+97 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR6M+97"
+            },
+            "rating": 5,
+            "reference": "ChIJU37pEdd70zsRAC2mhBrB3i0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hingna Road Hingana Rajiv Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5247555,
+                    "lng": 78.8200217
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.52610532989272,
+                        "lng": 78.82137152989272
+                    },
+                    "southwest": {
+                        "lat": 20.52340567010728,
+                        "lng": 78.81867187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rushikesh Dhanya Bhandar",
+            "place_id": "ChIJr5hMn3xx0zsRBIfUW_4z82c",
+            "plus_code": {
+                "compound_code": "GRFC+W2 Nandgaon, Maharashtra",
+                "global_code": "7JGWGRFC+W2"
+            },
+            "rating": 0,
+            "reference": "ChIJr5hMn3xx0zsRBIfUW_4z82c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dhantoli, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.6234386,
+                    "lng": 78.75488229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.62563925,
+                        "lng": 78.7557456
+                    },
+                    "southwest": {
+                        "lat": 20.62270505,
+                        "lng": 78.75229239999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ganesh Kirana Stores",
+            "place_id": "ChIJNbUgLwJ70zsR0MSzNdIa_rU",
+            "plus_code": {
+                "compound_code": "JQF3+9X Wardha, Maharashtra",
+                "global_code": "7JGWJQF3+9X"
+            },
+            "rating": 5,
+            "reference": "ChIJNbUgLwJ70zsR0MSzNdIa_rU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "State Bank Of India, Shop No 6 Goji, Wardha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.6060776,
+                    "lng": 78.8587682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.60742762989272,
+                        "lng": 78.86010547989271
+                    },
+                    "southwest": {
+                        "lat": 20.60472797010728,
+                        "lng": 78.85740582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai kirana",
+            "place_id": "ChIJQdUo40Vl0zsR-PtnfyiDoeI",
+            "rating": 0,
+            "reference": "ChIJQdUo40Vl0zsR-PtnfyiDoeI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JV45+G5, Gangapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5488219,
+                    "lng": 78.8334495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55009882989272,
+                        "lng": 78.83478742989271
+                    },
+                    "southwest": {
+                        "lat": 20.54739917010728,
+                        "lng": 78.83208777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mohan Traders",
+            "place_id": "ChIJnbQP2Wh70zsRFo749XF9oK8",
+            "plus_code": {
+                "compound_code": "GRXM+G9 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXM+G9"
+            },
+            "rating": 0,
+            "reference": "ChIJnbQP2Wh70zsRFo749XF9oK8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna Road Rajiv Nagar Rajiv Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5368839,
+                    "lng": 78.83030099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53827462989272,
+                        "lng": 78.83165592989272
+                    },
+                    "southwest": {
+                        "lat": 20.53557497010727,
+                        "lng": 78.82895627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gurukrupa Kirana Store",
+            "place_id": "ChIJfQH9u59x0zsRQsCDhMoDSBU",
+            "plus_code": {
+                "compound_code": "GRPJ+Q4 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRPJ+Q4"
+            },
+            "rating": 0,
+            "reference": "ChIJfQH9u59x0zsRQsCDhMoDSBU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dhantoli, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5507867,
+                    "lng": 78.84359769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55213457989272,
+                        "lng": 78.84498317989272
+                    },
+                    "southwest": {
+                        "lat": 20.54943492010728,
+                        "lng": 78.84228352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Atul kirana",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJMaLU4UNl0zsRYAAWzuVNLXY",
+            "rating": 5,
+            "reference": "ChIJMaLU4UNl0zsRYAAWzuVNLXY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HR2V+8C9, Datta Mandir Ward, Nishanpura Ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.559329,
+                    "lng": 78.8565399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.56055132989272,
+                        "lng": 78.85798722989271
+                    },
+                    "southwest": {
+                        "lat": 20.55785167010728,
+                        "lng": 78.85528757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiv Shankar kirana",
+            "place_id": "ChIJVRWMzWpl0zsR8OLLN0ePglc",
+            "plus_code": {
+                "compound_code": "HV54+PJ Hinganghat, Maharashtra",
+                "global_code": "7JGWHV54+PJ"
+            },
+            "rating": 0,
+            "reference": "ChIJVRWMzWpl0zsR8OLLN0ePglc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Shahalangadi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5242681,
+                    "lng": 78.8196684
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.52557737989272,
+                        "lng": 78.82099517989272
+                    },
+                    "southwest": {
+                        "lat": 20.52287772010728,
+                        "lng": 78.81829552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jai Gurudev Kirana",
+            "place_id": "ChIJx_31Jp5x0zsRdxUzzwgA1Ks",
+            "plus_code": {
+                "compound_code": "GRF9+PV Nandgaon, Maharashtra",
+                "global_code": "7JGWGRF9+PV"
+            },
+            "rating": 0,
+            "reference": "ChIJx_31Jp5x0zsRdxUzzwgA1Ks",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Dhantoli, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5453291,
+                    "lng": 78.8359638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54668537989272,
+                        "lng": 78.83726532989272
+                    },
+                    "southwest": {
+                        "lat": 20.54398572010728,
+                        "lng": 78.83456567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Seema Shop",
+            "place_id": "ChIJSSH5keZ70zsR7JDUYeuYivg",
+            "plus_code": {
+                "compound_code": "GRWP+49 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRWP+49"
+            },
+            "rating": 0,
+            "reference": "ChIJSSH5keZ70zsR7JDUYeuYivg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna Road, Electronic Zone, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5523166,
+                    "lng": 78.8465191
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55364907989272,
+                        "lng": 78.84787432989273
+                    },
+                    "southwest": {
+                        "lat": 20.55094942010728,
+                        "lng": 78.84517467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dolas dhanya bhandar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ23FCn75l0zsRAhQgyZ0ZVkk",
+            "rating": 0,
+            "reference": "ChIJ23FCn75l0zsRAhQgyZ0ZVkk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HR2W+WJC, Sant chokoba ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5555852,
+                    "lng": 78.8347726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55695507989272,
+                        "lng": 78.83613162989272
+                    },
+                    "southwest": {
+                        "lat": 20.55425542010727,
+                        "lng": 78.83343197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mahesh Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107286341746481998364\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi0CcqQjyDww5ijGd0aH-sJoZD8QYbviU72VxwXSiuOb_Gvoz3Er-YnrSXOnP8JVik7aKa_NZn9Ds6hOtHBhGN3XCOW35ferv0OqlYftkx7t6bd6d7QpSjBOPHVhfjzvUWE7KhU9Gnb04PW0cL242TJ9xX77uzC5igIfUnZebBI8QJd",
+                    "width": 606
+                }
+            ],
+            "place_id": "ChIJ8UPvSYB70zsR9FFUsME3sFk",
+            "plus_code": {
+                "compound_code": "HR4M+6W Hinganghat, Maharashtra",
+                "global_code": "7JGWHR4M+6W"
+            },
+            "rating": 5,
+            "reference": "ChIJ8UPvSYB70zsR9FFUsME3sFk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "01, Tilak Chowk, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5516117,
+                    "lng": 78.8376929
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55295702989272,
+                        "lng": 78.83905657989271
+                    },
+                    "southwest": {
+                        "lat": 20.55025737010728,
+                        "lng": 78.83635692010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravikumar Shende",
+            "place_id": "ChIJPVVStud70zsRKovaXAb3hxo",
+            "plus_code": {
+                "compound_code": "HR2Q+J3 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2Q+J3"
+            },
+            "rating": 0,
+            "reference": "ChIJPVVStud70zsRKovaXAb3hxo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Hingna, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5505728,
+                    "lng": 78.8411405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55202192989272,
+                        "lng": 78.84254127989271
+                    },
+                    "southwest": {
+                        "lat": 20.54932227010728,
+                        "lng": 78.83984162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "shubham meher",
+            "place_id": "ChIJjSK-M29l0zsRf8vPBjNSDVs",
+            "rating": 0,
+            "reference": "ChIJjSK-M29l0zsRf8vPBjNSDVs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HR2R+6FC, sant dnyaneshar ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5784527,
+                    "lng": 78.77507059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.58018912989272,
+                        "lng": 78.77669712989271
+                    },
+                    "southwest": {
+                        "lat": 20.57748947010727,
+                        "lng": 78.77399747010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pravin Kirana Store",
+            "place_id": "ChIJoYUBd0d70zsRE6Ols3hojEo",
+            "plus_code": {
+                "compound_code": "HQHG+92 Wela, Maharashtra",
+                "global_code": "7JGWHQHG+92"
+            },
+            "rating": 0,
+            "reference": "ChIJoYUBd0d70zsRE6Ols3hojEo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 7, near Hanuman Mandir, Wela"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5489047,
+                    "lng": 78.8306352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55024662989272,
+                        "lng": 78.83200932989271
+                    },
+                    "southwest": {
+                        "lat": 20.54754697010728,
+                        "lng": 78.82930967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai Kirana Store",
+            "place_id": "ChIJFYz9rcV70zsR8TfzcyFeDFo",
+            "plus_code": {
+                "compound_code": "GRXJ+H7 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXJ+H7"
+            },
+            "rating": 0,
+            "reference": "ChIJFYz9rcV70zsR8TfzcyFeDFo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna road, electronic zone, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5415623,
+                    "lng": 78.8322017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54291217989272,
+                        "lng": 78.8335512298927
+                    },
+                    "southwest": {
+                        "lat": 20.54021252010728,
+                        "lng": 78.83085157010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mungle kirana store",
+            "place_id": "ChIJGdJG3R170zsROBqF0BmyDEw",
+            "rating": 5,
+            "reference": "ChIJGdJG3R170zsROBqF0BmyDEw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GRRJ+JVG, Near subhaniya masjid, Sant Kabir Ward(station fail, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5481904,
+                    "lng": 78.8362387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54953912989272,
+                        "lng": 78.83759737989273
+                    },
+                    "southwest": {
+                        "lat": 20.54683947010728,
+                        "lng": 78.83489772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Manohar Daily Needs",
+            "place_id": "ChIJn611mk170zsRpv0qzvr3-QU",
+            "plus_code": {
+                "compound_code": "GRXP+7F Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXP+7F"
+            },
+            "rating": 0,
+            "reference": "ChIJn611mk170zsRpv0qzvr3-QU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 9, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5548292,
+                    "lng": 78.85486569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55617737989272,
+                        "lng": 78.85622847989272
+                    },
+                    "southwest": {
+                        "lat": 20.55347772010728,
+                        "lng": 78.85352882010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jay bhole kirana store",
+            "place_id": "ChIJIeoeCqll0zsRFHMqVoqf9c8",
+            "plus_code": {
+                "compound_code": "HV33+WW Hinganghat, Maharashtra",
+                "global_code": "7JGWHV33+WW"
+            },
+            "rating": 5,
+            "reference": "ChIJIeoeCqll0zsRFHMqVoqf9c8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Kadam's Residency, Shahalangadi, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

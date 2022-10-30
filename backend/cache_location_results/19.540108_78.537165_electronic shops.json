@@ -1,0 +1,217 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5135948,
+                    "lng": 78.6298028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51492107989272,
+                        "lng": 78.63115487989272
+                    },
+                    "southwest": {
+                        "lat": 19.51222142010727,
+                        "lng": 78.62845522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\ud835\udc13\ud835\udc08\ud835\udc11\ud835\udc14\ud835\udc0c\ud835\udc00\ud835\udc0b\ud835\udc00 \ud835\udc04\ud835\udc0b\ud835\udc04\ud835\udc02\ud835\udc13\ud835\udc11\ud835\udc0e\ud835\udc0d\ud835\udc08\ud835\udc02 & \ud835\udc04\ud835\udc0b\ud835\udc04\ud835\udc02\ud835\udc13\ud835\udc11\ud835\udc08\ud835\udc02\ud835\udc00\ud835\udc0b",
+            "place_id": "ChIJ1-0axgBh0jsRgAMX9DPX6Jw",
+            "rating": 5,
+            "reference": "ChIJ1-0axgBh0jsRgAMX9DPX6Jw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GJ7H+CWM, Muthnur1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5134647,
+                    "lng": 78.6303611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51487327989272,
+                        "lng": 78.63170607989274
+                    },
+                    "southwest": {
+                        "lat": 19.51217362010728,
+                        "lng": 78.62900642010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji Electronics",
+            "place_id": "ChIJY6ZbPXxh0jsRC5oZ5CjyHpc",
+            "plus_code": {
+                "compound_code": "GJ7J+94 Indervelly, Telangana",
+                "global_code": "7JFWGJ7J+94"
+            },
+            "rating": 0,
+            "reference": "ChIJY6ZbPXxh0jsRC5oZ5CjyHpc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H No 8-65, Indervelly"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.529625,
+                    "lng": 78.51351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53093832989272,
+                        "lng": 78.51494317989271
+                    },
+                    "southwest": {
+                        "lat": 19.52823867010728,
+                        "lng": 78.51224352010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "M G S Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109405054026628493736\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjAkdmW3GNYGJ57vW4TFYb4Z3lChBgzdc55VLlozvh4l4_ZJPC9kF2SzgxdqHQVN8LSybKlNkJwgOYZMUtrJyydELLY-5uIYuAMpQn2DFQYXzEtQkuhJe9HwLA_nBH2MkOf9EMnW129bGXcjtzrCe5mJOBPxpDVgaLlD916Mi9OcshB",
+                    "width": 9280
+                }
+            ],
+            "place_id": "ChIJFy-_l6Jn0jsRib6ZbunpAgQ",
+            "plus_code": {
+                "compound_code": "GGH7+RC Gudihathinur, Telangana",
+                "global_code": "7JFWGGH7+RC"
+            },
+            "rating": 5,
+            "reference": "ChIJFy-_l6Jn0jsRib6ZbunpAgQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Gudihathinur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5202909,
+                    "lng": 78.5334853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52163337989273,
+                        "lng": 78.53489607989272
+                    },
+                    "southwest": {
+                        "lat": 19.51893372010728,
+                        "lng": 78.53219642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vikasraj Work From Home",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105528276410069979929\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRihO0f12SkLFEPkLkD62t6eU79HSebR1PfeZwaf8j4aSH6eLI-AVL-UFY6lmMjsj5d310qqYDSgqyTEYPQAGS85T3usyZwA2JiY2PJ6fxQNAsbHhPn9ZvxNlnlCPXdv2pnrzp0NqRfo4cwMRYMvFtPAhCQ68WyTuaRoctDDi2jlJVNf",
+                    "width": 1006
+                }
+            ],
+            "place_id": "ChIJcTYWvORn0jsRNeY1d5NVCiA",
+            "plus_code": {
+                "compound_code": "GGCM+49 Lingapur, Telangana",
+                "global_code": "7JFWGGCM+49"
+            },
+            "rating": 3,
+            "reference": "ChIJcTYWvORn0jsRNeY1d5NVCiA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Lingapur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.5292672,
+                    "lng": 78.51271249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53064327989272,
+                        "lng": 78.51406427989272
+                    },
+                    "southwest": {
+                        "lat": 19.52794362010728,
+                        "lng": 78.51136462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri Gurukrupa Electronic",
+            "permanently_closed": true,
+            "place_id": "ChIJr6H3yFNm0jsRFTYfm9pQyvE",
+            "rating": 2,
+            "reference": "ChIJr6H3yFNm0jsRFTYfm9pQyvE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GGH7+P34, Gudihathinur"
+        }
+    ],
+    "status": "OK"
+}

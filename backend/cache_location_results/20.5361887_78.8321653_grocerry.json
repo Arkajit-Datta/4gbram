@@ -1,0 +1,176 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.554843,
+                    "lng": 78.8533561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55619437989272,
+                        "lng": 78.85467157989272
+                    },
+                    "southwest": {
+                        "lat": 20.55349472010728,
+                        "lng": 78.85197192010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gouri kirana and General store",
+            "place_id": "ChIJfSRk-Y9l0zsRTEk7tD-L4aw",
+            "rating": 0,
+            "reference": "ChIJfSRk-Y9l0zsRTEk7tD-L4aw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HV33+W8Q, Shahalangadi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5489047,
+                    "lng": 78.8306352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55024662989272,
+                        "lng": 78.83200932989271
+                    },
+                    "southwest": {
+                        "lat": 20.54754697010728,
+                        "lng": 78.82930967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai Kirana Store",
+            "place_id": "ChIJFYz9rcV70zsR8TfzcyFeDFo",
+            "plus_code": {
+                "compound_code": "GRXJ+H7 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXJ+H7"
+            },
+            "rating": 0,
+            "reference": "ChIJFYz9rcV70zsR8TfzcyFeDFo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna road, electronic zone, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5540836,
+                    "lng": 78.8354426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55541027989272,
+                        "lng": 78.83680367989271
+                    },
+                    "southwest": {
+                        "lat": 20.55271062010728,
+                        "lng": 78.83410402010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rajesh Kirana Store",
+            "place_id": "ChIJ1xtysRd70zsR_2_W0FUsJNw",
+            "plus_code": {
+                "compound_code": "HR3P+J5 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR3P+J5"
+            },
+            "rating": 0,
+            "reference": "ChIJ1xtysRd70zsR_2_W0FUsJNw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5502169,
+                    "lng": 78.83483729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55155687989272,
+                        "lng": 78.83618612989272
+                    },
+                    "southwest": {
+                        "lat": 20.54885722010728,
+                        "lng": 78.83348647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "7/12 Super Mart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 406,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110071749310879403995\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjJMyd9EImNUCwVosQ1fzWZYYw93n_fBe5IfHYvLwJQjM2V5wNBLvmp4lZCuyC4BFZfPif3Q8JHKZ7-NFF6S0546pCDxppvrk_FHzTlZrzRmIfpIWmPHDGVlrd2gnFC3esK136dqNtjji2fd9T88m39aP6ZRtH6oHesajWbmHUPQqUA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJJWdV4iV70zsRLlc2k1amsQQ",
+            "plus_code": {
+                "compound_code": "HR2M+3W Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2M+3W"
+            },
+            "rating": 5,
+            "reference": "ChIJJWdV4iV70zsRLlc2k1amsQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Desh Sewa Road, Jain Mandir Ward, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,810 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjUpSGc82FAEVtQ8GczkS44_vu7-7bQKjyJzUAdBqA_W0fXn54W3vdbOM05-Xon6v2d6p0Vq3qG8FayiCJX_j8Y3IIHvgxi7FVabBTPF9baXA1N3o_vQ8slqnV9GL3zQBjhP_cgljUFryeKIbnJplVKtXK6mvSkI12vvh6T0e5TNUSLaT1ntRFy8H29pVEFiClU0HFlZDrqCydtNfiTvwM1WUG99_99hHaf_y08IW_Io_Yfh-TmY0TxGmcO_iW9Jmml9sXWkPwxmumZjVjbEyi4S-gAUe3wKqNy0r_yi8ajrrpISrtvfJhHUZ9TWoELd0JGWEI5A6U1c5q7F2w-wrIFg2cmXCOr2U6qS4pYdUVd4y7dhGTnERO3zGRI3B2X1Y38mlOnCpdOZvQ_jCQ0C-CCHcyfkfJ6XxV5MzhCVweGcAFj9NRrMNP9NA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8862312,
+                    "lng": 78.32748579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88758542989272,
+                        "lng": 78.32884362989272
+                    },
+                    "southwest": {
+                        "lat": 25.88488577010728,
+                        "lng": 78.32614397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gourav Kirana",
+            "place_id": "ChIJL8PpEB4fdzkRXAACkk-3NT4",
+            "plus_code": {
+                "compound_code": "V8PG+FX Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PG+FX"
+            },
+            "rating": 0,
+            "reference": "ChIJL8PpEB4fdzkRXAACkk-3NT4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "63, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8890167,
+                    "lng": 78.32582099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89032977989272,
+                        "lng": 78.32709882989272
+                    },
+                    "southwest": {
+                        "lat": 25.88763012010728,
+                        "lng": 78.32439917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "harkuar kirana store",
+            "place_id": "ChIJhSXg_x0fdzkRiisUzb1QsZo",
+            "plus_code": {
+                "compound_code": "V8QG+J8 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QG+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJhSXg_x0fdzkRiisUzb1QsZo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8983543,
+                    "lng": 78.3316547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89973492989272,
+                        "lng": 78.33299157989272
+                    },
+                    "southwest": {
+                        "lat": 25.89703527010728,
+                        "lng": 78.33029192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jay Ma Kirana Store",
+            "place_id": "ChIJUxSFojcfdzkR83wJIMw6MB0",
+            "plus_code": {
+                "compound_code": "V8XJ+8M Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8XJ+8M"
+            },
+            "rating": 0,
+            "reference": "ChIJUxSFojcfdzkR83wJIMw6MB0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jay Ma Kirana Store, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8790988,
+                    "lng": 78.3423488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88046757989272,
+                        "lng": 78.34374282989272
+                    },
+                    "southwest": {
+                        "lat": 25.87776792010728,
+                        "lng": 78.34104317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravi Kirana Store",
+            "place_id": "ChIJ6ZNAQv4fdzkR1tUPYgFbIAM",
+            "plus_code": {
+                "compound_code": "V8HR+JW Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8HR+JW"
+            },
+            "rating": 0,
+            "reference": "ChIJ6ZNAQv4fdzkR1tUPYgFbIAM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8877966,
+                    "lng": 78.33786850000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88919942989272,
+                        "lng": 78.33920422989273
+                    },
+                    "southwest": {
+                        "lat": 25.88649977010728,
+                        "lng": 78.33650457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Soamya Kirana Store",
+            "place_id": "ChIJu5hq7BYfdzkRFuMM497miug",
+            "plus_code": {
+                "compound_code": "V8QQ+44 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QQ+44"
+            },
+            "rating": 0,
+            "reference": "ChIJu5hq7BYfdzkRFuMM497miug",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8575204,
+                    "lng": 78.34986839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.85924582989272,
+                        "lng": 78.35243790000001
+                    },
+                    "southwest": {
+                        "lat": 25.85654617010728,
+                        "lng": 78.34901189999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Soamya Kirana Store",
+            "place_id": "ChIJN6Sr9WIfdzkRXkkW6lScyto",
+            "plus_code": {
+                "compound_code": "V85X+2W Dabra, Madhya Pradesh",
+                "global_code": "7JQWV85X+2W"
+            },
+            "rating": 0,
+            "reference": "ChIJN6Sr9WIfdzkRXkkW6lScyto",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8901037,
+                    "lng": 78.3350476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89144857989272,
+                        "lng": 78.33639862989271
+                    },
+                    "southwest": {
+                        "lat": 25.88874892010728,
+                        "lng": 78.33369897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravindra Kirana Store",
+            "place_id": "ChIJmevt7hofdzkRKqCNLDTPUoI",
+            "plus_code": {
+                "compound_code": "V8RP+22 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8RP+22"
+            },
+            "rating": 0,
+            "reference": "ChIJmevt7hofdzkRKqCNLDTPUoI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8898317,
+                    "lng": 78.34447700000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89117167989272,
+                        "lng": 78.34583157989272
+                    },
+                    "southwest": {
+                        "lat": 25.88847202010728,
+                        "lng": 78.34313192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravi Kirana",
+            "place_id": "ChIJWekvG8wfdzkRMgCCuizI7P4",
+            "plus_code": {
+                "compound_code": "V8QV+WQ Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QV+WQ"
+            },
+            "rating": 0,
+            "reference": "ChIJWekvG8wfdzkRMgCCuizI7P4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "54, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8742342,
+                    "lng": 78.3362136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.87565027989272,
+                        "lng": 78.33754237989271
+                    },
+                    "southwest": {
+                        "lat": 25.87295062010728,
+                        "lng": 78.33484272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivam Kirana Store",
+            "place_id": "ChIJK5s8v64fdzkRwHOr81cUJnc",
+            "plus_code": {
+                "compound_code": "V8FP+MF Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8FP+MF"
+            },
+            "rating": 0,
+            "reference": "ChIJK5s8v64fdzkRwHOr81cUJnc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8820626,
+                    "lng": 78.3171764
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88334242989272,
+                        "lng": 78.31850797989271
+                    },
+                    "southwest": {
+                        "lat": 25.88064277010728,
+                        "lng": 78.31580832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Amar Kirana store",
+            "place_id": "ChIJdReOuXcfdzkR_jEcQ0tiCBE",
+            "plus_code": {
+                "compound_code": "V8J8+RV Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8J8+RV"
+            },
+            "rating": 0,
+            "reference": "ChIJdReOuXcfdzkR_jEcQ0tiCBE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Chinor Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8839789,
+                    "lng": 78.3277064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88533857989272,
+                        "lng": 78.32903762989272
+                    },
+                    "southwest": {
+                        "lat": 25.88263892010728,
+                        "lng": 78.32633797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Agrawal Kirana Store",
+            "place_id": "ChIJKwZE2YQfdzkRyCSoukv5lG0",
+            "plus_code": {
+                "compound_code": "V8MH+H3 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8MH+H3"
+            },
+            "rating": 0,
+            "reference": "ChIJKwZE2YQfdzkRyCSoukv5lG0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Agrawal Kirana Store Agrawal Kirana Store, Laaj Kunj, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8792257,
+                    "lng": 78.33879209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88057962989273,
+                        "lng": 78.3401271298927
+                    },
+                    "southwest": {
+                        "lat": 25.87787997010728,
+                        "lng": 78.33742747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "AVIKA KIRANA & GENERAL STORE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ1zI11eEedzkRAAAAsMLmJm8",
+            "plus_code": {
+                "compound_code": "V8HQ+MG Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8HQ+MG"
+            },
+            "rating": 1,
+            "reference": "ChIJ1zI11eEedzkRAAAAsMLmJm8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Manikpur Colony, Jhansi Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8983257,
+                    "lng": 78.3315906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89965107989272,
+                        "lng": 78.33291382989272
+                    },
+                    "southwest": {
+                        "lat": 25.89695142010727,
+                        "lng": 78.33021417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dilip Kirana",
+            "place_id": "ChIJT2HJMWofdzkRiYQZ-hcLvos",
+            "plus_code": {
+                "compound_code": "V8XJ+8J Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8XJ+8J"
+            },
+            "rating": 0,
+            "reference": "ChIJT2HJMWofdzkRiYQZ-hcLvos",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "15, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9586153,
+                    "lng": 78.250281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95996932989272,
+                        "lng": 78.25163602989272
+                    },
+                    "southwest": {
+                        "lat": 25.95726967010728,
+                        "lng": 78.24893637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ajay Kirana",
+            "place_id": "ChIJPWPsnibfdjkRdAapLAhxSkw",
+            "plus_code": {
+                "compound_code": "X752+C4 Dabra, Madhya Pradesh",
+                "global_code": "7JQWX752+C4"
+            },
+            "rating": 1,
+            "reference": "ChIJPWPsnibfdjkRdAapLAhxSkw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "18, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8673037,
+                    "lng": 78.30655639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.86865007989272,
+                        "lng": 78.30794162989271
+                    },
+                    "southwest": {
+                        "lat": 25.86595042010728,
+                        "lng": 78.30524197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Radhe Kirana Store",
+            "place_id": "ChIJYRx4NogfdzkRoLPZCPJaMu4",
+            "plus_code": {
+                "compound_code": "V884+WJ Dabra, Madhya Pradesh",
+                "global_code": "7JQWV884+WJ"
+            },
+            "rating": 0,
+            "reference": "ChIJYRx4NogfdzkRoLPZCPJaMu4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Barotha, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886122,
+                    "lng": 78.3352376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88745247989272,
+                        "lng": 78.33651662989273
+                    },
+                    "southwest": {
+                        "lat": 25.88475282010728,
+                        "lng": 78.33381697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mebalal Kirana Store",
+            "place_id": "ChIJpXoAZ2EfdzkRpHA0fijDlEc",
+            "plus_code": {
+                "compound_code": "V8PP+C3 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PP+C3"
+            },
+            "rating": 0,
+            "reference": "ChIJpXoAZ2EfdzkRpHA0fijDlEc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shriram Colony, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8864441,
+                    "lng": 78.326791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88779707989272,
+                        "lng": 78.32817612989273
+                    },
+                    "southwest": {
+                        "lat": 25.88509742010728,
+                        "lng": 78.32547647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sahil Kirana Store",
+            "place_id": "ChIJkxhWuJ8fdzkRi8Lcf__m5Ho",
+            "plus_code": {
+                "compound_code": "V8PG+HP Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PG+HP"
+            },
+            "rating": 0,
+            "reference": "ChIJkxhWuJ8fdzkRi8Lcf__m5Ho",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8802846,
+                    "lng": 78.3413685
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88169862989272,
+                        "lng": 78.34251397989271
+                    },
+                    "southwest": {
+                        "lat": 25.87899897010728,
+                        "lng": 78.33981432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Neeraj Kirana Store",
+            "place_id": "ChIJESEX5iIfdzkRzrDHozufS6c",
+            "plus_code": {
+                "compound_code": "V8JR+4G Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8JR+4G"
+            },
+            "rating": 0,
+            "reference": "ChIJESEX5iIfdzkRzrDHozufS6c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8871083,
+                    "lng": 78.3273828
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88852047989272,
+                        "lng": 78.32886212989273
+                    },
+                    "southwest": {
+                        "lat": 25.88582082010727,
+                        "lng": 78.32616247010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pari Kirana Store",
+            "place_id": "ChIJEXA0eCIfdzkRiebHwYXwl24",
+            "plus_code": {
+                "compound_code": "V8PG+RX Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PG+RX"
+            },
+            "rating": 0,
+            "reference": "ChIJEXA0eCIfdzkRiebHwYXwl24",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8822821,
+                    "lng": 78.310452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88361402989272,
+                        "lng": 78.31179782989271
+                    },
+                    "southwest": {
+                        "lat": 25.88091437010728,
+                        "lng": 78.30909817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ravindra Kirana Store",
+            "place_id": "ChIJc-Uc89IfdzkRZ_VadMFHtb0",
+            "plus_code": {
+                "compound_code": "V8J6+W5 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8J6+W5"
+            },
+            "rating": 0,
+            "reference": "ChIJc-Uc89IfdzkRZ_VadMFHtb0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aara Machin Ke Pass, Chinor Rd, Dabra"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,656 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6035736,
+                    "lng": 79.6055713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60489972989272,
+                        "lng": 79.60695412989273
+                    },
+                    "southwest": {
+                        "lat": 22.60220007010728,
+                        "lng": 79.60425447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shakshi Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ6ygXVP0WgDkRz6vnFfBvQWg",
+            "rating": 4,
+            "reference": "ChIJ6ygXVP0WgDkRz6vnFfBvQWg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JJ34+C6G"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6337802,
+                    "lng": 79.6221534
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.63513432989272,
+                        "lng": 79.62348602989272
+                    },
+                    "southwest": {
+                        "lat": 22.63243467010728,
+                        "lng": 79.62078637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "K.G.N. matels & electronic",
+            "place_id": "ChIJMU72eKIXgDkRednK2a2m1UI",
+            "rating": 0,
+            "reference": "ChIJMU72eKIXgDkRednK2a2m1UI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JJMC+GV6, Shikara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6018432,
+                    "lng": 79.60130529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60325982989272,
+                        "lng": 79.60270412989273
+                    },
+                    "southwest": {
+                        "lat": 22.60056017010728,
+                        "lng": 79.60000447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Star Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101797759178266482844\">Star Electronic</a>"
+                    ],
+                    "photo_reference": "AcYSjRiG-KvkWOc_OhIbpi20rKRooR5uFLH2kGSkC0iCLiUT24nbY24j-BT5_bfWIvqiD5GdwMnyLbBfc0WE6bfpLDnlsaCxjpYIMjLTb_zzmGd05_bLn7-_qgSJo5aIEEsQGD2sZrIAeR-auFup7waha7nxu3tDqqmvmiwPdpktuugbD2RD",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJg8U9vxwXgDkRCxtjMDGo7V8",
+            "plus_code": {
+                "compound_code": "JJ22+PG Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXJJ22+PG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJg8U9vxwXgDkRCxtjMDGo7V8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "near Bus stand, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6203533,
+                    "lng": 79.5690393
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.62169952989272,
+                        "lng": 79.57038677989271
+                    },
+                    "southwest": {
+                        "lat": 22.61899987010728,
+                        "lng": 79.56768712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Manoj Yadav DTH(zee Electronic)",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116497825384497983238\">swaroop yadav</a>"
+                    ],
+                    "photo_reference": "AcYSjRhac_pWr7RejyFEYR45XKJFBcCCyppa4C0QbiV0b8p-DVCSXMnnwMpPt9SZ4J6dyKExsc71HhIPg6mfeqLtf9iZ2BZaxDy4yEBZGazB2J3ghs4_gXdfrsn68XU2QBQNv_DuxmY53wCtQ5NOkyomFAplLFAMf7PBEkyIJdd1-FTPtUjU",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJw48Y9IQXgDkROOzvqs_JXrU",
+            "rating": 5,
+            "reference": "ChIJw48Y9IQXgDkROOzvqs_JXrU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JHC9+4JV, N - South Corridor, Sirmangni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6029543,
+                    "lng": 79.60276290000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60426152989272,
+                        "lng": 79.60413992989271
+                    },
+                    "southwest": {
+                        "lat": 22.60156187010728,
+                        "lng": 79.60144027010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tarang Electronics And Electrical",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100616920770340544008\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjYbtXBUir0EyIYEkHrjyEnM0gAeCkWtMrhpUSNE6CduQ56IxSLgJfae40GzN1PJaUkeu-9aAOV7Uw7VPbs5W2gOtcWrlxde88DuKGNVQ2dMMgh0Qxe6GplWO1_vzK21JeqSIhxmrHVjs7snf35l9yZzpP_LjiHNgrttZFeCYosLc70",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJtVN3Kx0XgDkRARUwKiA_N0Q",
+            "plus_code": {
+                "compound_code": "JJ33+54 Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXJJ33+54"
+            },
+            "rating": 3.5,
+            "reference": "ChIJtVN3Kx0XgDkRARUwKiA_N0Q",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6047346,
+                    "lng": 79.6124985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60608652989272,
+                        "lng": 79.61385032989273
+                    },
+                    "southwest": {
+                        "lat": 22.60338687010728,
+                        "lng": 79.61115067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0905\u0902\u0936 \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u0949\u0928\u093f\u0915 \u092e\u094b\u091f\u0930\u094d\u0938",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ0ZfxkW8XgDkRRJ5R1nC1BVI",
+            "plus_code": {
+                "compound_code": "JJ36+VX Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXJJ36+VX"
+            },
+            "rating": 4,
+            "reference": "ChIJ0ZfxkW8XgDkRRJ5R1nC1BVI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Doordarshan TV Tower, NH 44"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.603529,
+                    "lng": 79.604501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60487682989272,
+                        "lng": 79.60584447989271
+                    },
+                    "southwest": {
+                        "lat": 22.60217717010728,
+                        "lng": 79.60314482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "sunil Mobile Lakhnadon",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107654871759347954302\">technical masti</a>"
+                    ],
+                    "photo_reference": "AcYSjRgrskD8bSdox6QeAuDpqRsOQN0A8r-B5s9_a-w3KdOhKD_gxwNpcZQCP4hSEZobMiZLG_6lifFTNSTScazfOWzvOggG87HzAQH5DbdeKkzNdjHeXiin25-gMmw8QCKiRj0xeyas-JXQmQcSs5tx4u1ykdfZJCYPEw1UO9f5fO38rZ2_",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJEXCLTx0XgDkR6NHs8g7ztR8",
+            "rating": 3.5,
+            "reference": "ChIJEXCLTx0XgDkR6NHs8g7ztR8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "JJ33+CR6, Rota Jheel, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6014885,
+                    "lng": 79.60113439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60274512989272,
+                        "lng": 79.60249152989272
+                    },
+                    "southwest": {
+                        "lat": 22.60004547010728,
+                        "lng": 79.59979187010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Chourasiya Radio",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJL_MI3BwXgDkRQrwCwLnEZOU",
+            "rating": 3.8,
+            "reference": "ChIJL_MI3BwXgDkRQrwCwLnEZOU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "JJ22+HCW, Sarasdol, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6010883,
+                    "lng": 79.61288499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60234147989272,
+                        "lng": 79.61423887989271
+                    },
+                    "southwest": {
+                        "lat": 22.59964182010728,
+                        "lng": 79.61153922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiva electronics",
+            "photos": [
+                {
+                    "height": 3060,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113862503261768489039\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg46aymVs4dHTRiPZvvKDdiJlxlWW1x9bN27eFat3jCP0vHvPZkwSPGPk7CDCxkpllpr00vmX0R9tiyxPYiIfHfyeDFqvXav3VBANFLHN6t3PFQAYIpsK2daeGu2OFxeEZjKAesKLVNP1xjoX5dOUqhAEtnW5AtRaov5ZAY2evkRhb2",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJpR9LA4oXgDkRZVqgX8jcj7Y",
+            "plus_code": {
+                "compound_code": "JJ27+C5 Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXJJ27+C5"
+            },
+            "rating": 0,
+            "reference": "ChIJpR9LA4oXgDkRZVqgX8jcj7Y",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ghanshor, rod, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6045498,
+                    "lng": 79.6124837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60593297989272,
+                        "lng": 79.61387537989272
+                    },
+                    "southwest": {
+                        "lat": 22.60323332010728,
+                        "lng": 79.61117572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Faraj Khan taj rk electronic",
+            "place_id": "ChIJf97ztPwXgDkR66GlmppUq04",
+            "rating": 0,
+            "reference": "ChIJf97ztPwXgDkR66GlmppUq04",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rani Durgavati, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5121261,
+                    "lng": 79.5788006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.51346742989272,
+                        "lng": 79.58029247989272
+                    },
+                    "southwest": {
+                        "lat": 22.51076777010728,
+                        "lng": 79.57759282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u091c\u092c\u0932\u092a\u0941\u0930 \u092c\u0948\u091f\u0930\u0940 \u0938\u0930\u094d\u0935\u093f\u0938 \u0938\u093f\u092e\u0930\u0928 \u0911\u091f\u094b \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0936\u093f\u092f\u0928",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108268470568928054482\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhoomChKBhr9z3xk0Z2ZOZEBnw_wNo0bzASQzBvS2uiEqtOjYFZPy8_gZpyIAG1u2Deq0RAWLAJecmi3mxM3-9NmpMidwXcYoWumRQE63Gb6wjIjy_qdrcq2J7sGWlh6YTVE_q2Bmwg1OalTVB7ST3cOvNYPf8SoMzqtLEuGYOwa9sN",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJzQzTFEURgDkRzlB-ZDaMI94",
+            "plus_code": {
+                "compound_code": "GH6H+VG Ganeshganj, Madhya Pradesh",
+                "global_code": "7JJXGH6H+VG"
+            },
+            "rating": 0,
+            "reference": "ChIJzQzTFEURgDkRzlB-ZDaMI94",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Srinagar - Kanyakumari Hwy, Ganeshganj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 22.6010319,
+                    "lng": 79.6124363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60231632989272,
+                        "lng": 79.61379272989272
+                    },
+                    "southwest": {
+                        "lat": 22.59961667010727,
+                        "lng": 79.61109307010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maa Electical",
+            "permanently_closed": true,
+            "place_id": "ChIJ6W3t9OQWgDkRIYPN6yBWIKM",
+            "rating": 2,
+            "reference": "ChIJ6W3t9OQWgDkRIYPN6yBWIKM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JJ26+CX7, Seoni"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 22.602462,
+                    "lng": 79.602249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60385667989272,
+                        "lng": 79.60357197989272
+                    },
+                    "southwest": {
+                        "lat": 22.60115702010727,
+                        "lng": 79.60087232010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "GOLHANI ELECTRONIC ZONE YASHWANT GOLHANI",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106346745587035912047\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh9vj908mcI_8Cp7Ygsf3W4RTOqznAhHpO7hIs7iaxGLQk8iSB56FzMeftMRytUMffeNhf3kCeZZdeWJMDI5zbbwsifGBsKKuQE5JKP5aXqsL0jImZovvd2qpXeAKG2Ulrr3GCcjMtdJiMlVYZRD8pVx3SJxxSqDPwNFwxwsYnF2XxW",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJSXlRL0AXgDkRPTRjWRJ0pmE",
+            "rating": 4.5,
+            "reference": "ChIJSXlRL0AXgDkRPTRjWRJ0pmE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JJ22+XVQ, Lakhnadon"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 22.5650111,
+                    "lng": 79.6954994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.56630442989272,
+                        "lng": 79.69686312989272
+                    },
+                    "southwest": {
+                        "lat": 22.56360477010728,
+                        "lng": 79.69416347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vishwakarma mobile shop",
+            "permanently_closed": true,
+            "place_id": "ChIJCY8dEm0TgDkRvBYkkM9pXa0",
+            "rating": 0,
+            "reference": "ChIJCY8dEm0TgDkRvBYkkM9pXa0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HM8W+255, Unnamed Road, Khamariya Gosai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6022571,
+                    "lng": 79.6022947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60360397989272,
+                        "lng": 79.60364197989271
+                    },
+                    "southwest": {
+                        "lat": 22.60090432010728,
+                        "lng": 79.60094232010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Saurabh mobile shop & repairing center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108928591172799137919\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhezktfH8U83VpFxFTgeT9DoRqwbshv4SoLuHpUap5KBEvENo9zGwCqRW97pP7kPUmkwTKrCq-UxGjHDPrQwoU9qhwKC2nYafAW8Ou3ofcf93877Ljln_fUIVId5RDKsdEr7tlLXEuPI9gDT1jlo8_zS11rYNSi3Z1qYB8cLG3hfhsi",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJcY4g7gsXgDkRvfkQFgqqA9I",
+            "plus_code": {
+                "compound_code": "JJ22+WW Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXJJ22+WW"
+            },
+            "rating": 4.7,
+            "reference": "ChIJcY4g7gsXgDkRvfkQFgqqA9I",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Bus stand kanhaiya complex, near post office, Lakhnadon"
+        }
+    ],
+    "status": "OK"
+}

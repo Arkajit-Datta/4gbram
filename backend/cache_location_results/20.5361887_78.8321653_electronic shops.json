@@ -1,0 +1,912 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhKoEa9ujQ8vNJfoncvV6Hs-Mi-rVcHhWC4wHOaCrZNXJNr2G18EPDIToEPXfx8pgj2fw1i063YmrJcGJBg1owH_gMLAnu9y3glFwFXlM7I1YCf2UkzDizhW3HOVhDfU5EJABI8GXE_rB_jpJcp5aMdPt_KRumKxRa5GNpXXYx-xwuliKe-ASf-BCltSw_pt0GOmgXMoeuy0HHAFCRitFw11XI5P7wb5WPCs6ovTFDZHsQo7j5XYLyllqwFI47mCkCQy2pYibQUjdmtOAru8BCXn070N2x1roq_hqD-NmoMbFfsS1LcZ5zn48vmTqAYZcgDJoErCemJu75OCmohVHbwpnqky7EXLWzEglSEXEhf8A-AX_3T4emgQfKyDzvDn2GO-gla9N4Lbawvy-lEZkg0u_RfT67ktYl2lDy67LMDsM7RXlpztVt4cwpo0VfBHMiB",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5517854,
+                    "lng": 78.8417865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55309472989272,
+                        "lng": 78.84313412989272
+                    },
+                    "southwest": {
+                        "lat": 20.55039507010727,
+                        "lng": 78.84043447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Chandan Marketing",
+            "place_id": "ChIJP28mKahl0zsRBB8nGdGLbcE",
+            "plus_code": {
+                "compound_code": "HR2R+PP Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2R+PP"
+            },
+            "rating": 0,
+            "reference": "ChIJP28mKahl0zsRBB8nGdGLbcE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hingna Road Electronic Zone Hingna, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5516683,
+                    "lng": 78.8418289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55301622989272,
+                        "lng": 78.84319942989272
+                    },
+                    "southwest": {
+                        "lat": 20.55031657010728,
+                        "lng": 78.84049977010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ambai Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116783057583463567902\">Pradip Ghode</a>"
+                    ],
+                    "photo_reference": "AcYSjRhaPIYtzsvmX_TzxxTJ0FcsihZ4wnWcYW1thjzjj30wqm3azNAwCkZxJPe-p-d8RHu5z-T_52Uo8VshK1z0zg5_YUA7wsj1EwnLcZG5mTPWv8w7T2Mg1xLSWMecKINlxuoeP3ECoDgnrnW0hmGinlna8v3D8lvj_3VDEZyO3npehUo2",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJoWTd4k9l0zsRKqcGrdFcMyU",
+            "plus_code": {
+                "compound_code": "HR2R+MP Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2R+MP"
+            },
+            "rating": 4,
+            "reference": "ChIJoWTd4k9l0zsRKqcGrdFcMyU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Nagpur Road, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5497174,
+                    "lng": 78.8345336
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55106637989272,
+                        "lng": 78.83595702989273
+                    },
+                    "southwest": {
+                        "lat": 20.54836672010727,
+                        "lng": 78.83325737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OSTWAL ELECTRONICZ",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113219792184182786599\">OSTWAL ELECTRONICS</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVw3TFsboNASkSb5Iig1AwPZKVwhEBtec5Z-YwAh8Hjq7TE37pK7Op5wN-uqfOCIHTfmFgGz16nJqdHR6Fcmc-NZnRLqYT83JR1J9A2S0WpAZgKguL5WoJhVRu540bNhiRTD0r_5Yuns2_Y0EMNuO4xMYkCKtpRhhUQvvO--Foofx0",
+                    "width": 870
+                }
+            ],
+            "place_id": "ChIJHbuas6160zsREOJUOUyA2SE",
+            "plus_code": {
+                "compound_code": "GRXM+VR Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXM+VR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJHbuas6160zsREOJUOUyA2SE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "Shubh Ratn Building, LG Shoppee main Road, Karanja Chowk, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5555553,
+                    "lng": 78.8345183
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55690712989272,
+                        "lng": 78.83592152989272
+                    },
+                    "southwest": {
+                        "lat": 20.55420747010728,
+                        "lng": 78.83322187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Astavinayak Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116958260936626175952\">Shreyash Petle</a>"
+                    ],
+                    "photo_reference": "AcYSjRj-C4NKqVJVJ3ccMN2KK7FhxEcyVbGrPYWfhY0NnjVbp4RLnY_LrhIs-aIPnIEUWhtqqRaiuOkG1JeH_lsS_8SIDGRSJa8lFGOU2cSWjZXLqXxDIBr6uNaE17F7BIeNqveVRG_kUg1bnmbooMBynQEKxXsCtN3LGpvTVjn2McEJu6Yy",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJZ7b9srN60zsRw2OU4opSN0w",
+            "rating": 5,
+            "reference": "ChIJZ7b9srN60zsRw2OU4opSN0w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "HR4M+6RF, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5513975,
+                    "lng": 78.8441568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55282537989272,
+                        "lng": 78.84550027989273
+                    },
+                    "southwest": {
+                        "lat": 20.55012572010728,
+                        "lng": 78.84280062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maa Jagadamba Electronic",
+            "place_id": "ChIJ1wfPdpJl0zsRypot9BjrKmc",
+            "plus_code": {
+                "compound_code": "HR2V+HM Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2V+HM"
+            },
+            "rating": 0,
+            "reference": "ChIJ1wfPdpJl0zsRypot9BjrKmc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "datta madir, Nishanpura Ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5511002,
+                    "lng": 78.83647359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55249547989272,
+                        "lng": 78.83782972989272
+                    },
+                    "southwest": {
+                        "lat": 20.54979582010728,
+                        "lng": 78.83513007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahesh Electronics Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117089388664139391206\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-PF3cPxA-DsKyCy58aMNp9IvOWxOPKX3Te1am1bN1K7AXTTdcyhu0g3i1Q5jKWOgwDGkssxkXEOGLxkOr_oLAEDeU3z-xSk1gaTa78p9yNj1ESFossblHbNWksWMU3Q7RG4PSqHz61b4OJxvzioxuQ24VnztGjOGlje3CnnKB4Zzb",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJOQirbK160zsRQW3v7i2mEpw",
+            "plus_code": {
+                "compound_code": "HR2P+CH Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2P+CH"
+            },
+            "rating": 3.5,
+            "reference": "ChIJOQirbK160zsRQW3v7i2mEpw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "laxmi talkies road, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5555893,
+                    "lng": 78.8350413
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55695192989272,
+                        "lng": 78.83634112989273
+                    },
+                    "southwest": {
+                        "lat": 20.55425227010728,
+                        "lng": 78.83364147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gupta Electronix",
+            "place_id": "ChIJqYGQzct70zsRAe7ahQ2NVHQ",
+            "rating": 5,
+            "reference": "ChIJqYGQzct70zsRAe7ahQ2NVHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HR4P+723, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5515985,
+                    "lng": 78.8401458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55294922989272,
+                        "lng": 78.84147382989272
+                    },
+                    "southwest": {
+                        "lat": 20.55024957010728,
+                        "lng": 78.83877417010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Manish Electricals & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJgVjok1Jl0zsRh6J2hSV1vZI",
+            "plus_code": {
+                "compound_code": "HR2R+J3 Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2R+J3"
+            },
+            "rating": 4,
+            "reference": "ChIJgVjok1Jl0zsRh6J2hSV1vZI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5490414,
+                    "lng": 78.8343148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55040007989272,
+                        "lng": 78.83559042989273
+                    },
+                    "southwest": {
+                        "lat": 20.54770042010728,
+                        "lng": 78.83289077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rathi Electronics Hinganghat",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJJ2lcSax60zsRYsVCoU2v3sI",
+            "rating": 3.3,
+            "reference": "ChIJJ2lcSax60zsRYsVCoU2v3sI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "GRXM+JP7, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5490773,
+                    "lng": 78.83782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55042712989273,
+                        "lng": 78.83916982989273
+                    },
+                    "southwest": {
+                        "lat": 20.54772747010728,
+                        "lng": 78.83647017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kothari Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110072953575373768415\">sunanda kothari</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFtUJxIgZMG31VufGoq9PUkiM8JZBHx_AdUUk7JPt8mdTxGxsgUCI1azEj_FEfQVQWp5o2i7KN8Po8hCA5leZDCm6HlYudhKV6IMEyKh7ocacIUD1GhH19Hl058SZMWIZIwFjrMiIgWYT9Mqudp_hcD_8WC2-WR03QjM1O7Fra92Q6",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJ217Xva160zsRWwuky2jd2Kc",
+            "plus_code": {
+                "compound_code": "GRXQ+J4 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXQ+J4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ217Xva160zsRWwuky2jd2Kc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Main Rd, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5511103,
+                    "lng": 78.85156830000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55240692989272,
+                        "lng": 78.85290887989272
+                    },
+                    "southwest": {
+                        "lat": 20.54970727010727,
+                        "lng": 78.85020922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Unix Computers & Mobile",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 674,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104294840751637633880\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJgZXyGfIC6wtRkq48gMVsq4SNWfPLVfiunmvzA5oHcqR7LWTvz6AWL-UBl1ZRZRYCeH01y0INkeCypHUdx3n14GLcy17MD1J3Yo2J8PMkEarMImGfBO4EiObDfTRY9xIsMT_CQQcQfs6LQbXaFSAkMZy9AaeVjc7aGj7AMbELhtTL",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJOebJGexl0zsRRb1X8SbqKUA",
+            "plus_code": {
+                "compound_code": "HV22+CJ Hinganghat, Maharashtra",
+                "global_code": "7JGWHV22+CJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJOebJGexl0zsRRb1X8SbqKUA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Nandori Rd, near Gajanan traders, Sant Tukdoji Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5420545,
+                    "lng": 78.8428887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54338652989272,
+                        "lng": 78.84427042989272
+                    },
+                    "southwest": {
+                        "lat": 20.54068687010728,
+                        "lng": 78.84157077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ranjeet electronic and electrical shop",
+            "place_id": "ChIJLQ3G8gxl0zsRJ3jf6q8Tkqw",
+            "plus_code": {
+                "compound_code": "GRRV+R5 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRRV+R5"
+            },
+            "rating": 1,
+            "reference": "ChIJLQ3G8gxl0zsRJ3jf6q8Tkqw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Wardha road near by Cottage Hospital Pimpalgaon Road Shende layout Front of gate in cotton Hospital line, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5512722,
+                    "lng": 78.8365553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55262092989272,
+                        "lng": 78.83791742989271
+                    },
+                    "southwest": {
+                        "lat": 20.54992127010728,
+                        "lng": 78.83521777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "pravin Electronics And Electrical Repairing Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116358285272452276816\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7qI-5ikhEZuJXvMBPZ3h5uM6Zbt-EBmmmXYRiUEqEHK-NHPwCxeMFfKGFLjKi7YrGvucmpijRn98_4_ja0keHEk6g1_u89WciKRRyItnkHE3FNuL4yUkWfbxw8RTCwlwxMILYix-5qD6PX3e6UxlwOzuqieuJyq5ott4V-t3TyghU",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJdZgXbK160zsRp7xvecjuH8c",
+            "plus_code": {
+                "compound_code": "HR2P+GJ Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2P+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJdZgXbK160zsRp7xvecjuH8c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HDFC Bank Ke Samne Lakshmi Talkies Road HDFC Bank samor Hinganghat, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5436181,
+                    "lng": 78.84339589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54499187989272,
+                        "lng": 78.84469657989273
+                    },
+                    "southwest": {
+                        "lat": 20.54229222010728,
+                        "lng": 78.84199692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sai Electricals & Electronics",
+            "place_id": "ChIJYQT2Dl9l0zsRv8ZHrR8Tyo4",
+            "plus_code": {
+                "compound_code": "GRVV+C9 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRVV+C9"
+            },
+            "rating": 0,
+            "reference": "ChIJYQT2Dl9l0zsRv8ZHrR8Tyo4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Shahalangadi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5516683,
+                    "lng": 78.8418289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55301622989272,
+                        "lng": 78.84319942989272
+                    },
+                    "southwest": {
+                        "lat": 20.55031657010728,
+                        "lng": 78.84049977010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Innovate Computer sales & Service",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101615954489943041527\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOB-CTzyKv_JAD5DjsyJdIRHxxqzvjFWmnQmuGSGYxdkw_mJSh_0U127xk9kCy4sQp04sbvlMTqzjA58s5BJETcyzrOmM2A5YuUCH7SXzcx4qyzAvF326NKPTwGs8-XhIURZTdVadPo56LtVXPBGzUxEGNMtfohRw_gGAt8DvOCHWN",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJISfRFD1l0zsRxKhSA729gHU",
+            "plus_code": {
+                "compound_code": "HR2R+MP Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2R+MP"
+            },
+            "rating": 3.5,
+            "reference": "ChIJISfRFD1l0zsRxKhSA729gHU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Gandhi Ward Karanja Square, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.6174876,
+                    "lng": 78.9298846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.61882602989272,
+                        "lng": 78.93126102989272
+                    },
+                    "southwest": {
+                        "lat": 20.61612637010728,
+                        "lng": 78.92856137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "S.kumar electronic",
+            "place_id": "ChIJC8iMAFFn0zsRv-wlpmSryRo",
+            "rating": 0,
+            "reference": "ChIJC8iMAFFn0zsRv-wlpmSryRo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JW8H+XXR, Jamb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5561255,
+                    "lng": 78.85765669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55748032989272,
+                        "lng": 78.85898292989272
+                    },
+                    "southwest": {
+                        "lat": 20.55478067010728,
+                        "lng": 78.85628327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sufi sound & decoration",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103806666368815206123\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjDtR-WlqBdDNTdyTmrBpCW4J0Xt9iyOd08ge54PUF_gL88FVHnSFSY5Hikq_SH8eU0W5M_G34n3DsDrSLSqEyWOxMqZfqtnOyCY0opmIyptvZKzicxtvyMUfkhJkNwV15ye5KYhLD7gwjeCCFmHSPwVTTE1kSmvHx0DknPwge7V-gR",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJN1vUXpFl0zsRqYC5edDu0TM",
+            "plus_code": {
+                "compound_code": "HV45+F3 Hinganghat, Maharashtra",
+                "global_code": "7JGWHV45+F3"
+            },
+            "rating": 5,
+            "reference": "ChIJN1vUXpFl0zsRqYC5edDu0TM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "SantTukdoji ward Behind mohota gardan Mohota qwater no 4, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5495026,
+                    "lng": 78.8370873
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55084162989272,
+                        "lng": 78.83850132989271
+                    },
+                    "southwest": {
+                        "lat": 20.54814197010727,
+                        "lng": 78.83580167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "GOVINDA INVERTER",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJhZH93qx60zsRTUyov8_o2IM",
+            "plus_code": {
+                "compound_code": "GRXP+RR Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXP+RR"
+            },
+            "rating": 4,
+            "reference": "ChIJhZH93qx60zsRTUyov8_o2IM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shiwaji ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5481912,
+                    "lng": 78.83427429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54961367989272,
+                        "lng": 78.83556722989272
+                    },
+                    "southwest": {
+                        "lat": 20.54691402010728,
+                        "lng": 78.83286757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "My Jio Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ09HzX5Fx0zsR9wE01hqZc4Q",
+            "plus_code": {
+                "compound_code": "GRXM+7P Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXM+7P"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ09HzX5Fx0zsR9wE01hqZc4Q",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "Mene Shop Gandhi Chowk Beside kanak jewellers Hinganghta Dist:, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5511646,
+                    "lng": 78.8490995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55251457989272,
+                        "lng": 78.85044252989272
+                    },
+                    "southwest": {
+                        "lat": 20.54981492010728,
+                        "lng": 78.84774287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shri Gajanan Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113531259543657233965\">Anant Askar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZCJOhatawanOo6t1QCEQIxjenlSNI2bZ-KKuc1zBLAC2DzYi088TE0nEQyv_GUT-_Lr-CIaEQOs0n7T7MxXcTWgVQdFPzboVUtXgryId4bZfNDRquzfGyNn276Ri8_L_gCDPbBDs2LgYNBaUBwYFkpW_4HHigi3b6_nBuLbARtpVa",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJBSt7cFBl0zsR2qtyv5Rx3os",
+            "plus_code": {
+                "compound_code": "HR2X+FJ Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2X+FJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJBSt7cFBl0zsR2qtyv5Rx3os",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Nikhade complex Shop no. 2, Sant Tukdoji Ward, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

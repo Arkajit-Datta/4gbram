@@ -1,0 +1,916 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiKkU87aLFgad-gwWUd6RxdyXs6j1yiu-B6Vb3PMRkLrx-7UqhRoJbhLsr-gHVkZxG04ZqX-wb9yFY5aGtRzEHXdcuJAF54_fli1k4IqSCD84GHL6av4bOpmSof0uXATN4K76WYMQsLa7PRX0IST2Lyxd8zffmqn-EiWYW1jBg-7aeTbi_IVYSB0UbRD3TpY_dFOREvECV0P0r6jmKr-7pylWlcvMQrZm8-Sef09ndIF8q1fsl9eh1QKvuurHL5lYFiY78Mmphlq-Pue-z91mVZIPN35UvK5Im-MBi5I8JRnexApCNiTBaG7-dZXN1y0ZjW9np626pWyOAIk1lwLBYHo6zXHRFz6pEFIwIw5valK2kjogEvEWfWqirXFxhfVog-DtfP4e5Rke7D9x6DYmihPa4SMSKrtGdDKdgYzrNk_avGxfga0PpQLA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6370912,
+                    "lng": 77.1022959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63847567989272,
+                        "lng": 77.10364577989272
+                    },
+                    "southwest": {
+                        "lat": 28.63577602010728,
+                        "lng": 77.10094612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Groceries Corner",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJKfsq2Z8EDTkR4vRef4CPCPI",
+            "plus_code": {
+                "compound_code": "J4P2+RW New Delhi, Delhi",
+                "global_code": "7JWVJ4P2+RW"
+            },
+            "rating": 2.9,
+            "reference": "ChIJKfsq2Z8EDTkR4vRef4CPCPI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "27/3, Mukund Lal Katyal Marg, Block 27, Ashok Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.693997,
+                    "lng": 77.17365439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69533182989273,
+                        "lng": 77.17506647989272
+                    },
+                    "southwest": {
+                        "lat": 28.69263217010728,
+                        "lng": 77.17236682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Groceries shop \u0917\u094d\u0930\u094b\u0938\u0930\u0940\u091c \u0938\u0949\u092a",
+            "place_id": "ChIJeY8robcDDTkROPBcNS2Zbp0",
+            "plus_code": {
+                "compound_code": "M5VF+HF Delhi",
+                "global_code": "7JWVM5VF+HF"
+            },
+            "rating": 0,
+            "reference": "ChIJeY8robcDDTkROPBcNS2Zbp0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C-1, Ashok Vihar II, Pocket B 3, Phase 2, Ashok Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6440707,
+                    "lng": 77.1873774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64533957989272,
+                        "lng": 77.18874357989273
+                    },
+                    "southwest": {
+                        "lat": 28.64263992010727,
+                        "lng": 77.18604392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SR Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJYReYopgCDTkRAAAA0H_o1UE",
+            "plus_code": {
+                "compound_code": "J5VP+JX New Delhi, Delhi",
+                "global_code": "7JWVJ5VP+JX"
+            },
+            "rating": 0,
+            "reference": "ChIJYReYopgCDTkRAAAA0H_o1UE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Central Government Residential Complex 2 Block-D, 387/12, Karol Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.71151639999999,
+                    "lng": 77.1246243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71286252989272,
+                        "lng": 77.12597172989273
+                    },
+                    "southwest": {
+                        "lat": 28.71016287010728,
+                        "lng": 77.12327207010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Place",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108787687891873978830\">anshul goyal</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwKNBD8zmD0AmuOXpk5hywQpbUcEEMwcGdZw2Es9c8U9cFacNyOiQWlxe3hjQqw982D3ZlMv0d-75fnaRNqF4qWadBp58htBGnlbE3qku0MReV86AgZ0VZTkgacD8Mpi9KQf1GAFNfgQYe0oswVFBIC1ol0eyXxUM9Jzuj30wMEcEy",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJERcmD14BDTkRvsNtrm8e0N0",
+            "plus_code": {
+                "compound_code": "P46F+JR Delhi",
+                "global_code": "7JWVP46F+JR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJERcmD14BDTkRvsNtrm8e0N0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Rajapur, Pocket 6, Sector 9, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7127007,
+                    "lng": 77.1415299
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71404457989273,
+                        "lng": 77.14287302989273
+                    },
+                    "southwest": {
+                        "lat": 28.71134492010728,
+                        "lng": 77.14017337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Groceries Wale",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJG8bm0ukBDTkRTS7sFGXUjO8",
+            "plus_code": {
+                "compound_code": "P47R+3J Delhi",
+                "global_code": "7JWVP47R+3J"
+            },
+            "rating": 0,
+            "reference": "ChIJG8bm0ukBDTkRTS7sFGXUjO8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F1U-65, Block F 1U, Uttari Pitampura, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6508236,
+                    "lng": 77.1643534
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65213792989272,
+                        "lng": 77.16567472989273
+                    },
+                    "southwest": {
+                        "lat": 28.64943827010728,
+                        "lng": 77.16297507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Food Mart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJnXl2Qu4CDTkREQumufTTJCY",
+            "rating": 4,
+            "reference": "ChIJnXl2Qu4CDTkREQumufTTJCY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M527+8PH, Block B, West Patel Nagar, Patel Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7129719,
+                    "lng": 77.1411534
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71435527989273,
+                        "lng": 77.14246237989272
+                    },
+                    "southwest": {
+                        "lat": 28.71165562010728,
+                        "lng": 77.13976272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "NO.1 GROCERY WAALE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102939692056299659368\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-i3o6HCMMW0espXetHYGtg3diP3w-zx2sY_DLmF243YSrk6ck5Kv-mrZaQfXzJrLsCMdQLaBAV-7SpO6hCA1t24dXHDAzAm3YcURfeZPRtXtHg8rHZmhEEwzZ4jLN_k7KIVVYsfTodUCMH5z2rU-ahit7NmiwEV-YtlS35mztD7Gd",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ86lrPbkBDTkRwrY4mcnM-v8",
+            "plus_code": {
+                "compound_code": "P47R+5F Delhi",
+                "global_code": "7JWVP47R+5F"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ86lrPbkBDTkRwrY4mcnM-v8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "F1-U/2 PITAMPURA GROUND FLOOR"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.707586,
+                    "lng": 77.14316749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70888082989272,
+                        "lng": 77.14458782989273
+                    },
+                    "southwest": {
+                        "lat": 28.70618117010727,
+                        "lng": 77.14188817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Daily Needs Grocery Shop",
+            "place_id": "ChIJQyHp-9UDDTkRdtaeqwPhIoc",
+            "rating": 0,
+            "reference": "ChIJQyHp-9UDDTkRdtaeqwPhIoc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P45V+27G, Maharaja Agrasen Marg, Block MU, Uttari Pitampura, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6883099,
+                    "lng": 77.1180969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68940727989272,
+                        "lng": 77.11942792989272
+                    },
+                    "southwest": {
+                        "lat": 28.68670762010728,
+                        "lng": 77.11672827010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SURAJ STORE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJJ4_qTUEDDTkRd9aFSU2gcu8",
+            "plus_code": {
+                "compound_code": "M4Q9+86 New Delhi, Delhi",
+                "global_code": "7JWVM4Q9+86"
+            },
+            "rating": 0,
+            "reference": "ChIJJ4_qTUEDDTkRd9aFSU2gcu8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "B-11/2, Rani Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.75854589999999,
+                    "lng": 77.1522051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75983637989272,
+                        "lng": 77.15355182989272
+                    },
+                    "southwest": {
+                        "lat": 28.75713672010728,
+                        "lng": 77.15085217010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GROCERY WORLD SUPERMARKET",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114582546100420156538\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiEaA3nUdyAHGYBz6HkeRV-vCLNTKPp0nVa3xIMMtviISKJTa4uLrj8PE9dg3c4nfrEUfdnqUtQBQnKFOx4tdNI7RBi_TLnRq_esxihNEDp4ZCCxLnfgdmUl2GWUqh8ZURLFrId3meoKeuMCNvZRF4aRv3caVUa0IF0sUcy_AqzhY6Y",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJXcedFrsBDTkRHv5z53I5MZA",
+            "plus_code": {
+                "compound_code": "Q552+CV Delhi",
+                "global_code": "7JWVQ552+CV"
+            },
+            "rating": 4,
+            "reference": "ChIJXcedFrsBDTkRHv5z53I5MZA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58,
+            "vicinity": "B-166, Shiv Mandir Rd, Block B, Swaroop Nagar, Bhalswa, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7112485,
+                    "lng": 77.1146725
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71262737989272,
+                        "lng": 77.11604927989272
+                    },
+                    "southwest": {
+                        "lat": 28.70992772010727,
+                        "lng": 77.11334962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery 4 All",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 867,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116842709641590088213\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRheLlV8vMg_eOvPJ1XFvpKv9wfPwK05aBtPgkjGAI_wD8gHJItvLs3tjrmW1EOo5pP2kZttZAtFOVU9vhbV-klZ0cL0uXURrmr5dSQO3vKZzxQp6HtXH1atWXganK297Pt7EcnVHf5OSxi9JyyyvRsgXnqOQKEMg6fQjFGLM0WKg9sL",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJYX2bFx0BDTkRqfLE5dfBB8Y",
+            "plus_code": {
+                "compound_code": "P467+FV Delhi",
+                "global_code": "7JWVP467+FV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJYX2bFx0BDTkRqfLE5dfBB8Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "G20/255, Pocket 20, Sector 7, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7414002,
+                    "lng": 77.1960112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74274787989272,
+                        "lng": 77.19742262989271
+                    },
+                    "southwest": {
+                        "lat": 28.74004822010728,
+                        "lng": 77.19472297010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery On Wheel",
+            "place_id": "ChIJD5Y8yiD-DDkRAAAAMJoIlWk",
+            "plus_code": {
+                "compound_code": "P5RW+HC New Delhi, Delhi",
+                "global_code": "7JWVP5RW+HC"
+            },
+            "rating": 0,
+            "reference": "ChIJD5Y8yiD-DDkRAAAAMJoIlWk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Gali No 1, Nehru Gali, Sant Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237519,
+                    "lng": 77.1490962
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72513237989272,
+                        "lng": 77.15038712989272
+                    },
+                    "southwest": {
+                        "lat": 28.72243272010728,
+                        "lng": 77.14768747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Everyday Kiryana Super Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ8U4Pj50BDTkRn3mBMEUYM-4",
+            "plus_code": {
+                "compound_code": "P4FX+GJ New Delhi, Delhi",
+                "global_code": "7JWVP4FX+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ8U4Pj50BDTkRn3mBMEUYM-4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No-2, Krishna No. 1023/110 Gali No-6, Main Road, Haiderpur, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6902853,
+                    "lng": 77.1565416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69166522989273,
+                        "lng": 77.1579095298927
+                    },
+                    "southwest": {
+                        "lat": 28.68896557010729,
+                        "lng": 77.15520987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "The Grocery Wala",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106259440840204718780\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5pPxgNJd8CNH3wd-iILn3ACQuRiHI5L9g70soTZYzqmmAUnRA_D-Q9glAkIcxqYr3TE-IYQlpT_Z2QYrxuognYWAISiXxFKUcnsol2GLMkB-NGELuJYKHa_Gh1EIUpoY09QcwOk6vyD4ZtjHg5bLXCjkSCIRdfrVOcfHPbsKT8K7b",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJKWmGYwgDDTkReaUMb00OPLM",
+            "plus_code": {
+                "compound_code": "M5R4+4J Delhi",
+                "global_code": "7JWVM5R4+4J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJKWmGYwgDDTkReaUMb00OPLM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "C-7/51, Lawrence Rd, Block C7, Keshav Puram, oad, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7345769,
+                    "lng": 77.1221771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73593332989272,
+                        "lng": 77.12353222989272
+                    },
+                    "southwest": {
+                        "lat": 28.73323367010728,
+                        "lng": 77.12083257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "The Grocery Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJH2sSgj4BDTkRAmvx3cjMat0",
+            "plus_code": {
+                "compound_code": "P4MC+RV Delhi",
+                "global_code": "7JWVP4MC+RV"
+            },
+            "rating": 0,
+            "reference": "ChIJH2sSgj4BDTkRAmvx3cjMat0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ground Floor, Sector- 16 Rohini Delhi, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7558413,
+                    "lng": 77.11328429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75721562989273,
+                        "lng": 77.1146583298927
+                    },
+                    "southwest": {
+                        "lat": 28.75451597010728,
+                        "lng": 77.11195867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiv General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110513998021659250343\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi2ikcn_fTfYOoncslCBYyKfFhoJu-RYMHWGYvzcsRo46yJ97lUfQqDf8uMM7IY0SGpLySr1yR5qyF2fNsNpYSYpXsvMYgrpSbRV6tsZpql_p3ud9n8N-mdrirQLKMg54UFSn48rMaSs-FZDLj3wejZjQnOW-8MJd4GIHEqHifJjHr-",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ57khRdcADTkRHF-hnmnpSuM",
+            "plus_code": {
+                "compound_code": "Q447+88 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVQ447+88"
+            },
+            "rating": 5,
+            "reference": "ChIJ57khRdcADTkRHF-hnmnpSuM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "21, Sector 27, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.708769,
+                    "lng": 77.1363839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71007532989272,
+                        "lng": 77.13780237989272
+                    },
+                    "southwest": {
+                        "lat": 28.70737567010728,
+                        "lng": 77.13510272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJLzI-tmIBDTkREsi3ucfFdIs",
+            "rating": 4,
+            "reference": "ChIJLzI-tmIBDTkREsi3ucfFdIs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P45P+FHV, AP Block, Block RU, Uttari Pitampura, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6374055,
+                    "lng": 77.1200648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63875562989272,
+                        "lng": 77.12134607989272
+                    },
+                    "southwest": {
+                        "lat": 28.63605597010728,
+                        "lng": 77.11864642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "CITY MARKET",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115421903067379556719\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRip9e1-3ibtgzrsJ_rOstKG7YkFs5FMy8dWdGQ4jUWLiTFu97h5siA8hEbXrnj93olz_E5SzbvAa0xBd3XnAyAOckqk_8UQ5upXCytqtbxZEJ4buoNgiH9Ds0oQuOxPSvoplxPnS_QJMydhd-bRKM1_WLZ44w5hgqMySwHYP3gdNukS",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJXapQVkIDDTkRPpguQIfuNqs",
+            "plus_code": {
+                "compound_code": "J4PC+X2 New Delhi, Delhi",
+                "global_code": "7JWVJ4PC+X2"
+            },
+            "rating": 3.5,
+            "reference": "ChIJXapQVkIDDTkRPpguQIfuNqs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "11/107, Keshav Marg, OPP. BPCL PETROL PUMP, Block 11, Subhash Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.75421699999999,
+                    "lng": 77.11322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75555812989273,
+                        "lng": 77.11456047989272
+                    },
+                    "southwest": {
+                        "lat": 28.75285847010728,
+                        "lng": 77.11186082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJNVn3pzcBDTkRdGXC6asdYLQ",
+            "plus_code": {
+                "compound_code": "Q437+M7 Delhi",
+                "global_code": "7JWVQ437+M7"
+            },
+            "rating": 5,
+            "reference": "ChIJNVn3pzcBDTkRdGXC6asdYLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "C-2, 1130, Sector 27, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7221635,
+                    "lng": 77.1361125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72357762989272,
+                        "lng": 77.13760742989271
+                    },
+                    "southwest": {
+                        "lat": 28.72087797010728,
+                        "lng": 77.13490777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Arora Grocery store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJayFgF-cBDTkR8Ol6ozCQPBE",
+            "plus_code": {
+                "compound_code": "P4CP+VC New Delhi, Delhi",
+                "global_code": "7JWVP4CP+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJayFgF-cBDTkR8Ol6ozCQPBE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "46, Pocket 46, Sector 13, Rohini, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

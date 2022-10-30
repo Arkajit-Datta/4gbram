@@ -1,0 +1,924 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgExPHvM8u3J9r73as4R4V7lIreg2Nszzyz0Lp2q8b9t0atn5be21rtXXK1cusAdwh2HwWCeAzbfw78OByWACI6EzVUHkYCwBIeqhYQGbhQZZfvJR2XuCmjprVzTDtJMYMYz0tYLAbMSF9vgW4-PS40tV3zb4n2osJtnh5CAGC_2Ovv2iEJX2psBQ2auLDvto9XRzISey5qOxjJmSUcHO58lhrKcsvdzGbbpcQ3owbfMI-BUYwRbVUJ-Qz3X7QOrGFfMbI2GBKLCyus4V310vXtBX38Y_ZC1WP2_3vI6VRuBNq3kjmXc7HTr839ppWqJ0C3oiOQWYOdcHCJo03uHle-vx7NXcrwmzA8UgVCW4V1N7mgpITLz-tkq8-lW-Jj2ozEsXK5oUAkjr2fMp4e9ERDcomLiYCIcPalpx4OXtU2g3euf8222Rwd",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4555876,
+                    "lng": 78.5544003
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45693682989272,
+                        "lng": 78.55575107989273
+                    },
+                    "southwest": {
+                        "lat": 25.45423717010727,
+                        "lng": 78.55305142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Krishna grocery Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2056,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110378882198557074519\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgbvtyeK4H_Dz362_kjyum20A5huQofz91fVr3ka3yEUPINttIaqK3jACI-75a44b8sdue2-kB5l17rWyIkIlSV-FctkSclaMeH0MsAljYoXpoVmTfk1SuRtkgIrWO9b3bQ6S3rBBGe82jOKvlPOEfi3v9N4IBR0sUYX_2JEaSubULh",
+                    "width": 2420
+                }
+            ],
+            "place_id": "ChIJS1eGdxxxdzkRY3YsYwPYOIM",
+            "plus_code": {
+                "compound_code": "FH43+6Q Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH43+6Q"
+            },
+            "rating": 5,
+            "reference": "ChIJS1eGdxxxdzkRY3YsYwPYOIM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "1399/6, Gondu Compound, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4162748,
+                    "lng": 78.5620113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.41759992989272,
+                        "lng": 78.56336112989273
+                    },
+                    "southwest": {
+                        "lat": 25.41490027010727,
+                        "lng": 78.56066147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kartik grocery store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ52skJH1xdzkR2wrVqlB5Q6Q",
+            "plus_code": {
+                "compound_code": "CH86+GR Badaganw Rural, Uttar Pradesh",
+                "global_code": "7JQWCH86+GR"
+            },
+            "rating": 0,
+            "reference": "ChIJ52skJH1xdzkR2wrVqlB5Q6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near, Sion - Panvel Expy, Sector 24, Turbhe, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4694441,
+                    "lng": 78.5430933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47079522989272,
+                        "lng": 78.54445037989272
+                    },
+                    "southwest": {
+                        "lat": 25.46809557010728,
+                        "lng": 78.54175072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiv Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJaRiuLcxxdzkRayUKlAagPlI",
+            "plus_code": {
+                "compound_code": "FG9V+Q6 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG9V+Q6"
+            },
+            "rating": 0,
+            "reference": "ChIJaRiuLcxxdzkRayUKlAagPlI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "140, Prem Ganj, Brahma Nagar Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4623415,
+                    "lng": 78.5577972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46366437989272,
+                        "lng": 78.55915267989273
+                    },
+                    "southwest": {
+                        "lat": 25.46096472010728,
+                        "lng": 78.55645302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vidhi Supermarket",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102577011569278487622\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhU9qDcY4HPBQUWWboYy1EXGQ7NqLPNdBBcPiqxmIzB3QWldgb-ObgaFfDLttYRloYgg-LQJOFate8hJ1EFJd_sxjraXt3B2GZsFy3LnOftvg9UcnsJ4F9qsxcer8KBAww1aXLaxofnAZhIIPdyqvaRtc8gkfirMUNdIKzARCQ6heCC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJW0ffy65xdzkRl1QQvnIqLNI",
+            "plus_code": {
+                "compound_code": "FH65+W4 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH65+W4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJW0ffy65xdzkRl1QQvnIqLNI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "Unnamed Road, Mission Compound, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4766514,
+                    "lng": 78.5656453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47793707989272,
+                        "lng": 78.56706202989272
+                    },
+                    "southwest": {
+                        "lat": 25.47523742010728,
+                        "lng": 78.56436237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sunrise mart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 868,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106958239800971169201\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh78t7n442lSudRnaSdiax5dtmJMgOLeZm3VymwFbI4ztutxfli28nGOv4ZucCf9GIfpFwV5FqFwAByC_PrjQNqGjQ6n8Y7Nsh1rjK0FmxhRH3kHwsuUWpnOLM66DwaEND0r1Rbu708YIxuf5K-7Xsv5g-sl-ealk3ZAXkm0-rYr8_b",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJOSPzKlRxdzkRGma0zSx4SGo",
+            "plus_code": {
+                "compound_code": "FHG8+M7 Jhansi Khas, Uttar Pradesh",
+                "global_code": "7JQWFHG8+M7"
+            },
+            "rating": 5,
+            "reference": "ChIJOSPzKlRxdzkRGma0zSx4SGo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "Ganesh chauraha, Balaji Unnao Rd, Jhansi Khas"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.418697,
+                    "lng": 78.5382168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.42009612989272,
+                        "lng": 78.53967342989273
+                    },
+                    "southwest": {
+                        "lat": 25.41739647010728,
+                        "lng": 78.5369737701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "PANKAJ KIRANA STORE",
+            "place_id": "ChIJ125JaZRxdzkRq2uf_Cw4FDI",
+            "plus_code": {
+                "compound_code": "CG9Q+F7 Nagra, Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCG9Q+F7"
+            },
+            "rating": 0,
+            "reference": "ChIJ125JaZRxdzkRq2uf_Cw4FDI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nagra, Gwalior"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4309868,
+                    "lng": 78.53822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43231452989272,
+                        "lng": 78.53959542989273
+                    },
+                    "southwest": {
+                        "lat": 25.42961487010728,
+                        "lng": 78.53689577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "J G Kirana",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJeSyt1qhxdzkRYLearAnqqjk",
+            "plus_code": {
+                "compound_code": "CGJQ+97 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCGJQ+97"
+            },
+            "rating": 5,
+            "reference": "ChIJeSyt1qhxdzkRYLearAnqqjk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Silvert gunj, Prem Nagar, Nagra, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4590844,
+                    "lng": 78.5368384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46040202989272,
+                        "lng": 78.53817552989271
+                    },
+                    "southwest": {
+                        "lat": 25.45770237010727,
+                        "lng": 78.53547587010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Peehu's store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJHcIle-hxdzkRGNFM_XRWIGM",
+            "plus_code": {
+                "compound_code": "FG5P+JP Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG5P+JP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJHcIle-hxdzkRGNFM_XRWIGM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "46/14, Krishna Enclave Colony Rd, GAIL Colony, Rash Bihar Colony, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.459608,
+                    "lng": 78.5770496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46104247989272,
+                        "lng": 78.57843562989271
+                    },
+                    "southwest": {
+                        "lat": 25.45834282010728,
+                        "lng": 78.57573597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nathu Ram Kirana",
+            "place_id": "ChIJ9Sfym9B2dzkRAAAAMOUybkM",
+            "rating": 0,
+            "reference": "ChIJ9Sfym9B2dzkRAAAAMOUybkM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH5G+RRV, Kotwali Kotwali, Manik Chowk, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4540579,
+                    "lng": 78.5305642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45541832989272,
+                        "lng": 78.53191612989272
+                    },
+                    "southwest": {
+                        "lat": 25.45271867010727,
+                        "lng": 78.52921647010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Daily Delights Super Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117331932729971098842\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjrpw-EAWe82mWzb2Q__wDNnyPtPx9j5ZkqLBlh5werT6WFB2Vfe7kWuRSgpozry8XZ4DIsT2VDFmSM451WFiEeQn-ydl_7koYfV8la9IqK0vPWQ3_ZdwgC04HESU_y_nxcxktDXDMj7niqoxhvnD94VfGJT81sERRExfZixtfJh59a",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJfVwRcH5xdzkR0mTsWk2G-HY",
+            "rating": 5,
+            "reference": "ChIJfVwRcH5xdzkR0mTsWk2G-HY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FG3J+J68, Sangam Vihar, Awas Vikas Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4599915,
+                    "lng": 78.53203309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46133687989272,
+                        "lng": 78.53338572989273
+                    },
+                    "southwest": {
+                        "lat": 25.45863722010727,
+                        "lng": 78.53068607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rahi kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1808,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106505029291274381399\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiuXzkWaTSlxxYW0xDKXvrO5bDzxtpV83SzTtVyG6ie6PjPsDmKlN5_hyuezEvBNXz0iWsvJrQA-US_mgXSL-PI8u6jWwIOxsw6PGMPebIYw7eqli79SKEhs9YTzhDQu0xEhAsbe0Fiix1N2uy6Oh5XenJuSiWCPbmyQMhbNQZsIlxw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLx3gGB1xdzkReib6Uxx48Jk",
+            "plus_code": {
+                "compound_code": "FG6J+2R Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG6J+2R"
+            },
+            "rating": 5,
+            "reference": "ChIJLx3gGB1xdzkReib6Uxx48Jk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "lehar gird, 189, State bank colony, panchyat bhawan, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4284422,
+                    "lng": 78.5539886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.42980252989272,
+                        "lng": 78.55533012989271
+                    },
+                    "southwest": {
+                        "lat": 25.42710287010728,
+                        "lng": 78.55263047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "FAUJEE KIRANA STORE",
+            "place_id": "ChIJI5inOmJxdzkRj6Z7FdTkXPg",
+            "plus_code": {
+                "compound_code": "CHH3+9H Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHH3+9H"
+            },
+            "rating": 0,
+            "reference": "ChIJI5inOmJxdzkRj6Z7FdTkXPg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "19, 19, Puliya, Pulia Number. 9, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4653364,
+                    "lng": 78.5368029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46684212989272,
+                        "lng": 78.53781077989271
+                    },
+                    "southwest": {
+                        "lat": 25.46414247010728,
+                        "lng": 78.53511112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dayaram Kirana Store",
+            "place_id": "ChIJo23pduVxdzkRF0ulscgMi0Q",
+            "plus_code": {
+                "compound_code": "FG8P+4P Lahargird, Uttar Pradesh",
+                "global_code": "7JQWFG8P+4P"
+            },
+            "rating": 0,
+            "reference": "ChIJo23pduVxdzkRF0ulscgMi0Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00, Brahma Nagar Colony, Lahargird"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4604804,
+                    "lng": 78.5596738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46184787989272,
+                        "lng": 78.56096647989271
+                    },
+                    "southwest": {
+                        "lat": 25.45914822010727,
+                        "lng": 78.55826682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ma Vaishno Provision Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 502,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107624821275622790567\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjbqkYT-bEvQJYRUxh0pwD9Upb_bwA7ZVyou3oGGZBmn7tWChOTpo6LjvJjqlPAR6di_ORqZ9hS3wZZZVEOqpC2W3hCThIk7EdL2bS4cYtDzvK5xu_3WZWhiu9nMziP4e6I1xRgKTWTB-F9ct7IcQICBFffxkZ96ZmpBN4-y898AE-l",
+                    "width": 896
+                }
+            ],
+            "place_id": "ChIJC2IKdz9xdzkRZdi24WrHV-U",
+            "plus_code": {
+                "compound_code": "FH65+5V Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH65+5V"
+            },
+            "rating": 5,
+            "reference": "ChIJC2IKdz9xdzkRZdi24WrHV-U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Mission Compound, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4611402,
+                    "lng": 78.554659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46256502989272,
+                        "lng": 78.55600557989273
+                    },
+                    "southwest": {
+                        "lat": 25.45986537010728,
+                        "lng": 78.55330592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MAHAKAL SUPER MART",
+            "photos": [
+                {
+                    "height": 780,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109019402664362151083\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHxyHQCGMK4y6upNEixZVLaa3RX6SNXwMBX0pzwnGGPReh886bREF60GSJEdE_P6cEgUAhyiliCLFQK9idDK49Bmui35Q5sB6Ge9Xp4YT8JXzVQuL-NExv3tGAWZEwBKpo4DgS3RAcdQC6ZC89C_QP5_YAtNftJtlES1TEyLXKf0Ic",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJl41lXx5xdzkRSmSOYsyl7AM",
+            "plus_code": {
+                "compound_code": "FH63+FV Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH63+FV"
+            },
+            "rating": 5,
+            "reference": "ChIJl41lXx5xdzkRSmSOYsyl7AM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "COUMPOUND GATE, 135A/A, Mission Compound, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4590225,
+                    "lng": 78.54821609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46038112989272,
+                        "lng": 78.54956802989273
+                    },
+                    "southwest": {
+                        "lat": 25.45768147010728,
+                        "lng": 78.54686837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BALA JI STORE",
+            "place_id": "ChIJyTWsSahxdzkRpUy2vpQuK5E",
+            "plus_code": {
+                "compound_code": "FG5X+J7 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG5X+J7"
+            },
+            "rating": 0,
+            "reference": "ChIJyTWsSahxdzkRpUy2vpQuK5E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Adarsh Nagar Jhansi Kargil Park, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4779938,
+                    "lng": 78.5735036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47932137989272,
+                        "lng": 78.57488522989271
+                    },
+                    "southwest": {
+                        "lat": 25.47662172010728,
+                        "lng": 78.57218557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "sudheer kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116220941710176326081\">Sudheer Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiFwbA3IMuOrx7WC3clZ6cVrZImNBwa8xJY4x60ec8v4qYByVNWlaREdd5DWsahmo0h7OxfcLUGs2eFKu5WlwfXzqqesrNPVPCIyERKuG-9s2hp75evAXtU8XH0VAd3gNUqMXc-gpiCf4lVnnp_QHdHilCkEgz6fXWam9_tK6PC51iN",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJP_BQ87Z2dzkRIMKMb3IyMK0",
+            "plus_code": {
+                "compound_code": "FHHF+5C Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFHHF+5C"
+            },
+            "rating": 3.8,
+            "reference": "ChIJP_BQ87Z2dzkRIMKMb3IyMK0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "296 Outside Unnao Gate, Panchvati Colony, Pitambra Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4611446,
+                    "lng": 78.5682533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46247422989272,
+                        "lng": 78.56961927989272
+                    },
+                    "southwest": {
+                        "lat": 25.45977457010728,
+                        "lng": 78.56691962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sakshi Kirana Store",
+            "place_id": "ChIJVSR7rmN3dzkR2WGSkCIVYvg",
+            "plus_code": {
+                "compound_code": "FH69+F8 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH69+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJVSR7rmN3dzkR2WGSkCIVYvg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 00 J D A, Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4654385,
+                    "lng": 78.5801232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46676517989272,
+                        "lng": 78.58149307989272
+                    },
+                    "southwest": {
+                        "lat": 25.46406552010727,
+                        "lng": 78.57879342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Agarwal genral store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJn-pUbJJ3dzkREd9zELW60i8",
+            "rating": 0,
+            "reference": "ChIJn-pUbJJ3dzkREd9zELW60i8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH8J+53C, Itwari Ganj, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4541511,
+                    "lng": 78.5303746
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45550122989272,
+                        "lng": 78.53172447989273
+                    },
+                    "southwest": {
+                        "lat": 25.45280157010728,
+                        "lng": 78.52902482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Ration Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 282,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113156645530248132281\">Grocery Ration Store Jhansi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVOS7SJCawVCGWebTAetf3ig2mx7J-hLvpHaRydtwLoAv_Xttql1fd6bERBSmykh0wphe1lL2x_dPefmzaDCV_59klO-PPQGn68KTPioIH_5gSNEPHBfIU-Z4iDhQfXwKjsf1q8zk9uZXkK-DcWt-AhPK7lXjP0L87sBrXz-Uqv54p",
+                    "width": 767
+                }
+            ],
+            "place_id": "ChIJsQlBngRxdzkRivJimf24N1g",
+            "plus_code": {
+                "compound_code": "FG3J+M4 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG3J+M4"
+            },
+            "rating": 4,
+            "reference": "ChIJsQlBngRxdzkRivJimf24N1g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "137/1, fauji chauraha,, Sangam Vihar, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,305 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5250812,
+                    "lng": 78.5626272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52636307989272,
+                        "lng": 78.56396667989273
+                    },
+                    "southwest": {
+                        "lat": 19.52366342010728,
+                        "lng": 78.56126702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yogeshwari Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJi1yezE1n0jsRHCT4iGDoOK4",
+            "plus_code": {
+                "compound_code": "GHG7+23 Tosham, Telangana",
+                "global_code": "7JFWGHG7+23"
+            },
+            "rating": 5,
+            "reference": "ChIJi1yezE1n0jsRHCT4iGDoOK4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4847962,
+                    "lng": 78.4974676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48615332989272,
+                        "lng": 78.49881977989273
+                    },
+                    "southwest": {
+                        "lat": 19.48345367010728,
+                        "lng": 78.49612012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Siddi Vinayaka Kirana Shop",
+            "place_id": "ChIJfYrTlpJl0jsRt2upTuaOTbk",
+            "plus_code": {
+                "compound_code": "FFMW+WX Adilabad(U), Telangana",
+                "global_code": "7JFWFFMW+WX"
+            },
+            "rating": 0,
+            "reference": "ChIJfYrTlpJl0jsRt2upTuaOTbk",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S N 6-55, BC Colony, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5814456,
+                    "lng": 78.49370859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.58279557989272,
+                        "lng": 78.49505897989272
+                    },
+                    "southwest": {
+                        "lat": 19.58009592010728,
+                        "lng": 78.49235932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hariprasad Kirana",
+            "place_id": "ChIJjUq9fU9d0jsRfFL5Vzy5hF4",
+            "plus_code": {
+                "compound_code": "HFJV+HF Seetagondi, Telangana",
+                "global_code": "7JFWHFJV+HF"
+            },
+            "rating": 0,
+            "reference": "ChIJjUq9fU9d0jsRfFL5Vzy5hF4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2-34, opp. National Highway 44, Haghiway, Seetagondi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.504795,
+                    "lng": 78.52875089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.50612392989272,
+                        "lng": 78.53012732989272
+                    },
+                    "southwest": {
+                        "lat": 19.50342427010728,
+                        "lng": 78.52742767010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gurukrupa kirana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103139514705892101778\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRitSOfc4pq5L69_AFsuWGZ5jEi5ZY22E8XwV1E-IaQAtQdCFf3j3FRdF889M9JbIK2nfrz7vrj74qiKUub3Ym0ZW0oIfE9eWDR3X3_KUIQeK5kaGf0oH-iAfb9W1poQRDKeYwLHTvUPT9T0I8OljZOuRjigHU1U7eQAnKNdM89estRe",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJy2N-VD1n0jsRR5rXzGAM9p0",
+            "plus_code": {
+                "compound_code": "GG3H+WG Kolhari 1, Telangana",
+                "global_code": "7JFWGG3H+WG"
+            },
+            "rating": 3.3,
+            "reference": "ChIJy2N-VD1n0jsRR5rXzGAM9p0",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Kolhari 1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4735272,
+                    "lng": 78.5364756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.47490857989272,
+                        "lng": 78.53782007989271
+                    },
+                    "southwest": {
+                        "lat": 19.47220892010728,
+                        "lng": 78.53512042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "sai Kirana",
+            "place_id": "ChIJ9X1RQf9l0jsRs6Uifo5qB3I",
+            "plus_code": {
+                "compound_code": "FGFP+CH Khanapur, Telangana",
+                "global_code": "7JFWFGFP+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJ9X1RQf9l0jsRs6Uifo5qB3I",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S N 7-5, Shanthapur, Khanapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.4846791,
+                    "lng": 78.4974546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.48602952989272,
+                        "lng": 78.4988019798927
+                    },
+                    "southwest": {
+                        "lat": 19.48332987010728,
+                        "lng": 78.49610232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BHARATH KIRANA",
+            "place_id": "ChIJ95F-S6Bl0jsRf_Y0-pqQop0",
+            "plus_code": {
+                "compound_code": "FFMW+VX Mannur, Telangana",
+                "global_code": "7JFWFFMW+VX"
+            },
+            "rating": 0,
+            "reference": "ChIJ95F-S6Bl0jsRf_Y0-pqQop0",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S N 4-3/3, near Bc Colony, Mannur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5396571,
+                    "lng": 78.5900027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.54100447989272,
+                        "lng": 78.59136447989272
+                    },
+                    "southwest": {
+                        "lat": 19.53830482010727,
+                        "lng": 78.58866482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vrushabh kirana",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ90ouNBFh0jsRVTqH5YaEpDc",
+            "rating": 4.5,
+            "reference": "ChIJ90ouNBFh0jsRVTqH5YaEpDc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GHQR+V26, Pipri"
+        }
+    ],
+    "status": "OK"
+}
