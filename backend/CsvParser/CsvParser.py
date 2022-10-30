@@ -36,5 +36,15 @@ class CsvParser:
     
     def _get_mileage(self) -> float:
         return 14.2
-    # def _get_engine_speed(self) -> 
+    
+    def _get_engine_speed(self) -> int:
+        engine_speed = self.df['EngineSpeed'].to_list()
+        average_engine_speed = sum(engine_speed)/len(engine_speed)
+        return average_engine_speed - 700 if average_engine_speed > 700 else 0
+    
+    def _get_idling_time(self) -> int:
+        idling = self.df["NeutralSwSts"].to_list()
+        return sum(idling)/len(idling)
+    
+    
         
