@@ -1,0 +1,800 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgPsSf3BnleHlxx8obYFLzCchW49NMrZ2vWiinr8j-qwEtCf0XAXPzLPkSIh4Vet5bF7A4FM7BKHCDnofWtTMCYmjYlldHPVEHjNYyyAfCLq4aa74eToFWoCgr9lKgpwJUNy5c3wjX0FIRZq7jwSkmyQO65H0rVJCiGf3-9v831Qn73moaWweP_ELVtfku5MBLGM-VYvqZEGmmGkAwbUNI-H-NyDR7EcZ1VQgJe_KJHjZtDeNWql2SGJSFSeQoldZkZ_Vw4WbFkDw5gWrbBM40Aoqwfeyx76kHGqL-DcQExDV7rFWR6ZQvus-yY152ZbCwBQYvdfnFXbTjtRAnNcz6Dz7aCl3y_ue3QPAhflVvURyQO5QDj3CNc0-OzIAwMb0Hk6iGFnnad5WXhV_RJiVWMIA30aqKggqmPAaJBbbT7z9FkBfQcCu49",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7613128,
+                    "lng": 77.85870650000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.76266282989272,
+                        "lng": 77.86005667989272
+                    },
+                    "southwest": {
+                        "lat": 27.75996317010728,
+                        "lng": 77.85735702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KRISHNA KIRANA STORE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJX9I8cX1hczkRBLg_xYzXfkc",
+            "plus_code": {
+                "compound_code": "QV65+GF Belauth, Uttar Pradesh",
+                "global_code": "7JVVQV65+GF"
+            },
+            "rating": 0,
+            "reference": "ChIJX9I8cX1hczkRBLg_xYzXfkc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Belauth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8438104,
+                    "lng": 77.8464815
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.84512012989272,
+                        "lng": 77.84778527989272
+                    },
+                    "southwest": {
+                        "lat": 27.84242047010727,
+                        "lng": 77.84508562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Chandraveer Grocery Store",
+            "place_id": "ChIJ48OC-fRfczkRfNosLjbuMdY",
+            "plus_code": {
+                "compound_code": "RRVW+GH Aligarh, Uttar Pradesh",
+                "global_code": "7JVVRRVW+GH"
+            },
+            "rating": 5,
+            "reference": "ChIJ48OC-fRfczkRfNosLjbuMdY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shekhupur, Aligarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.83006,
+                    "lng": 77.8793553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.83139802989272,
+                        "lng": 77.88069897989271
+                    },
+                    "southwest": {
+                        "lat": 27.82869837010728,
+                        "lng": 77.87799932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SURESH GENERAL STORE",
+            "place_id": "ChIJiThTYcRfczkRlQD2bvMpu2Y",
+            "plus_code": {
+                "compound_code": "RVJH+2P Gonda, Uttar Pradesh",
+                "global_code": "7JVVRVJH+2P"
+            },
+            "rating": 0,
+            "reference": "ChIJiThTYcRfczkRlQD2bvMpu2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gonda Main Market"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8069461,
+                    "lng": 77.8889959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.80831167989272,
+                        "lng": 77.89037317989272
+                    },
+                    "southwest": {
+                        "lat": 27.80561202010728,
+                        "lng": 77.88767352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Devid provision store",
+            "place_id": "ChIJS9HeUdpfczkRbPPgcCxpr80",
+            "rating": 4,
+            "reference": "ChIJS9HeUdpfczkRbPPgcCxpr80",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RV4Q+HM4, Nagla Fakeera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8131823,
+                    "lng": 77.8102237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81454142989272,
+                        "lng": 77.81158812989273
+                    },
+                    "southwest": {
+                        "lat": 27.81184177010728,
+                        "lng": 77.80888847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GULLA JANRAL STOR",
+            "place_id": "ChIJyZGilsxdczkR25SHa3_PpGc",
+            "rating": 5,
+            "reference": "ChIJyZGilsxdczkR25SHa3_PpGc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RR76+738, Asfabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9239054,
+                    "lng": 77.7639066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.92520737989272,
+                        "lng": 77.76528827989272
+                    },
+                    "southwest": {
+                        "lat": 27.92250772010728,
+                        "lng": 77.76258862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tomar general Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJaz_7QsdbczkR_7Ajuj_pLaE",
+            "rating": 4.7,
+            "reference": "ChIJaz_7QsdbczkR_7Ajuj_pLaE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "WQF7+HH7, Ahraula"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8542715,
+                    "lng": 77.90638299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.85564212989271,
+                        "lng": 77.90770617989271
+                    },
+                    "southwest": {
+                        "lat": 27.85294247010727,
+                        "lng": 77.90500652010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "chaudhary general store",
+            "place_id": "ChIJMcQ0SvlfczkRXqDM9q3AgEM",
+            "rating": 0,
+            "reference": "ChIJMcQ0SvlfczkRXqDM9q3AgEM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "VW34+PH2, Nagla Sabal Urf Gonda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7694747,
+                    "lng": 77.7164134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.77070347989272,
+                        "lng": 77.71791107989272
+                    },
+                    "southwest": {
+                        "lat": 27.76800382010728,
+                        "lng": 77.71521142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yogesh General Store",
+            "place_id": "ChIJi6EtFgRDczkRTXOkQ2paOjk",
+            "plus_code": {
+                "compound_code": "QP98+QH Mant, Uttar Pradesh",
+                "global_code": "7JVVQP98+QH"
+            },
+            "rating": 0,
+            "reference": "ChIJi6EtFgRDczkRTXOkQ2paOjk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop01 Main Bazar, Mant"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8185806,
+                    "lng": 77.8416053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81992737989271,
+                        "lng": 77.84295417989273
+                    },
+                    "southwest": {
+                        "lat": 27.81722772010727,
+                        "lng": 77.84025452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Radhe kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJLdKXexFfczkRM4wUVIwzvcg",
+            "rating": 5,
+            "reference": "ChIJLdKXexFfczkRM4wUVIwzvcg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "RR9R+CJQ, near sarkari school, Uttampur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7532814,
+                    "lng": 77.84005760000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.75461207989272,
+                        "lng": 77.84143742989272
+                    },
+                    "southwest": {
+                        "lat": 27.75191242010728,
+                        "lng": 77.83873777010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sharma Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJE4JxAodhczkR0ES3obyd2Ks",
+            "rating": 5,
+            "reference": "ChIJE4JxAodhczkR0ES3obyd2Ks",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "QR3R+827, Gonda Rd, Baksaginora"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8569255,
+                    "lng": 77.854001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.85830262989272,
+                        "lng": 77.85538907989273
+                    },
+                    "southwest": {
+                        "lat": 27.85560297010728,
+                        "lng": 77.85268942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bansal Kirana Store (Fauji)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101322755309225010424\">vivek bansal</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLFTWuWejoCkuo9ugt0jdlzv9fVUy-X28VyQtMmfzrvvxpPmMp2T0KDS_MTUZm5tmL4WXPtBx9IKxHdeClXMyrwBrqAfG0btuQIWMLKXgw_sbjpzzUzUxDqBvQskI-HenAstvBrAw4RWnhiyQU7lMl_1e9QHmNarrKxF7ud03DTglK",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDQYb0cVZczkRvYP3NNbPfzs",
+            "plus_code": {
+                "compound_code": "VV43+QJ Talesara, Uttar Pradesh",
+                "global_code": "7JVVVV43+QJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJDQYb0cVZczkRvYP3NNbPfzs",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Talesara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.889076,
+                    "lng": 77.721141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.89043067989272,
+                        "lng": 77.72247797989272
+                    },
+                    "southwest": {
+                        "lat": 27.88773102010728,
+                        "lng": 77.71977832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Madhavi Ganaral Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJiWLTM-ZFczkRlAQDsIJiHMo",
+            "rating": 0,
+            "reference": "ChIJiWLTM-ZFczkRlAQDsIJiHMo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "VPQC+JF, Saddikpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7986613,
+                    "lng": 77.74610919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.80005662989272,
+                        "lng": 77.74738117989271
+                    },
+                    "southwest": {
+                        "lat": 27.79735697010728,
+                        "lng": 77.74468152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kanha provijan stor",
+            "place_id": "ChIJwQYtOB1dczkRp7JcCdEqu1k",
+            "rating": 0,
+            "reference": "ChIJwQYtOB1dczkRp7JcCdEqu1k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QPXW+FF6, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7825173,
+                    "lng": 77.8456064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.78365072989272,
+                        "lng": 77.84717612989273
+                    },
+                    "southwest": {
+                        "lat": 27.78095107010727,
+                        "lng": 77.84447647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u094d\u0930\u0940 \u0938\u0942\u0930\u091c\u092e\u0932 \u0938\u093f\u0902\u0939 \u0928\u092e\u094d\u092c\u0930\u0926\u093e\u0930",
+            "place_id": "ChIJAUzc0ZVfczkRCQ7sX90-GRw",
+            "rating": 5,
+            "reference": "ChIJAUzc0ZVfczkRCQ7sX90-GRw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "QRMW+265, Aligarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7727067,
+                    "lng": 77.7211724
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.77405142989272,
+                        "lng": 77.7225351298927
+                    },
+                    "southwest": {
+                        "lat": 27.77135177010728,
+                        "lng": 77.71983547010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiviya Provision store Paith Bajar Surir",
+            "place_id": "ChIJUYSOtOpCczkRcQVyXf96QZI",
+            "rating": 3,
+            "reference": "ChIJUYSOtOpCczkRcQVyXf96QZI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "QPFC+3FM, Surir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9164025,
+                    "lng": 77.7303371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.91774627989273,
+                        "lng": 77.73168492989272
+                    },
+                    "southwest": {
+                        "lat": 27.91504662010728,
+                        "lng": 77.72898527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Chaudhary dukan",
+            "place_id": "ChIJz3ROm9ZFczkRgbS0naVxqxE",
+            "rating": 3,
+            "reference": "ChIJz3ROm9ZFczkRgbS0naVxqxE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WP8J+H48, Kolahar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7759603,
+                    "lng": 77.7237243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.77729807989272,
+                        "lng": 77.72508652989272
+                    },
+                    "southwest": {
+                        "lat": 27.77459842010728,
+                        "lng": 77.72238687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ganesh Janaral Stor \u0917\u0923\u0947\u0936 \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0930",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ_-PjdGVDczkRQbMvZ6AXOCc",
+            "plus_code": {
+                "compound_code": "QPGF+9F Bhadanwara, Uttar Pradesh",
+                "global_code": "7JVVQPGF+9F"
+            },
+            "rating": 5,
+            "reference": "ChIJ_-PjdGVDczkRQbMvZ6AXOCc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sikandarpur Road. Surir Vijau"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8784746,
+                    "lng": 77.70930059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.87980847989272,
+                        "lng": 77.71063277989272
+                    },
+                    "southwest": {
+                        "lat": 27.87710882010728,
+                        "lng": 77.70793312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0938\u0941\u0936\u0940\u0932 \u0915\u093f\u0930\u093e\u0928\u093e \u0926\u0941\u0915\u093e\u0928",
+            "place_id": "ChIJMQhhuDxFczkRhH5UW5LmXzk",
+            "rating": 5,
+            "reference": "ChIJMQhhuDxFczkRhH5UW5LmXzk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "VPH5+9PM, Lalpur Mat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8127408,
+                    "lng": 77.7973695
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81413432989272,
+                        "lng": 77.79865082989272
+                    },
+                    "southwest": {
+                        "lat": 27.81143467010727,
+                        "lng": 77.79595117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gauri Market Khayara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103578600832806556459\">vinod sagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjObuQFoo3k1h9BfZNqPHDn1IcskvnzdNjDviAGUcX4rFZjcQqjoaP78s3DgQXhnjKrrh2p7o1IkQnhXKFmlDLzuxdGt5a9OLkFCaSGqR_DXlAc7lZkEPUraWoV0Ak0txrF7vPFTR1k5aHScwY44ITzZaOJYWE542mjjcLgbCujb82T",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJeRVZwBhdczkRJR2u8laPxWk",
+            "plus_code": {
+                "compound_code": "RQ7W+3W Asfabad, Uttar Pradesh",
+                "global_code": "7JVVRQ7W+3W"
+            },
+            "rating": 5,
+            "reference": "ChIJeRVZwBhdczkRJR2u8laPxWk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Khair-Tentigaon Rd, Asfabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8305562,
+                    "lng": 77.8778825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.83188962989272,
+                        "lng": 77.87922377989271
+                    },
+                    "southwest": {
+                        "lat": 27.82918997010728,
+                        "lng": 77.87652412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "RAJU SNACKS STORE",
+            "place_id": "ChIJQQ9jfdFfczkR1A2lNLnMioI",
+            "rating": 0,
+            "reference": "ChIJQQ9jfdFfczkR1A2lNLnMioI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RVJH+65C, Nagla Darvar"
+        }
+    ],
+    "status": "OK"
+}

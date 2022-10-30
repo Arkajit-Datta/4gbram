@@ -1,0 +1,297 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.613593,
+                    "lng": 78.1975168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61489327989272,
+                        "lng": 78.19884412989272
+                    },
+                    "southwest": {
+                        "lat": 18.61219362010728,
+                        "lng": 78.19614447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "D V N Mohan Electronic",
+            "place_id": "ChIJRSH6Wo3PzTsR8mx20yekjlc",
+            "plus_code": {
+                "compound_code": "J57X+C2 Nizamabad, Telangana",
+                "global_code": "7JCWJ57X+C2"
+            },
+            "rating": 0,
+            "reference": "ChIJRSH6Wo3PzTsR8mx20yekjlc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "No 6-7-84, H, 4, Hyderabad Rd, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6097658,
+                    "lng": 78.2035314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61100842989272,
+                        "lng": 78.20484307989273
+                    },
+                    "southwest": {
+                        "lat": 18.60830877010728,
+                        "lng": 78.20214342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SAI KRISHNA ELECTRICAL & ENGINEERING",
+            "place_id": "ChIJ32fao0fJzTsRTCLDCvxyzfI",
+            "plus_code": {
+                "compound_code": "J653+WC Dichpally, Telangana",
+                "global_code": "7JCWJ653+WC"
+            },
+            "rating": 0,
+            "reference": "ChIJ32fao0fJzTsRTCLDCvxyzfI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, 8, near Railway Station, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5456307,
+                    "lng": 78.2461571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54708767989272,
+                        "lng": 78.24748852989272
+                    },
+                    "southwest": {
+                        "lat": 18.54438802010728,
+                        "lng": 78.24478887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vinayaka Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJV4-4phzJzTsR4zYoxL8TNc4",
+            "rating": 0,
+            "reference": "ChIJV4-4phzJzTsR4zYoxL8TNc4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R.s, Near ellamma temple,Thirmanpally, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5455037,
+                    "lng": 78.2441968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54690507989272,
+                        "lng": 78.24556742989272
+                    },
+                    "southwest": {
+                        "lat": 18.54420542010728,
+                        "lng": 78.24286777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Laxmi Venkateshwara Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104597270641700856617\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiWumP2Sb4fziueQ9A7IeV9lI7nLxTYe80FGU4Td89BiBl5xK6ZfVczY6-p6uzpXVKbVMlCrfVzeJQiFduV3QOe19rE7Ea_1_TY7Dw-uUcvMsOFUM4Q94niLw4R5rMjds8D1MaANixLh1vhPR7EHj-a8nbilh7FW9RgOJoh_eAprJaV",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ_zWWo5DJzTsRS1FDv8cUq9E",
+            "plus_code": {
+                "compound_code": "G6WV+6M Indalwai, Telangana",
+                "global_code": "7JCWG6WV+6M"
+            },
+            "rating": 5,
+            "reference": "ChIJ_zWWo5DJzTsRS1FDv8cUq9E",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Dharpally - Dichpally Rd, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6143622,
+                    "lng": 78.1957731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61564962989272,
+                        "lng": 78.19709532989272
+                    },
+                    "southwest": {
+                        "lat": 18.61294997010728,
+                        "lng": 78.19439567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ravi Electronic Works",
+            "place_id": "ChIJSSXvZKHPzTsR6qmlbr_bxc4",
+            "plus_code": {
+                "compound_code": "J57W+P8 Nizamabad, Telangana",
+                "global_code": "7JCWJ57W+P8"
+            },
+            "rating": 0,
+            "reference": "ChIJSSXvZKHPzTsR6qmlbr_bxc4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2, 2A, Hyderabad Rd, opp. Railway Station, Nizamabad"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 18.6138893,
+                    "lng": 78.1968181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61518542989272,
+                        "lng": 78.19814187989272
+                    },
+                    "southwest": {
+                        "lat": 18.61248577010728,
+                        "lng": 78.19544222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SRI SAI RAM ELECTRICALS",
+            "permanently_closed": true,
+            "place_id": "ChIJhxcXvcvPzTsRjiFRmkVbMpA",
+            "rating": 5,
+            "reference": "ChIJhxcXvcvPzTsRjiFRmkVbMpA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J57W+HP4, opp. busstand besaid said sai mess, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6137792,
+                    "lng": 78.1970577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61507962989272,
+                        "lng": 78.19838352989271
+                    },
+                    "southwest": {
+                        "lat": 18.61237997010728,
+                        "lng": 78.19568387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SHIVA SAI ElECTRONICS (Dichpally)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114271905969692051116\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhm83EJTLZXwjKUYduJl4HXjS7FzQxBvRXQ5JRec0NVB0D6GtVe1cdktvWmx_hejoJPlBrNnFVXWAcXO3hwLgpMA50eTy4_sXJiZVd9v2rLaEiM830NxGLyXHPa0CSEquBS9EnyY23m9OZUnToEHlDwejpnEBwrqRYvhYO4n6bkMimB",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGYiFQE7PzTsRZUnHNQ6IRgk",
+            "plus_code": {
+                "compound_code": "J57W+GR Dichpally, Telangana",
+                "global_code": "7JCWJ57W+GR"
+            },
+            "rating": 0,
+            "reference": "ChIJGYiFQE7PzTsRZUnHNQ6IRgk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shiva Sai Electronics, near railway station, Dichpally"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,890 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRj-94ZNLKY2AxdXqGzFuUzE9w4to7OTcRNB7uJYZzJGe4Z1LUI6TR_smLK7386uHSmZAGvDEUduZqomvteNZHFLnH47KlzwbSaxYD1395O6nYmy7R9sGWYE0eOHkeCA9C-J_p3gVDjKU-IFxel4RfDUNGmziWukGGwRmy4Nh2hMfgGEcnAeDQLh2rOq41tCuuOsJbjCqZMKWQXqGnfrwNtTwXJ04TA4fUn7p-0A0ZrDRQkaNUXAPtgodoYOxnIANzaqKJXiKyIECWDJvlGZDGgnOnsDfjUcFZaL_HFB4Tmo9mBgPxlyDzPm3wvbgdzEmP-yyRmjDNzXdbrInmm6RPmXWnLkic-ic0FNpxvUuIoxSIdgz46fKdZSniInkrVuOhEOTs2xh0r-1MxMFpJqfPkk0RC6ctD51GvKGOp3QM-TriX5e1aFCQInHgP8N5jjUWkC",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.5161648,
+                    "lng": 78.47902309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.51749492989272,
+                        "lng": 78.48013507989272
+                    },
+                    "southwest": {
+                        "lat": 25.51479527010728,
+                        "lng": 78.47743542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vishal electronic shop",
+            "place_id": "ChIJW0TT4qVzdzkRLclv0Aiq_mo",
+            "rating": 0,
+            "reference": "ChIJW0TT4qVzdzkRLclv0Aiq_mo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GF8H+FJ6, Balaji Unnao Rd, Ansal Colony, Sarmau"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4523579,
+                    "lng": 78.5703249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45370382989272,
+                        "lng": 78.5716944298927
+                    },
+                    "southwest": {
+                        "lat": 25.45100417010728,
+                        "lng": 78.56899477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nitin Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJS50bd-Z3dzkRrTBxSL3EWOo",
+            "plus_code": {
+                "compound_code": "FH2C+W4 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH2C+W4"
+            },
+            "rating": 0,
+            "reference": "ChIJS50bd-Z3dzkRrTBxSL3EWOo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "00, Jivansha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4484527,
+                    "lng": 78.5767086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44976597989272,
+                        "lng": 78.57811602989273
+                    },
+                    "southwest": {
+                        "lat": 25.44706632010728,
+                        "lng": 78.57541637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Siddharth Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJv3thjyh3dzkRqxX0I9DmU88",
+            "rating": 5,
+            "reference": "ChIJv3thjyh3dzkRqxX0I9DmU88",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CHXG+9MP, Madhur Plaza Ground Floor,, Jhokan Bagh, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4478424,
+                    "lng": 78.5657615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44920527989272,
+                        "lng": 78.56711192989272
+                    },
+                    "southwest": {
+                        "lat": 25.44650562010728,
+                        "lng": 78.56441227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jyoti Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ0f5VeORxdzkRnvg4-Hgiopw",
+            "rating": 4.8,
+            "reference": "ChIJ0f5VeORxdzkRnvg4-Hgiopw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "CHX8+48M, Civil Lines, Cantt, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4611295,
+                    "lng": 78.5738446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46252737989272,
+                        "lng": 78.57508652989272
+                    },
+                    "southwest": {
+                        "lat": 25.45982772010727,
+                        "lng": 78.57238687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "yash electricals and electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJr9TaZkh3dzkRFWw57GdllWA",
+            "rating": 0,
+            "reference": "ChIJr9TaZkh3dzkRFWw57GdllWA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH6F+CHR, Panchkuiyan, Indrapuri, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.42887,
+                    "lng": 78.5397101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43020842989272,
+                        "lng": 78.54102407989271
+                    },
+                    "southwest": {
+                        "lat": 25.42750877010728,
+                        "lng": 78.53832442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jai Mata Di Emporium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101847677172826331821\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiRgbBmxHe3vOOHPNA82jPJPWuhrAx5qIFb5CmjA86-Wwciu_i9s_LX9rCjSPrgH9AcYOSoeGDt7oitzlUSx9QIFgU-uqKz68zKnR1ko07_0xyjOSRB3xcjkSPR7M0KjZnywzEysPMjLYK_iWmPZ-kG9pW0SuvgYkKajYGanz6zZ47p",
+                    "width": 1520
+                }
+            ],
+            "place_id": "ChIJo1X0QDJxdzkRfKFnYvJCs2Y",
+            "plus_code": {
+                "compound_code": "CGHQ+GV Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCGHQ+GV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJo1X0QDJxdzkRfKFnYvJCs2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "New 74/1, Nagra Bazzar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4614666,
+                    "lng": 78.58072609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46282717989272,
+                        "lng": 78.58205782989273
+                    },
+                    "southwest": {
+                        "lat": 25.46012752010727,
+                        "lng": 78.57935817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kharya Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJpfzCiNR3dzkR7I3OQIu6f5w",
+            "plus_code": {
+                "compound_code": "FH6J+H7 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH6J+H7"
+            },
+            "rating": 5,
+            "reference": "ChIJpfzCiNR3dzkR7I3OQIu6f5w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No 00, Bada Bazar, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.42915,
+                    "lng": 78.53625190000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43051027989272,
+                        "lng": 78.53759797989272
+                    },
+                    "southwest": {
+                        "lat": 25.42781062010728,
+                        "lng": 78.53489832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "sahu electronics mobiles and furniture.s",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116329006167803062932\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiyY_i1Y8sEzmBgYe3C6rP_x6fzzVVVnhGMaSHCqway3RujeGYMTlj7qbVz8WIMxNb1AiE4XvQAOri7PX09TqOarJ1OMrd_O_wC2sjGmM77NaK8HRoGCW69YST8TPR_vnOU1gMUmWuF9ABflVe4ZNzM0Vmo3zPJWjGZV8tI22aIGeya",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJhdiBQuxwdzkRAwUuN6lv58c",
+            "plus_code": {
+                "compound_code": "CGHP+MG Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCGHP+MG"
+            },
+            "rating": 4.4,
+            "reference": "ChIJhdiBQuxwdzkRAwUuN6lv58c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 180,
+            "vicinity": "Pratap Pura Nagra, Nagra, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4292529,
+                    "lng": 78.5356448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43046467989272,
+                        "lng": 78.53709562989272
+                    },
+                    "southwest": {
+                        "lat": 25.42776502010727,
+                        "lng": 78.53439597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "M/S SHREE KRISHNA MOBILES AND ELECTRONIC",
+            "place_id": "ChIJg2zdRexwdzkRAAAAsHhQ_Ss",
+            "plus_code": {
+                "compound_code": "CGHP+P7 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCGHP+P7"
+            },
+            "rating": 0,
+            "reference": "ChIJg2zdRexwdzkRAAAAsHhQ_Ss",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "355, Naina Garh, Nagra, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4593475,
+                    "lng": 78.5712005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46066872989272,
+                        "lng": 78.5725548798927
+                    },
+                    "southwest": {
+                        "lat": 25.45796907010727,
+                        "lng": 78.56985522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rama Electronics Evam Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114508081537523569778\">abhishek sahu</a>"
+                    ],
+                    "photo_reference": "AcYSjRj01OzaczI9saAGwLYzhoRqc4o1I663blpr23aX7VJSLCvIYpOgrvuSLmUmSGPNY4w7t8z-U_X3Nag7ciqqRz5CWbbRRCy4h1Yn4c4xQEAi-vBhgkSgxVHyvb1c4BX8y5ZBI5fU667QxUPuhXL2NjYrgRr0eF02UDBnfIF6hRjcYTYs",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJURfz2tN2dzkRMweHcNKNbeo",
+            "plus_code": {
+                "compound_code": "FH5C+PF Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH5C+PF"
+            },
+            "rating": 4,
+            "reference": "ChIJURfz2tN2dzkRMweHcNKNbeo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "57, L.B.M. Market, Ashik Chauraha, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4524748,
+                    "lng": 78.5518914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45381417989272,
+                        "lng": 78.55328367989273
+                    },
+                    "southwest": {
+                        "lat": 25.45111452010727,
+                        "lng": 78.55058402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivam Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJIaW57TRxdzkR7C_2KaFNQD4",
+            "plus_code": {
+                "compound_code": "FH22+XQ Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH22+XQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJIaW57TRxdzkR7C_2KaFNQD4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Chaman Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4106736,
+                    "lng": 78.5640052
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.41201852989272,
+                        "lng": 78.56535502989271
+                    },
+                    "southwest": {
+                        "lat": 25.40931887010728,
+                        "lng": 78.56265537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MLE ELECTROPIDYA a",
+            "place_id": "ChIJr4Wl1eFxdzkRh2X01g0i5gE",
+            "rating": 0,
+            "reference": "ChIJr4Wl1eFxdzkRh2X01g0i5gE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CH67+7JC, Hansari, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4602773,
+                    "lng": 78.5788996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46161347989272,
+                        "lng": 78.58028627989272
+                    },
+                    "southwest": {
+                        "lat": 25.45891382010728,
+                        "lng": 78.57758662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aditya Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJR0ifXdp2dzkRT5LDI5vgCXM",
+            "plus_code": {
+                "compound_code": "FH6H+4H Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH6H+4H"
+            },
+            "rating": 5,
+            "reference": "ChIJR0ifXdp2dzkRT5LDI5vgCXM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "155, Taksaal, Manik Chowk, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.3716566,
+                    "lng": 78.5462928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.37299597989272,
+                        "lng": 78.54763447989272
+                    },
+                    "southwest": {
+                        "lat": 25.37029632010728,
+                        "lng": 78.54493482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Khati Baba electronic",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116059317402852362802\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZP1qNofTewo_YzPV3imm3Ft-ILotPIFsIqK3AK27hZCtZO_3dSmKZjE7wtQFRbBLdTeUw_lkinI49LZXr9E4Dr81GBEaoGcY01qe2gxKFMrVFAFCeh-MiYAypQaZiP6xRkQAi2keANV_mW8_m_M5Z-g2sPktzvNpP6u-qGz3VJl_I",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJdQD3zYR7dzkRFXrPjfkd_KY",
+            "rating": 0,
+            "reference": "ChIJdQD3zYR7dzkRFXrPjfkd_KY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9GCW+MG8, Bijauli Industrial Area, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4560232,
+                    "lng": 78.5783228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45737612989272,
+                        "lng": 78.57969952989272
+                    },
+                    "southwest": {
+                        "lat": 25.45467647010728,
+                        "lng": 78.57699987010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VINAYAK SALES",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 292,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110806877213904307350\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4LiwH5pByfAPUzatUMvKq51r6OHn9IBmL29t8a-vwx0FDG34sifIhWfFtEm6IontCl7gkd-CjMMPrIkAN4VuyMvRvuxpbC4XAnsP9ppMKKQQyIDWpgvM50EavAq8ph2_keppDztydcyHV0V9vkVIdzxssrnS0gOMVgEx70hXO2Gyg",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJaYJbNMF3dzkRmuCQk7cCyRs",
+            "plus_code": {
+                "compound_code": "FH4H+C8 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH4H+C8"
+            },
+            "rating": 5,
+            "reference": "ChIJaYJbNMF3dzkRmuCQk7cCyRs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Mainarwa chaurha, near dau samosa, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4482908,
+                    "lng": 78.5397972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44963592989272,
+                        "lng": 78.54113217989273
+                    },
+                    "southwest": {
+                        "lat": 25.44693627010728,
+                        "lng": 78.53843252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rai Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108654083586027560023\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhbEbYr2VC17zIfah9xJYcPjEt06kBuuLZJyJOlJ3m0ZJ98YoYLLsPDYvhOzh6z1nbYUyjMxQHHcArXKZFs8HNnd-oIcXMeXdKiLsp2eJRKRgBjXUlrTdU_sX9VBj403Zx-5xpqTLQ33lufbvam6aNAV7xkwd5pn4-VYd03nTwbuEuy",
+                    "width": 1860
+                }
+            ],
+            "place_id": "ChIJx_Ko2uFwdzkRGiwBg-AYFXo",
+            "plus_code": {
+                "compound_code": "CGXQ+8W Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCGXQ+8W"
+            },
+            "rating": 4.6,
+            "reference": "ChIJx_Ko2uFwdzkRGiwBg-AYFXo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "B 380/A, Nagra-Nandanpura Rd, Deen Dayal Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4120024,
+                    "lng": 78.56540269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.41328852989272,
+                        "lng": 78.56670552989272
+                    },
+                    "southwest": {
+                        "lat": 25.41058887010728,
+                        "lng": 78.56400587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electrician work",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105620077593614055225\">umesh raikwar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjBwHUNsxn-re0keahXaB_n4LukxT0wK3ZCo9Vjr8j0bAkT-sxdfe_bxNiZn7iJwqxxESOIbiB8DFjlNH96Wia1Jq_kd9BaYe_-oDdmfVL5LCsRG9syJF_kmuRjAkFryIXPJaC1RpOibpwptzFqdCCk79zyAXpNtZ121iyt3UDQJRHD",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJWWVlz6xwdzkRHJwtJw1hDdA",
+            "plus_code": {
+                "compound_code": "CH68+R5 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCH68+R5"
+            },
+            "rating": 1,
+            "reference": "ChIJWWVlz6xwdzkRHJwtJw1hDdA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hansari, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4686376,
+                    "lng": 78.5699195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46996472989272,
+                        "lng": 78.57129792989272
+                    },
+                    "southwest": {
+                        "lat": 25.46726507010728,
+                        "lng": 78.56859827010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jha electric shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ2V0YOhJ3dzkRNa7H29Ea7eQ",
+            "plus_code": {
+                "compound_code": "FH99+FX Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH99+FX"
+            },
+            "rating": 5,
+            "reference": "ChIJ2V0YOhJ3dzkRNa7H29Ea7eQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Nakta Chopra, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4522747,
+                    "lng": 78.57035739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45363132989272,
+                        "lng": 78.57167682989272
+                    },
+                    "southwest": {
+                        "lat": 25.45093167010728,
+                        "lng": 78.56897717010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronic Shoppe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJj8Uuk9V2dzkRcFCl6BHFsco",
+            "rating": 3.4,
+            "reference": "ChIJj8Uuk9V2dzkRcFCl6BHFsco",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "FH2C+W48, Jeevan Shah, Tiraha, near Suri Automobiles, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4598549,
+                    "lng": 78.5795553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46121137989272,
+                        "lng": 78.58077632989271
+                    },
+                    "southwest": {
+                        "lat": 25.45851172010727,
+                        "lng": 78.57807667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "jai durge electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113430338604660890162\">Abhishek Sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGi-XLkxhERz1h4iRItOMXmitKxr_IjNZvxQXGjIpSBfxgJn7aNjmL6qlsd6CIpsxJrFEERv1U2jOUOKLE6CSmXQDxsC4M3Ns9ZaX48xDdKtCCADMBads_9OYNjxVqPd6CyxjnLcNmoQWHBAx3FDF46OeedTPQ9t8A7aZjpAIEDhBs",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJr22JRdp2dzkRJh_GxmNCKvg",
+            "plus_code": {
+                "compound_code": "FH5H+WR Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH5H+WR"
+            },
+            "rating": 5,
+            "reference": "ChIJr22JRdp2dzkRJh_GxmNCKvg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "106 taksal, Manik Chowk, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

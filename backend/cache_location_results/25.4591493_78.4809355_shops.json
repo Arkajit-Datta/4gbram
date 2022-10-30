@@ -1,0 +1,802 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgAP5_sr5Wbw4g2GPKHZ6rf3g_kUNS68-eGbjZReGaQjFIqYpOEl7MUNXpCfntbMhqqQD8smkJYc3f3N2npViMmRyJdgNRMU-38tx6LagRjNpnTE9le8AeUviO8aLWcDP_5BuLDntgRxwXo60wi0O5RiIpWCMF-Qs_fkxIm9rIOm7rvR5Blp4I6fgWkgR9Cce-TSTyeYVn16LYbe7G9B8wKYosGuCi5nBQweXX_FiDuslb8Qwq7PdIw2ksP4wQugtrYT5WEMmODGYgHlKDo6af0BGzBp5Z1ZzhzaQUX3VQQJl1RMUFGYezs6dX9jLVT9rHrK0kJix9CpI4VY80xSXWNdSrKknTk1ITznqk1T0m5MzJn-EufvZHJHwNSQ6uznR0IPtlbiY16mgiKlkUjkuK-9YtunCrjwpxotjt0zyKa_6b9WQdeiA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.3967808,
+                    "lng": 78.57974709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.39828562989272,
+                        "lng": 78.58147112989272
+                    },
+                    "southwest": {
+                        "lat": 25.39558597010728,
+                        "lng": 78.57877147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Suraj Shop",
+            "place_id": "ChIJEROEegV5dzkRal-nzfSLFgQ",
+            "plus_code": {
+                "compound_code": "9HWH+PV Jhansi, Uttar Pradesh",
+                "global_code": "7JQW9HWH+PV"
+            },
+            "rating": 0,
+            "reference": "ChIJEROEegV5dzkRal-nzfSLFgQ",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Suraj Kumar, Shri Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4556785,
+                    "lng": 78.5280756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45702922989272,
+                        "lng": 78.5294188798927
+                    },
+                    "southwest": {
+                        "lat": 25.45432957010728,
+                        "lng": 78.52671922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jitendra Shop",
+            "place_id": "ChIJeTinHxBxdzkRY2vjLuf8A2c",
+            "plus_code": {
+                "compound_code": "FG4H+76 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG4H+76"
+            },
+            "rating": 0,
+            "reference": "ChIJeTinHxBxdzkRY2vjLuf8A2c",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jitendra Shop Nagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.470195,
+                    "lng": 78.5501322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47154182989273,
+                        "lng": 78.55145907989272
+                    },
+                    "southwest": {
+                        "lat": 25.46884217010728,
+                        "lng": 78.54875942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jitendra Kirana Shop",
+            "place_id": "ChIJJVPgjz5xdzkRPzNQSTL0lc4",
+            "rating": 0,
+            "reference": "ChIJJVPgjz5xdzkRPzNQSTL0lc4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FHC2+438, Siddheshwar Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4372035,
+                    "lng": 78.5314198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43857082989272,
+                        "lng": 78.53281427989272
+                    },
+                    "southwest": {
+                        "lat": 25.43587117010727,
+                        "lng": 78.53011462010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rashid confencery shop",
+            "place_id": "ChIJ034ZkelxdzkRoBfmqHbXXc4",
+            "rating": 0,
+            "reference": "ChIJ034ZkelxdzkRoBfmqHbXXc4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CGPJ+VHM, Shashtri Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4547515,
+                    "lng": 78.5341171
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45605082989272,
+                        "lng": 78.53547627989272
+                    },
+                    "southwest": {
+                        "lat": 25.45335117010728,
+                        "lng": 78.53277662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tarun sutta shop",
+            "place_id": "ChIJkVH6zNNxdzkREV6a6DZOkMs",
+            "rating": 5,
+            "reference": "ChIJkVH6zNNxdzkREV6a6DZOkMs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FG3M+WJ9, near avas vikas, Krishna Vihar Colony, park 1, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.468173,
+                    "lng": 78.5349373
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46952282989272,
+                        "lng": 78.53628712989273
+                    },
+                    "southwest": {
+                        "lat": 25.46682317010728,
+                        "lng": 78.53358747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Krishna kirana store and grocery shop",
+            "place_id": "ChIJ25QhOPFxdzkRDLkkEhvmu2E",
+            "rating": 0,
+            "reference": "ChIJ25QhOPFxdzkRDLkkEhvmu2E",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FG9M+7X7, jila nyaalay, Kalapurna, Shivpuri - Gwalior Bypass Rd, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4332978,
+                    "lng": 78.5797639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43466197989272,
+                        "lng": 78.58091697989272
+                    },
+                    "southwest": {
+                        "lat": 25.43196232010728,
+                        "lng": 78.57821732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sabrang gift shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103932242124193501186\">Naresh Nagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgP_WWJ3L2DOMrBl4kg8CE0BVJr3AXwMsTjpOxh54zJ5kYb0jqU3U9MYgmE9829AntH-SwcwoeWHz5rkXm642JR7TBuUmokWGJ-iuU3vrTq8OMG67Adly5DoSD2bMXF45GWw5Bz0R884sFDoBYxlx2DH0JH48QwSD6QEMaa-yDZABjO",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ09xKPyR3dzkRArdWX1B1gg4",
+            "rating": 5,
+            "reference": "ChIJ09xKPyR3dzkRArdWX1B1gg4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CHMH+8VH, Cantt, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.5166644,
+                    "lng": 78.5399978
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.51768462989272,
+                        "lng": 78.54281405
+                    },
+                    "southwest": {
+                        "lat": 25.51498497010727,
+                        "lng": 78.53905904999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aman Shop",
+            "place_id": "ChIJcQbhq9pzdzkRg6e6tTfo0Mg",
+            "rating": 0,
+            "reference": "ChIJcQbhq9pzdzkRg6e6tTfo0Mg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GG8Q+MX, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4309838,
+                    "lng": 78.53183310000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43231117989272,
+                        "lng": 78.53317022989272
+                    },
+                    "southwest": {
+                        "lat": 25.42961152010728,
+                        "lng": 78.53047057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJv9plLrVxdzkRw65vYGR3Vcc",
+            "rating": 0,
+            "reference": "ChIJv9plLrVxdzkRw65vYGR3Vcc",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CGJJ+9PW, behind st. Jude school, Budh Vihar Colony, Nagra, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4654385,
+                    "lng": 78.5801232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46676517989272,
+                        "lng": 78.58149307989272
+                    },
+                    "southwest": {
+                        "lat": 25.46406552010727,
+                        "lng": 78.57879342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Agarwal genral store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJn-pUbJJ3dzkREd9zELW60i8",
+            "rating": 0,
+            "reference": "ChIJn-pUbJJ3dzkREd9zELW60i8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH8J+53C, Itwari Ganj, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4795901,
+                    "lng": 78.5740197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.48093947989272,
+                        "lng": 78.57536797989273
+                    },
+                    "southwest": {
+                        "lat": 25.47823982010728,
+                        "lng": 78.57266832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jai Maa Ambey stationary end gift Shop",
+            "place_id": "ChIJ4z1MDZt3dzkR-d_MrsyPkDs",
+            "rating": 0,
+            "reference": "ChIJ4z1MDZt3dzkR-d_MrsyPkDs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FHHF+RHP, Pitambra Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4440447,
+                    "lng": 78.5769404
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44539662989272,
+                        "lng": 78.57831277989273
+                    },
+                    "southwest": {
+                        "lat": 25.44269697010728,
+                        "lng": 78.57561312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Model Shop",
+            "place_id": "ChIJX7zN_t53dzkRi9UmWU0dLRg",
+            "plus_code": {
+                "compound_code": "CHVG+JR Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHVG+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJX7zN_t53dzkRi9UmWU0dLRg",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "239/1, Rai Colony, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4950905,
+                    "lng": 78.55195680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.49647767989272,
+                        "lng": 78.55336937989271
+                    },
+                    "southwest": {
+                        "lat": 25.49377802010728,
+                        "lng": 78.55066972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gupta Kirana Store",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107086361670422248751\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiIuXbUg6N1iq2EGarCrXNqlm5LovHdWtCYi4uhCq_BH3qVD7Gt3nIMBUU0uUTacyHWBeFZrK2xqGcpesgotcHErsm3OItJVEmV5i_hEObBtehnn_XhZ7aFbhLLykB0xISnm9M735gF12QpM5KifYTU4nXS3Zv1YIZ7QW4hNd2M9tKa",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJo-oRP_hxdzkRh4rM5s3qBH0",
+            "plus_code": {
+                "compound_code": "FHW2+2Q Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFHW2+2Q"
+            },
+            "rating": 4,
+            "reference": "ChIJo-oRP_hxdzkRh4rM5s3qBH0",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "00, Highway, Pal Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4491127,
+                    "lng": 78.5671125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45048857989272,
+                        "lng": 78.56846957989272
+                    },
+                    "southwest": {
+                        "lat": 25.44778892010727,
+                        "lng": 78.56576992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "modal shop english sarab",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117138431463609365245\">aayush mishra</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtaACSemtHMUiKNM_0fLKXpuph96SNcfomt9Y3r8Sgjdj6THwI7OCJnuw_XfZ8soMbHe-qoXwn24gNakBwz-B2CvbySp9H07ebl1A9P0_4BKl0RCAYTnAvqHskNhjW02uG-o0e6fYUENILVOY-kyIRcplARYqAbEMJeVspnfHTdVOx",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJo4auLql3dzkR2Kpml7IlnzQ",
+            "rating": 3.8,
+            "reference": "ChIJo4auLql3dzkR2Kpml7IlnzQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "CHX8+JRX, Shivpuri - Jhansi Rd, Civil Lines, Cantt, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.406373,
+                    "lng": 78.56235869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.40765802989272,
+                        "lng": 78.56357312989272
+                    },
+                    "southwest": {
+                        "lat": 25.40495837010727,
+                        "lng": 78.56087347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kanchan Shop",
+            "place_id": "ChIJO3cj0aVxdzkR4m7au0U9jEc",
+            "plus_code": {
+                "compound_code": "CH46+GW Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCH46+GW"
+            },
+            "rating": 0,
+            "reference": "ChIJO3cj0aVxdzkR4m7au0U9jEc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kanchan Shop, Hasari, Hansari, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4598531,
+                    "lng": 78.57896889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46125497989272,
+                        "lng": 78.58023742989272
+                    },
+                    "southwest": {
+                        "lat": 25.45855532010728,
+                        "lng": 78.57753777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gift Corner",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106645343844940923313\">Sonu Thakur</a>"
+                    ],
+                    "photo_reference": "AcYSjRguw5krAi0pzNZi6E_xk6iIGdx0Ewi7X_xMYjvh7XOxYoLMpd7mPo6KdlYZeUkqHVKSySMsCvI6U9pnBXt_Oi2zp43UXIv_e2ulgFTud16VEKvYFgPVHZORqotcL5IzzrlBJh-mVwl00xZe81N0Qti2nfIM-zcG4L7fhzeJE2vkTPcb",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJa64FY9p2dzkRN7fCKdve1r4",
+            "rating": 3,
+            "reference": "ChIJa64FY9p2dzkRN7fCKdve1r4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FH5H+WHX, manik chock dayasager compaund, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4617835,
+                    "lng": 78.57145129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46306887989272,
+                        "lng": 78.57283722989273
+                    },
+                    "southwest": {
+                        "lat": 25.46036922010728,
+                        "lng": 78.57013757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nikhil Traders Jain shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ6726PD93dzkRthmmEZm6_VA",
+            "rating": 0,
+            "reference": "ChIJ6726PD93dzkRthmmEZm6_VA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH6C+PH8, Asiq chouraha, Panchkuiyan, Indrapuri, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4542421,
+                    "lng": 78.5521108
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45558952989272,
+                        "lng": 78.55341712989272
+                    },
+                    "southwest": {
+                        "lat": 25.45288987010728,
+                        "lng": 78.55071747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Quality Gift Collection || Gift Shop in Sipri Bazar Jhansi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110003201535135945958\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHlEIzzAB4Q48I0tWgJTjo1aaMj41VMhI1RsUHzQRdYu-F-l5Kzsik2-U3SJ_crjb8vP5MjCGqr1RSwEeF3hHA1SBE9WXk1qJs9Pb3GekQlpUQgCmyIpUuz0NSdIQHW4Axl-a9dluxHwOmAIxnL2RLfdBnuYnKmsGivuF5nFhzd5uY",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJhxHNXyZxdzkRd2ow8Scdrw0",
+            "plus_code": {
+                "compound_code": "FH32+MR Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH32+MR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJhxHNXyZxdzkRd2ow8Scdrw0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Tandon Rd, Chaman Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4620471,
+                    "lng": 78.5803784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46339047989272,
+                        "lng": 78.5817238798927
+                    },
+                    "southwest": {
+                        "lat": 25.46069082010727,
+                        "lng": 78.57902422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiva General Store",
+            "place_id": "ChIJpQFtHtt2dzkRQLxA5Odbr4w",
+            "rating": 0,
+            "reference": "ChIJpQFtHtt2dzkRQLxA5Odbr4w",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "jewelry_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH6J+R56, Bisati Bazar, Chaudharyana Bada Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4274924,
+                    "lng": 78.5537447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.42885217989272,
+                        "lng": 78.55508132989272
+                    },
+                    "southwest": {
+                        "lat": 25.42615252010728,
+                        "lng": 78.55238167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Badal Gift Centre",
+            "place_id": "ChIJezmdx1JxdzkRlsm0CibQ4ck",
+            "plus_code": {
+                "compound_code": "CHH3+2F Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHH3+2F"
+            },
+            "rating": 0,
+            "reference": "ChIJezmdx1JxdzkRlsm0CibQ4ck",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop.No 00, Puliya No 9 Under Bridge, Jhalkari Bai Nagar, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

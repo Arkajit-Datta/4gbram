@@ -1,0 +1,890 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhfXFb05FrLk1j4cfpJ1HMELPBkZB9TYdBDapqVKY1-6U0DaWFiBOHvIgeKO8r8RKAk0JpoylTvrdZq_9COQfaHsv0kCFYFqdERiEd4onMfai1nRSEWm2V3cpjlGCEumaXgEyT1SJTjHVTSOOTqlyLC9Gt1befp9uXAwiK9Jwz0cME_o-siMr9Tccj76Q-YTy0uFDTs9g7QEINq7rA4shanZ1XjUuX4J-hWBDZ252zpQ5Yqq3AcD6ho3uWolK5YX9VmQbMM6v0QR372yQqKJGkDSZtqm_nzpEqxeNok-J0KuH50XsWy_FLjyQm5QKUtum-ja2cnp7FqUOp_2_c902QB6due3rEsBy_spTVXahg0W9UnM7cMwNVo1XzGtTRqXGQ9zmHm0lLqAwX7TElpCsZIoI3aaZT_MUWLT64UXfotRwqK29coe10ErT1mqNXJwgFq",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9458896,
+                    "lng": 79.19517929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94723757989272,
+                        "lng": 79.19657002989273
+                    },
+                    "southwest": {
+                        "lat": 22.94453792010728,
+                        "lng": 79.19387037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aman electronics",
+            "place_id": "ChIJQwwRbbadfzkRHQo3qpTV9Rg",
+            "rating": 0,
+            "reference": "ChIJQwwRbbadfzkRHQo3qpTV9Rg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5WW+933, SH-46, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9501396,
+                    "lng": 79.19509529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95147032989272,
+                        "lng": 79.19643137989273
+                    },
+                    "southwest": {
+                        "lat": 22.94877067010728,
+                        "lng": 79.19373172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jeet Electronic",
+            "place_id": "ChIJx2Ul1FedfzkRxi6xXKvtiMY",
+            "plus_code": {
+                "compound_code": "X52W+32 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX52W+32"
+            },
+            "rating": 0,
+            "reference": "ChIJx2Ul1FedfzkRxi6xXKvtiMY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Old chhadkya school, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9559311,
+                    "lng": 79.18108529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95729447989273,
+                        "lng": 79.18252192989272
+                    },
+                    "southwest": {
+                        "lat": 22.95459482010728,
+                        "lng": 79.17982227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Harsh electricals",
+            "place_id": "ChIJoZl0_iWdfzkRQkABG1xep50",
+            "rating": 5,
+            "reference": "ChIJoZl0_iWdfzkRQkABG1xep50",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "X54J+8CH, near gold fitness center, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9473243,
+                    "lng": 79.19264629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94867677989272,
+                        "lng": 79.19398622989273
+                    },
+                    "southwest": {
+                        "lat": 22.94597712010728,
+                        "lng": 79.19128657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivam Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2791,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110731793649803914133\">shivam choubey</a>"
+                    ],
+                    "photo_reference": "AcYSjRipyT_e72ESthFlChRHRpmYn3sk_Bjjo-m4dOaNhNJBfIt6SdcXzr6U6Ayemq1-m9G9BFdxlwO7zzAMP3XSumFBZDHGk9fbbcGPoyzH-PvJ-HY14tpRQmSlZsDm43nLlhun5WzD2l1H2xSD9TvcLNUKBe5DkbRJzemDX7kUw8FqV2mt",
+                    "width": 2696
+                }
+            ],
+            "place_id": "ChIJzawPxs6cfzkRjvbg_bHdbiQ",
+            "rating": 5,
+            "reference": "ChIJzawPxs6cfzkRjvbg_bHdbiQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5WV+W3F, in front of Hare Ram Dharamshala, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9469811,
+                    "lng": 79.1970898
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94832517989272,
+                        "lng": 79.19840037989272
+                    },
+                    "southwest": {
+                        "lat": 22.94562552010727,
+                        "lng": 79.19570072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "M.S. ELECTRICAL",
+            "place_id": "ChIJU5YSmD6dfzkRs9705kEPppc",
+            "rating": 5,
+            "reference": "ChIJU5YSmD6dfzkRs9705kEPppc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5WW+QVM, Nikhil jwelers ke samne shyam takeez, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9555728,
+                    "lng": 79.1971712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95699972989272,
+                        "lng": 79.19836512989272
+                    },
+                    "southwest": {
+                        "lat": 22.95430007010727,
+                        "lng": 79.19566547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JAYNARSINGH COMPUTER",
+            "place_id": "ChIJY7KqqtOcfzkRAAAAsMLCw2Q",
+            "plus_code": {
+                "compound_code": "X54W+6V Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX54W+6V"
+            },
+            "rating": 0,
+            "reference": "ChIJY7KqqtOcfzkRAAAAsMLCw2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No5 Mahant Bhawan Complex Main Road Kandeli, Shivaji Ward, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9478658,
+                    "lng": 79.1923819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94921342989272,
+                        "lng": 79.19373982989272
+                    },
+                    "southwest": {
+                        "lat": 22.94651377010728,
+                        "lng": 79.19104017010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahant Agency",
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108029070924042597760\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjWasla0Uk7iR-8q-LKRpsEld4h2v9hDNE-sZVxCBlcdnANaLsh8AE-tBnGYL7w-R8cwSVwS_JDQcIMndsmJFgY5I_thJOBzbENcXrYNyLVkEI5QBBw9-EsMg3NHHEmrVE3FTwnIn_hG1usHQ7eeKDYg02mLNrXup1GN5iAgEgJiRud",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJEWOEws6cfzkR4Tog-s33Z2w",
+            "plus_code": {
+                "compound_code": "W5XR+4X Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5XR+4X"
+            },
+            "rating": 5,
+            "reference": "ChIJEWOEws6cfzkR4Tog-s33Z2w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Purana Bus Stand Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9452044,
+                    "lng": 79.21334929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94655952989272,
+                        "lng": 79.21464362989272
+                    },
+                    "southwest": {
+                        "lat": 22.94385987010727,
+                        "lng": 79.21194397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Agrawal Electronic And City Cable",
+            "place_id": "ChIJExo9GZmDfzkRqmes6fqvtx0",
+            "plus_code": {
+                "compound_code": "W6W7+38 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW6W7+38"
+            },
+            "rating": 0,
+            "reference": "ChIJExo9GZmDfzkRqmes6fqvtx0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Agrawal Electronic And City Cable Gya Dat Ward"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9483139,
+                    "lng": 79.19224059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94968717989272,
+                        "lng": 79.19358347989272
+                    },
+                    "southwest": {
+                        "lat": 22.94698752010728,
+                        "lng": 79.19088382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mamar Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112196881321500832075\">TECH INFO ETC</a>"
+                    ],
+                    "photo_reference": "AcYSjRhRQjzv2usEpnPnmtdv3rpluloYhm1qSedOJBNGPfN6B3ZbAqpU4Nkl_WU3bgeRxDlSpOp5Kq3Y9qE_lcIW_w1NfbQMHyuFImog2LeggUEy1rtPz8NylkhGXXgUl8vHCkKldZ--CTt3tu3LDmcH0i1OCJHe2k1tNF2CDdLsgpBX_Qyq",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJKb1Y786cfzkReKQW8rfnb1M",
+            "rating": 0,
+            "reference": "ChIJKb1Y786cfzkReKQW8rfnb1M",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5XR+8VH, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.945771,
+                    "lng": 79.19645009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94712277989272,
+                        "lng": 79.19780012989273
+                    },
+                    "southwest": {
+                        "lat": 22.94442312010728,
+                        "lng": 79.19510047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "subhash electrical",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117652150934257696184\">Hridesh Patel</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7b_8zWvvAKe_GGws_ztmbALnSBbHvzFeVrWU1UC8rEE-VX8cNFdYIbQyhn5d1xykI3tyo2McALn6CEPS66cT3ckplfn9vvlW1oKU69NIUVoUqvx8WWqU6u1j6Y4WH2R7lWA0vE__ELR7ZB3ZVxSCoNLiKYfMz-eMRpTHa8qyKrM0a",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJu_ztI5SdfzkRirbr4si4-HA",
+            "rating": 4.2,
+            "reference": "ChIJu_ztI5SdfzkRirbr4si4-HA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "W5WW+8H4, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9569426,
+                    "lng": 79.1800674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95829717989272,
+                        "lng": 79.18137542989273
+                    },
+                    "southwest": {
+                        "lat": 22.95559752010728,
+                        "lng": 79.17867577010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kushwaha Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101418072031367304104\">Raju Kushwaha</a>"
+                    ],
+                    "photo_reference": "AcYSjRjw6vjbE3XzuZnTWe0V80-wN4HYlp7xb7B6EdNCi6EJJRA1w2ljlqs9P0YeXc0ejFVBRtsUWSmRA5t33LpK-5NFZiKpV5YGxM-okXdd_vtckT12a24g3WaLUm6bmSEErr-vPUepRa_UDFmEa-JH3RFl-P1YekwSohWaex1ttqzZlB6B",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJgUh_092cfzkRwbL6cx6X0B8",
+            "plus_code": {
+                "compound_code": "X54J+Q2 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX54J+Q2"
+            },
+            "rating": 5,
+            "reference": "ChIJgUh_092cfzkRwbL6cx6X0B8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Jhirna power house ke pass"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9465795,
+                    "lng": 79.198792
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94794002989272,
+                        "lng": 79.20014822989272
+                    },
+                    "southwest": {
+                        "lat": 22.94524037010728,
+                        "lng": 79.19744857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Paras Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100650381957516479497\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyrPyk7KkOZt7hCaZYXZPpX0QgzOxdarxuPIrmVK9RhMm6jUer3GGjEXswvmLuVliwi2Dz_Sb5BWaNvppQemi67Xz-C9OxopXwWSMrgugqpDdPu2jbTdYeL1ifxV2dbWLj2itNoRaPY2_1_l2wdlxN5tjzFVflZ1TFolo0aF-YDen_",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ5cb8JNedfzkRUMkTt7N3eQ0",
+            "plus_code": {
+                "compound_code": "W5WX+JG Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5WX+JG"
+            },
+            "rating": 5,
+            "reference": "ChIJ5cb8JNedfzkRUMkTt7N3eQ0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Sunka chouraha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9120487,
+                    "lng": 79.271138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.91338857989272,
+                        "lng": 79.27247692989272
+                    },
+                    "southwest": {
+                        "lat": 22.91068892010728,
+                        "lng": 79.26977727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hariom electrical electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104458062031894691381\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiRtYC8FRccqTSJ7sLlmXG2K8ABNYPDMAVKPM0f33awEb1EwZ1buXId6Y4LHQ_Duyupioy6EudfKXcNZtqz31uquxiiL_jVnu8I2RGLDafg7W0BHqM82C5BDMm9Q7Sj6IGYhB-2gUDPtQJR79IFbqLGuIumFO4SP8mH_azNskMI9rc",
+                    "width": 666
+                }
+            ],
+            "place_id": "ChIJUc1n3xOFfzkRnVb9D9QINYQ",
+            "plus_code": {
+                "compound_code": "W76C+RF Dangidhana, Madhya Pradesh",
+                "global_code": "7JJXW76C+RF"
+            },
+            "rating": 0,
+            "reference": "ChIJUc1n3xOFfzkRnVb9D9QINYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dangidhana"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.955937,
+                    "lng": 79.18108409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95730062989272,
+                        "lng": 79.18248692989272
+                    },
+                    "southwest": {
+                        "lat": 22.95460097010728,
+                        "lng": 79.17978727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shri computer",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113714139936772865991\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjWpVWkfxiE_19LT3KZOlL5i3620ixiesnewBqhYBfFpI3_ODxHSpDFTcISnpF6rZI5UyDyIeJWY1k865AYuzJxMzbvDsszEyjZUoregmEDTSL7flsaT0eaFXKmJzNkCmmFZ2J4mMlU5fykTYlpJaHzEeJcZ7m7Vr_GMNxWj6nzhWT6",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJeag-LcydfzkR07yQ3bz-Qzs",
+            "rating": 0,
+            "reference": "ChIJeag-LcydfzkR07yQ3bz-Qzs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X54J+9CF, Jhirna Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.941354,
+                    "lng": 79.1959803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94269472989272,
+                        "lng": 79.19732267989272
+                    },
+                    "southwest": {
+                        "lat": 22.93999507010728,
+                        "lng": 79.19462302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maa Electronics",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110266642166394052669\">Bhura Mehra</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuwMCn-67YRf6RfYA2YFcLgRaXbRB-QORiI70rQC1G0VuNaeOnT7i3li3A5mnizZSmUHilRBQ-CkWoRhfEM9-H1tfhv4Tz1qdoA506UgxwSIbAtJxhJkVs-cPy98WQEqzi4AmZQOmZ6gTjWt_ODm4le9Qnqu4EDNodWdHXgkrRuYvB",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJq6qqc8qcfzkRea7ldBmzCJg",
+            "rating": 0,
+            "reference": "ChIJq6qqc8qcfzkRea7ldBmzCJg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5RW+G9P, Paras Zone, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9495277,
+                    "lng": 79.17782509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95087457989273,
+                        "lng": 79.17915437989272
+                    },
+                    "southwest": {
+                        "lat": 22.94817492010728,
+                        "lng": 79.17645472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahaveer Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100206788570658076164\">Sambhav Bardiya</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzcQ4a32X9TkMq8_5NUEqc0J1Nw1VpekC0xwG01XzX3gd05OrlMo0bcKYVcJE5x8XD2GR0xiLKLw9QyTUKKfPbFLLcxT1voiPxSrOu0Rv86fyEmvY2ScOljv82KubzaRudDLUgqfO-KD5jy-zAssfseC1Gsxsk5Z1u2AFRGrdAEpEd",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJUZLtm8KcfzkRpkIMFc-H-pI",
+            "plus_code": {
+                "compound_code": "W5XH+R4 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5XH+R4"
+            },
+            "rating": 4.8,
+            "reference": "ChIJUZLtm8KcfzkRpkIMFc-H-pI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "Gulab Chauraha, Nehru Ward, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9466949,
+                    "lng": 79.19449759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94799912989272,
+                        "lng": 79.19581897989274
+                    },
+                    "southwest": {
+                        "lat": 22.94529947010728,
+                        "lng": 79.19311932010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Television House",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118034258921085490685\">Mahima Sahu</a>"
+                    ],
+                    "photo_reference": "AcYSjRiu9c5TVr7mOOk_zl935D2JoOxTG7bgmPnVNQ5geBqeOh1V6eyCd6RR8g7b7GWw6GRGqmqQ8WJAusQmvTwAKVtDOoQPldSA9WaBCmkbbiNO4MpypWRIMxRsuepGYy1eOI6bHRmqwp0qnqFo5uL_71wb5jZceToarT3xlRUGmIhgq8u2",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJhch1qs6cfzkRB8PWk7oxNmI",
+            "plus_code": {
+                "compound_code": "W5WV+MQ Kandeli, Madhya Pradesh",
+                "global_code": "7JJXW5WV+MQ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJhch1qs6cfzkRB8PWk7oxNmI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Television House, Main Rd, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9499186,
+                    "lng": 79.1811381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95131112989272,
+                        "lng": 79.18255047989273
+                    },
+                    "southwest": {
+                        "lat": 22.94861147010728,
+                        "lng": 79.17985082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanjay Electrical",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJnUNEFsOcfzkRbBqrW1_1cC4",
+            "plus_code": {
+                "compound_code": "W5XJ+XF Dhedwara, Madhya Pradesh",
+                "global_code": "7JJXW5XJ+XF"
+            },
+            "rating": 4,
+            "reference": "ChIJnUNEFsOcfzkRbBqrW1_1cC4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Dhedwara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9489037,
+                    "lng": 79.1984398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95020687989273,
+                        "lng": 79.19975147989271
+                    },
+                    "southwest": {
+                        "lat": 22.94750722010728,
+                        "lng": 79.19705182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0905\u092d\u092f \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0915\u0932 (Abhay Electricals)Narsinghpur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJXYHucoadfzkR-YD9RY6ZUUc",
+            "rating": 1,
+            "reference": "ChIJXYHucoadfzkR-YD9RY6ZUUc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5XX+G9V, Bahari road, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9463628,
+                    "lng": 79.19563939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94774117989272,
+                        "lng": 79.19693137989272
+                    },
+                    "southwest": {
+                        "lat": 22.94504152010727,
+                        "lng": 79.19423172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "New manoj hardware",
+            "place_id": "ChIJb7Meg46dfzkR87IDCRxzsKU",
+            "rating": 5,
+            "reference": "ChIJb7Meg46dfzkR87IDCRxzsKU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5WW+G7V, Singhpur choraha, Kandeli"
+        }
+    ],
+    "status": "OK"
+}

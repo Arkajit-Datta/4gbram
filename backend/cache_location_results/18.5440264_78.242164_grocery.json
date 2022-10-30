@@ -1,0 +1,828 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgWaQWNOufL1q0YYUz9-qS4GB3UK-kgvxAsU7ynqg2w7J9Ngt0ii-mnqe9ae5qF2CFe8nj0v5c9ZtVBcv0BGZJKPnXv4M0weedeiXiruOwMHcu69PSy0hKyhjOuJ2uO3cLNGCXOhsypkG9MCLnQc5Ix3LJPUhlnSTuQl7yaRMx-O4FthgZE9RHpnMQUwf5WDoaVYRvx__nENaEnNqI0ZTqYFM7Q6xGpxj2E0QjEGbTyV0rXbaUpra0Mr6P9__pin15cJGazn7C02asrCD07qYy786YHBoQgaq4e__bkT7GFK1UZ-VwvTcyFVtqEgFOooxoR0MerW1EJmcAkfaXpPyU93NyeBLZZK-ph2YTr0xvjby0ontkbEvsoQaYG2z2Heh3BVBNsCqa_VYXKG87o_JzIN0kYwYWHlgSbEzSumxFlVAGGSzK42yCd",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5881704,
+                    "lng": 78.1931455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58955537989272,
+                        "lng": 78.19436307989272
+                    },
+                    "southwest": {
+                        "lat": 18.58685572010728,
+                        "lng": 78.19166342010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Ram Kiranam",
+            "place_id": "ChIJERa_FADPzTsR2_oDlouYIVc",
+            "plus_code": {
+                "compound_code": "H5QV+77 Doosgaon, Telangana",
+                "global_code": "7JCWH5QV+77"
+            },
+            "rating": 0,
+            "reference": "ChIJERa_FADPzTsR2_oDlouYIVc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 5 48, 9, Doosgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6149645,
+                    "lng": 78.1957843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61635247989272,
+                        "lng": 78.19715542989272
+                    },
+                    "southwest": {
+                        "lat": 18.61365282010728,
+                        "lng": 78.19445577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shankar Kirana Store",
+            "place_id": "ChIJj5r2fFLPzTsRxLzP-25sGq0",
+            "plus_code": {
+                "compound_code": "J57W+X8 Nizamabad, Telangana",
+                "global_code": "7JCWJ57W+X8"
+            },
+            "rating": 0,
+            "reference": "ChIJj5r2fFLPzTsRxLzP-25sGq0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5, 60, opp. Sri Sai Supermarket NearJama Masjid, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5101774,
+                    "lng": 78.27725699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51154892989272,
+                        "lng": 78.27862057989272
+                    },
+                    "southwest": {
+                        "lat": 18.50884927010728,
+                        "lng": 78.27592092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0c39\u0c3e\u0c38\u0c3f\u0c28\u0c3f \u0c39\u0c30\u0c3f\u0c23\u0c3f \u0c15\u0c3f\u0c30\u0c3e\u0c23\u0c02",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJPakj-R7LzTsRev58p0_Z7xA",
+            "rating": 5,
+            "reference": "ChIJPakj-R7LzTsRev58p0_Z7xA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "G76G+4W2, Nallavalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5663296,
+                    "lng": 78.2969502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56768157989272,
+                        "lng": 78.29828362989272
+                    },
+                    "southwest": {
+                        "lat": 18.56498192010728,
+                        "lng": 78.29558397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gayatri Kirana And Genaralstore",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112272209728091345537\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhDNUyq-81WBFuLp3U20XS531xaEjI1MToBZUOKAJgbHDdTyICxOdJaixEEFdgfYKnFkfd_PXGSAi0KJkXUb93w2-9PEb7W7mG-HN6ag0nyqxbQ5L2ISJZQxBHt6dNC_J-aLDv7-PcKaNLqWhO6ZbqY_SXQ2SZXnjw_la0SxyhowlZd",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJR6_3zia2zTsRP_ND0EBHL_k",
+            "plus_code": {
+                "compound_code": "H78W+GQ Lolam, Telangana",
+                "global_code": "7JCWH78W+GQ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJR6_3zia2zTsRP_ND0EBHL_k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "old, gp road, Lolam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6150754,
+                    "lng": 78.19560779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61643902989272,
+                        "lng": 78.19696377989271
+                    },
+                    "southwest": {
+                        "lat": 18.61373937010728,
+                        "lng": 78.19426412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ashok Kirana Store",
+            "place_id": "ChIJkRqxxgPPzTsRRoyWm-L3BmA",
+            "plus_code": {
+                "compound_code": "J58W+26 Nizamabad, Telangana",
+                "global_code": "7JCWJ58W+26"
+            },
+            "rating": 0,
+            "reference": "ChIJkRqxxgPPzTsRRoyWm-L3BmA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "6-99/1, Armoor Rd, opp. Railway Station, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5623579,
+                    "lng": 78.3195523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56370737989272,
+                        "lng": 78.32088962989272
+                    },
+                    "southwest": {
+                        "lat": 18.56100772010728,
+                        "lng": 78.31818997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Srinivas Kiranam",
+            "place_id": "ChIJCWXpaf-3zTsRWJyCwOuxqVo",
+            "plus_code": {
+                "compound_code": "H869+WR Ansanpally, Telangana",
+                "global_code": "7JCWH869+WR"
+            },
+            "rating": 0,
+            "reference": "ChIJCWXpaf-3zTsRWJyCwOuxqVo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2-88 Ansanpally, Bhupalpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6131012,
+                    "lng": 78.1987899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61439852989272,
+                        "lng": 78.20012147989272
+                    },
+                    "southwest": {
+                        "lat": 18.61169887010728,
+                        "lng": 78.19742182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRI SAI KIRANA SHOP",
+            "place_id": "ChIJm0-9mBnPzTsRFSnDZfVQL3g",
+            "plus_code": {
+                "compound_code": "J57X+6G Dichpally, Telangana",
+                "global_code": "7JCWJ57X+6G"
+            },
+            "rating": 0,
+            "reference": "ChIJm0-9mBnPzTsRFSnDZfVQL3g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5-3, near New Bustand, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5592653,
+                    "lng": 78.2905017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56005107989272,
+                        "lng": 78.29583539999999
+                    },
+                    "southwest": {
+                        "lat": 18.55735142010728,
+                        "lng": 78.2887238
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivaganga Kiranam",
+            "place_id": "ChIJgxXFN9rJzTsR8XE6rwgK_y0",
+            "plus_code": {
+                "compound_code": "H75R+P6 Nizamabad, Telangana",
+                "global_code": "7JCWH75R+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJgxXFN9rJzTsR8XE6rwgK_y0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H No 3-52, Yellareddypally, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6242445,
+                    "lng": 78.2029232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62554262989272,
+                        "lng": 78.20421667989272
+                    },
+                    "southwest": {
+                        "lat": 18.62284297010728,
+                        "lng": 78.20151702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Venkateshwara Kirana & General Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115530028895853816766\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj1qFCTLmCcb2TXrzKZuOeXCL2vT2-54DKOjQ9Awsx2oFnVHNfBqJSrXE5cAPUmsEFYhcF92LHoYPXvNJdF2JmkgWbbJnd3VZ5QE1JdDF81t-xd7ugpfx-0XcTV_felMxfeSSB2MyRXpCjbUjXt35IcA0dk89r5nZagWlBYmbk27UeS",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJtSxvps_JzTsR1jiGf9z3owE",
+            "plus_code": {
+                "compound_code": "J6F3+M5 Nadepalle, Telangana",
+                "global_code": "7JCWJ6F3+M5"
+            },
+            "rating": 5,
+            "reference": "ChIJtSxvps_JzTsR1jiGf9z3owE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SHOP NO 4-20/15, Deveapalli, near HANUMAN TEMPLE"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6149642,
+                    "lng": 78.1957846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61635322989272,
+                        "lng": 78.19715617989273
+                    },
+                    "southwest": {
+                        "lat": 18.61365357010727,
+                        "lng": 78.19445652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Haridas Kiranam Shop",
+            "place_id": "ChIJ0ygJUCfPzTsRJXOS0bvw3fU",
+            "plus_code": {
+                "compound_code": "J57W+X8 Nizamabad, Telangana",
+                "global_code": "7JCWJ57W+X8"
+            },
+            "rating": 0,
+            "reference": "ChIJ0ygJUCfPzTsRJXOS0bvw3fU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5-60/1, opp. Sri Sai Supermarket, near Jama Masjid, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5474826,
+                    "lng": 78.2439886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54886942989272,
+                        "lng": 78.24501212989273
+                    },
+                    "southwest": {
+                        "lat": 18.54616977010728,
+                        "lng": 78.24231247010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Sai Kiran Store",
+            "place_id": "ChIJL6deS6_JzTsR068gdguBowM",
+            "plus_code": {
+                "compound_code": "G6WV+XH Indalwai, Telangana",
+                "global_code": "7JCWG6WV+XH"
+            },
+            "rating": 0,
+            "reference": "ChIJL6deS6_JzTsR068gdguBowM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2-2A, opp. Bus Stand, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5461596,
+                    "lng": 78.2440184
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54749807989272,
+                        "lng": 78.24543447989272
+                    },
+                    "southwest": {
+                        "lat": 18.54479842010728,
+                        "lng": 78.24273482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRI AYYAPPA KIRANA & GENERAL STORE",
+            "place_id": "ChIJTepAKcnJzTsRDZoPTEpsY5Y",
+            "plus_code": {
+                "compound_code": "G6WV+FJ Indalwai, Telangana",
+                "global_code": "7JCWG6WV+FJ"
+            },
+            "rating": 0,
+            "reference": "ChIJTepAKcnJzTsRDZoPTEpsY5Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 2-4 Vegetable Market, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6232857,
+                    "lng": 78.3081344
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62463712989272,
+                        "lng": 78.30948047989271
+                    },
+                    "southwest": {
+                        "lat": 18.62193747010728,
+                        "lng": 78.30678082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GANESH KIRANAM",
+            "place_id": "ChIJWRYueae3zTsR8p6YbnGds80",
+            "plus_code": {
+                "compound_code": "J8F5+87 Ramadugu, Telangana",
+                "global_code": "7JCWJ8F5+87"
+            },
+            "rating": 0,
+            "reference": "ChIJWRYueae3zTsR8p6YbnGds80",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO 4-66/2, near BUSTAND, Ramadugu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6176498,
+                    "lng": 78.19687549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61896527989272,
+                        "lng": 78.19829912989272
+                    },
+                    "southwest": {
+                        "lat": 18.61626562010728,
+                        "lng": 78.19559947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "LAXMI NARASIMHA COLLDRINKS & GENERAL STORE",
+            "place_id": "ChIJMaXw9anPzTsRNH83Z_XXHQo",
+            "plus_code": {
+                "compound_code": "J59W+3Q Dichpally, Telangana",
+                "global_code": "7JCWJ59W+3Q"
+            },
+            "rating": 0,
+            "reference": "ChIJMaXw9anPzTsRNH83Z_XXHQo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO 5, BE HAND SPR COLLEGE, 54/20/2/1, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5458036,
+                    "lng": 78.243303
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54721947989272,
+                        "lng": 78.24467827989272
+                    },
+                    "southwest": {
+                        "lat": 18.54451982010728,
+                        "lng": 78.24197862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vijay laxmi kirana store",
+            "place_id": "ChIJO2hG4h3JzTsR6TmRtU660OA",
+            "plus_code": {
+                "compound_code": "G6WV+88 Indalwai, Telangana",
+                "global_code": "7JCWG6WV+88"
+            },
+            "rating": 0,
+            "reference": "ChIJO2hG4h3JzTsR6TmRtU660OA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2-2A, opp. Bus Stand, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6104191,
+                    "lng": 78.1971539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61176167989272,
+                        "lng": 78.19852417989271
+                    },
+                    "southwest": {
+                        "lat": 18.60906202010728,
+                        "lng": 78.19582452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gernal store",
+            "place_id": "ChIJdbJK57PPzTsRSLj3GY1nMJQ",
+            "rating": 0,
+            "reference": "ChIJdbJK57PPzTsRSLj3GY1nMJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J56W+5V6, Islampura Colony, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.624007,
+                    "lng": 78.3080782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62532647989272,
+                        "lng": 78.30940832989272
+                    },
+                    "southwest": {
+                        "lat": 18.62262682010727,
+                        "lng": 78.30670867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri laxmi narsimha groceries",
+            "place_id": "ChIJCeeylva3zTsRjKzbzXucUAI",
+            "plus_code": {
+                "compound_code": "J8F5+J6 Ramadugu, Telangana",
+                "global_code": "7JCWJ8F5+J6"
+            },
+            "rating": 5,
+            "reference": "ChIJCeeylva3zTsRjKzbzXucUAI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "4-35"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5885241,
+                    "lng": 78.22643149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58921445000001,
+                        "lng": 78.22778944999999
+                    },
+                    "southwest": {
+                        "lat": 18.58645305,
+                        "lng": 78.22235764999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MANVESH KIRANA SHOP",
+            "place_id": "ChIJjXQ-Oa7JzTsRZpwwOPbCsA0",
+            "plus_code": {
+                "compound_code": "H6QG+CH Kamalapur, Telangana",
+                "global_code": "7JCWH6QG+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJjXQ-Oa7JzTsRZpwwOPbCsA0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO 4-2, near WATER TANK, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5908208,
+                    "lng": 78.1523239
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59218127989272,
+                        "lng": 78.15367807989273
+                    },
+                    "southwest": {
+                        "lat": 18.58948162010728,
+                        "lng": 78.15097842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dinesh Kiranam Shop",
+            "place_id": "ChIJk7r3CCnPzTsRpJrqs7m6Nqg",
+            "plus_code": {
+                "compound_code": "H5R2+8W Nizamabad, Telangana",
+                "global_code": "7JCWH5R2+8W"
+            },
+            "rating": 0,
+            "reference": "ChIJk7r3CCnPzTsRpJrqs7m6Nqg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H No 7, 4-8, Kualaspur, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6236323,
+                    "lng": 78.1872578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62498407989272,
+                        "lng": 78.18862592989272
+                    },
+                    "southwest": {
+                        "lat": 18.62228442010728,
+                        "lng": 78.18592627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SRAVANTHI KIRANA & GENERAL SHOP",
+            "place_id": "ChIJ-cny9wbFzTsRNC1GShUMT0A",
+            "plus_code": {
+                "compound_code": "J5FP+FW Nadipally Thanda, Telangana",
+                "global_code": "7JCWJ5FP+FW"
+            },
+            "rating": 0,
+            "reference": "ChIJ-cny9wbFzTsRNC1GShUMT0A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, 5, Nizamabad - Hyderabad Rd, Nadipally Thanda"
+        }
+    ],
+    "status": "OK"
+}

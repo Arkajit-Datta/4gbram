@@ -1,0 +1,43 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5374056,
+                    "lng": 78.0612396
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.53871072989272,
+                        "lng": 78.0625553298927
+                    },
+                    "southwest": {
+                        "lat": 26.53601107010728,
+                        "lng": 78.05985567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0906\u0915\u093e\u0936 \u0915\u093f\u0930\u093e\u0928\u093e \u0938\u094d\u091f\u094b\u0930",
+            "place_id": "ChIJSWJOM7avdjkRhjb1FjUIOmk",
+            "rating": 5,
+            "reference": "ChIJSWJOM7avdjkRhjb1FjUIOmk",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G3P6+XF9, Unnamed Road, Jongali"
+        }
+    ],
+    "status": "OK"
+}

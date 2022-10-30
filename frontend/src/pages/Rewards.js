@@ -7,23 +7,24 @@ import './../style/Location.css'
 import { useEffect } from "react";
 
 //import Iternary from '../comps/Iternary';
-import Recommends from '../pages/comps/Recommends';
+// import Recommends from '../pages/comps/Recommends';
 import Maps from '../pages/comps/Map.js';
 import { geocodeByAddress } from "react-places-autocomplete";
 import axios from 'axios';
 import { useHistory } from "react-router-dom";
+import Data from './../config';
 
 import qs from 'qs';
 
 const directionsService = new window.google.maps.DirectionsService;
 
-// const url = 'http://localhost:5000/gen_video'
+const url = Data['url'];
 export default function Rewards() {
 
     const [sourceCors, setSource] = useState({ lat: '', lon: '' });
     const [destinationCors, setDestination] = useState({ lat: '', lon: '' });
     const [directionsRes, setdirectionsRes] = useState();
-    const [selectedEmotion, setselectedEmotion] = useState('happy');
+    //const [selectedEmotion, setselectedEmotion] = useState('happy');
     const [video, setVideo] = useState();
     const sourceRef = useRef();
     const [objects,setObjects] = useState([]);
@@ -102,7 +103,7 @@ export default function Rewards() {
             params.append('dlat', destinationCors.lat)
             params.append('dlong', destinationCors.lon)
 
-            params.append('mood', selectedEmotion)
+            //params.append('mood', selectedEmotion)
             params.append('age', 'old')
 
             const config = {
@@ -110,6 +111,15 @@ export default function Rewards() {
                     'Content-Type': 'application/x-www-form-urlencoded'
                 }
             }
+
+            axios.post(url, params, config)
+                .then((result) => {
+                    console.log(result)
+                })
+                .catch((err) => {
+                    console.log(err)
+
+                })
         }
     }, [destinationCors, sourceCors]);
     console.log(sourceCors)

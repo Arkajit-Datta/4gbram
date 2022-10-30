@@ -1,0 +1,188 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8438104,
+                    "lng": 77.8464815
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.84512012989272,
+                        "lng": 77.84778527989272
+                    },
+                    "southwest": {
+                        "lat": 27.84242047010727,
+                        "lng": 77.84508562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Chandraveer Grocery Store",
+            "place_id": "ChIJ48OC-fRfczkRfNosLjbuMdY",
+            "plus_code": {
+                "compound_code": "RRVW+GH Aligarh, Uttar Pradesh",
+                "global_code": "7JVVRRVW+GH"
+            },
+            "rating": 5,
+            "reference": "ChIJ48OC-fRfczkRfNosLjbuMdY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shekhupur, Aligarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8569255,
+                    "lng": 77.854001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.85830262989272,
+                        "lng": 77.85538907989273
+                    },
+                    "southwest": {
+                        "lat": 27.85560297010728,
+                        "lng": 77.85268942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bansal Kirana Store (Fauji)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101322755309225010424\">vivek bansal</a>"
+                    ],
+                    "photo_reference": "AcYSjRhW6Bcjj6CLMi4y9ZIIkGtFg-YGJERnVVxXnNlkpPeWLtGCfbk3SBhERcS8zVzbziR5nQHfzVrQnWgHwa-dlFVDTHaOrJ7fHTNaIHBdaioPYFxNFtr_xmpUNp_vWk2IA4eApOJdhweCkOcJadkvEp-ypWEkntrJwWlsU-ojG3SHXvt0",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDQYb0cVZczkRvYP3NNbPfzs",
+            "plus_code": {
+                "compound_code": "VV43+QJ Talesara, Uttar Pradesh",
+                "global_code": "7JVVVV43+QJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJDQYb0cVZczkRvYP3NNbPfzs",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Talesara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9043031,
+                    "lng": 77.7344737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.90568332989272,
+                        "lng": 77.73578987989272
+                    },
+                    "southwest": {
+                        "lat": 27.90298367010728,
+                        "lng": 77.73309022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dalchand General store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJq6qqmjBFczkRmguMTqHhJT8",
+            "rating": 4.6,
+            "reference": "ChIJq6qqmjBFczkRmguMTqHhJT8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "WP3M+PQ9, Pach Hara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8414013,
+                    "lng": 77.7177751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.84275917989272,
+                        "lng": 77.71913182989272
+                    },
+                    "southwest": {
+                        "lat": 27.84005952010728,
+                        "lng": 77.71643217010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Binit Genral Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109963126137339416119\">ONLY STUDY</a>"
+                    ],
+                    "photo_reference": "AcYSjRiO8mCCSRYxQ6L3ECHjeYdLf2cIXKiullWLnHqPqkJ4e60gQqhOXKGkfi0bf0q-JefvpDCaykiHMebyUpQlKs9Muy78SotPDoq6IwudtMeFi_oepwCRwDKeE8V1NKxN7oTYx6Es2wzECKLXzAcFUUQOIdWotcOzAAgckWVTe9JGFvGm",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJY6c713FDczkRlW6PHvsPlqI",
+            "rating": 5,
+            "reference": "ChIJY6c713FDczkRlW6PHvsPlqI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "RPR9+H46, Palkheda, Said Garhi"
+        }
+    ],
+    "status": "OK"
+}

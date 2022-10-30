@@ -1,0 +1,898 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhkKE0pHq038qYuu0cADFZLtOPh4SC91FVDlVp4zgafYm0eivAKUMXSrXyoZYMcHaS1hiHi5C7KRD_KCn45YteRZ3nmEb5_E4Tf1xEQpYxMlBFhu2ivOq0mqi6mPB4X1t_XcSX_Sz8QLcvrw5Sv0rz8E7NZmHobjenoM1ZSRfiZb50D2IgDX1dmWjnGNqm7jHGYqNaihAZZSxZ7on3QbJip9ktqqR6TOQxl5dwubkA_p16v5sJqbeorwkTX1HVvAg6KxRTYQTJBHbuoUNAKBcxJx1ByV-3hECGs69moDekhxwdQIVMGTkLIqQT_C3h37Vs6DNrYTAaxQxl51301AYSYn9cKGXIuEGWZ2lT9EZ6aMM150s22PXBSnec1z7WkNkbl8sGYx8iDwQOWyYPxBdBaR-eARhH7EnfghDsBCUYSqtoevQpV7OxmKw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.939789,
+                    "lng": 79.20593300000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94114062989272,
+                        "lng": 79.20729242989272
+                    },
+                    "southwest": {
+                        "lat": 22.93844097010728,
+                        "lng": 79.20459277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jay kirana store",
+            "place_id": "ChIJGQiDa32DfzkRJpbDoXFvJkQ",
+            "rating": 5,
+            "reference": "ChIJGQiDa32DfzkRJpbDoXFvJkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W6Q4+VCH, Vipatpura, Housing board vipatpura, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9588264,
+                    "lng": 79.1792782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.96024902989272,
+                        "lng": 79.18043037989273
+                    },
+                    "southwest": {
+                        "lat": 22.95754937010728,
+                        "lng": 79.17773072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Raj Provisions",
+            "place_id": "ChIJPfz4KHidfzkRQQerQy7aVFA",
+            "plus_code": {
+                "compound_code": "X55H+GP Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX55H+GP"
+            },
+            "rating": 5,
+            "reference": "ChIJPfz4KHidfzkRQQerQy7aVFA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Jhirna, Near Power House, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9410583,
+                    "lng": 79.2088096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94237857989272,
+                        "lng": 79.21014762989273
+                    },
+                    "southwest": {
+                        "lat": 22.93967892010728,
+                        "lng": 79.20744797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "kirana shop",
+            "place_id": "ChIJRa29FcuDfzkRr3HaAZ32lkY",
+            "rating": 0,
+            "reference": "ChIJRa29FcuDfzkRr3HaAZ32lkY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W6R5+CGF, Vipatpura, Housing board vipatpura, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.8746217,
+                    "lng": 79.28748
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.87596282989272,
+                        "lng": 79.28882997989272
+                    },
+                    "southwest": {
+                        "lat": 22.87326317010727,
+                        "lng": 79.28613032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Patel General Stores And Shop",
+            "place_id": "ChIJD9RNgbKFfzkROx1147IWGgE",
+            "rating": 0,
+            "reference": "ChIJD9RNgbKFfzkROx1147IWGgE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V7FP+RXX, Chilachon Khurd, near Bachai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9458364,
+                    "lng": 79.1961048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94720617989272,
+                        "lng": 79.1974668298927
+                    },
+                    "southwest": {
+                        "lat": 22.94450652010728,
+                        "lng": 79.19476717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhole Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107492106672684826294\">v.k. Rajput</a>"
+                    ],
+                    "photo_reference": "AcYSjRgz_IfH-zwQir50weKcceRT5AloDRkxGvTIK4P9qLrYTBxpTFgCwbd5j9aXgDQ16rzI3zFjGpXPJHDFR6XT-LTp730PMrwQmXPNgM-gnDfzfW9MdKHpO1tWuTylWqa3Fj_f3eSNIiLaeq7lYdTQ74uniYEOv3JlrWIgkskMj8UnG_Km",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJtaT5kcucfzkRWhfkt7gUtNc",
+            "rating": 3.9,
+            "reference": "ChIJtaT5kcucfzkRWhfkt7gUtNc",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "W5WW+9F6, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9462588,
+                    "lng": 79.1918936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94763352989272,
+                        "lng": 79.19324257989271
+                    },
+                    "southwest": {
+                        "lat": 22.94493387010727,
+                        "lng": 79.19054292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sohil Kirana Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJO-2eLMmcfzkRPzXgb0nvaTY",
+            "rating": 5,
+            "reference": "ChIJO-2eLMmcfzkRPzXgb0nvaTY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W5WR+GQ2, Belapur Kar Ward, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9544114,
+                    "lng": 79.1802481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95577832989272,
+                        "lng": 79.18159817989273
+                    },
+                    "southwest": {
+                        "lat": 22.95307867010728,
+                        "lng": 79.17889852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery 4U Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 426,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112416559171122720064\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiAKfQSi2L4CDg-PMhso0bZRFYGPLjnAnpt68tvztqWhiG3_RJjX6jfyVJpG6_7p_4pHf7UCn7EBuRywIUZM1v2eswyLhto_L77b_nxOBQ8vMvsgbBeHPvYgAsfbP6d355e-5tYV2orRXo_dbOVvqQuZ1TNRJyB7CKOjd9k4VDf7Qtw",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJE1PkRHGdfzkRkiRxXyTSAGA",
+            "plus_code": {
+                "compound_code": "X53J+Q3 Dhedwara, Madhya Pradesh",
+                "global_code": "7JJXX53J+Q3"
+            },
+            "rating": 0,
+            "reference": "ChIJE1PkRHGdfzkRkiRxXyTSAGA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Near Jhirna Power House, in front of Nandan Vatika, Dhedwara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9457176,
+                    "lng": 79.1979235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94709972989272,
+                        "lng": 79.19927532989273
+                    },
+                    "southwest": {
+                        "lat": 22.94440007010727,
+                        "lng": 79.19657567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ankit General Stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ74_bLPudfzkRt2lALB2luBk",
+            "plus_code": {
+                "compound_code": "W5WX+75 Kandeli, Madhya Pradesh",
+                "global_code": "7JJXW5WX+75"
+            },
+            "rating": 5,
+            "reference": "ChIJ74_bLPudfzkRt2lALB2luBk",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Near, Gudri Bazaar, Tilak Ward, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9504303,
+                    "lng": 79.1961067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95174582989272,
+                        "lng": 79.19743777989272
+                    },
+                    "southwest": {
+                        "lat": 22.94904617010728,
+                        "lng": 79.19473812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rohit Kirana Stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJj4b7uc2cfzkRGaABHKpHSw8",
+            "rating": 4.1,
+            "reference": "ChIJj4b7uc2cfzkRGaABHKpHSw8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "X52W+5CH, Yadav Colony, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9324156,
+                    "lng": 79.2018451
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.93371022989272,
+                        "lng": 79.20323462989272
+                    },
+                    "southwest": {
+                        "lat": 22.93101057010728,
+                        "lng": 79.20053497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rahul kirana store",
+            "place_id": "ChIJ35OcPMSDfzkRfVWGSLfAXus",
+            "rating": 1,
+            "reference": "ChIJ35OcPMSDfzkRfVWGSLfAXus",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W6J2+XP9, By pass, Jabalpur - Nagpur Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9551623,
+                    "lng": 79.1866503
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95651287989272,
+                        "lng": 79.18799637989271
+                    },
+                    "southwest": {
+                        "lat": 22.95381322010728,
+                        "lng": 79.18529672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Krishna supar market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ9eG04xGdfzkR5pB_V3WBtP8",
+            "rating": 5,
+            "reference": "ChIJ9eG04xGdfzkR5pB_V3WBtP8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "X54P+3M7, gali 8, Dhanare Colony, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9403037,
+                    "lng": 79.2062337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94162137989272,
+                        "lng": 79.20757877989271
+                    },
+                    "southwest": {
+                        "lat": 22.93892172010728,
+                        "lng": 79.20487912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nema kirana and daily needs",
+            "place_id": "ChIJ6YcuCLuDfzkRp5-Ed7-mAAg",
+            "rating": 0,
+            "reference": "ChIJ6YcuCLuDfzkRp5-Ed7-mAAg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W6R4+4FH, Unnamed Road, housing board colony vipatpura, Housing board vipatpura, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9473015,
+                    "lng": 79.1923252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94868487989272,
+                        "lng": 79.19369642989273
+                    },
+                    "southwest": {
+                        "lat": 22.94598522010727,
+                        "lng": 79.19099677010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Swami Super Market (Swami Stores)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110964709405183938046\">Mahendra Adwani</a>"
+                    ],
+                    "photo_reference": "AcYSjRg8cu1hDiknYffe137lDkELPYJPCPLgcvbEC_ZDMobUYcZI1MblcBSqNy6w63KohfXxhF3I-6NyOKy4bfQa68h-MFHuYOKq1b3rDDNlGftwWG62PoVsF4DcGgfV5zyeymhX7ijCewjqa7lMSIZZMaeSUK6Fc_ad73MgKs_dIr3nbqki",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJa-02lc6cfzkRSoHjU9NhKHo",
+            "plus_code": {
+                "compound_code": "W5WR+WW Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5WR+WW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJa-02lc6cfzkRSoHjU9NhKHo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Sunka chouraha, NH26, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.950737,
+                    "lng": 79.21451499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95220222989272,
+                        "lng": 79.21617712989271
+                    },
+                    "southwest": {
+                        "lat": 22.94950257010728,
+                        "lng": 79.21347747010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Agrawal wholesale grocery shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112921798814465872521\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRij1Q8TkB9H9oCxM5hSIDtKOI0HnNoX92a2z3ogiuLSxsW3omnttHzS8tZk50xhiqN26GHF1LHYhs_lhYw5q9MdQHjTrix669xd9l6DEh2H2W5e_xNXTm9Ny6X_ANf_lB5SryG2-mxSitmcFyvY1HtLaTTi8MeGv5_okia4ZF3SQyya",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJY006DBODfzkRubR7Yh5xdJ4",
+            "plus_code": {
+                "compound_code": "X627+7R Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX627+7R"
+            },
+            "rating": 0,
+            "reference": "ChIJY006DBODfzkRubR7Yh5xdJ4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Galla Mandi chowk"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9404193,
+                    "lng": 79.19822420000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94173562989272,
+                        "lng": 79.19958112989272
+                    },
+                    "southwest": {
+                        "lat": 22.93903597010728,
+                        "lng": 79.19688147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nandu kirana",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108739537916768975946\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPu5IQV6Kb8AdqU_RjvsXUd0r1GDQcTOQtP_BLnL_VYgJWjgKas5HNuOBq0xSxcLFa0VLM5mha6vbPdetro34MIuXnwK90BJ7Nj7DNYHuUWSuQm54Siu1rgyen3h5IpZ894AEfEdw_rL5DSpoW7-9e9-MP7Z6BLOqZzhIlgNf1WSO6",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJB5wLCKadfzkRyvlj0lm1Kqs",
+            "plus_code": {
+                "compound_code": "W5RX+57 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5RX+57"
+            },
+            "rating": 5,
+            "reference": "ChIJB5wLCKadfzkRyvlj0lm1Kqs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Central school road Shanti Nagar, nakatua"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.91626,
+                    "lng": 79.2428217
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.91760147989272,
+                        "lng": 79.2441161298927
+                    },
+                    "southwest": {
+                        "lat": 22.91490182010727,
+                        "lng": 79.24141647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u0941\u092d \u0915\u094d\u0937\u0940 \u0915\u093f\u0930\u093e\u0928\u093e \u0938\u094d\u091f\u094b\u0930",
+            "place_id": "ChIJ_33oL_CFfzkRjn_JpLUnDJg",
+            "rating": 5,
+            "reference": "ChIJ_33oL_CFfzkRjn_JpLUnDJg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W68V+G44, Jhagarhai, Dangidhana"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9487045,
+                    "lng": 79.19535739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95005217989272,
+                        "lng": 79.19672532989271
+                    },
+                    "southwest": {
+                        "lat": 22.94735252010728,
+                        "lng": 79.19402567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Keshav Kirana & Genral Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116330932471149682156\">Ghanshyam Nema</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsReiXJVunnmqHb4rBrGxJhq7gfh1k3pDdpmQoKo-JF4yjm4B_YbL4HNgsFzFO0fDtOh5ZBk4epACXKXyfGJ45j4bn00ebzck6kaKN7OqHOwYV9-Zvn_fVNiYzFI3I-PmeQKpZgmd8k62dGT8p-D5Fl2pfkma7JMiDv7zStywq-9Gf",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ_Uw0OcycfzkRXih5dBGPIFc",
+            "plus_code": {
+                "compound_code": "W5XW+F4 Kandeli, Madhya Pradesh",
+                "global_code": "7JJXW5XW+F4"
+            },
+            "rating": 5,
+            "reference": "ChIJ_Uw0OcycfzkRXih5dBGPIFc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "near Gurudwara chouk, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9305159,
+                    "lng": 79.256525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.93154287989272,
+                        "lng": 79.25824432989272
+                    },
+                    "southwest": {
+                        "lat": 22.92884322010728,
+                        "lng": 79.25554467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Saransh kirana & genrel store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108850207642633343402\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLmVs0_bqsEp22RDI2ZxqHd4fRJkWEDOSzPoTC0fYbgv-odo7wRxNphCEEVZIjcRdf--BHpPnUUfixvqwMev-XSDj9oSKZ5tlcaLsBkg7j4JALkD9q5ZhQ_jlVjHhyMLJHIFMl6ihBQiNHq8ktZ3cq9KJ7ngyDWa9r08Z66_8xEdEI",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJO8vxi9ODfzkRbEzES46ENpo",
+            "plus_code": {
+                "compound_code": "W7J4+6J Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW7J4+6J"
+            },
+            "rating": 0,
+            "reference": "ChIJO8vxi9ODfzkRbEzES46ENpo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "BHAGPODI, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9449008,
+                    "lng": 79.1809637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94623742989272,
+                        "lng": 79.18230957989272
+                    },
+                    "southwest": {
+                        "lat": 22.94353777010728,
+                        "lng": 79.17960992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sarfaraj kirana store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 429,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110838643218038438521\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgYGqQcMLQGHCfMHiE7LEkT8aKZk_NTqH8IHznQX0-oukTtU0IwtuKUsdZS2-fHEnEfefOWrimcQpFBag-H682TPukH-3YwdoxYLWnQAXsBbZd8LCAw7--Q5L5-2YKZ1_OP9cokwkHnoPBvUbpY9iWD501-l_h6rjIoC-LJTdZt6D3P",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJN5L_XT2dfzkRmCNYijdkNaQ",
+            "plus_code": {
+                "compound_code": "W5VJ+X9 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5VJ+X9"
+            },
+            "rating": 5,
+            "reference": "ChIJN5L_XT2dfzkRmCNYijdkNaQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Ganesh Mandir Rd, Kisani Ward, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.948416,
+                    "lng": 79.19957149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94980377989272,
+                        "lng": 79.20090197989272
+                    },
+                    "southwest": {
+                        "lat": 22.94710412010728,
+                        "lng": 79.19820232010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u094d\u0930\u0940 \u091c\u0940 MART",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117832308340608122566\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgtKVdSKf0BVEq22gAIyUNhlxeezUXIg3ihS0NMh1se8qVFLzMBjhw_PE734G6g6Vhg82zJyzrJCt-d2b0W1CPJkvWqFKSl9wl75pWFRNpU6ktqTBsuZXYOhiaH2l3A3aJ1Zfb5AFTrNBrixJ1Yn2JgDpUb2XTX-jN1hv9hRepQg_Ce",
+                    "width": 958
+                }
+            ],
+            "place_id": "ChIJmepoB1edfzkRD_EFec3qBXI",
+            "plus_code": {
+                "compound_code": "W5XX+9R Kandeli, Madhya Pradesh",
+                "global_code": "7JJXW5XX+9R"
+            },
+            "rating": 5,
+            "reference": "ChIJmepoB1edfzkRD_EFec3qBXI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Sankal Road, ram ward, Kandeli"
+        }
+    ],
+    "status": "OK"
+}

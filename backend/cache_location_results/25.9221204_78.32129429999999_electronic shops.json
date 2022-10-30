@@ -1,0 +1,845 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhksyWPLVYMd1IQ-_MsvXg6OGKqqKkyJfj5MEcjBrVCYIUus3kgKTsDLcHiM6FRMTxtVK-wpln59VrMwv8WwHwo8G5T0cqbAKa3Fl5ZYsIrBv2BNaULoSpZYWWpDR7APJJXawtuqiYUA6jAYSmKt9lmZ7NgAfROm4butwEhZaFxNHUBn0agFDAOTXXVw24-3VqNzkCs0iNPYkwTnEvmsul8Ar1Ww9k1RwDKBUQvLSLk0UNerBZ_FOHY79pU1q-p-hyxrngrnLx3d7HDbfnWWEFVigEc0-66AvpAIQ5G5He9W9FT_tRRXkMS1V_CwIcuMRyaF2d5B86E7-ckdSmHL-CRFGa1WJM4FuHtIgiY7DW4XFeAIhZ4w_MQEUvRNNj5FgjKuCrMo18oMtAzRkamPGVNIWwd2b2-aurEuRy8uwOBUacQeGt-7MB72OfmklgVqxnL",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9013813,
+                    "lng": 78.3325212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.90269462989272,
+                        "lng": 78.33378027989272
+                    },
+                    "southwest": {
+                        "lat": 25.89999497010728,
+                        "lng": 78.33108062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji Electronic Center",
+            "place_id": "ChIJvzBml6AfdzkRWrql6PLAynU",
+            "plus_code": {
+                "compound_code": "W82M+H2 Dabra, Madhya Pradesh",
+                "global_code": "7JQWW82M+H2"
+            },
+            "rating": 0,
+            "reference": "ChIJvzBml6AfdzkRWrql6PLAynU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gwalior Rd, Ambedkar Colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8838984,
+                    "lng": 78.32528520000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88526577989272,
+                        "lng": 78.32660087989272
+                    },
+                    "southwest": {
+                        "lat": 25.88256612010728,
+                        "lng": 78.32390122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji electronic",
+            "place_id": "ChIJDVHciDIfdzkRVFSqI3Dvgag",
+            "rating": 0,
+            "reference": "ChIJDVHciDIfdzkRVFSqI3Dvgag",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8MG+H56, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8844383,
+                    "lng": 78.3367993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88584247989272,
+                        "lng": 78.33815537989273
+                    },
+                    "southwest": {
+                        "lat": 25.88314282010728,
+                        "lng": 78.33545572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "B L ELECTRONIC",
+            "place_id": "ChIJ6zlnf60fdzkR7FKEppcFJr8",
+            "plus_code": {
+                "compound_code": "V8MP+QP Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8MP+QP"
+            },
+            "rating": 0,
+            "reference": "ChIJ6zlnf60fdzkR7FKEppcFJr8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886,
+                    "lng": 78.3318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88739027989272,
+                        "lng": 78.33313517989272
+                    },
+                    "southwest": {
+                        "lat": 25.88469062010728,
+                        "lng": 78.33043552010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dev Mobile & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ54NnDxsfdzkR_w-tRh4UB00",
+            "rating": 2.5,
+            "reference": "ChIJ54NnDxsfdzkR_w-tRh4UB00",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V8PJ+9PV, Railway Station Road Sarafa Bazar, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8888841,
+                    "lng": 78.3425018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89022797989272,
+                        "lng": 78.34380187989272
+                    },
+                    "southwest": {
+                        "lat": 25.88752832010728,
+                        "lng": 78.34110222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "manish electronic",
+            "place_id": "ChIJ3QVIOk0fdzkRPeC0QkmCrjw",
+            "plus_code": {
+                "compound_code": "V8QR+HX Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QR+HX"
+            },
+            "rating": 0,
+            "reference": "ChIJ3QVIOk0fdzkRPeC0QkmCrjw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "manish electronic, Ravi Nagar, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.887853,
+                    "lng": 78.3373103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88917027989272,
+                        "lng": 78.33866847989273
+                    },
+                    "southwest": {
+                        "lat": 25.88647062010727,
+                        "lng": 78.33596882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Barkha Electronic",
+            "place_id": "ChIJTwR8Z6wfdzkRQskpN5ZVIh4",
+            "plus_code": {
+                "compound_code": "V8QP+4W Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QP+4W"
+            },
+            "rating": 0,
+            "reference": "ChIJTwR8Z6wfdzkRQskpN5ZVIh4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.88892,
+                    "lng": 78.336064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89027872989272,
+                        "lng": 78.33744907989272
+                    },
+                    "southwest": {
+                        "lat": 25.88757907010728,
+                        "lng": 78.33474942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivam Electronic",
+            "place_id": "ChIJ1dzd3gIfdzkRAAAAsCYjdyw",
+            "plus_code": {
+                "compound_code": "V8QP+HC Indergarh, Madhya Pradesh",
+                "global_code": "7JQWV8QP+HC"
+            },
+            "rating": 0,
+            "reference": "ChIJ1dzd3gIfdzkRAAAAsCYjdyw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12, Indergarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8870079,
+                    "lng": 78.3338799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88829712989272,
+                        "lng": 78.33525182989271
+                    },
+                    "southwest": {
+                        "lat": 25.88559747010728,
+                        "lng": 78.33255217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vardhaman Electronic",
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115388445818019009306\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNhKIQeM4wwuY-8hYmC4-pAVI7yDxk1oiXgs93ObuxspEfgHLQjZtPk9O3D5FKUxA36GZyenVDoCN55zOPzXwAGDLLyKeWrzlGl4gOXKkOjdduazM0rWqUpdnzOJfntGv4hypPnwh1MQiP376iB24jXMRKII2TCJCV9yROmAAQ6Tqy",
+                    "width": 588
+                }
+            ],
+            "place_id": "ChIJ93dTsBwfdzkRrMd13cbtB60",
+            "plus_code": {
+                "compound_code": "V8PM+RH Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PM+RH"
+            },
+            "rating": 0,
+            "reference": "ChIJ93dTsBwfdzkRrMd13cbtB60",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "in front of Punjab Bank, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8869227,
+                    "lng": 78.3349267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88826312989272,
+                        "lng": 78.33627037989272
+                    },
+                    "southwest": {
+                        "lat": 25.88556347010728,
+                        "lng": 78.33357072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pooja Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ_5uIzxwfdzkR5wbJdJznJ5w",
+            "rating": 5,
+            "reference": "ChIJ_5uIzxwfdzkR5wbJdJznJ5w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "V8PP+Q2C, Geeta Talkies Rd, near SBI ATM, Shriram Colony, Subhash Ganj, Darshan colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.883842,
+                    "lng": 78.328392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88514482989272,
+                        "lng": 78.32978212989272
+                    },
+                    "southwest": {
+                        "lat": 25.88244517010727,
+                        "lng": 78.32708247010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ram electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105014043850743869629\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhwbkKmYmZ27v39aPUc_aVEF5sZBUmEOhBft2sEyo1afMLQoLC--0ZkpnMJClaMKPqzE9ra8SF8huN_8LbWhqXlR1AIIgd74ux3zVpHVEvqxogQezfIFK3uehwL5RpWGLkhl-uBbyRs_v8l0SZn1kJWWgdMbQYVidXmZo6-Je6FKzdV",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJgxw9nRAfdzkRaDN7gUkMGAw",
+            "plus_code": {
+                "compound_code": "V8MH+G9 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8MH+G9"
+            },
+            "rating": 5,
+            "reference": "ChIJgxw9nRAfdzkRaDN7gUkMGAw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "near hari babu ki desi Kalari, Jawahar Gunj, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8869307,
+                    "lng": 78.33353690000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88820902989272,
+                        "lng": 78.33491282989273
+                    },
+                    "southwest": {
+                        "lat": 25.88550937010728,
+                        "lng": 78.33221317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Varsha electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114126645815290601139\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh0gbFYESXFkMN8tKEsUu-80HCgbjk1YpiMlwr5TOivoUwtiFFRFfYMAcG2J7FxhrAiRvm7drzNJtlAwxnRJECInncrOai1upp9cQqbM1e10q6nAoO73xldVAB8E6Hb_JOB7QcXIptuYphgbmtsEml7NodB18FNxtfaCYbw-t3pYLqb",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJcR4B3xofdzkR6a_hQc-VvXE",
+            "plus_code": {
+                "compound_code": "V8PM+QC Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PM+QC"
+            },
+            "rating": 5,
+            "reference": "ChIJcR4B3xofdzkR6a_hQc-VvXE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8825301,
+                    "lng": 78.3263383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88384447989272,
+                        "lng": 78.32777627989273
+                    },
+                    "southwest": {
+                        "lat": 25.88114482010728,
+                        "lng": 78.32507662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Janta Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJweuTvRAfdzkRvC-vbF0huJc",
+            "rating": 1,
+            "reference": "ChIJweuTvRAfdzkRvC-vbF0huJc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8MG+2G9, Katara Chauraha, Jawaharganj Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8839082,
+                    "lng": 78.3276585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88526232989272,
+                        "lng": 78.32901122989273
+                    },
+                    "southwest": {
+                        "lat": 25.88256267010728,
+                        "lng": 78.32631157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhasin Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJw1WEfhofdzkRHWznl_tSmNc",
+            "rating": 3,
+            "reference": "ChIJw1WEfhofdzkRHWznl_tSmNc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "bicycle_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V8MH+H37, Bhitarwar Rd, Jawahar Gunj, Subhash Ganj, Dabra, Gwalior"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9906808,
+                    "lng": 78.2800235
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.99207427989272,
+                        "lng": 78.28133687989272
+                    },
+                    "southwest": {
+                        "lat": 25.98937462010728,
+                        "lng": 78.27863722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bharat Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 331,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100995959359116675123\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrLaoshi9kqguDrsO4iNI6EOECQIg5zsF6U_6R0oH5uOC2QTtpGmpAoReMq9rJ3UehKQVgRVSOb5fEDRAlgB3cYne5PWTT8szSlKL9KXJpIgDD9efUyUXB6s5fe5aIio9cutNguRdMaGwFQjYmH2Zg9EXWXjGIrEYpdInjt3tV0TyD",
+                    "width": 443
+                }
+            ],
+            "place_id": "ChIJeQJjWDLedjkRQnxH6dRna8M",
+            "plus_code": {
+                "compound_code": "X7RJ+72 Tekanpur, Madhya Pradesh",
+                "global_code": "7JQWX7RJ+72"
+            },
+            "rating": 4.1,
+            "reference": "ChIJeQJjWDLedjkRQnxH6dRna8M",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Shop no. 01, Bona Rd, Rampal Colony, Tekanpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8818237,
+                    "lng": 78.3260372
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88316057989272,
+                        "lng": 78.32739317989272
+                    },
+                    "southwest": {
+                        "lat": 25.88046092010728,
+                        "lng": 78.32469352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Surendra Electric & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJvSIZuBAfdzkRcVZogYoFwkQ",
+            "rating": 3,
+            "reference": "ChIJvSIZuBAfdzkRcVZogYoFwkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V8JG+P9X, Near Kataria Chauraha, Jawaharganj Rd, Dabra, Gwalior"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.885923,
+                    "lng": 78.33159289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88727182989272,
+                        "lng": 78.33293927989273
+                    },
+                    "southwest": {
+                        "lat": 25.88457217010728,
+                        "lng": 78.33023962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Godrej Inspire Hub-Dabra Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ7Y1EuhwfdzkRw1Hl_fk91so",
+            "plus_code": {
+                "compound_code": "V8PJ+9J Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PJ+9J"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ7Y1EuhwfdzkRw1Hl_fk91so",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "near State Bank of India, Sarafa Bajar, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886008,
+                    "lng": 78.330553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88733462989272,
+                        "lng": 78.33187562989272
+                    },
+                    "southwest": {
+                        "lat": 25.88463497010728,
+                        "lng": 78.32917597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Laxmi Electronics Sales",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ1WAsIhsfdzkRlE0VljtaUtk",
+            "rating": 4.5,
+            "reference": "ChIJ1WAsIhsfdzkRlE0VljtaUtk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V8PJ+C63, Near Railway Over Bridge, Subhash Ganj, Dabra, Gwalior"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8803709,
+                    "lng": 78.32226109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88180672989272,
+                        "lng": 78.32363462989272
+                    },
+                    "southwest": {
+                        "lat": 25.87910707010728,
+                        "lng": 78.32093497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "kamtanath ji spare and part",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 326,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106548540767858249635\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRixDjzohAVswi-cIhDHi9WBVKcQpHUqcXD_JLdEY5jjz7HxSFQyXBOvYUgvZQOFn3pC-Ardi4MCqMAS9Sher_mCCI8zsyHn9f3U5J3lL81GOnTYtBy9p4Fby4vF97cIzyBWeM3651lwlOSArLQxHzcFPUK4w8JwQRdBQifxD1wfL3aM",
+                    "width": 581
+                }
+            ],
+            "place_id": "ChIJYbxLkVsfdzkRBRFYsBoxbeI",
+            "plus_code": {
+                "compound_code": "V8JC+4W Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8JC+4W"
+            },
+            "rating": 5,
+            "reference": "ChIJYbxLkVsfdzkRBRFYsBoxbeI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Chinor Rd, Magrora, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886367,
+                    "lng": 78.331785
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88767662989272,
+                        "lng": 78.3331500798927
+                    },
+                    "southwest": {
+                        "lat": 25.88497697010728,
+                        "lng": 78.33045042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gopal Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJXTvZRhsfdzkR7rDScI3JSS0",
+            "rating": 2,
+            "reference": "ChIJXTvZRhsfdzkR7rDScI3JSS0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V8PJ+GPV, Front Of Post Office, Agrasen Chouraha, Subhash Ganj, Dabra, Gwalior"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8919565,
+                    "lng": 78.3375174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89321117989272,
+                        "lng": 78.33884342989272
+                    },
+                    "southwest": {
+                        "lat": 25.89051152010728,
+                        "lng": 78.33614377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhalla electronic parts Daba MS garden 475110",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJL6uXsiQfdzkR0dKu3ipJABg",
+            "rating": 5,
+            "reference": "ChIJL6uXsiQfdzkR0dKu3ipJABg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8RP+PXX, Teachers colny rest house bustand, near suraj hotel, Subhash Ganj, Dabra"
+        }
+    ],
+    "status": "OK"
+}
