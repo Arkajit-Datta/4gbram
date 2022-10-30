@@ -52,10 +52,15 @@ def commentry():
         }
 
 
-@app.get('/goals')
-def goals():
-    
+@app.post('/goals')
+def goals(slat: float = Form(...),
+            slong: float = Form(...),
+            dlat: float = Form(...),
+            dlong: float = Form(...)):
     time.sleep(2)
+    # generating the goals
+    
+    #starting the ride
     start_ride()
     return{
         'status':200,
