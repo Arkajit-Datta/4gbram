@@ -105,26 +105,21 @@ def start_ride():
     time.sleep(0.1)
     r_no = 1
     sending_to_commentry = []
-    try:
-        if r_no%40 == 0:
-            obj = PredictComment()
-            obj.predict(sending_to_commentry)
-        row_data = pick.get_data(r_no)
-        sending_to_commentry.append(row_data)
-        r_no+=1
-    except Exception as e:
-        pass
-
-
-# def generate_job_id():
-#     try:
-#         logging.info("generating unique job id")
-#         id = uuid.uuid4().hex
-#         return id[::2][:10]
-#     except Exception as e:
-#         logging.error(e)
-#         logging.error("error generating unique job_id")
-
+    obj = PredictComment()
+    while True:
+        try:
+            #time.sleep(0.1)
+            if r_no%30 == 0:
+                obj.predict(sending_to_commentry)
+                sending_to_commentry.clear()
+            row_data = pick.get_data(r_no)
+            row_data = row_data.values.tolist()
+            sending_to_commentry.append(row_data[0])
+            r_no+=1
+            print(r_no)
+        except Exception as e:
+            print('exception' + str(e))
+            break
 
 if __name__ == "__main__":
     uvicorn.run(
