@@ -56,11 +56,6 @@ export default function Rewards() {
             }))
             .catch(error => console.error(error));
 
-        //API CALLING CODE INSERT BELOW
-        //SOURCECORS AND DESTINATION CORS CONRTAIN THE LAT AND LONG COordinates
-
-
-        // apiCall({ body: body })
     }
 
 
@@ -94,6 +89,7 @@ export default function Rewards() {
         }
       }
       const [goalItem,setGoalItem] = useState([]);
+      const [locationItem, setLocationItem] = useState([]);
     useEffect(() => {
         getGoals();
         loadData();
@@ -115,8 +111,10 @@ export default function Rewards() {
 
             axios.post(url, params, config)
                 .then((result) => {
-                    setGoalItem(result.data.result);
-                    console.log(result.data.result)
+                    setGoalItem(result.data.result.slice(0,4));
+                    setLocationItem(result.data.result[4].last);
+                    console.log(result.data.result[4].last);
+
                 })
                 .catch((err) => {
                     console.log(err)
@@ -146,7 +144,30 @@ export default function Rewards() {
                                         </p>
                                 </div>
                             })}
-                            </div>
+                            {/* </div>
+                            {/* <div>
+                                {goalItem.map(goal => {
+                                return <div className='goalItems'>
+                                    <h4>{goal[4].map(g => {
+                                        return <div className='goalItems'>
+                                                <h4>{goal.name}</h4>
+                                        </div>
+                                    })}</h4>
+                                    <p>Complete this by this time.
+                                        </p>
+                                </div>
+                            })} */}
+                            </div> 
+                           
+                            <div className='iterItems'>
+                            {locationItem.map(lt => {
+                                return <div className='goalItems'><h4>{lt.name}</h4>
+                                <p>
+                                <div>{lt.location.lat}   {lt.location.lng}</div>
+                                <div>Rating : {lt.rating}</div></p>
+                                </div>
+                            })}</div>
+                            
                                
                                     {/* <div className='goalItems'>
                                         <h4>
