@@ -11,13 +11,14 @@ from commentry.predict import PredictComment
 import uuid
 import time
 from driver_analysis.pickcsv import PickCsv
+
 logging.basicConfig(
     level=logging.INFO, format="[%(asctime)s] %(levelname)s: %(message)s"
 )
 logger = logging.getLogger(__name__)
 logging.getLogger("pipeline").setLevel(logging.INFO)
 
-app = FastAPI(title="Chaarminar", version="1.0.0")
+app = FastAPI(title="4GBRam", version="1.0.0")
 
 #CORS
 app.add_middleware(

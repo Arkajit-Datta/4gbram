@@ -1,4 +1,9 @@
 import pandas as pd
+import json
+import os
+
+THIS_FILE = os.path.dirname(os.path.abspath(__file__))
+PROJ_FILE = os.path.abspath(os.path.join(THIS_FILE, "../"))
 
 class CsvParser:
     def __init__(self,file_path) -> None:
@@ -46,5 +51,24 @@ class CsvParser:
         idling = self.df["NeutralSwSts"].to_list()
         return sum(idling)/len(idling)
     
+    def parse(self, total_number_of_turns) -> None:
+        number_of_blinks = self._get_blinker()
+        gear = self._get_gear_similar_percentage()
+        half_clutch = self._get_half_clutch()
+        mileage = self._get_mileage()
+        idling = self._get_idling_time()
+        engine = self._get_engine_speed()
+        
+        # generating the json 
+        obj = {
+            "blinker": number_of_blinks/total_number_of_turns,
+            "gear": gear,
+            "half_clutch": half_clutch,
+            "mileage": mileage,
+            "engine_speed": engine,
+            "idling":idling
+        }    
+        file = PROJ_FILE + "/CsvParser/db.json"
+        json.dump(obj,file)
     
         
