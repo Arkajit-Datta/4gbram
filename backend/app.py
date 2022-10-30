@@ -11,7 +11,8 @@ import shutil
 import os   
 from commentry.getcomment import GetComment
 import uuid
-
+import time
+from driver_analysis.pickcsv import PickCsv
 logging.basicConfig(
     level=logging.INFO, format="[%(asctime)s] %(levelname)s: %(message)s"
 )
@@ -50,29 +51,33 @@ def commentry():
             }
         }
 
+
 @app.get('/goals')
 def goals():
-    return{
-        'status':200,
-        'result':
-        {
-            'goal1':0,
-            'goal2':1
-        }
-    }
-@app.get('/test')
-def test():
+    
+    time.sleep(2)
+    start_ride()
     return{
         'status':200,
         'result':
         [
-            {'name':'bot'},
-            {'name':'bot'},
-            {'name':'bot'},
-            {'name':'bot'},
-            {'name':'bot'}
+            {'name':'bot', 'status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False}
         ]
     }
+
+def start_ride():
+    pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv') 
+    time.sleep(0.5)
+    r_no = 0
+    try:
+        row_data = pick.get_data(r_no)
+        r_no+=1
+    except:
+        pass
 
 # def generate_job_id():
 #     try:

@@ -16,6 +16,11 @@ PROJ_FILE = os.path.abspath(os.path.join(THIS_FILE, "../"))
 class PredictComment:
     def __init__(self) -> None:
         self.loaded_model = load_model(PROJ_FILE + '/commentry/rash_drive')
+        self.mode = 'beNice'
+    
+    def set_mode(self,mode):
+        self.mode = mode
+    
     def rash(self,a):
         if self.loaded_model.predict(a)[0] == 1:
             return True 
