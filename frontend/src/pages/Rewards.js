@@ -7,23 +7,24 @@ import './../style/Location.css'
 import { useEffect } from "react";
 
 //import Iternary from '../comps/Iternary';
-import Recommends from '../pages/comps/Recommends';
+// import Recommends from '../pages/comps/Recommends';
 import Maps from '../pages/comps/Map.js';
 import { geocodeByAddress } from "react-places-autocomplete";
 import axios from 'axios';
 import { useHistory } from "react-router-dom";
+import Data from './../config';
 
 import qs from 'qs';
 
 const directionsService = new window.google.maps.DirectionsService;
 
-// const url = 'http://localhost:5000/gen_video'
+const url = Data['url'];
 export default function Rewards() {
 
     const [sourceCors, setSource] = useState({ lat: '', lon: '' });
     const [destinationCors, setDestination] = useState({ lat: '', lon: '' });
     const [directionsRes, setdirectionsRes] = useState();
-    const [selectedEmotion, setselectedEmotion] = useState('happy');
+    //const [selectedEmotion, setselectedEmotion] = useState('happy');
     const [video, setVideo] = useState();
     const sourceRef = useRef();
     const destinationRef = useRef();
@@ -78,7 +79,7 @@ export default function Rewards() {
             params.append('dlat', destinationCors.lat)
             params.append('dlong', destinationCors.lon)
 
-            params.append('mood', selectedEmotion)
+            //params.append('mood', selectedEmotion)
             params.append('age', 'old')
 
             const config = {
@@ -87,17 +88,14 @@ export default function Rewards() {
                 }
             }
 
-            // xios.post(url, params, config)
-            //     .then((result) => {
-            //         console.log(result)
-            //         setVideo(result.data)
-            //         history.push("/video");
-            //         localStorage.setItem('videoSrc','/home/anirudh/Desktop/Chaarminar/frontend/public/full_video.mp4')
-            //     })
-            //     .catch((err) => {
-            //         console.log(err)
+            axios.post(url, params, config)
+                .then((result) => {
+                    console.log(result)
+                })
+                .catch((err) => {
+                    console.log(err)
 
-            //     })
+                })
         }
     }, [destinationCors, sourceCors]);
     console.log(sourceCors)
@@ -142,7 +140,7 @@ export default function Rewards() {
 {/* 
                             <h2>Recomendations</h2>*/
                             <div className='recommendations'>
-                                <Recommends name="Gas Stations" />
+                                {/* <Recommends name="Gas Stations" /> */}
                                
                             </div> }
                         </div>
