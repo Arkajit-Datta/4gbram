@@ -11,7 +11,8 @@ import shutil
 import os   
 from commentry.getcomment import GetComment
 import uuid
-
+import time
+from driver_analysis.pickcsv import PickCsv
 logging.basicConfig(
     level=logging.INFO, format="[%(asctime)s] %(levelname)s: %(message)s"
 )
@@ -51,14 +52,41 @@ def commentry():
         }
 
 
-def generate_job_id():
+@app.get('/goals')
+def goals():
+    
+    time.sleep(2)
+    start_ride()
+    return{
+        'status':200,
+        'result':
+        [
+            {'name':'bot', 'status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False},
+            {'name':'bot','status':False}
+        ]
+    }
+
+def start_ride():
+    pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv') 
+    time.sleep(0.5)
+    r_no = 0
     try:
-        logging.info("generating unique job id")
-        id = uuid.uuid4().hex
-        return id[::2][:10]
-    except Exception as e:
-        logging.error(e)
-        logging.error("error generating unique job_id")
+        row_data = pick.get_data(r_no)
+        r_no+=1
+    except:
+        pass
+
+# def generate_job_id():
+#     try:
+#         logging.info("generating unique job id")
+#         id = uuid.uuid4().hex
+#         return id[::2][:10]
+#     except Exception as e:
+#         logging.error(e)
+#         logging.error("error generating unique job_id")
 
 
 if __name__ == "__main__":
