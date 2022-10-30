@@ -10,6 +10,7 @@ import uvicorn
 import shutil
 import os   
 from commentry.getcomment import GetComment
+from commentry.predict import PredictComment
 import uuid
 import time
 from driver_analysis.pickcsv import PickCsv
@@ -70,18 +71,23 @@ def goals(slat: float = Form(...),
             {'name':'bot','status':False},
             {'name':'bot','status':False},
             {'name':'bot','status':False},
-            {'name':'bot','status':False}
+            {'last':[{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7},{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7},{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7}],'status':False}
         ]
     }
 
 def start_ride():
-    pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv') 
+    pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv')
     time.sleep(0.5)
     r_no = 0
+    sending_to_commentry = []
     try:
+        if r_no%40 == 0:
+            obj = PredictComment()
+            obj.predict(sending_to_commentry)
         row_data = pick.get_data(r_no)
+        sending_to_commentry.append(row_data)
         r_no+=1
-    except:
+    except Exception as e:
         pass
 
 # def generate_job_id():
