@@ -14,6 +14,8 @@ class GetComment:
             return 0
         else:
             path = l["1"][0]
+            path = path.split('/')
+            path = path[-1]
             l["1"].remove(l["1"][0])
             f = open(db_path,'w')
             json.dump(l,f)

@@ -109,7 +109,7 @@ def start_ride():
     while True:
         try:
             #time.sleep(0.1)
-            if r_no%30 == 0:
+            if r_no%28 == 0:
                 obj.predict(sending_to_commentry)
                 sending_to_commentry.clear()
             row_data = pick.get_data(r_no)
