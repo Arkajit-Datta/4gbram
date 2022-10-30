@@ -209,7 +209,16 @@ class FindPatners:
             if res := self._find_patners_exist(search_res):
                 final_res.extend(res)
         final_res = sorted(final_res, key=lambda x: x[2],reverse=True)
-        return final_res[:3]
+        temps = final_res[:2]
+        res = []
+        for temp in temps:
+            obj = {
+                "name": temp[0],
+                "location": temp[1],
+                "rating": temp[2]
+            }
+            res.append(obj)
+        return res
 
 
 class GetTurnings:
