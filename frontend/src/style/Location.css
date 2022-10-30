@@ -123,15 +123,30 @@ hr{
     width:90%;
     background-color: rgba(255,255,255,0.15);
     border-radius: 5px;
-    margin:20px;
+    margin:10px auto;
+    
 }
 
 .goalItems p{
     font-size: 14px;
     color: rgba(255,255,255,0.7);
-    line-height: 1.6;
+    line-height: 1.6;padding: 10px;
 }
 
 h4{
     padding:10px;
+}
+
+.iterItems:nth-child(2){
+    padding: 0;
+    /* background-color: red; */
+    background-color: rgba(255,255,255,0.15);
+    border-radius: 5px;
+    width:95%;
+    margin: 0 auto;
+}
+
+.iterItems:nth-child(2) .goalItems{
+    /* padding: 10%; */
+    margin: 5%;
 }
