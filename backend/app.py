@@ -59,7 +59,7 @@ def goals(slat: float = Form(...),
             dlong: float = Form(...)):
     time.sleep(2)
     # generating the goals
-    
+
     #starting the ride
     start_ride()
     return{
