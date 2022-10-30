@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRhpQt-FdjSCKkHs_K7AP1sxr4on4WTqFkqDxGgQFpPoy9TQbcHqTTK3BX9gteDbT0QUJJsPf01FpuWat6nqRdAEI5wh8bhJRDL5hYTehLAibJrRpCr_R8Kb9P9TTb6OP1StUnqoqnj9-zYlaQH0MGhUNQk9Tn6C6547kzVwz8wYotECx6fwh2g91waAsKmMOCoU5lOH7NbJN9EwtlkD0TF6OlNQdRH5qPlrBty-PS6SFd8zVT4ew6Yn2uME_R0Y7CCAXH7_1He7WAQga8Tr0ZLYMRL0YgAbkTRwrIjFzHt5JCQXPr2pcbtolU9Llf_Prc_LY99SZb22u-81LkllL0UN-JrCUcY1cMrOW16eoRm6taccJTWEqCrkZNXccI5Uxc4qC-J9SuM_JKB_Deog1QiKBgKNQgxeyTpAjzEmUtcGCKbhrWHMJA",
+    "next_page_token": "AcYSjRhORFNrVyR6tMalHetW-61PVaZpSoE6cwNYzEH-XWCIbT3PWqJR7jr0fHuiRWh9VHjJ6TGaaLRnjRT-3G1bmBD914or2qor2u6pKQgyiE53oREPBO7E_G3wX0d1lrxCWwJYJzO664MWqYTsBMRFaY3q7cVfUZsxXJD3V7z6LMyc1yR0qxxHpKt4wBFhtehLKzV4yqZ0LZtO-7eAIjGYicJaWejTIMAU4wtNQakhmsuBIDGDVkkMt1B_aIAl662iQm15YjXfeuAiLuR3E8Jt_o63IvmtUwQPPsM9bZVfPrgwe2NK8cP-xzc3sS4GIRrtvEcoT5k16ISNTY980sP4o5bwWSesAer-SNpItFiRmWeBjZsYgV_wca86zCCDL2bCm4HzOVtPBm6S3W2FtIFzJnCCZkxC_3dfFK7ezZ836a-08z3zpsv__A",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -34,9 +34,9 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -73,9 +73,9 @@
             "reference": "ChIJZ0SGo8lxdDkRdMtLGpsEMz8",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -112,9 +112,9 @@
             "reference": "ChIJeaToyUNxdDkRUs4U_gOp1WA",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -147,9 +147,9 @@
             "reference": "ChIJEYFp0dd2dDkRAAAAMF4ovTc",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -186,9 +186,9 @@
             "reference": "ChIJE4Wz-fRxdDkR6J9t5Qdn-lY",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -264,9 +264,9 @@
             "reference": "ChIJt5BekXhxdDkR-KOHLL1T3FQ",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -341,7 +341,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/114984796325030468910\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRgkcAEGjU01869cKBs_KucKbWb_sKczRpk9q6v5097E8-793VjCApTcEB2lH_5BjdE8TaMFHly-BvaaeeL6yrJHDSagGbUtRd7_qpVLj-AustrPMkbj3E1hDDNfsL9KjMG2hs-Hq3YPAv860r1GE3JdTGezlVz0lTEM6gkN5BcL5NJe",
+                    "photo_reference": "AcYSjRiXg7oHnHKdc4YNn52P4fGMjdUJ7Aj_IweFOo59FzTPyngo9mROUOPF2Vms0SKTXn9N0wrMvC4x1KBdDDSyzP4nHfMLnTMwlBqoZz-wkLoXnM1Hcv2sBCeHkDnMs_VucKOkvINYf8AhAYPx2A_z03B_qFelDqFK4qLALNHk_-2NNC-G",
                     "width": 4000
                 }
             ],
@@ -392,9 +392,9 @@
             "reference": "ChIJ83o_Bf1xdDkRR0-_OO2nT7E",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -431,9 +431,9 @@
             "reference": "ChIJt6c89HtxdDkRp9TnzoAKBtQ",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -470,9 +470,9 @@
             "reference": "ChIJA34sKIhxdDkR-JifMzt2k9A",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -509,7 +509,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/106271654793945626091\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRi34hCbeNoqpHB_hirOug3ZGWoulLmZ_jEADNKl3Lp1N7X2r86RIJ43hSMWFZQgRCW9K3YApCczpmOyIXQHOG_zuMxoqub69DuLzAnjXK3OyDHawithLgCI1vrSi2B48Mff7qag9Pi-aNLLbWqzI54XgWzDrgiDVOK4ImOynagHO2kp",
+                    "photo_reference": "AcYSjRjG8FOakUJI0xZcUkuK4ukrZKRlTcHXOJ3FY0n0evWE6MfeBu4YhOrOaeJHG5OkTzD1YG-8SxeSa91XxR91HgGruEv0jF3ZlmcF0EjQhyyjTeaYyrpLsPZsabO8UwB1Tw4VKipIuTfwt3RvpRkbEZFlU9GB51MfE0HNMnxu_boM8ECh",
                     "width": 499
                 }
             ],
@@ -560,9 +560,9 @@
             "reference": "ChIJKSp6eaBxdDkRsOlevYpk1To",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -599,7 +599,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/111146431830071169338\">ankur goyal</a>"
                     ],
-                    "photo_reference": "AcYSjRh3hNTFbs0tpIRwZBtv5rb_cF2qaoRdnrsuxzvhYwOUWl9dAolUpAcdrhDauFoROClfaL6ySkDwEf7ubETlWlzzwdEX5bWxp5nf7f2ie0HOQcnNZBpjs7pmyyx4bzoYCwA3wJBqLjGdg3bDqAGY_7pT0-Ey8ldmyUS6NHeig4ybUKsd",
+                    "photo_reference": "AcYSjRjwLSbNM5-B76U6uqwIy_HmCeVKpOpWS0XS5bOh8q-Vcb2FHocP6a0ltwFzX5eJDzMHSopS3lZeaqtqIJgkwaOc2VjH4piisrpyHTt7Jnfyr94OgLeK5BVWm8wdXyB_l7qo6hS73Wpt8RBgrwH318QfAwJYTvVP62prJrEfNgQKi_OB",
                     "width": 768
                 }
             ],
@@ -731,9 +731,9 @@
             "reference": "ChIJ7fGWKJBxdDkRbxzNXjvA8bI",
             "scope": "GOOGLE",
             "types": [
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -801,9 +801,9 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "food",
                 "store",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 0,

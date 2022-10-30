@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRj-WRKa8PC-IXzt3pvFrhut7_vSkeNsjje8ouSQYNUaVI1E7W4XotYu1Kvc-kFYubHRlGaFnP5QbYoYS5jciI2MnAQmVBqsyETvmYT3qWJfDKgjv5uOyywNGvQtY-PevkQdAWYdJd_anmF8u8GKFrRqhZABKVSfRA396S35OsChHNo9lMtQb8m7NeBzf3VwPGbAwHseSO8nagkK08ZMJxu84b4asC50m20TKMssRz9G1Oob90rz73aySfB5cdKeA76H3bicJXEjJQYwa548F-Dow4O0Rz1LojukqydhGDOeshTymAsmtcRRfzsDJr5WTMz-kv4H-8qmyEuNbBtOmJemKNXmOC1xNbyrikkxGrpCKgIESYzhyaDRdRc21KHSzEhPDO7BvPYatPyCBq4PEZNPScbyNwz70WxdEPrSmczaZS32XhgYlg",
+    "next_page_token": "AcYSjRgE3yWtS9WyJZuuD3YzWqGDafNw0AUbO5fPpwtmXMMwoksxRFSoniYk4NdUQ6qw04K6TtGWqRk6zxSxfYOdzof5kY91pUwc3VSVNm9NLYObWAB043udX1MNnVBMn_aRoCYWiryBVTq4liNTMald5jcLjP24_UAdgNq4gCh5WoB7_7S8pCy5-nP39q7YtnOk_VHXCrLurNI_cZFxIj-tBAxTm5ZCv8Io4bER89Vu7gDKt_oTNAhu7MblCuAUcDLUFsP3XW5w4mp4eyRZZINf_HqEmwzF7oXCX7zCksxHPRwtQqx1YJQt4kLBe0uSm1dR7JkOIzQ5C_-JMw7BH3_tU52Yci2UWoD3a1MtnHvUA8dzZbEBXaQOBwKo-5McVH0uMogzfBVL2f6C9VQdwn6ws6LdzGNJPFIlzBkrL9Lg6lPLX2lEahirDA",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -34,8 +34,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -70,8 +70,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -109,8 +109,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -145,8 +145,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -184,8 +184,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -222,7 +222,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/113285913349213749567\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRgqC5bmcFF2ibpOGmy7SxDOu4XGaTDxTQ-Ngvxnmu3SIs2PEoTc2hWfzwtaiUokx2QX9WLeu3dmZv1uG6H35Ji3r_nkc7jhm6yrcjQ2sl_pRjuYmZob2Sfb43kJFKJ0m1XA5D7CsJE_qPgIBsij7-vzKh2cARmj_p72XqHXpNS8b-Dj",
+                    "photo_reference": "AcYSjRhGSwanDL8qF8PI6QdOUdTSjGKJgwIp2aLCvZGo1EiumtLQW6t4HxZG74Oas5fqRWQFB_4e2hYzof4uKSWJxZdAnCmy_DQoS0RD4N_Mt1Qq6Rs81pciPR-UnsQn7gCnKLzwJp2sLAL3v29riKZN1bJzSQNAoOxoB7KHby9R5Epi6m8N",
                     "width": 4138
                 }
             ],
@@ -238,8 +238,8 @@
                 "shopping_mall",
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 3,
@@ -277,8 +277,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -315,7 +315,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/101349634857691550765\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRiv6MP8X9wW9oD-kz7NgvWFHy4dWFdSgzCWXfKByML76DZT43aXFgbErbiXTIUtrdnlzJ8T3VBp_VsVpusx5N_kvSYkjdyXyKF6dEqi6hGmAHUGW7I2Mrc5KHSMY8xCYZL1ZXld1Qih63cCFCqt0F1zje8ioY1OGBeTnZjhMFOsj98O",
+                    "photo_reference": "AcYSjRgR0KBX_CcIys_bx24zPEV9X6LWoglQvAehbnvBlgE641771_BZEuOFUM05Nrsn_4DAvocneEkwf1DJr3VEAFvonqNrGbnfdqwXRXzaRllKe2yLsXsHwvQX3Exh8ulsfpKzrF77DoiVV1-kWybTlQqgDBGmzeOej9fj2_UMEENnCweU",
                     "width": 1920
                 }
             ],
@@ -328,8 +328,8 @@
             "reference": "ChIJvYd7ftWdfzkRpXrOlyjvz0s",
             "scope": "GOOGLE",
             "types": [
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 7,
@@ -363,7 +363,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/104108301467828154457\">Prasang Singh Parihar</a>"
                     ],
-                    "photo_reference": "AcYSjRiPX3qwA7amKhODs-tayem7GlpjahE87QOhlF2ha2CE3CbFHN4-lnZHG1RqhOQUyRsXdlBdNCubwq9_44-iZWoNG4EnYVVd0OAdew3W_9rAnBxpUuyWH9VrkC8Yxkl-FIcSqwyOnyrppkXqDv-b6tzmJsL8kuPfUGXLJ-CQpdjQObAl",
+                    "photo_reference": "AcYSjRiufHb5MIzVQm5VCnZdpLPu3cLbXXm5nHfvimGHCugQysx28OY_brElwRmXWOfLcPHlPnRqsjME9Adf9YV6EbJUKMizYZGKAWkd-cuiTNwEIJNlq9RVuLmC-6LYNZaxY_DdU7LJbLvdf93LdhnAiPrFrcM8cB_77IxJ8GPtQMXqRc-b",
                     "width": 1080
                 }
             ],
@@ -373,8 +373,8 @@
             "scope": "GOOGLE",
             "types": [
                 "clothing_store",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -413,8 +413,8 @@
             "types": [
                 "cafe",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -457,8 +457,8 @@
                 "home_goods_store",
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 12,
@@ -496,8 +496,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -534,7 +534,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/116330932471149682156\">Ghanshyam Nema</a>"
                     ],
-                    "photo_reference": "AcYSjRg_DHpFEHdWYdD54_5iSQVwS_DZ5tob8tXDRd5YiShyMxb2Yq5PPxjEio3bsc3P76xWdxHo8dOzrN10I9_MoNjWM10okxX29hDAtxauatL-RUyDuXymzXh_zRnpcC6OeSKisKnJmvdF8ZU2QXUFiUlZ5dXNucFl7tMCNbdETDp9CRaX",
+                    "photo_reference": "AcYSjRhk_uf8i0V3jr4y0TS_IhlInSJPIIRwsxOJn68Cife8vX1evAOKV1gsV93hoYxG7iNWrttiJ8RzLZ9uVQfvaXioQxnve80ffg6MxOaA3q6BlhoeX0hEQk2icS9Z5d3FBCtbopU0Y3j2i2UNeiR9OEa5UiL6dCLk0C52cgcmpzcL0I5O",
                     "width": 1080
                 }
             ],
@@ -549,8 +549,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 14,
@@ -584,7 +584,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105049138112873776980\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRi216wDEc_n8Z-QDIWo_MdPYvtKbg6wwp0IOd42x-QQBXwsH07sRqs4J1LTMrZqhhGbsRDqm4AIKha18g_GPLNN-NnzSnSEsrgFCws69-VCk3vmlAn39ABpPDWStqYILiMio1pK3OmS_cLZ2BFBm_zTJ-fAHWgNEkfYKFQfUIH89rRF",
+                    "photo_reference": "AcYSjRhUqVqyJCzpggt0fxSavupjjGfdJ_REpQekRE3RBzvYDMCF4_vnO5_9A9VR2lBGTgDc5dvarmW4sIffl9UG0MhCUTOtKiqG303zk8wZ_a4d8bTzpEHhn1T4KOAlVqekSXD9W8174ol20k7Npo4SSLkGBXw4XOWmeAGoGtEMHbMM-MEz",
                     "width": 3120
                 }
             ],
@@ -598,8 +598,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 2,
@@ -628,7 +628,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Nandu kirana",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "photos": [
                 {
@@ -636,7 +636,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/108739537916768975946\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRhogZVWInZ778R-1bZA3zShFPryp74ZFYtIWuso6NmBQ9bCksMt1fnGz2eJjva_TID47f5MdtBvG5XnX_GHVk1sl-dhShkY5h-RzV8HS908SZVFp7jM8zQeu9-OpcdjQroPlEiE9tjLQ2vy3QK4M0l63XulHJyqtxkf8df0zuLJulAe",
+                    "photo_reference": "AcYSjRiQRcjdOeTYaUVIAWGKgIm5kwKwZXIxMmE4raQjUT464AnpxW068d-hUNA_RykndS2Jpeg_3w7KlyIOHqIXReyQfkc6VbPgnl4s7e-nwRvyOGATv35qlOkb3ufsjKXnDb0h1zLrAe9Kn8BTjADc8THmApWg7wdUeE0Ws7z28G3p8CDW",
                     "width": 1440
                 }
             ],
@@ -651,8 +651,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -724,8 +724,8 @@
             "scope": "GOOGLE",
             "types": [
                 "clothing_store",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -762,7 +762,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/113181532700319098211\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRheVPwS8IGqJuA5320zz394GYrznKHBNbEhtEsNmqVE-cmG7-hc_RkY0pJ1-G58sbiNyZIDE95AyvpAZ4hij2k9xudYiNF2R7Q5J9yDd8StyjE6UWkBP9lWlc7S6Tsnry6qJFOjg9Axc1CU80pgeel5cWnIUqUcGcIzBOJX3moKuQ6k",
+                    "photo_reference": "AcYSjRj9EWoFho1T1Kllh5d4US0lAMpFfPy2iB3IX_pBlKsMhBP-gAffi0MdVd2KzX1QsE2zye5drJaujG---OZN6ZXyo4iFk3mQ3PVsIUweTs4M80_tqqLiqvR0eYCwHAxYdFdcqSC7amSS58sfSKsnjlPGXdlyxfcPJZAD3l1um2vNak50",
                     "width": 1080
                 }
             ],
@@ -775,8 +775,8 @@
             "reference": "ChIJfVKhRgGdfzkR6_MEN6_rne8",
             "scope": "GOOGLE",
             "types": [
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -814,8 +814,8 @@
             "scope": "GOOGLE",
             "types": [
                 "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -852,7 +852,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105333343057963561736\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRi7bbHtDowJ0VVpB1ma_vd1e-SMRP6BY4SG7eHyHtAR5x_6dmeyctKMGPVHoUsY1yZhhopTUAu0T4JORszd3ufbSyUdltX6VfYM8WvDBNtMGP5eAgsPrc45h4j6Yps0HSDq3YP4dSCIP_jr2BUNseLxgmSKsR1MO6CSnXiJcfyoGPxo",
+                    "photo_reference": "AcYSjRgXgk1iRDug2lw5or9XIeSr85yDDUNh35gpyQ_wiCjp0buN94IYQ2PQ_6kiWyY06Yl4jsnBIwzuwG4yrZDc7v7xGAq9jEOndk-Rb8CRgP2jMaR-ZqF1GehmB8Sil-4s0wL2kKZd0C76kAFtsHUpdDaosg4kgQguZpTOuDEBbdHoaZtF",
                     "width": 720
                 }
             ],
@@ -866,8 +866,8 @@
             "scope": "GOOGLE",
             "types": [
                 "jewelry_store",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 4,

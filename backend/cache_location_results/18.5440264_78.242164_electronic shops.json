@@ -33,8 +33,8 @@
             "scope": "GOOGLE",
             "types": [
                 "electronics_store",
-                "store",
                 "point_of_interest",
+                "store",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -72,8 +72,8 @@
             "scope": "GOOGLE",
             "types": [
                 "electronics_store",
-                "store",
                 "point_of_interest",
+                "store",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -110,8 +110,8 @@
             "scope": "GOOGLE",
             "types": [
                 "electronics_store",
-                "store",
                 "point_of_interest",
+                "store",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -148,7 +148,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/104597270641700856617\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRiWumP2Sb4fziueQ9A7IeV9lI7nLxTYe80FGU4Td89BiBl5xK6ZfVczY6-p6uzpXVKbVMlCrfVzeJQiFduV3QOe19rE7Ea_1_TY7Dw-uUcvMsOFUM4Q94niLw4R5rMjds8D1MaANixLh1vhPR7EHj-a8nbilh7FW9RgOJoh_eAprJaV",
+                    "photo_reference": "AcYSjRjDxMaHW61SJNfYeZTi9CasK5PlvNGiFxYawDSBbkJP2XkNY4-R9xbMbrIFBR-mrzdyUQ44tbg8-0UC-tCOkSHU_gutrl18F0x18B_nb8YyqdTUEEunT3Nsu7m9y5DJGSGZX3NunqkDw6BgnWuKbFfWtwCK3QF3dlunDCL81TNfrP_D",
                     "width": 3120
                 }
             ],
@@ -161,9 +161,9 @@
             "reference": "ChIJ_zWWo5DJzTsRS1FDv8cUq9E",
             "scope": "GOOGLE",
             "types": [
+                "point_of_interest",
                 "home_goods_store",
                 "store",
-                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -235,8 +235,8 @@
             "scope": "GOOGLE",
             "types": [
                 "electronics_store",
-                "store",
                 "point_of_interest",
+                "store",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -273,7 +273,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/114271905969692051116\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRhm83EJTLZXwjKUYduJl4HXjS7FzQxBvRXQ5JRec0NVB0D6GtVe1cdktvWmx_hejoJPlBrNnFVXWAcXO3hwLgpMA50eTy4_sXJiZVd9v2rLaEiM830NxGLyXHPa0CSEquBS9EnyY23m9OZUnToEHlDwejpnEBwrqRYvhYO4n6bkMimB",
+                    "photo_reference": "AcYSjRhVzLjqEq5DgQNYEfSD40ZdPEwmQu6AT5fzC5ldWXRnVJcams6oqQF3WRfK6fTcffEDZnlZFa95xswyQO1WGttBHLS83DJ1hZp5awxgKgVxicnjQ_p-wPBoJPjTBybHAB8Kg6mkiFR8ApI6DH7ElOIxTJbnd-w-UHx7iP8U4gthBZQ5",
                     "width": 4032
                 }
             ],

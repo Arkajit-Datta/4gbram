@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRjvneOxhV00Krfy1_NA3D8VNKeVgo-Z5G9ztkwB9QlI7hX1hJGU8RK4L06CV3F330KMYrUIKWQyC3Vyw4G-ZqbN277Sl0a5tF3TuepWlCXSV3nCxW_UvsgH3MLvYZqPnC-Y7fL-8VZT1hSSiVKPhWGVmP1Yu4iv570iZB8WnYrmjkx7z09xEuGaho5jqyZrEduhMJIlCamJkt0algy8F6WDVelQuIKQpC1c28hqYackbM52ve24mXDoTArsAjQn-zvM8EvnAAzptRqKIQjrKAIykPPx7H8xRmyxJ_k4uXCxJh6skXHcMy82b8I5ERdeHi5YGuId-DkinGEhdiGTHNX6qTpZ0VAMXrBC4xh1-BCF1avdYmVhTypWTzwITDV0Td9_kVcc0QiS8puAUaBl8mI5_yZ8c_k5Ob6JxbLWXWvjbWMd9U2CGH8y",
+    "next_page_token": "AcYSjRh_TS9jpny1BJWzY9TAiiDH1gtLgXY3GnXQPvY-x-x-goiTpjwNVlLOMmOGjhzGjcanCJHKkfeS8Hf3we7qkxiZtYXsYqfThizXTeO2O75KzWt0StdKXDWXDcnmEV4noShTPGoZ5ShBs06o_2ctKvfjGMFaoHIvS2uHLOd39HwsikGbxvJ7vAwsiiYCTKSQLVV0HXHeXh12ZpdxkA7L15_fcKdAmff9i6aL6z0thVpB2ySM81Elzw_d-irQqAmJ1VJqrKoty_6-VxWw86uRM6iBaTCLZHnN8NMIzoSJftrW3sRgQlKw1LlKqHLBlQYskPESwzghdnEhwsZZA9TKyn2N3UKbERhcnFj-kUKIqHFnECS6T3hP5eeaP61IB9juxqmJTOOBKKaH44yV4H9aDGiHgeeFQ3U0MZU9B2Tfd4jydHMj7k7kkCig",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -229,7 +229,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Guru krupa kirana",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "place_id": "ChIJLf6OYUhn0jsRnaefq4uD7jA",
             "rating": 5,
@@ -304,7 +304,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Vrushabh kirana",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "place_id": "ChIJ90ouNBFh0jsRVTqH5YaEpDc",
             "rating": 4.5,
@@ -508,7 +508,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/117969653764895877124\">Sunilkumar Ade</a>"
                     ],
-                    "photo_reference": "AcYSjRgRf-k3XtDVdiIIoWzpK2L6nWrM689ih8xsZl0xr2Die-3k_oc-1a7EYUpkxzhkwudoNVoVdoQ2LN8kdqWDQP_dOz04wiAO_X9u-D8R96W42F6wgcEQFiCnXrXwoodubkvBlXrzJHtaa6_25dfIKbzMwM81USO1JfP9CLw9I7JX1a8_",
+                    "photo_reference": "AcYSjRiQv1dqWrYIKo2GIjNyzCLJGC5e-LhWp_WDueqngcQ8Js3sNR-phzBRNVMpAMR5F2U-PCriOU5Jg6FuSxDC5uq6JQJFnT4GhaUY1YaguYGVF_cynhLUVh7VfdsM0HgFw2iiQEKQwhoP-6-_2kAyGc8yQBUjjfsnfXjpeQHantDELNcW",
                     "width": 2448
                 }
             ],
@@ -673,7 +673,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/117726756019220302078\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRhuyuwdtAzYBVrV-a_B2BqF0L59Jxut5DVXHzD07ZhoSm9QSmlTu0AMxnjb2Lq40ChhpD4t6IAai0wEmH8mBlr4suIAHrqC2WH8g2HlOEF3-bD3mzcvG9J-rVYwGohffvJ601IS0xS1mpyE6MvPGBw8Xu1AfJBh6WvbecMOWDS7yvd4",
+                    "photo_reference": "AcYSjRhW9kldfY_EovVax0x3WulWMabpSNcsU0dlDL62JuV4BKEEZQtB3yCKMIKkwMjMGKPcReTbf8bAnrV-idPkqsDp0hiaCWw-kQ1nLU7EA6GcPANO0WEqCmdEMwcYRgmuwqa9LM-7_wOoo1ERqnbA-t9dde1-pQV1Q7_yXyYck1lr-V5m",
                     "width": 2268
                 }
             ],
@@ -727,7 +727,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/103139514705892101778\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRjtAkkbmLV76LHOeFI_ahJoxbyEEM684UPO3y8mgvPBhnB3n5pqFJ-o7mWb5TmmuFJuMS5GJlry_zY18ngPENqwbpBMC3wJwMBdsCeSQab3mf65XF5jVneqYp_D2N-JMNjYgJt8pdeGBmMREUqKOs2Q2dVllZEDJ2naH4oLLptqLGlt",
+                    "photo_reference": "AcYSjRirYO8lX8Fgvb3bOrEjAxG9obOAElo-t8XZ_E8yNJJ41mwW4D6WzVq2MjJfI-u8yoTG5tCxGn2BS-suVd6N-JfIf44LsgjJ41EIxSt8uaXW_5iATsdVr9z7Rgpt-wePFkoBFSfQ2cDbdUEcZ3wYJv2ubwUiIThAAJy8Ok2Z6nBeZTFS",
                     "width": 1944
                 }
             ],

@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRgExPHvM8u3J9r73as4R4V7lIreg2Nszzyz0Lp2q8b9t0atn5be21rtXXK1cusAdwh2HwWCeAzbfw78OByWACI6EzVUHkYCwBIeqhYQGbhQZZfvJR2XuCmjprVzTDtJMYMYz0tYLAbMSF9vgW4-PS40tV3zb4n2osJtnh5CAGC_2Ovv2iEJX2psBQ2auLDvto9XRzISey5qOxjJmSUcHO58lhrKcsvdzGbbpcQ3owbfMI-BUYwRbVUJ-Qz3X7QOrGFfMbI2GBKLCyus4V310vXtBX38Y_ZC1WP2_3vI6VRuBNq3kjmXc7HTr839ppWqJ0C3oiOQWYOdcHCJo03uHle-vx7NXcrwmzA8UgVCW4V1N7mgpITLz-tkq8-lW-Jj2ozEsXK5oUAkjr2fMp4e9ERDcomLiYCIcPalpx4OXtU2g3euf8222Rwd",
+    "next_page_token": "AcYSjRgZYG16ORkAxQGZwleOePZr4Es2oHxDj8_xY4ikcKp_q2nn_kULEzndOPoxHasiqVg5bvlNy0-KJWdZ4hcDr8McxBFPNSvz4IufEjq2udx0KSYc8U3BxdnYI1wtKwD1Xm-IC2lvVQHNo-0-Qfw7mrF1tOWuWkYiy5xVoUslHxUKmThPHyKEAg7KYNnm5_FyRhNePEtO_r6BSabWJOJBX3jLx6iDLxf3EsjnL5XqfoofakKLtgK1lwRWysfusT1Vx_4Y20vHjwa0DdV-TZsRKlTJNymaEBg_EzRpw2os0TewyrLa1RCoSYYJFIf5OmG7j1vqrOooQfz-TCgSaezNGws0W7kwYn34LCxtKLQT-MFgMp7z0DQs8r1akkiFSLZCu-dUgw_MrVsGQ0b7ZvcXAeZzBDf2OZ7bv1zTg1wXBNhjfmNSctRVVGfY",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -33,7 +33,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/110378882198557074519\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRgbvtyeK4H_Dz362_kjyum20A5huQofz91fVr3ka3yEUPINttIaqK3jACI-75a44b8sdue2-kB5l17rWyIkIlSV-FctkSclaMeH0MsAljYoXpoVmTfk1SuRtkgIrWO9b3bQ6S3rBBGe82jOKvlPOEfi3v9N4IBR0sUYX_2JEaSubULh",
+                    "photo_reference": "AcYSjRhtTRhJYlAwK3VLwzj98sO55XaLBu4JPusAMyPp2cK5bVW9JzqDzTa9zb_IVgWHRehFKfRlOfiezzT9IuNyBf36eEO5h-d-lvWvWM3mCd26L4FxOh8PFd1M3PrQECk0afIgE6XWW93QTUSLRr4OSfEcOKeeIeG8TLPfbKTWiZXxiHM5",
                     "width": 2420
                 }
             ],
@@ -48,8 +48,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 7,
@@ -91,8 +91,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -134,8 +134,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -172,7 +172,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/102577011569278487622\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRhU9qDcY4HPBQUWWboYy1EXGQ7NqLPNdBBcPiqxmIzB3QWldgb-ObgaFfDLttYRloYgg-LQJOFate8hJ1EFJd_sxjraXt3B2GZsFy3LnOftvg9UcnsJ4F9qsxcer8KBAww1aXLaxofnAZhIIPdyqvaRtc8gkfirMUNdIKzARCQ6heCC",
+                    "photo_reference": "AcYSjRicJpzVdvfzlCDqqPurFCZh-WhKDwmoSJGNh_1GhLP6IxXA6rtAuMesSXCzqmMXLhaKk4tK0wOvqrkrapzVUo_id9rTTPui84Hy7huy7yFEkDZYokcNqgROHz-N8r7xjnYhegTXFiThOfK3CUaZQ6k0Qzv4xANtT0zpqDS27yJpChMA",
                     "width": 4032
                 }
             ],
@@ -187,8 +187,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 70,
@@ -225,7 +225,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/106958239800971169201\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRh78t7n442lSudRnaSdiax5dtmJMgOLeZm3VymwFbI4ztutxfli28nGOv4ZucCf9GIfpFwV5FqFwAByC_PrjQNqGjQ6n8Y7Nsh1rjK0FmxhRH3kHwsuUWpnOLM66DwaEND0r1Rbu708YIxuf5K-7Xsv5g-sl-ealk3ZAXkm0-rYr8_b",
+                    "photo_reference": "AcYSjRisPDk9DqDP7SP9YHUcmFWzQUKe_wMB0Jw-OcqBIrGgNasxIVdQKnt7rhnh6NeIqWc_yuuzTf3kLsaA7QBelj3eTIOXj9m0ZgFRhiA4ArB5Heaoiq_qQonxYlQIympBu-XuI8LUlA8LkbvG6Tv97Gt6AA46SN679d4xVOOlmSsLYYcc",
                     "width": 1156
                 }
             ],
@@ -240,8 +240,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 30,
@@ -280,8 +280,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -323,8 +323,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 2,
@@ -366,8 +366,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 5,
@@ -402,8 +402,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -440,7 +440,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/117331932729971098842\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRjrpw-EAWe82mWzb2Q__wDNnyPtPx9j5ZkqLBlh5werT6WFB2Vfe7kWuRSgpozry8XZ4DIsT2VDFmSM451WFiEeQn-ydl_7koYfV8la9IqK0vPWQ3_ZdwgC04HESU_y_nxcxktDXDMj7niqoxhvnD94VfGJT81sERRExfZixtfJh59a",
+                    "photo_reference": "AcYSjRgt_gByQpN1a0ys2RxCQO5VbkOFHvxnECzZ9DM9RNOR7k5wWVJ4I3c6LNw_Qo34YJiUIBl16IBUDvzDerzi6PEshMKyhQ4uiIMpX4Srta7nTwdhsdbELLVjIYoRr7tG_s8wto7owmDqE_0m6C7WA3AaUX7JIihqgcTp3A7XJRLxy5_R",
                     "width": 3456
                 }
             ],
@@ -451,8 +451,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 2,
@@ -481,7 +481,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Rahi kirana store",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "photos": [
                 {
@@ -489,7 +489,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/106505029291274381399\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRiuXzkWaTSlxxYW0xDKXvrO5bDzxtpV83SzTtVyG6ie6PjPsDmKlN5_hyuezEvBNXz0iWsvJrQA-US_mgXSL-PI8u6jWwIOxsw6PGMPebIYw7eqli79SKEhs9YTzhDQu0xEhAsbe0Fiix1N2uy6Oh5XenJuSiWCPbmyQMhbNQZsIlxw",
+                    "photo_reference": "AcYSjRharfr7SAdaPValshA-UijeFa_jGleVGwecKi8mAArjWerfv6CC_EjzkOm9SCXIgZibEcY22ylhSOvof8yg9XG8h_TXQ3s5HxJGUL6o6lYT6CL3PBxkmnsRj42UAoo32SB7ZgFhn8Vby9mT79X9f21mjnhH95nm2CIy1LGwqASyBDYu",
                     "width": 4000
                 }
             ],
@@ -504,8 +504,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -544,8 +544,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -584,8 +584,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -622,7 +622,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/107624821275622790567\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRjbqkYT-bEvQJYRUxh0pwD9Upb_bwA7ZVyou3oGGZBmn7tWChOTpo6LjvJjqlPAR6di_ORqZ9hS3wZZZVEOqpC2W3hCThIk7EdL2bS4cYtDzvK5xu_3WZWhiu9nMziP4e6I1xRgKTWTB-F9ct7IcQICBFffxkZ96ZmpBN4-y898AE-l",
+                    "photo_reference": "AcYSjRj2-4GOL8nlTyjKn-feGyCdTwXNiUxeEbN5J5nf089C7i_xIMQ9PWsNLIqBfT5FkD_5LJO-0GUVkkB7x3mE6yV930rWW_hoH8xGQJC745lcTqrMAQ5gccZLESGiptC1l_oeg2vgWNAnuU1oRkrBTl2dviSsGAEER60Zap5ZOdyW93_O",
                     "width": 896
                 }
             ],
@@ -637,8 +637,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -672,7 +672,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/109019402664362151083\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRjHxyHQCGMK4y6upNEixZVLaa3RX6SNXwMBX0pzwnGGPReh886bREF60GSJEdE_P6cEgUAhyiliCLFQK9idDK49Bmui35Q5sB6Ge9Xp4YT8JXzVQuL-NExv3tGAWZEwBKpo4DgS3RAcdQC6ZC89C_QP5_YAtNftJtlES1TEyLXKf0Ic",
+                    "photo_reference": "AcYSjRjbBwKNQluZPlW4XOvBs1J7Wz4RGRBI2hcwJ9LfL6evh6FArGdv_FwoEte-7QTdL2WxWF_rcL89FLJWydoCzIjvjmkvsxefhA38u7D_Z39oosdP2ttzdauXSBg5gPyBsfweZrOg-Pijccf-2LPyayR2VZP0j2sWX0BfEWB8Yg__dS3m",
                     "width": 1040
                 }
             ],
@@ -687,8 +687,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 1,
@@ -727,8 +727,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -765,7 +765,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/116220941710176326081\">Sudheer Kumar</a>"
                     ],
-                    "photo_reference": "AcYSjRiFwbA3IMuOrx7WC3clZ6cVrZImNBwa8xJY4x60ec8v4qYByVNWlaREdd5DWsahmo0h7OxfcLUGs2eFKu5WlwfXzqqesrNPVPCIyERKuG-9s2hp75evAXtU8XH0VAd3gNUqMXc-gpiCf4lVnnp_QHdHilCkEgz6fXWam9_tK6PC51iN",
+                    "photo_reference": "AcYSjRgpjG1pCCZXkX-IbV457YntyFlA6dPNykhj6HZTGJvt1ulHjxEp31lJhlelyZsvCWjx0g3nGIUSQZZi33W2OJX_ZTYybZY-WeLkG4bUjJUJUoUVEU8zB2SWEpSqHztRETbUT4bUU-Cl_YodzLPNNjfgcc2JjTPsF6VLZC2RryJb_Wn_",
                     "width": 3120
                 }
             ],
@@ -780,8 +780,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 5,
@@ -820,8 +820,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -859,8 +859,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 0,
@@ -897,7 +897,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/113156645530248132281\">Grocery Ration Store Jhansi</a>"
                     ],
-                    "photo_reference": "AcYSjRjVOS7SJCawVCGWebTAetf3ig2mx7J-hLvpHaRydtwLoAv_Xttql1fd6bERBSmykh0wphe1lL2x_dPefmzaDCV_59klO-PPQGn68KTPioIH_5gSNEPHBfIU-Z4iDhQfXwKjsf1q8zk9uZXkK-DcWt-AhPK7lXjP0L87sBrXz-Uqv54p",
+                    "photo_reference": "AcYSjRiKTZbUPt5E24vhado_4Xidwh0mmjXzjo0nhTqfRxcd30hIUnROh7yZMUHUS9KYbsNg7RLlEJtdSyke-dJKv7eN8RorHvM-hVTcPRahAA2sjYNDyi825QQlGhD85H9KX86NuebTTbf_wDuFh795ze_a0Svjp3RNatuneHmrooq1tOuz",
                     "width": 767
                 }
             ],
@@ -912,8 +912,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "store",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
             "user_ratings_total": 14,
