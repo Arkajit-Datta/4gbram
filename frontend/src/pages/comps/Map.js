@@ -34,7 +34,7 @@ export default function Maps({ sourceRef, destinationRef, directionsRes }) {
                 </div>
 
             </div>
-            <div className="mapContainer">
+            <div className="mapContainer" style={{width:'90%', margin:'0 auto'}}>
                 <GoogleMap
                     onLoad={mapInstance => setMap(mapInstance)}
                     center={center} zoom={15} mapContainerStyle={{ width: '100%', height: '100%' }}

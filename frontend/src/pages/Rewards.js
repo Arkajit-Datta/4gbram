@@ -26,6 +26,7 @@ export default function Rewards() {
     const [selectedEmotion, setselectedEmotion] = useState('happy');
     const [video, setVideo] = useState();
     const sourceRef = useRef();
+    const [objects,setObjects] = useState([]);
     const destinationRef = useRef();
     const history = useHistory();
 
@@ -70,7 +71,30 @@ export default function Rewards() {
         })
         setdirectionsRes(res);
     }
+    const getGoals =  async () => {
+        try {
+          const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/test');
+          const blocks = await res.json();
+          console.log(blocks);
+          setObjects(blocks.result);
+          
+        } catch (e) {
+          console.log(e);
+        }
+      }
+
+    const loadData = async () => {
+        try {
+          const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/goals');
+          const blocks = await res.json();
+          console.log(blocks)
+        } catch (e) {
+          console.log(e);
+        }
+      }
     useEffect(() => {
+        getGoals();
+        loadData();
         if (destinationCors.lat != '' && sourceCors.lat != '') {
             const params = new URLSearchParams()
             params.append('slat', sourceCors.lat)
@@ -86,18 +110,6 @@ export default function Rewards() {
                     'Content-Type': 'application/x-www-form-urlencoded'
                 }
             }
-
-            // xios.post(url, params, config)
-            //     .then((result) => {
-            //         console.log(result)
-            //         setVideo(result.data)
-            //         history.push("/video");
-            //         localStorage.setItem('videoSrc','/home/anirudh/Desktop/Chaarminar/frontend/public/full_video.mp4')
-            //     })
-            //     .catch((err) => {
-            //         console.log(err)
-
-            //     })
         }
     }, [destinationCors, sourceCors]);
     console.log(sourceCors)
@@ -111,40 +123,43 @@ export default function Rewards() {
                 <div className='flex0'>
                     <Maps sourceRef={sourceRef} destinationRef={destinationRef} directionsRes={directionsRes} />
                     <div className='outputContainer' style={{ color: "white" }}>
-                        <div className='filter'>
-                            <ul>
-                                {/* <li style={{ backgroundColor: selectedEmotion == "happy" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('happy')}> <img src={Happy}></img>
-                                </li>
-                                <li style={{ backgroundColor: selectedEmotion == "sad" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('sad')}>
-                                    <img src={Sad} alt=""></img>
-                                </li >
-                                <li style={{ backgroundColor: selectedEmotion == "angry" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('angry')}>
-                                    <img src={Angry} alt=""></img>
-                                </li>
-                                <li style={{ backgroundColor: selectedEmotion == "neutral" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('neutral')}>
-                                    <img src={Neutral} alt=""></img></li> */}
-                            </ul>
-                            {/* <select>
-                                <option>One</option>
-                                <option>Two</option>
-                                <option>Three</option>
-                            </select> */}
+
                             <input type="submit" onClick={handleSubmit} />
-                        </div>
                         <div className='itineries'>
-                            {/* <h2>Itineries</h2>
-                            <div className='iterItems'>
-                                <Iternary />
-                                <Iternary />
-                                <Iternary />
-                            </div>
-                            <hr></hr> */}
-{/* 
-                            <h2>Recomendations</h2>*/
-                            <div className='recommendations'>
-                                <Recommends name="Gas Stations" />
-                               
-                            </div> }
+                               <div className='iterItems'>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                </div>
                         </div>
                     </div>
                 </div>
