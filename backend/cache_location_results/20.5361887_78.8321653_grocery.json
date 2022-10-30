@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRj3Ybyl_r-D4d7D72hlb-3k4YWHdFkU_t5uy3LnMwscjlX3rOSoUig85kG044vVVf7Sf3ikE9W11OnCN-xxnn55_JQA2zEzhE_2ODea04gML8gPxXeotH8bTruuvv6PNeZepTG7jaiMt7yFCiqESMuruOzNspCs1BhIZ_V64fMlOrNI9LQFzvv6uw8ORhCMTORm4Z6CMsBE1hAKdCIWwKyZipiyY0F4C7Ah-M5yaW-b3kANa4LHplve5gXzbJON73I9JHUWVnHn4Y2V8XkxUK_rHRRvT06PhTi5AsOlWKy4w0oI3v3LOnQMkzMp5OAnyfvT-qBR29JgL82eaYsfKSaT_n3U7oShggla6K9IBOoydjAd0D_BZ9YeI1YeWB077z-bJ0Xnh_BVrLOOl87yabX_C9X3kgt1l23uJ-1haXdFGL6ylRCcozGK",
+    "next_page_token": "AcYSjRh2ccUS1QN_LyYKTm36eo8P0OxDDoRiL1V6XgkgeCU3-2cL1X1zOGidVMDq1xTyiCpSrqoEELFzuyvVD_pc3K7H3VeNjAY3ZPSkpBDJ_8zFF8CGzoVTKft8i5YO8Ruz2l-WZ4lZYqgD5Hho6PR7JvP9z7OdbPU43Q88lmTJ7GKq0JTz9Knb_JibrW9S5LeSX5lm3EVc8Hop-ELBpTVREXvvcNUmt-UQiIp-z59XrseRShqJhyG-Y1-Hc9pERyJfGTg7a5s4mvdhel8LUhvKi8WL8DmRVmQpCvyMoNPEtkntcUEh3bxgz7hu9pBE0xWOvP9JE-dhWESawnx9cYZbtrlUzl1NROnkLiuUp0duupd8EjGPKP1rGtW3KLxoohRkdmh6_qCdQlf5WIwuY3OGzAePnepSCjZH_LdNNNj81Aegm1a3abZ_pyGZ",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -301,7 +301,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Atul kirana",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "place_id": "ChIJMaLU4UNl0zsRYAAWzuVNLXY",
             "rating": 5,
@@ -507,7 +507,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/107286341746481998364\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRi0CcqQjyDww5ijGd0aH-sJoZD8QYbviU72VxwXSiuOb_Gvoz3Er-YnrSXOnP8JVik7aKa_NZn9Ds6hOtHBhGN3XCOW35ferv0OqlYftkx7t6bd6d7QpSjBOPHVhfjzvUWE7KhU9Gnb04PW0cL242TJ9xX77uzC5igIfUnZebBI8QJd",
+                    "photo_reference": "AcYSjRgEwWFsjX5I5mqOtMFqC5vvQxyPTkKwYHJFYqP7gZKmS3n8v75A4pF1sDSHtviwRHfEGfyic_rm-r61gu0CihdA1em0Gt3R3lU8Wjmjay2Vwc5RDy7f61rnV2x6z-oZCxX6pQ-lCIam1KmUaE0765R41uQVTE6x9BLW_28OibCiIGJF",
                     "width": 606
                 }
             ],

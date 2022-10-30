@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRgzKxbthZzE5L2JnUTjuuGsGn6kE1TTSvBGP-0AT2XtUjm2MIUquJd8erFMnmykiMR_kjOvDZbg7yMFEeKQbXVMYOT5rifG1_UQvv20SPQOE-q4NcUQnQzGKDii9UDtrY7Iv2WUU1cWN5hPiw-1OMvMlNi7kYSko0Dz4CIRXdPk3xth2grKl84TdEYWhqCDoBuIJNxgayuHp1G_TetjZNVk0QYE8_PndRNGZyN3dUqu5ih9tB3ex4jfypKFJcFg-ORWmWNT-l3HuaOTO7042nspUF2vvoHOksoML8I81GdpV5i-WUOQyi_q4iPfzB46TpQC4AmNpeijQWLQZt6Oz3dn2YheRH41Pr-L1zlD-bJVEUI1BV3ugAc-i7nMUMkFLXZUfLhDSY2xDLUzCpKN6jxVyYxFFr5tfU_aWpy2xESJibawqfLuAQ",
+    "next_page_token": "AcYSjRh290e_0dnYrk7iGVe4AA17iwt8w8SQZaSCool3uAQMyAveY7VMgxIZiQp5bmyo-vIFxI_4Mdxh5W5SlWxZryLbACYObdbhqfBd9ri294A5LBJ9OR8hA0TVh10-xv0eDwnEyo9NlKpmuarA4CdOK0mmNxo1SLTB5AJh2caeVQQMxcCyrOLQzzWzS51WQR9USeiYHzHsJdPREudI4Prt6-40vAHAM-CjefPWFSS9ob7G-uLuqiwQKaF_IEzPu6oTi4ETeQe9UOsykZ4V1c1s1zEpti01koPOxny4hio-JvYn6hHBn2VT4QY5Vz4VfYqmKJHiGXa0g5MFgYmNv-C24cd6qFCKtMsT9IvGe12CBJvD0Y01F1OpoWw06eu1qGj_U-a4GYsTjnvN3eTUNX0mUcUhcdx7mJAoOwBeYDzJw-eAeCmrNQBrdw",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -37,8 +37,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -114,7 +114,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105789604918810124076\">Brajesh Kumar</a>"
                     ],
-                    "photo_reference": "AcYSjRiwzXhOmWww2ThHqq__xmIXiFEmJKSLmqUPljU90iR3bDi6G5LcZII46Go2UWU4XaLsmYG8bFgvtOxIx-yvwiLYH0_PtVdpfRrMcDNWviFrOn6ESY9hIYIwY3M-p2x8-D48VxVvEps-qJr3cv4uSxkxzlHrk4kG6xNlTvOCi45ix0cJ",
+                    "photo_reference": "AcYSjRjf-ZIY2BNyZIpNf_ThY1Va-d5UShr45cJOW3RHNTgtb9CsXEaOpVilCsLid3Yy2vEIu6iZ4YDK0_zQVeQpm6IIy7Efr-s2AykELvMvbhz-t_U_ziSceJdZIFnkuKN5TKaNXXtgKK7pTjcYsdGhmNe20HLc76Qu6b2THnXoxWgtDIAB",
                     "width": 4160
                 }
             ],
@@ -128,8 +128,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -167,7 +167,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/103689619459271420749\">Vikas Kumar Gupta</a>"
                     ],
-                    "photo_reference": "AcYSjRiqgEfw8xX-zK-2H9abtK-YMiXLgOwQbXifW-6cnAqITiTq6_USdza1ovT0h3wPeY9PabQLfKuVZlIIcLQljiqmWoq11Ed7gXk3wOZyOQHwSPH6_rGqqYl9P-tv-ZG-zkZUz2Ysr7Sd1JdICJEmwR0vXNQ4j0CrjehquXLgXW6MGjqH",
+                    "photo_reference": "AcYSjRha8FzqteoPDRg_iicZXsKk4BTP3r2fPFvoML2SBB8WhDA25x2Hv51G1dhg18bgy5SmjLR5IwFk3EAfDOh6A5np4DR9gXhOvBtbks_-aTIjKGTZ4gQSIa7kXZoPWtcdnfogO-A0EyvSLpUsDDonNV63l3CaATxoUQRlUBaHYYWIoJ6p",
                     "width": 3264
                 }
             ],
@@ -218,8 +218,8 @@
             "reference": "ChIJqc8FpmjrDDkRaq5B2VZpCB8",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -261,8 +261,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -300,8 +300,8 @@
             "reference": "ChIJ-WvqOYfrDDkRS2h1c92VhRI",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -336,7 +336,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/108114767535029852014\">kanan enterprises</a>"
                     ],
-                    "photo_reference": "AcYSjRhriJjRnNkrnuQBzlOL6bwVn8j6msRXrnUYfC9RvsmHk65SKuQu9nhkKtcv_-PFGVrEWe-wj4nJVVV8nFohruBpTxNCDUTEx26Oc11tY2GSh769wCHGb9-HNmy0E5TYzDwn26rDh2QvdMU4ThevOx1gGumBfrXcuyW78Dn4Ao60XRiV",
+                    "photo_reference": "AcYSjRhUcaHrJuW3105MUa6BoOjjOzKCoR5xvAefMyhwP8JYEirqK4-IdmqiY3NzA8L3wWRG6BYUlvebJo8ZV1l4At965_mqNFBquRSSFD6BQ1Zx_AOKDkTh9IhnF9kRn3E_Dp8z_JOBg2GxN0z0vXQ1SamtoMAykqTSCojII4olVJ0gF0I4",
                     "width": 4032
                 }
             ],
@@ -349,8 +349,8 @@
             "reference": "ChIJ0zwTc93BDDkRv6iw-cWDTKw",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -388,8 +388,8 @@
             "reference": "ChIJGYK5T3TBDDkR2Q3NVecrYlQ",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -427,7 +427,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/110841622438295536195\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRg2gEmqIWa5mHxQe2SR99rw1M5XKTcpi4jem5EfGd-C5lkB2b_OK7pS97UXuBq9v7K7QHKi5zBf1HLNcK_ASG0cq7-_9_rsk3W5jMf5KQv_xg2hkz2Yd1S_tltVJKp_RFD5zJQCH3FsEEt5qxflKbA21lQ-AUizWxS43zapRgHw7e2A",
+                    "photo_reference": "AcYSjRijQnJtUlF1gfwW2A4lq6BScKJOxzOmiPi9dNNyCeUTDOrEeOVwzXQH0zZ-iFZ8emgT6hlv6NUaiXfgisKFHNHrVFA7T92UIf1rlTS4jgEHVI5plXUws53WQKmVzjxGRg1CvBvif6ZXkBza1MV8NH-GKpks3ZKeudFWGcrkOU-hFrc_",
                     "width": 960
                 }
             ],
@@ -478,7 +478,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/111271819053656960972\">Aman Dhayal</a>"
                     ],
-                    "photo_reference": "AcYSjRhObgZROsJkDL1BLuK3-I3N-O5C_Q4XIT8OfEzUW_jmRtcaoYcVzegCPxpfWu5gNCYQkpvuLzZtUPowSOj_l0d0jW83Lxobsc4Fpp-_KawAfU9Zzv13i0DefamJQlXMmazWd-sUAywtBUxN38Pgiwzpr2ogZzkM5-wUmmzK0qSmb81t",
+                    "photo_reference": "AcYSjRjCX4jns5gzMgcu4kNyBm9b3-tOfR7h0HUE5C_mMN62y6DFBba4s3AQXO7uFxHL6Ukm-OdjnK1gbk2KwOeteEMNKKAXeV_SUffeoX6OlSYBVOs0UbRQdaQ4BueIBW8efWrY1DBGulKC_EOU_LPpZIGg5-0qB4JwT-jPEggynGpHfaaB",
                     "width": 1920
                 }
             ],
@@ -492,8 +492,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -610,8 +610,8 @@
             "reference": "ChIJkSsGnyfpDDkRLQWtAprV7Ec",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -649,7 +649,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/104134113219854007958\">Vivek Solanki</a>"
                     ],
-                    "photo_reference": "AcYSjRiKWoXt1NrwalP1ZET8p2CyGPLJNo8LNfgzP66o7sUudtLoOWCHp1qYFysPRUbulUiCwsg1EACbDmttLE8KKiOuvQXaAX11LkE7rwIdMOA_aUTyEypTFf2kPmaDnBn__rK7QpsP_XQm8o5CqdGMbLWzu9KYS76UBBtHwaWg5uGA4okU",
+                    "photo_reference": "AcYSjRiUit9I8T9Opamqr-IUtNlAU6-VRwvPnM1L3tBxJHWfyv1s_9QRLt2YyjgxJg8IV_RUOd0xnTqiWXTmvZGoeUpHXoEC62A9l_NfwwYp1QDA9a_97CKFxj-izaWsxFOBhA0bV9aGI9DNVV575UFkKQeenpiWiJshAY2O2cDAPVLXWt9t",
                     "width": 3096
                 }
             ],
@@ -663,8 +663,8 @@
             "scope": "GOOGLE",
             "types": [
                 "liquor_store",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -702,7 +702,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105577340278578253042\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRj_dA8AxLQowE3hUamIDumURfIyE0S0c43uazsdm-crhVfqhHNLnf84IypRmFnnSsvkCZqowLlrun_ScdneLwpz77xI_OCOJIfEa6-4yafnzt0KAM4mOKvDRpJApXbWgbqdDvYD8cbKMhaptTJjRhG6BnC3cG_jMYlf_Qb-_6PxdH3c",
+                    "photo_reference": "AcYSjRhjopKpqHnR6TFpCSEK2JHhfBr-IuRDrUs3fw4OgiQSqXOnncfxPVmaG_VgW_GILhnWrY8qchbitrESegmeietDJ9xk1pUL_5PkayXndxxOFi0PB_vi0PRppm5V_hEta9a_UvSPLyAZvWe2MD2Onn3lEKaMQEjH1HNUb1mPrdLZBDCB",
                     "width": 3999
                 }
             ],
@@ -715,10 +715,10 @@
             "reference": "ChIJw6CkusPrDDkR5LJON81boh4",
             "scope": "GOOGLE",
             "types": [
-                "bakery",
                 "grocery_or_supermarket",
-                "store",
+                "bakery",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -757,8 +757,8 @@
             "types": [
                 "grocery_or_supermarket",
                 "shopping_mall",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -800,8 +800,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -839,8 +839,8 @@
             "reference": "ChIJCX_oqdrBDDkRrW7YnNSVqDg",
             "scope": "GOOGLE",
             "types": [
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],

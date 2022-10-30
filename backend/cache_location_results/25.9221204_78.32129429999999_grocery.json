@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRjPZ0EoqEYVCLgBRYPWq9wNHTJwP6RjfJI17A3mEpEGzL0Qj2SqySZh-bU4D0igNKjrLqC9mvuqw448trR689UnfayB7ScrCQiHjof8TZW8fYoabbyyTZ59pJYSJWGik3uFTUOuZgjJ0GO18Asl53uiHK3rAr26kdkD-yMpCg_0YfiaOhUQuBft0bwt6nuSYAOLHa_nDGfAv3ffBAso3jDQ4I7k5W6WaChPcOU_RT57R5FCLMMkQDXhtdxOoaOvuVkEbBxDlQ7J9zG7n1Cw_6H9_d2WbHCX9KoSKwbUKC-9t17EkTVG6DaicKf7cVTo4tEfcktCI5rjBjxIVyL6r93Gw9Sfzu2lHoYFv88SGIJoB5VD9W8sYJ01y1JHN1wsaNOoD0wTH0D0breg4G9PMqVCrrUy795WePt2gztlAU2S-NYpXxbjTob4",
+    "next_page_token": "AcYSjRgSRxz50btLDfb2ewAX6sWTBEtUFMgUAcgbYZDe413h6FHTEHlZopzidG_uFp6UjldLYwVydnOKQpGACatzaaK2-UgQJKG8szHh6mVC9fbORhitSPSEDXf53ngsHmrV6cO72TwLv3Uk-z4zi9TYcNdqtsh0Hnga6g-jFkebvQzSQVis3GnkwI3jXcpjDAcqerYI3YNXKfZlp_mp_qNEUSy8PF1_hTlbQcSEMhwFctCK2IcB-4OqpsoqVJwR_b8ECyfBt9VIkPhxidmHY8_ce3yKYyq5_VfUDiPNrDOlBPdYDXy4fjlJ2SqgBtM3v--nm9LPq3Hdjt8c9Wj8EDadXJEQoONm_GdAtQW5jB1opJMwgE62SV2aEfMJ8lf1vAEOa2Pz5STcprcyj6-ZDosvK-UoGjzPh92rAXL-ylP83rWr7uD2_FQqYpv6",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -265,7 +265,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Jay kali maa grocery store",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "place_id": "ChIJoyeEGIAhdzkRnyeuEIKWfwQ",
             "rating": 0,

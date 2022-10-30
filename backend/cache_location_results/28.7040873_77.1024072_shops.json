@@ -1,0 +1,1005 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiDB0hsjXTARqMFRZ9EOt3OBYlqQgiX_TBZSu0gQNrF2RQSNCjBeCeKeRQxgselgux7EI8aJG6-qXb9moSnfKyWCjOCl2IjNmVMv4HCt9a2u37QjJkNpJNXmvwjOA00hgTAVWlLaE1_O97x9nO7laVov9uds27aDCEXaGfps-uVwk20dmghiyQhgIvkCs_wB_-L5IAzF1W2MEWUb8_PfyrebjFjmpKmW4xFWndGEILZ0WuX9bkp2n8nnES3pMw0gCHllGbN7N_yRuVa0ubt8xvq9RgUIbw43XO_d43msSS4yvbsDIZ3XxSJGk3k0ta4TVxk3dZEgHObUzBw_9EBHpxq4F1yz5oUc5ef4BHT8th35JFVNSAI3cLTnnT-DRJbIUZLrPGsXUEyth_oTQwpsQ7PwCd4lQZO1ervFeN-ffA-1wO8gD9MgQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6454878,
+                    "lng": 77.1855456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64689237989272,
+                        "lng": 77.18697477989272
+                    },
+                    "southwest": {
+                        "lat": 28.64419272010728,
+                        "lng": 77.18427512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The new shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104301348968215427164\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjN0j0f-oll2lgVDY-poZ2T9AAw9CNPV75xi0QOsolLr2pxSeyaytJGkuxSxiL64l6G0IVTu41Ki4iKaq4hTMGiAUAgEHjLrJK5WPFChjckt-9Q6Gi-E1fpC6gLitNJ6Sss_9z_Kfv3Y0rLStHGbZDAYdIQImRGKIV6XEQEMMEPbSrT",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJuVawUysDDTkRELWykNVoli4",
+            "plus_code": {
+                "compound_code": "J5WP+56 Delhi",
+                "global_code": "7JWVJ5WP+56"
+            },
+            "rating": 4.9,
+            "reference": "ChIJuVawUysDDTkRELWykNVoli4",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "14 A/1, shop No.2 , WEA Karolbag , N. Delhi, Karol Bagh, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6654401,
+                    "lng": 77.1583232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66676227989272,
+                        "lng": 77.15959122989273
+                    },
+                    "southwest": {
+                        "lat": 28.66406262010727,
+                        "lng": 77.15689157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113172096867043198100\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXR_gE_7HSQVxqXOdC9CPztWUpS3ZtP7f7o_RWVk9q2KEk0JlMTHVoE8NtXhJRpxwFHLOFsoyX0x8FT8jzClV6FJqGDImnc8DDW2tcpKTtV59kV7QijOsbdazElFiiltANPmwyOkdqGUYNlyDzKLAPTZ32EEKkb4AMDqa9SUtquXF_",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJdeM67UEDDTkRilKh11HmGKc",
+            "plus_code": {
+                "compound_code": "M585+58 New Delhi, Delhi",
+                "global_code": "7JWVM585+58"
+            },
+            "rating": 4.9,
+            "reference": "ChIJdeM67UEDDTkRilKh11HmGKc",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "pet_store",
+                "bakery",
+                "store",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "DLF Towers Shivaji Marg, DSM-009, Moti Nagar, House Complex Market, Karampura Industrial Area, Karam Pura, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6367253,
+                    "lng": 77.18347460000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63806397989272,
+                        "lng": 77.18481627989273
+                    },
+                    "southwest": {
+                        "lat": 28.63536432010727,
+                        "lng": 77.18211662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ86rweO8DDTkRuuJpD3dIGhA",
+            "rating": 4.8,
+            "reference": "ChIJ86rweO8DDTkRuuJpD3dIGhA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "J5PM+M9Q, Shankar Rd, Block 3, Old Rajinder Nagar, Rajinder Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6800924,
+                    "lng": 77.1995178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68144377989272,
+                        "lng": 77.20086987989272
+                    },
+                    "southwest": {
+                        "lat": 28.67874412010728,
+                        "lng": 77.19817022010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117921662296917368332\">Yara Zen</a>"
+                    ],
+                    "photo_reference": "AcYSjRjvFcfaxgL1Vk9AvcWmr5fqp4runk78QZ63oKdQFLiGkvB3lknVMP-Lh0ADwhdJ4QmE0ABKkpeTVfHaFRrgLW7mNAie10JgBX54ps8RAiXBMlRcNB8mwPEYudW8cwPUwRjxyDVsxW3qS3nmDbZgtFssXTISBi2p9Penf-fuZFSPL9BB",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJuxpM4tb9DDkRKap2gu85KYk",
+            "plus_code": {
+                "compound_code": "M5JX+2R Delhi",
+                "global_code": "7JWVM5JX+2R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJuxpM4tb9DDkRKap2gu85KYk",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "7328, GT Rd, Prem Nagar, Block 22, Shakti Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.70974,
+                    "lng": 77.122683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71109047989273,
+                        "lng": 77.12403342989272
+                    },
+                    "southwest": {
+                        "lat": 28.70839082010728,
+                        "lng": 77.12133377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114659778664651665452\">shubham sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRjr9y4Up34KwpPLAOUXToHgv5yAxyLPsGytDjKhY-5RizL11ArZX8B3-mm9TH0TE_zzN9cnTGoN4CfX3sA5p6dW_NXLiA13xtPhHh0_5l-zBgpHx4rLEHj90L_AFcvFM8LDLkfg-cCtMy4hj6oYzgpycPXsfugblZ2Dj1qmCWfYA0Yh",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJH5uRPBcDDTkR6jSrAF2J4Cc",
+            "plus_code": {
+                "compound_code": "P45F+V3 New Delhi, Delhi",
+                "global_code": "7JWVP45F+V3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJH5uRPBcDDTkR6jSrAF2J4Cc",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "ground floor C, 9/32, Pocket 9, Sector 7, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7008258,
+                    "lng": 77.1501566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70215262989272,
+                        "lng": 77.15153462989272
+                    },
+                    "southwest": {
+                        "lat": 28.69945297010728,
+                        "lng": 77.14883497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113066631366710197089\">Ank</a>"
+                    ],
+                    "photo_reference": "AcYSjRidXIyBOJtE0sN7M3RduLzm1qxL-kO7kURyBpIIZCCWydbal0-R2C_taTOvbfcwqntQ2j8cuY7LQq0zBSDmtRwOXtDuxIfklIqRFyBggfRZwxRDeB-mRCKtXdDVAODrchKNbLW1hoeIWjcD30tAxYwXzXiaWrypwAobE9Qn8PwD2Jbg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpZm7LZsDDTkR3ipfwvl3vIk",
+            "plus_code": {
+                "compound_code": "P522+83 New Delhi, Delhi",
+                "global_code": "7JWVP522+83"
+            },
+            "rating": 5,
+            "reference": "ChIJpZm7LZsDDTkR3ipfwvl3vIk",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Shop No 14, CSC, 15, & 16, Block RP, Poorvi Pitampura, Pitam Pura, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.73855399999999,
+                    "lng": 77.1246144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73991242989272,
+                        "lng": 77.12597197989273
+                    },
+                    "southwest": {
+                        "lat": 28.73721277010728,
+                        "lng": 77.12327232010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103615950505035009599\">Gaurav Dabral</a>"
+                    ],
+                    "photo_reference": "AcYSjRitgDxESQzSYuoJMdUgTpjMrEe_LmU52sGErckvZWG1ycY2jgKfgOjK7dLLeAojum-FhzywDmL-7DqX6AOEwi4bfD4L58I2a_64aoOI3By9HfdzpAZNKd-MuvycQHKkdtqVCDxCwn2yuw3CG_ck7lyq4TrWL8AK6hlYloNVcDFsjoiD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6-OTNWEBDTkRMQ7n691GlZQ",
+            "plus_code": {
+                "compound_code": "P4QF+CR New Delhi, Delhi",
+                "global_code": "7JWVP4QF+CR"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ6-OTNWEBDTkRMQ7n691GlZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "E-5/32, GF, Sector 16, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.649757,
+                    "lng": 77.1630758
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65110127989272,
+                        "lng": 77.16442122989271
+                    },
+                    "southwest": {
+                        "lat": 28.64840162010728,
+                        "lng": 77.16172157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The new shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108289653053595191920\">Tushar Bidla</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9lnWW7PfcsYk_ljSri-Bl6iG_bF99zzX7qYxtI1D26U82yZXJV00lYCL5TchiHBD9fVVwbDG_TAmUxWJRLxcmWzICUa0f8BQMqLm208KZfjbNGSTvqd1r88MMojROSWO_tIdgUsbFoxm0UFU2UDXh1QEdQs6R-b4jwu4SBzGVMqq4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJo0AWCI4DDTkRaO_2-fjQ2x4",
+            "plus_code": {
+                "compound_code": "J5X7+W6 Delhi",
+                "global_code": "7JWVJ5X7+W6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJo0AWCI4DDTkRaO_2-fjQ2x4",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "137,West Patel Nagar , New Delhi, West Patel Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6499292,
+                    "lng": 77.1353646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65129537989272,
+                        "lng": 77.13670942989273
+                    },
+                    "southwest": {
+                        "lat": 28.64859572010728,
+                        "lng": 77.13400977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101922812008810126248\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9ENaVR5KEzBhFsEKGC0gxuIsdNUvFASBF1d7fqweIRmicKQ5mRsR4z8oYAAMRX52iCGO8lK-7ExadHzWaHeRTROKYf2TWoJNoc3EtWn0dBOMUV1RyJK4OS4hWtt1jmQtGDFld5b6rXLtD-0eG3BY0rIhFORGspWFfS8jARIFm3kBU",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJNWhXU_8DDTkRdyVzgc-LYvg",
+            "plus_code": {
+                "compound_code": "J4XP+X4 New Delhi, Delhi",
+                "global_code": "7JWVJ4XP+X4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJNWhXU_8DDTkRdyVzgc-LYvg",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "6B/5, Single Story, Ramesh Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7200278,
+                    "lng": 77.1745722
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72134722989273,
+                        "lng": 77.17594847989271
+                    },
+                    "southwest": {
+                        "lat": 28.71864757010728,
+                        "lng": 77.17324882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112762345567243057422\">Gaurav garg</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwUocdT8jOy63pS0frTqQuVwJGc1gnOrNXgBbUW63fLgxm9etuSN84XX0QLmyqA8sBRHrX-ko3JiguaPj66lWMuGgr8g6qdTSKELu5w08Bdo1A9fWTvOK69ft05ngz7npnGY5MBwtAA0VPSvnGd30nvVcei-Y9WEpX9R-IvA00YPiX",
+                    "width": 2080
+                }
+            ],
+            "place_id": "ChIJJbethzoBDTkRlxews0TSL_E",
+            "plus_code": {
+                "compound_code": "P5CF+2R Delhi",
+                "global_code": "7JWVP5CF+2R"
+            },
+            "rating": 5,
+            "reference": "ChIJJbethzoBDTkRlxews0TSL_E",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "D-28, Ranjan, Rajan Babu Rd, Adarsh Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7238176,
+                    "lng": 77.0869275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72520417989272,
+                        "lng": 77.08822767989273
+                    },
+                    "southwest": {
+                        "lat": 28.72250452010728,
+                        "lng": 77.08552802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Fashionable Stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ6c2p67gGDTkRmTGPU_rH3Rk",
+            "plus_code": {
+                "compound_code": "P3FP+GQ Delhi",
+                "global_code": "7JWVP3FP+GQ"
+            },
+            "rating": 5,
+            "reference": "ChIJ6c2p67gGDTkRmTGPU_rH3Rk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Pkt.1, 7, Pocket-1, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6690436,
+                    "lng": 77.10442499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67043382989272,
+                        "lng": 77.10576067989271
+                    },
+                    "southwest": {
+                        "lat": 28.66773417010728,
+                        "lng": 77.10306102010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Fair Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJSzf-ZlgDDTkR474qnq6wnbM",
+            "plus_code": {
+                "compound_code": "M493+JQ Delhi",
+                "global_code": "7JWVM493+JQ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJSzf-ZlgDDTkR474qnq6wnbM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "B-2/5, Nangloi Saiyed Rd, B 2 Block, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6965133,
+                    "lng": 77.1725245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69782377989272,
+                        "lng": 77.17391382989271
+                    },
+                    "southwest": {
+                        "lat": 28.69512412010728,
+                        "lng": 77.17121417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118258103104023240400\">Golu Sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-Gp89yAFIdKWDPAZlbnv-vxmJt_TKF8nGLMe9AdxymuXGdk5KkCE0PnFOmdGbGh-sIVGd5-i6_7fw8n5UqEbSRuwnv9lOIlMoQY2GtQOdv5W1pvFQHE55RWR87JNwlk6PZXOGIIskuO8PFe_jWcpDRXg4cuw8pcb_FJiek6a9CYiU",
+                    "width": 2464
+                }
+            ],
+            "place_id": "ChIJj2eOTMMDDTkRld7Hunw5xxM",
+            "plus_code": {
+                "compound_code": "M5WF+J2 New Delhi, Delhi",
+                "global_code": "7JWVM5WF+J2"
+            },
+            "rating": 4.9,
+            "reference": "ChIJj2eOTMMDDTkRld7Hunw5xxM",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "C-117, Ashok Vihar II, Pocket C 3, Phase 2, Ashok Vihar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7302155,
+                    "lng": 77.0860943
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73157967989272,
+                        "lng": 77.08742112989273
+                    },
+                    "southwest": {
+                        "lat": 28.72888002010728,
+                        "lng": 77.08472147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The new shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100356885762587685441\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLYAhC26Ttoih5e2sSc63y-0ZCHQmmKcUd-TFGINlgxX8IK5TgIHT1nKPmFRvgmwlVrK_3wq65AwmlWbvOUvumxmNLCOTeoVvHYdjgW6nYKMPvJvDUTS_zdqGCNfSz9U3yN_OAOCIiOy7t8uCdtAo1EIvnukP125IB9psdBAjVIPrC",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJ2Q76_2MHDTkRiYtj2XgqkRI",
+            "plus_code": {
+                "compound_code": "P3JP+3C Delhi",
+                "global_code": "7JWVP3JP+3C"
+            },
+            "rating": 0,
+            "reference": "ChIJ2Q76_2MHDTkRiYtj2XgqkRI",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop, Plot-19 ,Pocket, The New, 9, Sector-24, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6374465,
+                    "lng": 77.1125797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63876992989272,
+                        "lng": 77.11398442989271
+                    },
+                    "southwest": {
+                        "lat": 28.63607027010728,
+                        "lng": 77.11128477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107602322788318701112\">Rehaan Malik Rehaan Malik</a>"
+                    ],
+                    "photo_reference": "AcYSjRgaRPZ1bF3p2lxPOQ4lQ87uVro76889x_kx9ydIZ0abLGvDMX08AjUJq5HkJCEnThTcTTjfAzHpaCBzhzcU_rWppd3Q4rjKBFc1223HT3KFWyfu5wFbUrIpYj5h1vZWPHgDzlghOWy8-ib07w7h4ai-y9KzpLlr_HQY9EAZbErRRN8",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJf3PiOt8DDTkRbXndPVL1aYA",
+            "plus_code": {
+                "compound_code": "J4P7+X2 New Delhi, Delhi",
+                "global_code": "7JWVJ4P7+X2"
+            },
+            "rating": 3.3,
+            "reference": "ChIJf3PiOt8DDTkRbXndPVL1aYA",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "5/17, Ground Floor, Subhash Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6937181,
+                    "lng": 77.1347117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69507667989272,
+                        "lng": 77.13611347989271
+                    },
+                    "southwest": {
+                        "lat": 28.69237702010728,
+                        "lng": 77.13341382010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "The New Shop 24 Hours",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111038547470847848815\">ayush mahajan</a>"
+                    ],
+                    "photo_reference": "AcYSjRixvvyurVVJSnxqpZMJLVu6ZnPdKxHh5g3WBZr8XGzq0PsPGnDRxzKyVULPZE0KvK5OS82g9dltsJ9UJu7UWy6shh0o07PV4ly6YLgxoQ9ic1tP7rJMg1z8VamHN6EjkU0Sc827iE06FCbmXAKqyoQvPVW3J3jXffRbDNeT2fivSGM8",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJTzEDG5oDDTkRy2af9_vjzyQ",
+            "plus_code": {
+                "compound_code": "M4VM+FV New Delhi, Delhi",
+                "global_code": "7JWVM4VM+FV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTzEDG5oDDTkRy2af9_vjzyQ",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "49, Ground floor , Harsh Vihar , road no.-44, 110034, Pitam Pura, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6241052,
+                    "lng": 77.081315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62546562989272,
+                        "lng": 77.0826682298927
+                    },
+                    "southwest": {
+                        "lat": 28.62276597010728,
+                        "lng": 77.07996857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAFE SHOP",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1808,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105826058116616298207\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh-Ba12FGpT2IfQSdOeucjXEm20MQYpWOTCQ6hzWMAq_lsixO3562dk8IjINS_hNtNU07vg-0bSuMJBA-pRKhkFtjva-sPgFPGeVVTJ7ce_L8b98gnJbnbJpHZVP5gUab6G-_SujpOSfOOtuz_2Y5YUMKSuD-VFr8wyTNdaVbM6FhID",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJmfZ3W7gEDTkRsBVO4TO5EAE",
+            "plus_code": {
+                "compound_code": "J3FJ+JG New Delhi, Delhi",
+                "global_code": "7JWVJ3FJ+JG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJmfZ3W7gEDTkRsBVO4TO5EAE",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 166,
+            "vicinity": "A-3/24, Janakpuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6682174,
+                    "lng": 77.1018845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66956397989272,
+                        "lng": 77.10326622989272
+                    },
+                    "southwest": {
+                        "lat": 28.66686432010728,
+                        "lng": 77.10056657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sunita Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJTQRoi4cDDTkRr4rtsbetuT0",
+            "plus_code": {
+                "compound_code": "M492+7Q New Delhi, Delhi",
+                "global_code": "7JWVM492+7Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJTQRoi4cDDTkRr4rtsbetuT0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Shop.No:4, Market.Opp:Kumar Sweets, Matke Wali Gali, Jwalaheri Village, Paschim Vihar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6746791,
+                    "lng": 77.1631361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67602377989272,
+                        "lng": 77.16447257989273
+                    },
+                    "southwest": {
+                        "lat": 28.67332412010728,
+                        "lng": 77.16177292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping stop",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107851005757193991699\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhlKOuMgRKlL4rA7rrwRZhHFPjRqsW2IFCKsamcd2thE-v4GY6-yQ_Ey4NDHb57jM5JNUJylDBcmTwZcQnHaAtrxf4Vq5sDUg838QiXZBzZn3XoTRKUmCujsctraeu2Y-lLas_XGbePb8U8sE1tujxCKPMSq_Lu_ACd3ESHsuTmNJMq",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJRdrgaF4DDTkR6nipdpW67Zo",
+            "plus_code": {
+                "compound_code": "M5F7+V7 Delhi",
+                "global_code": "7JWVM5F7+V7"
+            },
+            "rating": 0,
+            "reference": "ChIJRdrgaF4DDTkR6nipdpW67Zo",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "933, 61, Onkar Nagar A, Lekhu Nagar, Tri Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.690725,
+                    "lng": 77.0498131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69208862989273,
+                        "lng": 77.05117097989273
+                    },
+                    "southwest": {
+                        "lat": 28.68938897010728,
+                        "lng": 77.04847132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop No 3",
+            "place_id": "ChIJoR9OpgcFDTkRSrcYERMMn7c",
+            "plus_code": {
+                "compound_code": "M2RX+7W New Delhi, Delhi",
+                "global_code": "7JWVM2RX+7W"
+            },
+            "rating": 1,
+            "reference": "ChIJoR9OpgcFDTkRSrcYERMMn7c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 3, 2, Block U, Prem Nagar II, Prem Nagar, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

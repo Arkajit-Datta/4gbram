@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRhEhWhksCfDX0ApeuKybCVDek2Y63rZ-6P_zV52ZVZoSeyvHzGF1x4E4ZNKscNHgi_jPgyZHcoWiMZGC5w-3Q5soUDTcQDkhaAahmdPgj3PNmDFzGf0TXZ017D7wT-ySDOAzQIUJQEqOQSaCieECVvBvEvN2Mf4CeIC-AVQ1zhMG8pJbrLOhiDWghsNxpRHDEhyN1_OsRke5TsjPkQltHref8RnBSvJjJTEcIPTpOjKwrnFRzLpsjQPgOSqSAgjQdShQ5-DPirfcsWCRJOaOu1Nl0LkWr8TF_DyriTLA2I6_XaQMUGJjcIy_-o-lO9yRcPVwl6vHHINZi9MZ3Bdm43KjMja0W_jtLYiibHKi4Qxd2szZUi9rNFdOuL0FbJ5CFK8yMzv3eY5fES4mZZalkGAq7FGSKb2BcKPE5JkjRpVilSv3qDoog",
+    "next_page_token": "AcYSjRjFFkMugES_TYLq1d14K80HMQiMFTFLHXlHgslZl13uRbbV3Nh2MCNP6BBblHiUl1xuiYhVP1JH-mhF1_0TMcwPvN6gss2g8-rq6_48idA9v9kXS-7M9fuxbqOIb2sh1J90hln50tqWRDVtbgl5tzXZUMpTxx6Rik2tByAnCEy6-S22FXCVQdgPQYckswIk5BEAIpUOrzNsq7PJetAL4ecNeXm-AJBAbifpSPrYY1XbC_LpvvwiEDifpMv4pUQ9jF-xUIDZQRypfcVFTLL3q75D9hBE2dwZvJ63w1wq1HOTUkCoui3GAZOkS7q_aeUavW728zqcaREV2bmnDZXxwL-JyoJErv3FGOl5o39XBMxPHlmtWIKSH15HU0EHxQpjtotO2mTxt-TtXD63fcp15B7ChWtIiO89nuoG3JxScFWGK_JCvz_9Hw",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -309,7 +309,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/109995161245373499395\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRiL8-1h5p6dtdgnTzOPXP0eVmZk1S6ZgfqgOOwjsREQoLpQsgYf59rDW5q6eveqtIRuwfGyEi8deFV36FS9kmEblWarnUR9ut2khOBxh7mwck8uclK4igdquFhBaMHdfgRVrR1F_QmOdtnYqFUtJl6JdYGpnUNk5W14APuGDjSxPat0",
+                    "photo_reference": "AcYSjRhmj-l1aoCS53jpmgI2Isdf9Q-gwMzQX1bxEqz5kg0nYDoMq1icvMBbPUXbva6B17FFaJV2fLMP-6XETJgPsxikg7Kq_0D1EGSTVfXHlAoY-U6UN7467qtB8wrOzeC2aPfkZB4dj0UsZPRAiDaOMAFxMl7mAfX0GkuVtIypN2jwB_-4",
                     "width": 1280
                 }
             ],
@@ -439,7 +439,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/110810602587171928315\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRiy8f6irUASuzBAGOeFnjrlYKNXTha-f8n5pUdXplIJBBAOTDvezbf-ZuSThdSb1dR5D1R0Bvi1yZ0pIpcL-rq_SkdFMe1pbYgLhrmv1IS8Gij14kG_aEnC8XFKUyt_jHKNobKS4FRLfyRdbB5TV-XfT4iIUBuCBlTbrpvvGTC0hsNA",
+                    "photo_reference": "AcYSjRhfrF81aaBnzZOTSot1DhE0fNYXNqN-F2ny7kxZitNwDoReVV0e9U2FPDj0IN9_cqoHwaGT9M6hEorqhuckvn8lNvtW8zitp-fyNYWZwVO4AmPyGvIwNLEvCKkPEDYC2N8TYC0FhhEwCswEsLs_AYMePn8Z6HrNLZVFlUnIfNbKrHls",
                     "width": 1080
                 }
             ],
@@ -573,6 +573,94 @@
             "business_status": "OPERATIONAL",
             "geometry": {
                 "location": {
+                    "lat": 18.5474921,
+                    "lng": 78.2478268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54884127989272,
+                        "lng": 78.24917892989272
+                    },
+                    "southwest": {
+                        "lat": 18.54614162010728,
+                        "lng": 78.24647927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "sri venkateshwara kirana",
+            "place_id": "ChIJBZL5_MDJzTsRpjCq4WsgY9g",
+            "plus_code": {
+                "compound_code": "G6WX+X4 Indalwai, Telangana",
+                "global_code": "7JCWG6WX+X4"
+            },
+            "rating": 0,
+            "reference": "ChIJBZL5_MDJzTsRpjCq4WsgY9g",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "s.no.6, 7-44, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6051654,
+                    "lng": 78.1726398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60655092989272,
+                        "lng": 78.17398937989272
+                    },
+                    "southwest": {
+                        "lat": 18.60385127010728,
+                        "lng": 78.17128972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri Ganga Bhavani Kirana Shop",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115497655830383432967\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjH5QvgPsVLu36mSSD8u5zR_kPv6v3rjE00pRh75pTp08Ctw-WPyFIkYBUGw4vgGkp6l4OA6HljcngHLcgo97ThQQONkEitphb7EnAvKyVF9JcmieEbzd21yjO50sfVfkfyUrlBn9x8lrnKMY_kEx8NgzIPyp-2ghVntgRSgFq4se9O",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJx8zaSgvPzTsRGGOoOnux0mk",
+            "plus_code": {
+                "compound_code": "J54F+33 Mullangi (I), Telangana",
+                "global_code": "7JCWJ54F+33"
+            },
+            "rating": 0,
+            "reference": "ChIJx8zaSgvPzTsRGGOoOnux0mk",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "S No 1-59, Mullangi (I)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
                     "lat": 18.5144933,
                     "lng": 78.2320628
                 },
@@ -607,6 +695,55 @@
             ],
             "user_ratings_total": 0,
             "vicinity": "H No 5, 21, Nh7 Road, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5773671,
+                    "lng": 78.26832139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57870352989272,
+                        "lng": 78.26966777989271
+                    },
+                    "southwest": {
+                        "lat": 18.57600387010727,
+                        "lng": 78.26696812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jamal Uddin Kirana Shop",
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105836634550094377563\">jamal uddin</a>"
+                    ],
+                    "photo_reference": "AcYSjRiykkdc9Qg-bWpxxwCrdm3QZl6iCW1jv8pmRKpx9_X3HtcR7sChpI2UDFkv2R_bQfUg16tx7_N7-aSTKtDkfX40a66J0WT1f8uBdUPH7ES2K-t3oQA1jrgF53sQbgPd3f4gZr1Ix8deOI-THbR7M47UdwgsVD1IMRDspxtymkbg_Vs6",
+                    "width": 1932
+                }
+            ],
+            "place_id": "ChIJxz4OHp_JzTsR8OZ8DYe9K2I",
+            "plus_code": {
+                "compound_code": "H7G9+W8 Rampur, Telangana",
+                "global_code": "7JCWH7G9+W8"
+            },
+            "rating": 1,
+            "reference": "ChIJxz4OHp_JzTsR8OZ8DYe9K2I",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hno 2-482, Rampur"
         },
         {
             "business_status": "OPERATIONAL",
@@ -651,129 +788,31 @@
             "business_status": "OPERATIONAL",
             "geometry": {
                 "location": {
-                    "lat": 18.6051654,
-                    "lng": 78.1726398
+                    "lat": 18.6086708,
+                    "lng": 78.20894349999999
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 18.60655092989272,
-                        "lng": 78.17398937989272
+                        "lat": 18.60998857989272,
+                        "lng": 78.21027767989271
                     },
                     "southwest": {
-                        "lat": 18.60385127010728,
-                        "lng": 78.17128972010728
+                        "lat": 18.60728892010728,
+                        "lng": 78.20757802010728
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
             "icon_background_color": "#4B96F3",
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-            "name": "Sri Ganga Bhavani Kirana Shop",
-            "photos": [
-                {
-                    "height": 1920,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/115497655830383432967\">A Google User</a>"
-                    ],
-                    "photo_reference": "AcYSjRjJeW7OjFdTRrKOLqHbe8uahP1Eg8_hsLhf8T0w0r9-kx-pXwTYgmVDm6KcnV8JlAB3dlwrXrsLSTIU3P-8JefYQBPFBplOk6Hpmjs7swBuanPdlkzXwmZD4eTkgh6I4bl12m1pT5aXBJ_JZXxcbhTKU2Awk0yem9Ri4YOhAv74-5zm",
-                    "width": 1080
-                }
-            ],
-            "place_id": "ChIJx8zaSgvPzTsRGGOoOnux0mk",
+            "name": "KRISHNA PRIYA TEA & COFFEE CORNER",
+            "place_id": "ChIJxdzkkMXJzTsRhuk6Wa19ucE",
             "plus_code": {
-                "compound_code": "J54F+33 Mullangi (I), Telangana",
-                "global_code": "7JCWJ54F+33"
+                "compound_code": "J655+FH Dichpally, Telangana",
+                "global_code": "7JCWJ655+FH"
             },
-            "rating": 0,
-            "reference": "ChIJx8zaSgvPzTsRGGOoOnux0mk",
-            "scope": "GOOGLE",
-            "types": [
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ],
-            "user_ratings_total": 0,
-            "vicinity": "S No 1-59, Mullangi (I)"
-        },
-        {
-            "business_status": "OPERATIONAL",
-            "geometry": {
-                "location": {
-                    "lat": 18.5474921,
-                    "lng": 78.2478268
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 18.54884127989272,
-                        "lng": 78.24917892989272
-                    },
-                    "southwest": {
-                        "lat": 18.54614162010728,
-                        "lng": 78.24647927010727
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-            "icon_background_color": "#4B96F3",
-            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-            "name": "sri venkateshwara kirana",
-            "place_id": "ChIJBZL5_MDJzTsRpjCq4WsgY9g",
-            "plus_code": {
-                "compound_code": "G6WX+X4 Indalwai, Telangana",
-                "global_code": "7JCWG6WX+X4"
-            },
-            "rating": 0,
-            "reference": "ChIJBZL5_MDJzTsRpjCq4WsgY9g",
-            "scope": "GOOGLE",
-            "types": [
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ],
-            "user_ratings_total": 0,
-            "vicinity": "s.no.6, 7-44, Indalwai"
-        },
-        {
-            "business_status": "OPERATIONAL",
-            "geometry": {
-                "location": {
-                    "lat": 18.5773671,
-                    "lng": 78.26832139999999
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 18.57870352989272,
-                        "lng": 78.26966777989271
-                    },
-                    "southwest": {
-                        "lat": 18.57600387010727,
-                        "lng": 78.26696812010728
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-            "icon_background_color": "#4B96F3",
-            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-            "name": "Jamal Uddin Kirana Shop",
-            "photos": [
-                {
-                    "height": 2576,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/105836634550094377563\">jamal uddin</a>"
-                    ],
-                    "photo_reference": "AcYSjRjV5LafzRlWUVP-xQzIlg6f8ZSG8fprDGgRP2xugsWP7GjfuuWHkDGwO78KEKWLu0S5wLfPsSjIqJxDGZcUirwkDef32FBDx5aNLvQdltAjAIwizG0MkX7tQRpMtE3lGThKCyXQtotKBuoq68NqrQ4zMUNTm-TJgdaxMVsyIHk5Off4",
-                    "width": 1932
-                }
-            ],
-            "place_id": "ChIJxz4OHp_JzTsR8OZ8DYe9K2I",
-            "plus_code": {
-                "compound_code": "H7G9+W8 Rampur, Telangana",
-                "global_code": "7JCWH7G9+W8"
-            },
-            "rating": 1,
-            "reference": "ChIJxz4OHp_JzTsR8OZ8DYe9K2I",
+            "rating": 5,
+            "reference": "ChIJxdzkkMXJzTsRhuk6Wa19ucE",
             "scope": "GOOGLE",
             "types": [
                 "food",
@@ -782,47 +821,7 @@
                 "establishment"
             ],
             "user_ratings_total": 1,
-            "vicinity": "Hno 2-482, Rampur"
-        },
-        {
-            "business_status": "OPERATIONAL",
-            "geometry": {
-                "location": {
-                    "lat": 18.6167227,
-                    "lng": 78.1917616
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 18.61812467989272,
-                        "lng": 78.19319762989272
-                    },
-                    "southwest": {
-                        "lat": 18.61542502010728,
-                        "lng": 78.19049797010729
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-            "icon_background_color": "#4B96F3",
-            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
-            "name": "SRI GANGA KIRANA SHOP",
-            "place_id": "ChIJC9RBQ3_PzTsRka4iMA-seTE",
-            "plus_code": {
-                "compound_code": "J58R+MP Dichpally, Telangana",
-                "global_code": "7JCWJ58R+MP"
-            },
-            "rating": 0,
-            "reference": "ChIJC9RBQ3_PzTsRka4iMA-seTE",
-            "scope": "GOOGLE",
-            "types": [
-                "grocery_or_supermarket",
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ],
-            "user_ratings_total": 0,
-            "vicinity": "S No 1, near SBI Bank, Dichpally"
+            "vicinity": "Shop No 2-6, Near, Nagpur Gate, Dichpally"
         }
     ],
     "status": "OK"

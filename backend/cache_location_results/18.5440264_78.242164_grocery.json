@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AcYSjRgWaQWNOufL1q0YYUz9-qS4GB3UK-kgvxAsU7ynqg2w7J9Ngt0ii-mnqe9ae5qF2CFe8nj0v5c9ZtVBcv0BGZJKPnXv4M0weedeiXiruOwMHcu69PSy0hKyhjOuJ2uO3cLNGCXOhsypkG9MCLnQc5Ix3LJPUhlnSTuQl7yaRMx-O4FthgZE9RHpnMQUwf5WDoaVYRvx__nENaEnNqI0ZTqYFM7Q6xGpxj2E0QjEGbTyV0rXbaUpra0Mr6P9__pin15cJGazn7C02asrCD07qYy786YHBoQgaq4e__bkT7GFK1UZ-VwvTcyFVtqEgFOooxoR0MerW1EJmcAkfaXpPyU93NyeBLZZK-ph2YTr0xvjby0ontkbEvsoQaYG2z2Heh3BVBNsCqa_VYXKG87o_JzIN0kYwYWHlgSbEzSumxFlVAGGSzK42yCd",
+    "next_page_token": "AcYSjRgc_mBzEGiWHhybgqTEodX5QQlPFQdhKAB3xwrnbdgNu5FCZxtde0DWAOPAhfkOcY-7RCnUk4hV0wK309NCa_hM2lyGLbuFs_l-CZzVBtz2q8NzDLN0EJNcIPF3UgYvSLm32MMsoblPidoA6VlPRH5oLgC-3b3OJ3DEns0hSpfrjHmq8I43wQEReFaKmNOE-8GGy21oZmGM-FuGZvLsiDHMYBfu7c5HFxS1YSyJpmBDxieWyE0sY4nLH9CxcRrWSxr_l1B86iYcBerjz7zvrhSGwA97heimwWoANewcVCxPl_IUvGcI2HdXvHYRL5yoBgLS0jw5GvP-z19HB2GbO8vOgvPIHlRkcEN_bpom3fjQ7KwU4JXQuA4bXHKVnpjH5VAim5-HgjxmWXuEPcS5SQe3I83TST4VvtYvEnRFu3EZbK_Bgan9go6Q",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -34,8 +34,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -74,8 +74,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -105,7 +105,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "\u0c39\u0c3e\u0c38\u0c3f\u0c28\u0c3f \u0c39\u0c30\u0c3f\u0c23\u0c3f \u0c15\u0c3f\u0c30\u0c3e\u0c23\u0c02",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "place_id": "ChIJPakj-R7LzTsRev58p0_Z7xA",
             "rating": 5,
@@ -113,8 +113,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -144,7 +144,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
             "name": "Gayatri Kirana And Genaralstore",
             "opening_hours": {
-                "open_now": false
+                "open_now": true
             },
             "photos": [
                 {
@@ -152,7 +152,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/112272209728091345537\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRhDNUyq-81WBFuLp3U20XS531xaEjI1MToBZUOKAJgbHDdTyICxOdJaixEEFdgfYKnFkfd_PXGSAi0KJkXUb93w2-9PEb7W7mG-HN6ag0nyqxbQ5L2ISJZQxBHt6dNC_J-aLDv7-PcKaNLqWhO6ZbqY_SXQ2SZXnjw_la0SxyhowlZd",
+                    "photo_reference": "AcYSjRiBTDg2GmnoVXr70dztxIbiS26iNU_5HzjTtzqXrtHwPTuL3CL-HSf2iBXHsveqRfzvl7HtDOozZGXbSqt12xG0eU7GyA-LYE8E6F1NnRaB8EEZR8I_-TS6e46BpLwF-RPjDNYLARTIwzwv5EJC86Spp81YpMEOraV5u6_wZ6qjAswy",
                     "width": 4128
                 }
             ],
@@ -166,8 +166,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -206,8 +206,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -246,8 +246,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -286,8 +286,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -326,8 +326,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -365,7 +365,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/115530028895853816766\">A Google User</a>"
                     ],
-                    "photo_reference": "AcYSjRj1qFCTLmCcb2TXrzKZuOeXCL2vT2-54DKOjQ9Awsx2oFnVHNfBqJSrXE5cAPUmsEFYhcF92LHoYPXvNJdF2JmkgWbbJnd3VZ5QE1JdDF81t-xd7ugpfx-0XcTV_felMxfeSSB2MyRXpCjbUjXt35IcA0dk89r5nZagWlBYmbk27UeS",
+                    "photo_reference": "AcYSjRhXSOltqmO0Ew_9e9TBhL84HKowAIZsd1eSdtNZawX7PxymCt1fJ74hk95GcpQU4QYfLJEXXGc0VZiehHh82Svgc_Oh4u1BwIPIRh7OqhY3BOw0znQGY1_DchwUmcnupJ3M9VQX3wFjK3u5JgvbVZ0Vki9ljxQkqQCiNSHYGZSn7qCI",
                     "width": 1080
                 }
             ],
@@ -379,8 +379,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -419,8 +419,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -459,8 +459,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -499,8 +499,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -539,8 +539,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -579,8 +579,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -619,8 +619,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -655,8 +655,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -695,8 +695,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -735,8 +735,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -775,8 +775,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
@@ -815,8 +815,8 @@
             "scope": "GOOGLE",
             "types": [
                 "grocery_or_supermarket",
-                "store",
                 "food",
+                "store",
                 "point_of_interest",
                 "establishment"
             ],
