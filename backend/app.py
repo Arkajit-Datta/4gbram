@@ -1,16 +1,20 @@
-from fastapi import FastAPI, File, UploadFile, Form
+from fastapi import FastAPI, File, UploadFile, Form, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, FileResponse
 from pydantic import BaseModel
 import logging
 import uvicorn
 import shutil
-import os   
+import os
+from backend.CsvParser.CsvParser import CsvParser   
 from commentry.getcomment import GetComment
 from commentry.predict import PredictComment
 import uuid
 import time
 from driver_analysis.pickcsv import PickCsv
+from FindPatners.FindPatners import FindPatners, GetTurnings
+import json
+
 
 logging.basicConfig(
     level=logging.INFO, format="[%(asctime)s] %(levelname)s: %(message)s"
@@ -55,23 +59,44 @@ def commentry():
 
 
 @app.post('/goals')
-def goals(slat: float = Form(...),
+async def goals(slat: float = Form(...),
             slong: float = Form(...),
             dlat: float = Form(...),
             dlong: float = Form(...)):
     # generating the goals
-
+    findpatners = FindPatners(slat, slong, dlat, dlong)
+    places = findpatners.get_place()
+    
+    get_turnings = GetTurnings()
+    turnings = get_turnings.turnings
+    
+    with open("/CsvParser/db.json","r") as f:
+        prev_json = json.load(f)
+    
+    csvparser = CsvParser()
+    csvparser.parse(turnings)
+    
+    with open("/CsvParser/db.json","r") as f:
+        curr_json = json.load(f)
+    
+    Mileage_Goal = "Mileage: " + str(prev_json['mileage'] + 2)
+    Blinker = "Blinker Percentage to Achieve: " + str(prev_json['blinker'] + 10)
+    Half_Clutch = "Half_Clutch Percentage to Achieve: " + str(prev_json['half_clutch'] - 15)
+    Idling = "Idling Percentage to Achieve: " + str(prev_json['idling'] - 20)
+    
     #starting the ride
-    start_ride()
-    return{
+    BackgroundTasks.add_task(start_ride)
+    
+    
+    return {
         'status':200,
         'result':
         [
-            {'name':'bot', 'status':False},
-            {'name':'bot','status':False},
-            {'name':'bot','status':False},
-            {'name':'bot','status':False},
-            {'last':[{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7},{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7},{"name":"croma","location":{'lat': 28.7010461, 'lng': 77.1358362}, "rating":4.7}],'status':False}
+            {'name':Mileage_Goal, 'status':False},
+            {'name':Blinker,'status':False},
+            {'name':Half_Clutch,'status':False},
+            {'name':Idling,'status':False},
+            {'last': places, 'status': False}
         ]
     }
 
@@ -80,21 +105,16 @@ def start_ride():
     time.sleep(0.1)
     r_no = 1
     sending_to_commentry = []
-    obj = PredictComment()
-    while True:
-        try:
-            #time.sleep(0.1)
-            if r_no%30 == 0:
-                obj.predict(sending_to_commentry)
-                sending_to_commentry.clear()
-            row_data = pick.get_data(r_no)
-            row_data = row_data.values.tolist()
-            sending_to_commentry.append(row_data[0])
-            r_no+=1
-            print(r_no)
-        except Exception as e:
-            print('exception' + str(e))
-            break
+    try:
+        if r_no%40 == 0:
+            obj = PredictComment()
+            obj.predict(sending_to_commentry)
+        row_data = pick.get_data(r_no)
+        sending_to_commentry.append(row_data)
+        r_no+=1
+    except Exception as e:
+        pass
+
 
 # def generate_job_id():
 #     try:

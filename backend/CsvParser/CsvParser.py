@@ -69,6 +69,9 @@ class CsvParser:
             "idling":idling
         }    
         file = PROJ_FILE + "/CsvParser/db.json"
-        json.dump(obj,file)
+        with open(file, "w") as f:
+            json.dump(obj,f)
     
-        
+if __name__ == "__main__":
+    obj = CsvParser("/home/arkajit/Documents/Hackathons/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv")
+    obj.parse(14)
