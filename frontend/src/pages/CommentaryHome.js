@@ -6,8 +6,8 @@ import { useHistory } from "react-router-dom";
 
 const CommentaryHome = () => {
     const history = useHistory();
-    const changePage = () => {
-      history.push('/commentary/play')
+    const changePage = (type) => {
+      history.push('/commentary/play',{ type:type })
     }
   return (
     <>
@@ -16,13 +16,13 @@ const CommentaryHome = () => {
                 <h1>Select A Mode</h1>
             </div>
             <div className='selectModes'>
-              <div className='availableOption' onClick={changePage}>
+              <div className='availableOption' onClick={()=>changePage('nice')}>
                 Be Nice
               </div>
-              <div className='availableOption' onClick={changePage}>
+              <div className='availableOption' onClick={()=>changePage('roast')}>
                 Roast Me
               </div>
-              <div className='availableOption' onClick={changePage}>
+              <div className='availableOption' onClick={()=>changePage('educate')}>
                 Educate Me
               </div>
             </div>
