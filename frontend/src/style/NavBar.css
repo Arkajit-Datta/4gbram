@@ -2,7 +2,6 @@
 
 *{
     font-family: 'Poppins', sans-serif;
-
 }
 
 .navContainer{
@@ -14,8 +13,10 @@
 
 .items{
     display: flex;
-    width:34%;
-    margin: 0.5% auto; 
+    width:40%;
+    /* background-color: red; */
+    justify-content: space-around;
+    margin: 0 auto; 
 }
 
 .navbarItem{

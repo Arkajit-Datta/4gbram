@@ -10,12 +10,13 @@
 .mainContent{
     width:60%;  
     display: block;
+    position: relative;
 }
 
 .mainContentItem1{
     background-color:rgba(255,255,255,0.15);
     border-radius: 5px;
-    position: relative;
+    
     height: 30%;
     margin-bottom: 4%;
     padding: 10px 20px;
@@ -30,7 +31,7 @@
     grid-gap: 20px;
 }
 
-.mainItem{
+.mainItem{position: relative;
     background-color: rgba(255,255,255,0.15);
     border-radius: 5px;
     padding: 10px 20px;
@@ -60,4 +61,19 @@
     padding-top: 10px;
     font-size: 14px;
     color: rgba(255,255,255,0.7);
+    position: relative;
 }
+
+.mainItem img{
+    width:50px;
+    position: absolute;
+    bottom:10%;
+    right:10%;
+}
+
+.communityCard img{
+    position: absolute;
+    right:8%;
+    width:80px;
+}
+

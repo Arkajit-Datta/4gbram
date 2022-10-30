@@ -2,7 +2,10 @@ import React from 'react'
 
 import { Link } from "react-router-dom";
 import './../style/NavBar.css'
-
+import Route from './../images/route.png'
+import Home from './../images/home.png'
+import User from './../images/user.png'
+import Mic from './../images/mic.png'
 
 const NavBar = () => {
   return (
@@ -11,26 +14,23 @@ const NavBar = () => {
             <div className='items'>
                 <Link to="/">
                     <div className="navbarItem">
-                    {/* <img src={Home} alt="" /> */}
-                    Home
+                    <img src={Home} alt="" />
+                    
                     </div>
                 </Link>
                 <Link to="/commentary">
                     <div className="navbarItem">
-                    {/* <img src={Location} alt="" /> */}
-                    Commentary
+                    <img src={Mic} alt="" />
                     </div>
                 </Link>
-                <Link to="/rewards">
+                <Link to="/navigation">
                     <div className="navbarItem">
-                    {/* <img src={Music} alt="" /> */}
-                    Map
+                    <img src={Route} alt="" />
                     </div>
                 </Link>
                 <Link to="/profile">
                     <div className="navbarItem">
-                    {/* <img src={Emotion} alt="" /> */}
-                    Profile
+                    <img src={User} alt="" />
                     </div>
                 </Link>
                 {/* <Link to="/random">

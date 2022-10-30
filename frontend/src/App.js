@@ -25,7 +25,7 @@ function App() {
                 <Route path="/commentary" exact component={CommentaryHome} />
                 <Route path="/profile/mystats" exact component={Stats} />
                 <Route path="/profile/currentstandings" exact component={Leaderboard} />
-                <Route path="/rewards" exact component={Rewards} />
+                <Route path="/navigation" exact component={Rewards} />
               </Switch>
             // </AnimatePresence>
           )}
