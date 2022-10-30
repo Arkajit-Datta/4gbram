@@ -74,10 +74,10 @@ export default function Rewards() {
     }
     const getGoals =  async () => {
         try {
-          const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/test');
-          const blocks = await res.json();
-          console.log(blocks);
-          setObjects(blocks.result);
+        //   const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/test');
+        //   const blocks = await res.json();
+        //   console.log(blocks);
+        //   setObjects(blocks.result);
           
         } catch (e) {
           console.log(e);
@@ -86,13 +86,14 @@ export default function Rewards() {
 
     const loadData = async () => {
         try {
-          const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/goals');
-          const blocks = await res.json();
-          console.log(blocks)
+        //   const res = await fetch('https://30ef-2401-4900-4e20-cdd5-2080-b3b9-e510-b051.in.ngrok.io/goals');
+        //   const blocks = await res.json();
+        //   console.log(blocks)
         } catch (e) {
           console.log(e);
         }
       }
+      const [goalItem,setGoalItem] = useState([]);
     useEffect(() => {
         getGoals();
         loadData();
@@ -114,7 +115,8 @@ export default function Rewards() {
 
             axios.post(url, params, config)
                 .then((result) => {
-                    console.log(result)
+                    setGoalItem(result.data.result);
+                    console.log(result.data.result)
                 })
                 .catch((err) => {
                     console.log(err)
@@ -136,40 +138,49 @@ export default function Rewards() {
 
                             <input type="submit" onClick={handleSubmit} />
                         <div className='itineries'>
-                               <div className='iterItems'>
-                                    <div className='goalItems'>
-                                        <h4>
-                                            Task Title
-                                        </h4>
-                                        <p>
-                                            Complete this by this time.
+                            <div className='iterItems'>
+                            {goalItem.map(goal => {
+                                return <div className='goalItems'>
+                                    <h4>{goal.name}</h4>
+                                    <p>Complete this by this time.
                                         </p>
-                                    </div>
-                                    <div className='goalItems'>
-                                        <h4>
-                                            Task Title
-                                        </h4>
-                                        <p>
-                                            Complete this by this time.
-                                        </p>
-                                    </div>
-                                    <div className='goalItems'>
-                                        <h4>
-                                            Task Title
-                                        </h4>
-                                        <p>
-                                            Complete this by this time.
-                                        </p>
-                                    </div>
-                                    <div className='goalItems'>
-                                        <h4>
-                                            Task Title
-                                        </h4>
-                                        <p>
-                                            Complete this by this time.
-                                        </p>
-                                    </div>
                                 </div>
+                            })}
+                            </div>
+                               
+                                    {/* <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div>
+                                    <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div> */}
+                                    {/* <div className='goalItems'>
+                                        <h4>
+                                            Task Title
+                                        </h4>
+                                        <p>
+                                            Complete this by this time.
+                                        </p>
+                                    </div> */}
+                                {/* </div> */}
                         </div>
                     </div>
                 </div>

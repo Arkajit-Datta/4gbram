@@ -92,6 +92,7 @@ input[type*='submit']{
     width:100px;
     height: 40px;
     margin: 15px;
+    cursor: pointer;
 }
 
 
