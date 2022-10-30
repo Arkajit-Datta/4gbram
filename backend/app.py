@@ -1,6 +1,3 @@
-from distutils.log import debug
-from mimetypes import init
-from urllib import request
 from fastapi import FastAPI, File, UploadFile, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, FileResponse
@@ -35,7 +32,10 @@ app.add_middleware(
 @app.get("/commentry")
 def commentry():
     comment = GetComment()
-    new,path = comment.checkdb_commentry()
+    try:
+        new,path = comment.checkdb_commentry()
+    except:
+        new = comment.checkdb_commentry()
     if new == 0:
         return {
             'status': 200,
@@ -58,7 +58,6 @@ def goals(slat: float = Form(...),
             slong: float = Form(...),
             dlat: float = Form(...),
             dlong: float = Form(...)):
-    time.sleep(2)
     # generating the goals
 
     #starting the ride
@@ -77,18 +76,24 @@ def goals(slat: float = Form(...),
 
 def start_ride():
     pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv')
-    time.sleep(0.5)
-    r_no = 0
+    time.sleep(0.1)
+    r_no = 1
     sending_to_commentry = []
-    try:
-        if r_no%40 == 0:
-            obj = PredictComment()
-            obj.predict(sending_to_commentry)
-        row_data = pick.get_data(r_no)
-        sending_to_commentry.append(row_data)
-        r_no+=1
-    except Exception as e:
-        pass
+    obj = PredictComment()
+    while True:
+        try:
+            #time.sleep(0.1)
+            if r_no%30 == 0:
+                obj.predict(sending_to_commentry)
+                sending_to_commentry.clear()
+            row_data = pick.get_data(r_no)
+            row_data = row_data.values.tolist()
+            sending_to_commentry.append(row_data[0])
+            r_no+=1
+            print(r_no)
+        except Exception as e:
+            print('exception' + str(e))
+            break
 
 # def generate_job_id():
 #     try:

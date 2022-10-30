@@ -1,5 +1,4 @@
 from imp import load_module
-from backend.commentry.overspeed import tricking
 from sklearn import model_selection
 import lightgbm 
 import os
@@ -8,10 +7,14 @@ from pycaret import *
 from pycaret.classification import *
 import pandas as pd
 import statistics
-
+import json
+import glob
+import random
+  
 THIS_FILE = os.path.dirname(os.path.abspath(__file__))
 PROJ_FILE = os.path.abspath(os.path.join(THIS_FILE, "../"))
 
+db_path = PROJ_FILE + '/commentry/db.json'
 
 class PredictComment:
     def __init__(self) -> None:
@@ -22,6 +25,8 @@ class PredictComment:
         self.mode = mode
     
     def rash(self,a):
+        print(self.loaded_model.predict(a))
+        print(a)
         if self.loaded_model.predict(a)[0] == 1:
             return True 
         return False
@@ -36,8 +41,8 @@ class PredictComment:
         else:
             return 1
         
-    def idle(self,values):
-        return all([x == 15 for x in values])
+    def idle(self,values,rpm):
+        return all([x == 15 for x in values]) and all([x>700 for x in rpm])
 
     def tricking(self,a):
         i = 0
@@ -99,7 +104,7 @@ class PredictComment:
         t_break = []
         t_speed = []
         t_gear = []
-
+        #print(values)
         for value in values:
             t_steer.append(value[0])
             t_throtle.append(value[1])
@@ -108,20 +113,55 @@ class PredictComment:
             t_speed.append(value[4])
             t_gear.append(value[5])
         values = [x[:4] for x in values]
+        s_steer = sum(t_steer)/len(t_steer)
+        s_throtle = statistics.stdev(t_throtle)
+        s_rpm = statistics.stdev(t_rpm)
+        s_break = statistics.stdev(t_break)
+        values = [[s_steer,s_throtle,s_rpm,s_break]]
         df = pd.DataFrame(data = values,columns=['steer', 'throtle', 'rpm', 'break'])
         
+        f = open(db_path,'r')
+        data = json.load(f)
+        print(data)
+        f.close()
+        f = open(db_path,'w')
         if self.overspeed(t_speed):
-            pass
+            print("overspeed")
+            path = PROJ_FILE + '/audios/' + self.mode + '/overspeed/*.mp3'
+            l = glob.glob(path)
+            print(l)
+            a = random.choice(l)
+            print(l)
+            data['1'].append(a)
         elif self.idle(t_gear,t_rpm):
-            pass
-        elif self.tricking(t_throtle):
-            pass
-        elif self.tricking(t_break):
-            pass
+            print("idle")
+            path = PROJ_FILE + '/audios/' + self.mode + '/idling/*.mp3'
+            l = glob.glob(path)
+            a = random.choice(l)
+            data['1'].append(a)
+        # elif self.tricking(t_throtle):
+        #     path = PROJ_FILE + '/audios/' + self.mode + '/tricking'
+        #     l = glob.glob(path + '/*')
+        #     a = random.choice(l)
+        #     data['1'].append(path)
+        # elif self.tricking(t_break):
+        #     path = PROJ_FILE + '/audios/' + self.mode + '/tricking'
+        #     l = glob.glob(path + '/*')
+        #     a = random.choice(l)
+        #     data['1'].append(path)
         elif self.rash(df):
-            pass
+            print("rash")
+            path = PROJ_FILE + '/audios/' + self.mode + '/rash/*.mp3'
+            l = glob.glob(path)
+            a = random.choice(l)
+            data['1'].append(a)
+        print(data)
+        json.dump(data,f)
+        
+        f.close()
 
-te = PredictComment()
-t = [[4,5,6,3]]
-df = pd.DataFrame(data = t,columns=['steer', 'throtle', 'rpm', 'break'])
-print(te.predict(df))
+# te = PredictComment()
+# t = [[4,5,6,3]]
+# df = pd.DataFrame(data = t,columns=['steer', 'throtle', 'rpm', 'break'])
+# print(te.predict(df))y
+

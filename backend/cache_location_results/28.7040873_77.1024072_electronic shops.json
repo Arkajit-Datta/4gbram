@@ -1,0 +1,903 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjjNnR0k7DUTVsJ8W0_0VDUJIOjuTQT7IPSQ6-BEHEBK2SvUvAIIXhZsGQCbRsjQurv9QDFr9FujFfcz0gXPExhVpe7sNie1K0zFi9iObYekClJ3u5Gyxw8lU9RIM4Zntkv0kpBgv7J6AemErCQ30_6C_O9twwZxQEwFBx4NveJiwgmQRP3tAGqaZD6WwZJltbDG0-1-f1fp3WAzOwgpNt1K29PmmiOLRwfVSC7exNtnI743_cbGLWMM5rvMxdFyRVpT8Nt1ICgGINFhFdVJBlN-Z5dMUf5_q-XbPXs6tdYWwNQs7wVKppmQQTni7_bZsvqFo6lmLP_y4D-FI2H5yhXmiP9tgohWslhQhiZhRQMnOMzgR6MmfcL0sI5NHzXxAIUOXZw6XTHFp25E-S4ERyi1orYzoZVx7Vu6cRjuKZVAeKbD8CFto03jFFS0tkpJ2Vg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7010461,
+                    "lng": 77.1358362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70239312989272,
+                        "lng": 77.13714242989272
+                    },
+                    "southwest": {
+                        "lat": 28.69969347010728,
+                        "lng": 77.13444277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103837382757805211684\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh9-6LXfOezfCTkr-ZiHKxHdZVGisYSIi1I-oJiXqnH8yxe5ec7_aGjEt1b7_v8PgKeuRjAzU1271LC0Upipu6rhfhJPYRp6GLgV3LNCJ3p6dcmpPzguhLWijOC_z_eI-4LMJ4RFZoxoZLnMP2e8gxcfYL2IfVDlTquk3laFYrWqbAg",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJx0S4KUwDDTkRZ7cVwxOIz8Y",
+            "plus_code": {
+                "compound_code": "P42P+C8 New Delhi, Delhi",
+                "global_code": "7JWVP42P+C8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJx0S4KUwDDTkRZ7cVwxOIz8Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1049,
+            "vicinity": "Plot no 1, Block HD, Vishakha Enclave, Pitam Pura, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6505055,
+                    "lng": 77.1606455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65185532989272,
+                        "lng": 77.16199532989273
+                    },
+                    "southwest": {
+                        "lat": 28.64915567010728,
+                        "lng": 77.15929567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJxXUOb9MDDTkRxWHAdzKbEmo",
+            "plus_code": {
+                "compound_code": "M526+67 New Delhi, Delhi",
+                "global_code": "7JWVM526+67"
+            },
+            "rating": 5,
+            "reference": "ChIJxXUOb9MDDTkRxWHAdzKbEmo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Metro Pillar Number 226, B-5, West Patel Nagar, Patel Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6525527,
+                    "lng": 77.1585005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65386137989272,
+                        "lng": 77.15981977989273
+                    },
+                    "southwest": {
+                        "lat": 28.65116172010728,
+                        "lng": 77.15712012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Guru Kirpa Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106703823999307645732\">Nitin Mohindru</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXzqHaPLNtPnI-MBZTzE-GG27LQ3yqLZdU9tO1WQUD3RxZ4kt4aJod-7KV8ITqC6AX-XYV-mmq4pShqoq64TNerpdGzDE7ZmCkEJ30nRQxGgNrdeEmp31tWWTYs3tC6u5Ju9LFH3LipfQjfbPqu8Q-mb-YV4Hoiokdgibg5ktbKCld",
+                    "width": 5248
+                }
+            ],
+            "place_id": "ChIJ3ZxVtPoCDTkR0xyAUnqYpbM",
+            "plus_code": {
+                "compound_code": "M535+2C New Delhi, Delhi",
+                "global_code": "7JWVM535+2C"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ3ZxVtPoCDTkR0xyAUnqYpbM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160,
+            "vicinity": "V33, West Patel Nagar, Near Shadipur Metro Station, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6998812,
+                    "lng": 77.1185234
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70121817989272,
+                        "lng": 77.11979382989273
+                    },
+                    "southwest": {
+                        "lat": 28.69851852010727,
+                        "lng": 77.11709417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - ROHINI",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115332725761861046082\">Garvit Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5Rvf3TBEpgA3PRtFcnNPBCGtdMOdIxdUT_1HCTneh4l8i9yg3k1hvo5-n_1_ZJ2RZhVY1U7FeXGSmaQPyFdBKVxFGPWnomHoU87pgqfYh_L-2jcf-3IPP7cRbbNZXaj15-hV9Q8jyiDRcDL2_6F2r4vUFfNDHsNo7xbIXO4B_qg30",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJZ_636-ADDTkRSRXaUmig2gY",
+            "plus_code": {
+                "compound_code": "M4X9+XC New Delhi, Delhi",
+                "global_code": "7JWVM4X9+XC"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZ_636-ADDTkRSRXaUmig2gY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2439,
+            "vicinity": "Plot No. 6 & 7 Pocket, F19, Sector 8, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6864311,
+                    "lng": 77.1458442
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68777782989272,
+                        "lng": 77.14719682989272
+                    },
+                    "southwest": {
+                        "lat": 28.68507817010728,
+                        "lng": 77.14449717010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gautam Gift And Electronic Shop",
+            "place_id": "ChIJ7WDyhPEDDTkRR0nIVxAOxY0",
+            "plus_code": {
+                "compound_code": "M4PW+H8 New Delhi, Delhi",
+                "global_code": "7JWVM4PW+H8"
+            },
+            "rating": 0,
+            "reference": "ChIJ7WDyhPEDDTkRR0nIVxAOxY0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "B1, Block E, Shakurpur Colony, Shakurpur, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.666763,
+                    "lng": 77.1189691
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66820477989272,
+                        "lng": 77.12031982989272
+                    },
+                    "southwest": {
+                        "lat": 28.66550512010728,
+                        "lng": 77.11762017010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deepak Electronic",
+            "place_id": "ChIJr_4I8ZkDDTkRc3SAlnG3jmM",
+            "plus_code": {
+                "compound_code": "M489+PH New Delhi, Delhi",
+                "global_code": "7JWVM489+PH"
+            },
+            "rating": 0,
+            "reference": "ChIJr_4I8ZkDDTkRc3SAlnG3jmM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11, Block A, Paschim Puri, Punjabi Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.706765,
+                    "lng": 77.1841761
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70810097989272,
+                        "lng": 77.18556742989271
+                    },
+                    "southwest": {
+                        "lat": 28.70540132010728,
+                        "lng": 77.18286777010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 555,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110011440266470352943\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjT6qlgJpuAwMIwNopl1_pn2fLN6l_eUyEZkBefPNQCkAoUSVitP-07FpmxVGYubJSwsIcARFSLlKMbdTx3fD9jy8DnXkv4hLneb3e_G8zITdV-7m3Sc-jKzzBnt43zDguvdo8ySvBdRS2xTRM8jhxNIl3hGunP1XRO3CARmoZ60RWE",
+                    "width": 958
+                }
+            ],
+            "place_id": "ChIJk3U1Vi4DDTkR7FlpaZcWlsw",
+            "plus_code": {
+                "compound_code": "P54M+PM Delhi",
+                "global_code": "7JWVP54M+PM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJk3U1Vi4DDTkR7FlpaZcWlsw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1313,
+            "vicinity": "Floor, H-1, Ground Floor & First, Model Town 3rd Main Rd, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7657551,
+                    "lng": 77.18332099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.76710182989272,
+                        "lng": 77.18466547989273
+                    },
+                    "southwest": {
+                        "lat": 28.76440217010728,
+                        "lng": 77.1819658201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "GUPTA ELECTRONIC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ3b83rH8BDTkRXZMdDSnJZ9A",
+            "plus_code": {
+                "compound_code": "Q58M+88 Delhi",
+                "global_code": "7JWVQ58M+88"
+            },
+            "rating": 0,
+            "reference": "ChIJ3b83rH8BDTkRXZMdDSnJZ9A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C 490, Darshan Vihar Colony, A Block, Nathupura, Burari, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.737606,
+                    "lng": 77.1805741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73890797989273,
+                        "lng": 77.18190387989272
+                    },
+                    "southwest": {
+                        "lat": 28.73620832010728,
+                        "lng": 77.17920422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goyal Electronic Store",
+            "place_id": "ChIJjSdFAsMBDTkRAAAAMAUbXXk",
+            "plus_code": {
+                "compound_code": "P5QJ+26 New Delhi, Delhi",
+                "global_code": "7JWVP5QJ+26"
+            },
+            "rating": 0,
+            "reference": "ChIJjSdFAsMBDTkRAAAAMAUbXXk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.826, Part-1, Street, 10, Veer Bazar Rd, Mukundpur, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7288965,
+                    "lng": 77.0929926
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73023467989272,
+                        "lng": 77.09435852989272
+                    },
+                    "southwest": {
+                        "lat": 28.72753502010728,
+                        "lng": 77.09165887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gupta Electronic",
+            "place_id": "ChIJ8xi0GyYHDTkRuagEJbVuk-g",
+            "plus_code": {
+                "compound_code": "P3HV+H5 New Delhi, Delhi",
+                "global_code": "7JWVP3HV+H5"
+            },
+            "rating": 0,
+            "reference": "ChIJ8xi0GyYHDTkRuagEJbVuk-g",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "D.137, Pocket 24, Sector-24, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6217426,
+                    "lng": 77.08826950000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62311122989272,
+                        "lng": 77.08962117989272
+                    },
+                    "southwest": {
+                        "lat": 28.62041157010728,
+                        "lng": 77.08692152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ELECTRONIC KINGDOM -JioMart Digital Partner",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJi9Rlr0gFDTkR47uZLsLQhJ0",
+            "plus_code": {
+                "compound_code": "J3CQ+M8 Delhi",
+                "global_code": "7JWVJ3CQ+M8"
+            },
+            "rating": 0,
+            "reference": "ChIJi9Rlr0gFDTkR47uZLsLQhJ0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Prem Nagar, PREM NAGAR, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6855647,
+                    "lng": 77.1308882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68688462989272,
+                        "lng": 77.13231462989272
+                    },
+                    "southwest": {
+                        "lat": 28.68418497010727,
+                        "lng": 77.12961497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Saurav Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJO1ZgycADDTkRQyYqXRTVy10",
+            "plus_code": {
+                "compound_code": "M4PJ+69 Delhi",
+                "global_code": "7JWVM4PJ+69"
+            },
+            "rating": 0,
+            "reference": "ChIJO1ZgycADDTkRQyYqXRTVy10",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rishi Nagar, Rani Bagh, A2, Multani Mohalla, Pitampura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.648835,
+                    "lng": 77.189705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65016412989273,
+                        "lng": 77.19104137989272
+                    },
+                    "southwest": {
+                        "lat": 28.64746447010728,
+                        "lng": 77.18834172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Krishana Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ4Zq1FuYDDTkRXHhWned_rOU",
+            "plus_code": {
+                "compound_code": "J5XQ+GV New Delhi, Delhi",
+                "global_code": "7JWVJ5XQ+GV"
+            },
+            "rating": 0,
+            "reference": "ChIJ4Zq1FuYDDTkRXHhWned_rOU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "13/2 Shop No, 12, Block 13, WEA, Karol Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.73950829999999,
+                    "lng": 77.1164348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74086927989272,
+                        "lng": 77.11776592989273
+                    },
+                    "southwest": {
+                        "lat": 28.73816962010727,
+                        "lng": 77.11506627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronics Goods",
+            "place_id": "ChIJea8nmVkBDTkR5I3VwGt0KJY",
+            "plus_code": {
+                "compound_code": "P4Q8+RH New Delhi, Delhi",
+                "global_code": "7JWVP4Q8+RH"
+            },
+            "rating": 0,
+            "reference": "ChIJea8nmVkBDTkR5I3VwGt0KJY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "A-2/52, Pocket 2, Sector 17, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6902803,
+                    "lng": 77.12558
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69167432989272,
+                        "lng": 77.12691942989272
+                    },
+                    "southwest": {
+                        "lat": 28.68897467010728,
+                        "lng": 77.12421977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bala G Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJRQNrCsIDDTkREEik8I0kzNM",
+            "plus_code": {
+                "compound_code": "M4RG+46 Delhi",
+                "global_code": "7JWVM4RG+46"
+            },
+            "rating": 1,
+            "reference": "ChIJRQNrCsIDDTkREEik8I0kzNM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "639 Rishi Nagar , Rani Bagh, Sainik Vihar, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.701497,
+                    "lng": 77.1351902
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70277672989272,
+                        "lng": 77.13647672989272
+                    },
+                    "southwest": {
+                        "lat": 28.70007707010728,
+                        "lng": 77.13377707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - PITAM PURA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102829246374778156568\">Ravi Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3HMJ83A-GtMzKtGK-quQvvTIz4GQtBzu_Y2KzQOTz0K3Aa9xo7OXiiXU_-jbtKc-39GKsWwXFIbXWw6SsJPmo6ybWWo_oMIU28zgbYolvPNW0KFvJgSG0wXKtD9MmnMR9VinQTocizJ38zYNktGt761_odZBAIuOaeNBYZNbnMXIU",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJN3lpndkDDTkRmGvCQliyOks",
+            "plus_code": {
+                "compound_code": "P42P+H3 Delhi",
+                "global_code": "7JWVP42P+H3"
+            },
+            "rating": 3.7,
+            "reference": "ChIJN3lpndkDDTkRmGvCQliyOks",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1881,
+            "vicinity": "Residential Scheme HD/2, opp. Metro Pillar Number 360, Block HD, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7044117,
+                    "lng": 77.14873300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70579632989272,
+                        "lng": 77.15003967989271
+                    },
+                    "southwest": {
+                        "lat": 28.70309667010728,
+                        "lng": 77.14734002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mehar Electricals and Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117123425376386790671\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXzgeTtHsvOTqtQ6d70ZB2ml0DFjftulpJbHJiyfuvgc9QYKRw8_WAwoV0UomcxYqtAWhm17OYHYnET7JUjT7cf1tzRwU1Es8XEkE2lR8PYcM0mE1f6sCq5n1BrNJDqHCGyJh6oUsCl898nOe-Ebu2UBtQcxOws6yEsLopKsD1cQfX",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJH0TJd8QDDTkRdFskMIzi2-Q",
+            "plus_code": {
+                "compound_code": "P43X+QF Delhi",
+                "global_code": "7JWVP43X+QF"
+            },
+            "rating": 5,
+            "reference": "ChIJH0TJd8QDDTkRdFskMIzi2-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Shop No.2, NP-9, Near, Mangal Bazar Rd, opp. MP Mall, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6723221,
+                    "lng": 77.0591675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67365297989272,
+                        "lng": 77.06054597989272
+                    },
+                    "southwest": {
+                        "lat": 28.67095332010728,
+                        "lng": 77.05784632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronic shop nangloi delhi",
+            "place_id": "ChIJoaT2-JQFDTkRKyzATFLxvBc",
+            "plus_code": {
+                "compound_code": "M3C5+WM Delhi",
+                "global_code": "7JWVM3C5+WM"
+            },
+            "rating": 0,
+            "reference": "ChIJoaT2-JQFDTkRKyzATFLxvBc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H. No, 176 b, Nangloi Rd, Ram Nagar Colony, Naresh Park, Nangloi, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.633892,
+                    "lng": 77.04974949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63522562989272,
+                        "lng": 77.05109902989273
+                    },
+                    "southwest": {
+                        "lat": 28.63252597010727,
+                        "lng": 77.04839937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vikas Electronic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJsZO4OhkFDTkRyG9-rjTLQB8",
+            "plus_code": {
+                "compound_code": "J2MX+HV Delhi",
+                "global_code": "7JWVJ2MX+HV"
+            },
+            "rating": 0,
+            "reference": "ChIJsZO4OhkFDTkRyG9-rjTLQB8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 3, A 6, Deep Vihar, Maharani Enclave, Hastsal, Delhi, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6710712,
+                    "lng": 77.11071079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67240767989272,
+                        "lng": 77.11201627989273
+                    },
+                    "southwest": {
+                        "lat": 28.66970802010728,
+                        "lng": 77.10931662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronics Paradise - Paschim Vihar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115965129527456412871\">Jitendra kumar Vashistha</a>"
+                    ],
+                    "photo_reference": "AcYSjRi4YxGlobRiyvv9hBlLKFFQ138eG-x82vCUf-EsAtQeV_FzWnOCIegmHGLDEf-P8v8ledpdwdM6og577b4GvnmNmOkEgENxFEmOGPHD_HapLufwB-wmX7ARXQdWA_KA8XLQS0-gNnePqIEVTkPddd9V6tR41-9kjSxWNdjYvzL4EpKv",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJMzaEeI8DDTkRUGbKEktJeiA",
+            "plus_code": {
+                "compound_code": "M4C6+C7 Delhi",
+                "global_code": "7JWVM4C6+C7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJMzaEeI8DDTkRUGbKEktJeiA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 557,
+            "vicinity": "A-4/38, A 4 Block, Paschim Vihar, Delhi"
+        }
+    ],
+    "status": "OK"
+}
