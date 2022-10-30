@@ -95,15 +95,6 @@ def start_ride():
             print('exception' + str(e))
             break
 
-# def generate_job_id():
-#     try:
-#         logging.info("generating unique job id")
-#         id = uuid.uuid4().hex
-#         return id[::2][:10]
-#     except Exception as e:
-#         logging.error(e)
-#         logging.error("error generating unique job_id")
-
 
 if __name__ == "__main__":
     uvicorn.run(
