@@ -1,0 +1,856 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhIXVQ62qfvAVjrvm2hOwCZv5OfO-ZFCiSreNPIqVYQqt2HGbp15Eo2DCnx5cnD8WG2lkFiKWxFe6IVSOs1JyV5b_cFzw3GsZ0kh46nrinDwq3vjzzjMI-ejIcPXo5PGyHEyx9ue4FKB5VDhGWzyucyAf9yEmIkSLvF8CABGmzal_Y6Uh0fezqznvz-wSeMBbcZY7F01v1UiFvsJiRCwnFOZnAxite0ZR-L8GJPUmBjZLke1XEu7hN5BEg7oeqBMA1vs0THbIGxNCI90D6IeRg-rVvxG_m_w_tGaC9jQc3Mc0cFxPzAUJhUNMi9ngWrYzqLLKaYrCLj1njt4zv-bynRH2R_ObThGSd-uCrKF-BZIMoDZWzvB7S7EJYQO7ZIfVhXOGFjTM433B8YBXbZuq1N3wOwACObEtkCncArNXC9tdNehfy9og",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.581366,
+                    "lng": 73.986237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58268922989272,
+                        "lng": 73.98759732989272
+                    },
+                    "southwest": {
+                        "lat": 18.57998957010728,
+                        "lng": 73.98489767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Welcome Variety And Gift shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100317342655693462959\">chetan lovanshi</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2WDZuvaogFAf78TX4Mi3KOC1mWztKtUpThfiwuBceQMj7wk2OkkrsoyuHLvLr5i15n1dAnJG2_bIScNV34wDnH3FB6Ulqk0edng7KotLWn7Y5nzGAS87HtnfbKYxjHCQITBBkhlD9rU2YaFuhFHGPuB_hHH9I4_pwz_BPUmBN2wSn",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJY4mgzHjDwjsRPU8k8rJxijY",
+            "rating": 3.9,
+            "reference": "ChIJY4mgzHjDwjsRPU8k8rJxijY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "HXJP+GFX, Beside Shri Ashapura A To Z , Kesanand Phata, Nagar Rd, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4378194,
+                    "lng": 73.9755749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.43917447989272,
+                        "lng": 73.97694902989271
+                    },
+                    "southwest": {
+                        "lat": 18.43647482010728,
+                        "lng": 73.97424937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SHREENATH PAN SHOP",
+            "place_id": "ChIJ2eDXQ0zpwjsRP5Y1JFsivdM",
+            "plus_code": {
+                "compound_code": "CXQG+47 Wadki, Maharashtra",
+                "global_code": "7JCMCXQG+47"
+            },
+            "rating": 0,
+            "reference": "ChIJ2eDXQ0zpwjsRP5Y1JFsivdM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, opp. Pathare Patil Mens Wear, Dhava Mile Area, Wadki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5640309,
+                    "lng": 73.94966339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56535417989272,
+                        "lng": 73.95102077989272
+                    },
+                    "southwest": {
+                        "lat": 18.56265452010728,
+                        "lng": 73.94832112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hi Choice Super Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116753939123371494156\">jairam Seervi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFqQT0mOxUxEXoZ3ng4FJqLkD_mTewMRv-OtLxE8HRJrYOn4bPNnoKDVm0hd0lSQ1LWFG9-_FJ7seDlr8IHe8ORNODunBNVkO66eJB3AcS83pxm3FYlBwX30Kx_lKRnfwsKsm0h4XjkeU6jb9PVRMe1bOKwjJP-YAo3gzWOZyjjrBj",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJM0Rn9ujDwjsRiDZfY6o5RCE",
+            "plus_code": {
+                "compound_code": "HW7X+JV Pune, Maharashtra",
+                "global_code": "7JCMHW7X+JV"
+            },
+            "rating": 4,
+            "reference": "ChIJM0Rn9ujDwjsRiDZfY6o5RCE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 274,
+            "vicinity": "Blue Berry, Shop No. 1/2, Aple Ghar Society, Tulaja Bhawani Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5760261,
+                    "lng": 73.8958639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57737352989272,
+                        "lng": 73.89725152989271
+                    },
+                    "southwest": {
+                        "lat": 18.57467387010728,
+                        "lng": 73.89455187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhavna Fansy End Genral Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJLXkWZCzBwjsRQluosnXwEjk",
+            "plus_code": {
+                "compound_code": "HVGW+C8 Pune, Maharashtra",
+                "global_code": "7JCMHVGW+C8"
+            },
+            "rating": 1,
+            "reference": "ChIJLXkWZCzBwjsRQluosnXwEjk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sunrise Residents, No 14, Shop No-1, Viman Nagar, Tingre, Nagar Rd, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5679401,
+                    "lng": 73.9202968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56930647989272,
+                        "lng": 73.92157167989272
+                    },
+                    "southwest": {
+                        "lat": 18.56660682010727,
+                        "lng": 73.91887202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MERAJ PAN SHOP",
+            "place_id": "ChIJbUMF3SrBwjsRbav2Xpk_R1M",
+            "plus_code": {
+                "compound_code": "HW9C+54 Pune, Maharashtra",
+                "global_code": "7JCMHW9C+54"
+            },
+            "rating": 0,
+            "reference": "ChIJbUMF3SrBwjsRbav2Xpk_R1M",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO 1, NEAR, Wagholi Rd, Ubale Nagar, Clover Park, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5515095,
+                    "lng": 73.9879615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55283182989272,
+                        "lng": 73.98950737989271
+                    },
+                    "southwest": {
+                        "lat": 18.55013217010728,
+                        "lng": 73.98680772010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Savali Pan Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJLYAhmT3DwjsRAprPjOBzk1A",
+            "plus_code": {
+                "compound_code": "HX2Q+J5 Awhalwadi, Maharashtra",
+                "global_code": "7JCMHX2Q+J5"
+            },
+            "rating": 0,
+            "reference": "ChIJLYAhmT3DwjsRAprPjOBzk1A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Hotel Wagholi, Manjari Road, near Savali, Awhalwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.507065,
+                    "lng": 73.9283215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50836602989272,
+                        "lng": 73.92972747989272
+                    },
+                    "southwest": {
+                        "lat": 18.50566637010727,
+                        "lng": 73.92702782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Real Choice Gift Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106102750803932864394\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjUPjTjhPrqsPIwSxEnaS62It1jHNeITFFYdMLiA1O4wse4iL3sVTekjn7Du36Q8TejJe9kCLeoeDxdfLTZXu-Ld4AjdrzRAH92XsSamwV0Ng_HawGep87mr_Qr35z9Ujrs6tolrd1nzqcUuRE5uGsYOy04L_j6YsSpULGDMS0sHxP1",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJVQfY3_PBwjsRueIhN1Pbnms",
+            "plus_code": {
+                "compound_code": "GW4H+R8 Pune, Maharashtra",
+                "global_code": "7JCMGW4H+R8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJVQfY3_PBwjsRueIhN1Pbnms",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Shop No.4, Shanti Niketan, Survey No.150 A/2/1, Magarpatta Road, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5583661,
+                    "lng": 73.897384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55972342989272,
+                        "lng": 73.89873452989272
+                    },
+                    "southwest": {
+                        "lat": 18.55702377010727,
+                        "lng": 73.89603487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vinod Pan Shop",
+            "place_id": "ChIJ2yt1FETBwjsRsIz4hOZlqaw",
+            "plus_code": {
+                "compound_code": "HV5W+8X Pune, Maharashtra",
+                "global_code": "7JCMHV5W+8X"
+            },
+            "rating": 0,
+            "reference": "ChIJ2yt1FETBwjsRsIz4hOZlqaw",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5, Nagpur Chal, Yerawada, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5715052,
+                    "lng": 73.9815759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57286727989272,
+                        "lng": 73.98288272989272
+                    },
+                    "southwest": {
+                        "lat": 18.57016762010728,
+                        "lng": 73.98018307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BANKAR PAN SHOP",
+            "place_id": "ChIJabNGoSjDwjsRZPjtBT3IDAM",
+            "plus_code": {
+                "compound_code": "HXCJ+JJ Pune, Maharashtra",
+                "global_code": "7JCMHXCJ+JJ"
+            },
+            "rating": 0,
+            "reference": "ChIJabNGoSjDwjsRZPjtBT3IDAM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Near, Raisoni College Rd, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5542087,
+                    "lng": 73.94735179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55558542989272,
+                        "lng": 73.94880202989272
+                    },
+                    "southwest": {
+                        "lat": 18.55288577010727,
+                        "lng": 73.94610237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shokeen Pan Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ1fQHTtvDwjsR6npudNn1hbA",
+            "plus_code": {
+                "compound_code": "HW3W+MX Pune, Maharashtra",
+                "global_code": "7JCMHW3W+MX"
+            },
+            "rating": 0,
+            "reference": "ChIJ1fQHTtvDwjsR6npudNn1hbA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, World Trade Center, Fountain Road, Rakshak Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4464178,
+                    "lng": 73.9554138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.44777142989272,
+                        "lng": 73.95672627989272
+                    },
+                    "southwest": {
+                        "lat": 18.44507177010727,
+                        "lng": 73.95402662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samarth Varieties And Ladies Shopee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMVUZIZ7pwjsRB1_jD-AvuRY",
+            "plus_code": {
+                "compound_code": "CXW4+H5 Pune, Maharashtra",
+                "global_code": "7JCMCXW4+H5"
+            },
+            "rating": 0,
+            "reference": "ChIJMVUZIZ7pwjsRB1_jD-AvuRY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Kanifnath Nagar, Uruli Devachi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5518704,
+                    "lng": 73.9422895
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55314477989272,
+                        "lng": 73.94367297989272
+                    },
+                    "southwest": {
+                        "lat": 18.55044512010728,
+                        "lng": 73.94097332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Real Shopee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106019488607503379942\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRixpxdktWgRFq1UivNN_RreyoxHHjBZK-uhIrEDgAxyoxIruGU3XwkaoGdT8WxCRUmEtDJatunfGjJDbn4JQ473qs_ShQDSr-VlpCN_IFNK12RAeSkh7lYbAC8efGqfbw5NVudumTGoOhkI8bp5Ks-vyG0LYDg1AQCKRPyU9m02Lsea",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJCfHHZmLBwjsRQK7RcBjevoo",
+            "plus_code": {
+                "compound_code": "HW2R+PW Pune, Maharashtra",
+                "global_code": "7JCMHW2R+PW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJCfHHZmLBwjsRQK7RcBjevoo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Shop No. 6 B, Tanisq Society, opp. Gulmohar Orchids, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4606205,
+                    "lng": 73.93384979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.46204187989272,
+                        "lng": 73.93518652989272
+                    },
+                    "southwest": {
+                        "lat": 18.45934222010728,
+                        "lng": 73.93248687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TIRANGA PAN SHOP",
+            "place_id": "ChIJKzNlCojrwjsRqdVb-cVFe1w",
+            "plus_code": {
+                "compound_code": "FW6M+6G Pune, Maharashtra",
+                "global_code": "7JCMFW6M+6G"
+            },
+            "rating": 0,
+            "reference": "ChIJKzNlCojrwjsRqdVb-cVFe1w",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO.01, near TIRANGA RESTO BAR, Pandhari Nagar, Handewadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.526771,
+                    "lng": 73.89698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52810222989272,
+                        "lng": 73.89837417989273
+                    },
+                    "southwest": {
+                        "lat": 18.52540257010728,
+                        "lng": 73.89567452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ajmer Pan Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJO0M4xa7BwjsR35Nh0mKv2oc",
+            "plus_code": {
+                "compound_code": "GVGW+PQ Pune, Maharashtra",
+                "global_code": "7JCMGVGW+PQ"
+            },
+            "rating": 4,
+            "reference": "ChIJO0M4xa7BwjsR35Nh0mKv2oc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "01, Ghorpadi Bazar, Ghorpadi Rd, Shivkirti Govt Officers Colony, Ghorpadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5791332,
+                    "lng": 73.9857356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58044547989272,
+                        "lng": 73.98703072989272
+                    },
+                    "southwest": {
+                        "lat": 18.57774582010727,
+                        "lng": 73.98433107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vimaleshwar Pan Shop",
+            "place_id": "ChIJV_8bWqvDwjsR8sBGcQAM6rU",
+            "plus_code": {
+                "compound_code": "HXHP+M7 Pune, Maharashtra",
+                "global_code": "7JCMHXHP+M7"
+            },
+            "rating": 0,
+            "reference": "ChIJV_8bWqvDwjsR8sBGcQAM6rU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Manjari Road, Kalubai Nagar, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5762373,
+                    "lng": 73.8959782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57759022989272,
+                        "lng": 73.89727937989272
+                    },
+                    "southwest": {
+                        "lat": 18.57489057010728,
+                        "lng": 73.89457972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dharwadi Pedhe Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJgZBg0ybBwjsRodB_zk0FdcU",
+            "rating": 3.8,
+            "reference": "ChIJgZBg0ybBwjsRodB_zk0FdcU",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "HVGW+F9X, MLS Colony, Tingre Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5079235,
+                    "lng": 73.9026493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50927332989272,
+                        "lng": 73.90400417989272
+                    },
+                    "southwest": {
+                        "lat": 18.50657367010728,
+                        "lng": 73.90130452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anand Sales, Gifts,Stationery & Toys Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1116,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107344097861001218369\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg12ahc5tT4191WBjPnTeXVHUiyfyHR2D5huyHVLjW30XQgfRM1uxcGvsqZ1I0qFwQmp6fhXegEdEN_hDV9gpo4uLGdLmqPEwIBcEGg1YUnb5pubn2rwcdT0spHHhGU1MRk3Whk8glvj9esRkMql3qkSqcutx4-nzf7vzn-ROYNdM0r",
+                    "width": 4157
+                }
+            ],
+            "place_id": "ChIJ08jBssfBwjsR97KBXtX0E5c",
+            "plus_code": {
+                "compound_code": "GW53+53 Pune, Maharashtra",
+                "global_code": "7JCMGW53+53"
+            },
+            "rating": 5,
+            "reference": "ChIJ08jBssfBwjsR97KBXtX0E5c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "Shop No 1 Pleasant Park, opp. Fatimanagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4841699,
+                    "lng": 73.9566095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48553977989272,
+                        "lng": 73.9579319798927
+                    },
+                    "southwest": {
+                        "lat": 18.48284012010728,
+                        "lng": 73.95523232010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "OM FOODS & GROCERY SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJi6a-70XpwjsRTscDG4Q9a6k",
+            "rating": 2.2,
+            "reference": "ChIJi6a-70XpwjsRTscDG4Q9a6k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "FXM4+MJ9, Gurudatta Nagar, Fursungi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5733009,
+                    "lng": 74.0280914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57456597989272,
+                        "lng": 74.02944592989272
+                    },
+                    "southwest": {
+                        "lat": 18.57186632010728,
+                        "lng": 74.02674627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jogeshwari Pan Shop",
+            "place_id": "ChIJC3vN20vDwjsRQbIv3mJhPKo",
+            "plus_code": {
+                "compound_code": "H2FH+86 Kesnand, Maharashtra",
+                "global_code": "7JCPH2FH+86"
+            },
+            "rating": 0,
+            "reference": "ChIJC3vN20vDwjsRQbIv3mJhPKo",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Wagholi - Rahu Rd, Kesnand"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5748527,
+                    "lng": 73.9610134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57625937989272,
+                        "lng": 73.96234007989271
+                    },
+                    "southwest": {
+                        "lat": 18.57355972010728,
+                        "lng": 73.95964042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Manshi Paan Shop",
+            "place_id": "ChIJQ1HheNHDwjsRttHr3aSpyTA",
+            "plus_code": {
+                "compound_code": "HXF6+WC Pune, Maharashtra",
+                "global_code": "7JCMHXF6+WC"
+            },
+            "rating": 0,
+            "reference": "ChIJQ1HheNHDwjsRttHr3aSpyTA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Ubale Nagar, Wagholi, Pune"
+        }
+    ],
+    "status": "OK"
+}

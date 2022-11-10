@@ -1,12 +1,15 @@
+from concurrent.futures import thread
+import concurrent.futures
 from fastapi import FastAPI, File, UploadFile, Form, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, FileResponse
 from pydantic import BaseModel
 import logging
 import uvicorn
+import asyncio
 import shutil
 import os
-from backend.CsvParser.CsvParser import CsvParser   
+from CsvParser.CsvParser import CsvParser   
 from commentry.getcomment import GetComment
 from commentry.predict import PredictComment
 import uuid
@@ -14,6 +17,8 @@ import time
 from driver_analysis.pickcsv import PickCsv
 from FindPatners.FindPatners import FindPatners, GetTurnings
 import json
+from playsound import playsound
+PROJ_FILE = os.path.dirname(os.path.abspath(__file__))
 
 
 logging.basicConfig(
@@ -49,6 +54,7 @@ def commentry():
             }
         }
     else:
+        os.system('mpg123 ' + path)
         return {
             'status': 200,
             'result':{
@@ -59,7 +65,7 @@ def commentry():
 
 
 @app.post('/goals')
-async def goals(slat: float = Form(...),
+def goals(slat: float = Form(...),
             slong: float = Form(...),
             dlat: float = Form(...),
             dlong: float = Form(...)):
@@ -67,16 +73,16 @@ async def goals(slat: float = Form(...),
     findpatners = FindPatners(slat, slong, dlat, dlong)
     places = findpatners.get_place()
     
-    get_turnings = GetTurnings()
+    get_turnings = GetTurnings(slat, slong, dlat, dlong)
     turnings = get_turnings.turnings
-    
-    with open("/CsvParser/db.json","r") as f:
+    path = PROJ_FILE + '/CsvParser/db.json'
+    with open(path,"r") as f:
         prev_json = json.load(f)
     
-    csvparser = CsvParser()
+    csvparser = CsvParser('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv')
     csvparser.parse(turnings)
     
-    with open("/CsvParser/db.json","r") as f:
+    with open(path,"r") as f:
         curr_json = json.load(f)
     
     Mileage_Goal = "Mileage: " + str(prev_json['mileage'] + 2)
@@ -85,9 +91,18 @@ async def goals(slat: float = Form(...),
     Idling = "Idling Percentage to Achieve: " + str(prev_json['idling'] - 20)
     
     #starting the ride
-    BackgroundTasks.add_task(start_ride)
-    
-    
+    # bg = BackgroundTasks()
+    # bg.add_task(start_ride,'dgds')
+    # with concurrent.futures.ThreadPoolExecutor() as executor:
+    #     p = executor.submit(start_ride)
+    #     print(p.result())
+    with open(PROJ_FILE + '/commentry/db.json','r') as f:
+        j = json.load(f)
+    f.close()
+    with open(PROJ_FILE + '/commentry/db.json','w') as f:
+        j['share'] = '/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv'
+        json.dump(j,f)    
+    f.close()
     return {
         'status':200,
         'result':
@@ -102,14 +117,14 @@ async def goals(slat: float = Form(...),
 
 def start_ride():
     pick = PickCsv('/home/anirudh/Desktop/4gbram/backend/driver_analysis/c1can_2020_01_14_02_evening.csv')
-    time.sleep(0.1)
+    time.sleep(0.5)
     r_no = 1
     sending_to_commentry = []
     obj = PredictComment()
     while True:
         try:
-            #time.sleep(0.1)
-            if r_no%30 == 0:
+            time.sleep(0.5)
+            if r_no%28 == 0:
                 obj.predict(sending_to_commentry)
                 sending_to_commentry.clear()
             row_data = pick.get_data(r_no)

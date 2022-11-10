@@ -1,0 +1,924 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhRjtaiZRK2KO2zkcQncMkxbDfmjFyIH_qD85-y460bRRCyN_yuEc-z9hKLSaHmHpiGD1cTfcItEhPPAjqk6e8oe2vhv-1HQndm0sqhYTZ_UHPhEQXjvQGbjZRYXvwP-5sD9FZiFuH8BhoabJIIPMdn7SVIxRu7Z8w-pHyyf94tUkTZNkCHNKg4SqsnY8Lam2m3MexDVE9jrxpvcdsaZZijVOwFAC8JiXxpPOm_GWjxkSjdbAeEKF1AsBVnFDAFnH-CpP-yWnMMmNEyV5B_cNV9oYg1x2sCAvBrItv0v_vM-q4KuJi-ZYfpnzlBLoudfsJhy6CjJMbNDsVSBKBuhHIf_of9ee7OJYQCp9ymeIbzQtCgP1CvaF1ZGymW5yQmg_TZVu8_zjibQGCUpt8Gaj3YyJZLyWpzGO9b3tO8xYW9VC8hFtNjyA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9864344,
+                    "lng": 73.11061000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.98777557989272,
+                        "lng": 73.11192062989272
+                    },
+                    "southwest": {
+                        "lat": 18.98507592010728,
+                        "lng": 73.10922097010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nagarpalika Shopping Complex",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114353257470743338896\">Kailas Patil</a>"
+                    ],
+                    "photo_reference": "AcYSjRiw2bvRC8zwo69WQ6HHGNQ2QKGJdpJXDEWWdrJy7SAHUIsKLqzcAFQsRbHvFefmjszlr7qSq2Dab2xpeIXBJYFBa3hAHjkGck0qr4KpKPVOCzaTvqeP2SZ5u-ybvX3eqcwqYBlc5boZOhb-U4dgdfS-ecoAvQt-Ai_ETHqI5nD0Jw_Y",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJeedvqRTo5zsRB_5UqmtNWqs",
+            "rating": 3.7,
+            "reference": "ChIJeedvqRTo5zsRB_5UqmtNWqs",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 527,
+            "vicinity": "X4P6+H6H, Uran Rd, Kalamboli Steel Market Yard, Old Panvel, Panvel, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9870292,
+                    "lng": 73.1105737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.98836302989272,
+                        "lng": 73.11183612989272
+                    },
+                    "southwest": {
+                        "lat": 18.98566337010728,
+                        "lng": 73.10913647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Celebration",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109408586087329379794\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjL4I7dbHjqOKK_q0z1XLK4p7uEC52QDP8o5h8wf7W_9iDOSgwEFvgM-xqwcyeiiNNs6Rxxmk9sfuZxlSKFoMYTS6OTdJMUxZrzTbA1Fo0CvTSs01nSIMkqshCIhdRZFeTNdCa1rCuruFxLZZz5Nm85jHtFrAuBLIKb6ublO_r757_c",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJARJXoxTo5zsRyHrh-JzmBAs",
+            "plus_code": {
+                "compound_code": "X4P6+R6 Navi Mumbai, Maharashtra",
+                "global_code": "7JCMX4P6+R6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJARJXoxTo5zsRyHrh-JzmBAs",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "Shop No 9, Krantiveer Vasudev Balavant Phadke Natyagruh, Near Saraswati Vidya Mandir, Old Panvel, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.016659,
+                    "lng": 73.016612
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01791782989272,
+                        "lng": 73.01802812989271
+                    },
+                    "southwest": {
+                        "lat": 19.01521817010728,
+                        "lng": 73.01532847010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Live Shopee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104327924255823188399\">Gangadhar Kalyane</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9HPJ60f8XFCiyyDIh-uMkH6Ftk8MfblbKbnpa9EFNKZgVXT7NO2ktOfo0GN-RnhkzCG2ONwQWOy9h2dPHfUIqOFJLfzM-byeIj221dbOg6bNTJ-DtUYapH3VgiYW6LD-NguVdOZgrvM4ehUOsd-UVsAdGD69jhQvieNHXw-7WDrAU",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJQxniC5jD5zsRWXJU2UUWfdI",
+            "plus_code": {
+                "compound_code": "2288+MJ Navi Mumbai, Maharashtra",
+                "global_code": "7JFM2288+MJ"
+            },
+            "rating": 2.8,
+            "reference": "ChIJQxniC5jD5zsRWXJU2UUWfdI",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop no 1B/2&3, Shree Ambika Hg Society, Sector 42A, Opp D-MART, Seawood, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.07273,
+                    "lng": 73.0165138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07413197989272,
+                        "lng": 73.01786832989272
+                    },
+                    "southwest": {
+                        "lat": 19.07143232010728,
+                        "lng": 73.01516867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop No1 Pan Shop",
+            "place_id": "ChIJoV-TKQXB5zsRCi1xXZQOosU",
+            "plus_code": {
+                "compound_code": "32F8+3J Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32F8+3J"
+            },
+            "rating": 0,
+            "reference": "ChIJoV-TKQXB5zsRCi1xXZQOosU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 7, Plot No 10, Sector 23, Turbhe janta Market, Sector 23, Turbhe, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0266712,
+                    "lng": 73.02187529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02806037989272,
+                        "lng": 73.02315692989272
+                    },
+                    "southwest": {
+                        "lat": 19.02536072010728,
+                        "lng": 73.02045727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Stop & Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ95Af8XzD5zsREb7UAKhfWuc",
+            "plus_code": {
+                "compound_code": "22GC+MP Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22GC+MP"
+            },
+            "price_level": 2,
+            "rating": 5,
+            "reference": "ChIJ95Af8XzD5zsREb7UAKhfWuc",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop Numner 12 Plot, Number 302, Nerul East, Sector 21, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0210737,
+                    "lng": 73.0185225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02230257989272,
+                        "lng": 73.01957127989273
+                    },
+                    "southwest": {
+                        "lat": 19.01960292010727,
+                        "lng": 73.01687162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMZ29ob3D5zsRkH8GEwGxo8E",
+            "rating": 2.5,
+            "reference": "ChIJMZ29ob3D5zsRkH8GEwGxo8E",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "22C9+CCC, Nerul East, Sector 40, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.987933,
+                    "lng": 73.11395999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.98920627989272,
+                        "lng": 73.11531247989272
+                    },
+                    "southwest": {
+                        "lat": 18.98650662010728,
+                        "lng": 73.11261282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanaa (\u0938\u0928\u093e)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110230502449574160042\">MAYUR</a>"
+                    ],
+                    "photo_reference": "AcYSjRjt5NFKa-VisxRXV6zN7qb0leipEvD1UcVY7BmLbljMAfJjD93XLOvVcTSIGVgrPWCzRrhJrYqrZoy__gO4Uv49TMRN3EAvsvqDPsnC2onpvwHPLG4Ko3yFcVSmsdWkxFI7iFfx_-XzAb9byWWNedcpgkkqpQly6FQHCTdWG80NFNE1",
+                    "width": 2730
+                }
+            ],
+            "place_id": "ChIJh3WGbWvo5zsRSjsDCoHHMqU",
+            "plus_code": {
+                "compound_code": "X4Q7+5H Panvel, Navi Mumbai, Maharashtra",
+                "global_code": "7JCMX4Q7+5H"
+            },
+            "rating": 4.7,
+            "reference": "ChIJh3WGbWvo5zsRSjsDCoHHMqU",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "food",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Shop No 8 , Vaidya Building, Plot No 158, Middle Class Society, Panvel"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0788771,
+                    "lng": 73.00774249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08029492989272,
+                        "lng": 73.00909517989271
+                    },
+                    "southwest": {
+                        "lat": 19.07759527010728,
+                        "lng": 73.00639552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gift Corner",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104377658169951481118\">Naresh Gaikwad</a>"
+                    ],
+                    "photo_reference": "AcYSjRiiQdh0qbcH3JTHqt7m7iWROt8x8lx4Rhw00HGDA7vCxL1MPcPjCvGIHWp2_0t36l8eWetT0E-4A5u_E9vo56IC52g6hCNquBb0d2EFXACMOAAuo3e42ESOkJ6hngtAEDX-ZQokWlYdAUi9kbVbyqhjvREur-X62SCBonO4pM6VyLOD",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ6V0gnznB5zsRdbSHgPZYIxc",
+            "plus_code": {
+                "compound_code": "32H5+H3 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32H5+H3"
+            },
+            "rating": 4,
+            "reference": "ChIJ6V0gnznB5zsRdbSHgPZYIxc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 217,
+            "vicinity": "Shop No. 10, 14, Merchants Corner, Plot No. 14- D, Groma Marg, APMC Market, Sector 19, Vashi, opposite Jalaram Market, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0743267,
+                    "lng": 73.0867397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07574407989272,
+                        "lng": 73.08819272989271
+                    },
+                    "southwest": {
+                        "lat": 19.07304442010727,
+                        "lng": 73.08549307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop No.1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJbx49t1TB5zsRzxZMdg9D9Kc",
+            "plus_code": {
+                "compound_code": "33FP+PM Taloja, Navi Mumbai, Maharashtra",
+                "global_code": "7JFM33FP+PM"
+            },
+            "rating": 0,
+            "reference": "ChIJbx49t1TB5zsRzxZMdg9D9Kc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1 Taloja, Taloja"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9666247,
+                    "lng": 73.020409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.96799032989273,
+                        "lng": 73.02173682989273
+                    },
+                    "southwest": {
+                        "lat": 18.96529067010728,
+                        "lng": 73.01903717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MANGO GIFT GALLERY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115449419901817888590\">115449419901817888590</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuC28RO3tl8LzcEjMxEnGXPdCAiHYwnwtqvsgSTC2SDIn3yHa1peUm9UrsAUSY-mJlprqvQSPdC_TvzdQMOwObQQTkGTCtmYX6lh5uwZdgTf_xst_kwKjTXUeaShQaZ4Obc6SMcYNXoV-SSDvfvm0JndP40OJVcYxxH18HF3H4Iq8t",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJhRTHRA_D5zsRG5jlbqHoSj0",
+            "plus_code": {
+                "compound_code": "X28C+J5 Navi Mumbai, Maharashtra",
+                "global_code": "7JCMX28C+J5"
+            },
+            "rating": 4.8,
+            "reference": "ChIJhRTHRA_D5zsRG5jlbqHoSj0",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "SHOP NO.9 LAXMINA AURUM, Khar Kopar, Sector 17, Ulwe, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0238836,
+                    "lng": 73.0196586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02517722989272,
+                        "lng": 73.02108507989271
+                    },
+                    "southwest": {
+                        "lat": 19.02247757010728,
+                        "lng": 73.01838542010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bombay High Pan Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115802807134244838978\">Akram Siddiqui</a>"
+                    ],
+                    "photo_reference": "AcYSjRjJkbpbOUs1gqP8SyA_SoZOxnOPJcrX9cA2pLwFEXAn1sApb2BCRau_OZDHLeWHqjhk0vm00ha1sgDYWTLKPD804nctb7BSb8-Ehh45nwJPhJVgTOVNlEBkJSOdNSnm76aLzjRnT_PY1_8M7_WvJqoASrVMzH05Gt2ZoTwb6qUVC5GP",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJTRF5f77D5zsRR8xGk69sdOc",
+            "plus_code": {
+                "compound_code": "22F9+GV Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22F9+GV"
+            },
+            "rating": 5,
+            "reference": "ChIJTRF5f77D5zsRR8xGk69sdOc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "1, opposite Balshet Apts, Seawoods East, Apt, Sector 23, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0832403,
+                    "lng": 73.0296395
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08465617989272,
+                        "lng": 73.03095477989271
+                    },
+                    "southwest": {
+                        "lat": 19.08195652010728,
+                        "lng": 73.02825512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ICCHA KIRANA SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJVX_5fu7B5zsR3236kA-9Qfg",
+            "rating": 5,
+            "reference": "ChIJVX_5fu7B5zsR3236kA-9Qfg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "32MH+7VR, Pawane Village Rd, Indira Nagar, MIDC Industrial Area, Turbhe, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0174912,
+                    "lng": 73.0877897
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01885892989272,
+                        "lng": 73.08915352989273
+                    },
+                    "southwest": {
+                        "lat": 19.01615927010728,
+                        "lng": 73.08645387010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lucky Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGb7v9dXp5zsRO0pZjpTd1ho",
+            "plus_code": {
+                "compound_code": "238Q+X4 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM238Q+X4"
+            },
+            "rating": 0,
+            "reference": "ChIJGb7v9dXp5zsRO0pZjpTd1ho",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pushpasangam, Shop No.30, Sector 12, Plot No.35-36, Station Rd, Sector 11, Kamothe, Panvel, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0672558,
+                    "lng": 72.98995029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06858052989272,
+                        "lng": 72.99127682989271
+                    },
+                    "southwest": {
+                        "lat": 19.06588087010728,
+                        "lng": 72.98857717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJgZVpMBvH5zsR9qFS6qYk-6I",
+            "rating": 4,
+            "reference": "ChIJgZVpMBvH5zsR9qFS6qYk-6I",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3X8Q+WX4, Vashi Village, Sector-31, Vashi, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0253771,
+                    "lng": 73.043174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02664297989272,
+                        "lng": 73.0446182798927
+                    },
+                    "southwest": {
+                        "lat": 19.02394332010728,
+                        "lng": 73.04191862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Wholesale wala",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105899857960880934726\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhArGOa-GLTyYt7VC6k68kNF4lb9GXsapi1LTXIqVFQ3ytcOb0jgQ4Rx4lMu5BEwuql90Dtq3iv6CFp3Lme36MommbwowM6O5VjuU12wQRYYHo39aHCmp9o7uA6X8YOWM6zPIDlqMxGaklQjKLfZaTho6CEzcNCaxcFwZEDkHWJQdkL",
+                    "width": 3999
+                }
+            ],
+            "place_id": "ChIJeQsf6OzD5zsR_fj2IHHIVhs",
+            "plus_code": {
+                "compound_code": "22GV+57 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22GV+57"
+            },
+            "rating": 4.4,
+            "reference": "ChIJeQsf6OzD5zsR_fj2IHHIVhs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Shop No. 30 F/7, near wellness medical, Sector 4, CBD Belapur, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9822441,
+                    "lng": 73.1157516
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.98359632989272,
+                        "lng": 73.11717017989272
+                    },
+                    "southwest": {
+                        "lat": 18.98089667010728,
+                        "lng": 73.11447052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping.Panvel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1728,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111192877283373561435\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjEhJKleBhEkt2R6Ig4BOxdLHtMrWVdtleVHNtaIq_2kgmlwSPPNxaTDffShVDVYdnuOBV-Zj-Ftbh2yfMCadDqMEq5N0G6EF_cIZj5UgAQvLXY3rdDVYiKjHoJWpbPCRhRSd-O3pf6xGQxJqm_UQCTEACBwQ8JbOkNdmJB41BZ8NQ_",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJufXTZbfp5zsRlcGhiaN9JlM",
+            "plus_code": {
+                "compound_code": "X4J8+V8 Panvel, Navi Mumbai, Maharashtra",
+                "global_code": "7JCMX4J8+V8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJufXTZbfp5zsRlcGhiaN9JlM",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 219,
+            "vicinity": "Shop number 4 Subhash Apartment Near Chanakya Hotel ishrali Talaw, Old Panvel, Panvel"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0299829,
+                    "lng": 73.0584567
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03133302989272,
+                        "lng": 73.05980457989273
+                    },
+                    "southwest": {
+                        "lat": 19.02863337010728,
+                        "lng": 73.05710492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping Cart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJMyRijKHD5zsR7lHixdYoM9c",
+            "plus_code": {
+                "compound_code": "23H5+X9 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM23H5+X9"
+            },
+            "rating": 0,
+            "reference": "ChIJMyRijKHD5zsR7lHixdYoM9c",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rajvansh Height, Belbelpada, Sector 3, Kharghar, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0788359,
+                    "lng": 73.0084966
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08025982989272,
+                        "lng": 73.00985012989273
+                    },
+                    "southwest": {
+                        "lat": 19.07756017010728,
+                        "lng": 73.00715047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gift Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJpQ-A2z_B5zsRAphhq94eFl8",
+            "plus_code": {
+                "compound_code": "32H5+G9 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32H5+G9"
+            },
+            "rating": 5,
+            "reference": "ChIJpQ-A2z_B5zsRAphhq94eFl8",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1, APMC Market, Sector 19, Turbhe, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0187225,
+                    "lng": 73.0244319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02004507989272,
+                        "lng": 73.02575477989271
+                    },
+                    "southwest": {
+                        "lat": 19.01734542010728,
+                        "lng": 73.02305512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Satyam Kirana Store",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108676521253786901957\">suhail kazi</a>"
+                    ],
+                    "photo_reference": "AcYSjRgvk2I90r_8_XjcjdGh1cBu5hq0XeezuGTQYxpLEci1_xtIytlD1Sr5-OpKzJ8YsZ5dl-BJU3RC4p3OQgEcjmn12Vkj67-1Z19cQAR8qLdfbgC5RnLuPSjrSwVDa8qG0No8H11sh2pL-O0uGhEmtJ44Q2yX9xdCLNYi8e2z3ErEGXJn",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJu_URmwfD5zsRbvhipe8pB8I",
+            "plus_code": {
+                "compound_code": "229F+FQ Navi Mumbai, Maharashtra",
+                "global_code": "7JFM229F+FQ"
+            },
+            "rating": 0,
+            "reference": "ChIJu_URmwfD5zsRbvhipe8pB8I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "clothing_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1, Sector 27, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0458143,
+                    "lng": 73.01894279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04722677989272,
+                        "lng": 73.02042852989273
+                    },
+                    "southwest": {
+                        "lat": 19.04452712010728,
+                        "lng": 73.01772887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vigganhar Collection",
+            "place_id": "ChIJjRdWLHPD5zsRxXyv3wlD0iA",
+            "plus_code": {
+                "compound_code": "22W9+8H Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22W9+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJjRdWLHPD5zsRxXyv3wlD0iA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Plot, No 657, Sector 1, Nerul East, Shiravane, Nerul, Navi Mumbai"
+        }
+    ],
+    "status": "OK"
+}

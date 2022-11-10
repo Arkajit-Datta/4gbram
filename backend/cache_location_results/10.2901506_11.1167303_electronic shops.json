@@ -1,0 +1,869 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhCzA6hBIWrNaVlQj9i7_-WIrD6n6DZy3A9CG-lXTz6SpGysl0-mp-ztLBufqMovDA4GTFhkAO-l3UqvDAFuE3AELEqDI3-_fjm2y3KMKdKqfOmVvyLSU4FkvKdHReiKnIDxyLoJ3b1o-T71363lKRg6hW8PufRJ0taIc1uK9iXLIuHMkOaMmAOj9uvHVJ3Dh16st-lVSum_3SusE7SB-sb3l5KrBsuV5fJoJryBqwWmssFTaXzkv8YlIul-AQtrFTEbsT7uzwVoqARpNGRwUUZwRCe5LCOAvSD9O4i7JPpvF-z0ib24RtSZ7MzdsF5NYPOTNZjPX7o1p6Z0qw8ZtGKpDdu6V5zI5CSnUaCqLLhxlDFJqOPJHjiPFLoJR_LhBozi_VeP9dDXLoGXxTkFw7iFKLkyfDnKdzljAR-OqoH9ckg7iY2_YliUM0i1LnysKvB",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.286548,
+                    "lng": 11.1677765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28789402989272,
+                        "lng": 11.16912517989272
+                    },
+                    "southwest": {
+                        "lat": 10.28519437010728,
+                        "lng": 11.16642552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RAHAMA ELECTRONIC",
+            "place_id": "ChIJB_H7I3zQ_xARvZNFo3mFaUI",
+            "plus_code": {
+                "compound_code": "75P9+J4 Gombe, Nigeria",
+                "global_code": "7F2H75P9+J4"
+            },
+            "rating": 0,
+            "reference": "ChIJB_H7I3zQ_xARvZNFo3mFaUI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2808174,
+                    "lng": 11.1807574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28217412989272,
+                        "lng": 11.18204567989272
+                    },
+                    "southwest": {
+                        "lat": 10.27947447010728,
+                        "lng": 11.17934602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jossy Electronics Nig. Ltd.",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108178750865026327029\">Sagir Adamu</a>"
+                    ],
+                    "photo_reference": "AcYSjRiycZ__GuO67ChwVMlvMkJJpKnFANq-83RnIU6njcPz4G79rHQeWaUPXOegHsSZDW5mQPkYtq5JL9HkUM-XPjcE_poYI21Fe9X9xsUg8GEXS6Pp6EYV4WqZmJepQ7xBR02h8X5D6Ja0oidBsMWZuXp8_ujgxX9ZhNIsyTCuPuKuWcVx",
+                    "width": 2970
+                }
+            ],
+            "place_id": "ChIJG6YSRWbQ_xARDv2v_2BRlJo",
+            "rating": 3.7,
+            "reference": "ChIJG6YSRWbQ_xARDv2v_2BRlJo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "75JJ+88C, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.287907,
+                    "lng": 11.1772962
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28923642989272,
+                        "lng": 11.17861512989272
+                    },
+                    "southwest": {
+                        "lat": 10.28653677010728,
+                        "lng": 11.17591547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A YARO ELECTRICAL AND ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108300798530207405254\">Muhammad Ahmad Ismail</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVTOuxb7JJfLeOpTXU50TZw52V1Ulsy2Vh00WCoK-w-Ir_vdavAlyUqX5l5k2l5sSFyN5boZdiXz6FPYezo93CQkg-oZtjy2O1bX_tNxMqZTw-sv8Za7O7DUT65a4-ksGV97mM2P3aBPlrRYuAqUF5NVqKPOSBIGY7WZCop1pa9oIt",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJISPDN2LQ_xAR3C6tGKbyDU8",
+            "plus_code": {
+                "compound_code": "75QG+5W Gombe, Nigeria",
+                "global_code": "7F2H75QG+5W"
+            },
+            "rating": 4.4,
+            "reference": "ChIJISPDN2LQ_xAR3C6tGKbyDU8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Main Market, Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2741771,
+                    "lng": 11.171126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27553112989272,
+                        "lng": 11.17246547989272
+                    },
+                    "southwest": {
+                        "lat": 10.27283147010728,
+                        "lng": 11.16976582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Abu Electronics",
+            "place_id": "ChIJj_9CAqrR_xARsgum9i6ooPE",
+            "plus_code": {
+                "compound_code": "75FC+MF Gombe, Nigeria",
+                "global_code": "7F2H75FC+MF"
+            },
+            "rating": 0,
+            "reference": "ChIJj_9CAqrR_xARsgum9i6ooPE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sabo line Rd, Sabo line Gombe Sabo line, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2866892,
+                    "lng": 11.1797245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28799267989272,
+                        "lng": 11.18106002989272
+                    },
+                    "southwest": {
+                        "lat": 10.28529302010728,
+                        "lng": 11.17836037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AHLAN WASAHLAN ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJw_BIO0nR_xARr_jAknBehgA",
+            "rating": 5,
+            "reference": "ChIJw_BIO0nR_xARr_jAknBehgA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "75PH+MVH, Herwa Gana Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2791567,
+                    "lng": 11.1730628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28050877989272,
+                        "lng": 11.17440482989272
+                    },
+                    "southwest": {
+                        "lat": 10.27780912010728,
+                        "lng": 11.17170517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kwandy's Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJq6qqqnrQ_xARvzo1ZmtLbJ8",
+            "rating": 5,
+            "reference": "ChIJq6qqqnrQ_xARvzo1ZmtLbJ8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "75HF+M68, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2730935,
+                    "lng": 11.168969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27443957989272,
+                        "lng": 11.17028757989272
+                    },
+                    "southwest": {
+                        "lat": 10.27173992010728,
+                        "lng": 11.16758792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ahmason Computer And Electronic Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJPZULjfrR_xARiQRXQO6xgNk",
+            "plus_code": {
+                "compound_code": "75F9+6H Gombe, Nigeria",
+                "global_code": "7F2H75F9+6H"
+            },
+            "rating": 0,
+            "reference": "ChIJPZULjfrR_xARiQRXQO6xgNk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Central Primary School, Ahmadu Bello Way, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2870689,
+                    "lng": 11.1707625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28832682989272,
+                        "lng": 11.17208517989272
+                    },
+                    "southwest": {
+                        "lat": 10.28562717010728,
+                        "lng": 11.16938552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ishaq Mai Borkono International Electronic & Solar",
+            "place_id": "ChIJPeLbPoHR_xAR2uCfzEJu6o4",
+            "rating": 0,
+            "reference": "ChIJPeLbPoHR_xAR2uCfzEJu6o4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "75PC+R8C, Herwa Gana Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2856258,
+                    "lng": 11.1451644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28680007989272,
+                        "lng": 11.14648017989272
+                    },
+                    "southwest": {
+                        "lat": 10.28410042010728,
+                        "lng": 11.14378052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JieTechStore",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108619835574501359911\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRirr_hOFVZV_1wm6RpJwWPMmgD5hI_6VoUUrfpKkJ32CE8bLmh8FgSBqey3hwawa3qAbvp9swpMa1QtWxurY1uEbKhsICHFppf6IGH8tTKP9lBGh3NVxP5esSBq1XHZuIIkpNaLcQtEfuu9YM-U9dY84cGGLDik__Q-c3B7cL6khkEN",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJ5yFZO2bb_xARVSOrpAbOrF4",
+            "plus_code": {
+                "compound_code": "74PW+73 Gombe, Nigeria",
+                "global_code": "7F2H74PW+73"
+            },
+            "rating": 0,
+            "reference": "ChIJ5yFZO2bb_xARVSOrpAbOrF4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe-Wuyo-Biu Rd, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2919166,
+                    "lng": 11.1067267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29326367989272,
+                        "lng": 11.10805097989272
+                    },
+                    "southwest": {
+                        "lat": 10.29056402010728,
+                        "lng": 11.10535132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shadow Computers",
+            "place_id": "ChIJucBNMM_b_xAR9qncsxS02FM",
+            "rating": 0,
+            "reference": "ChIJucBNMM_b_xAR9qncsxS02FM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "74R4+QM9, Tunfure, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2811351,
+                    "lng": 11.1780727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28248192989272,
+                        "lng": 11.17935707989272
+                    },
+                    "southwest": {
+                        "lat": 10.27978227010728,
+                        "lng": 11.17665742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SMG GLOBAL CONCEPT",
+            "place_id": "ChIJpY4xy23R_xARs00ICA8Y48E",
+            "rating": 0,
+            "reference": "ChIJpY4xy23R_xARs00ICA8Y48E",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "75JH+C6X, behind Y.D filling station, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2833349,
+                    "lng": 11.1666718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28477047989272,
+                        "lng": 11.16812977989272
+                    },
+                    "southwest": {
+                        "lat": 10.28207082010728,
+                        "lng": 11.16543012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MULTIPURSE TECH AND COMPUTERS LTD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ0Yl9aHnQ_xARXyELpYUvk_g",
+            "plus_code": {
+                "compound_code": "75M8+8M Gombe, Nigeria",
+                "global_code": "7F2H75M8+8M"
+            },
+            "rating": 2,
+            "reference": "ChIJ0Yl9aHnQ_xARXyELpYUvk_g",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shp. No. 5 B 4 Jimeta Shoping Complex, Yola North,, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2905863,
+                    "lng": 11.1801501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29193612989272,
+                        "lng": 11.18149992989272
+                    },
+                    "southwest": {
+                        "lat": 10.28923647010728,
+                        "lng": 11.17880027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Cosmetics and computer's and all electronic materials",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111090060881533298450\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZEBYy-w6RY7oFCrFJn7rSmQ5xeIPCOI40T4TuF1cBiOjRFhab3Dt2yveqlKk799gPEIXCS-QPEJ6eFu15UIMqkfNho4RKbdK5Ez1e96fw0Lf6kr5gGuTxEbuelwYY2KlQP42e8F0Qz9rU1ZqyAntU0cXJn0LBHaPbio-mbv7gYSSb",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJCQUbudTR_xARdrJW7MgBXwc",
+            "plus_code": {
+                "compound_code": "75RJ+63 Gombe, Nigeria",
+                "global_code": "7F2H75RJ+63"
+            },
+            "rating": 0,
+            "reference": "ChIJCQUbudTR_xARdrJW7MgBXwc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Market Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2564605,
+                    "lng": 11.1820641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.25768777989272,
+                        "lng": 11.18343882989272
+                    },
+                    "southwest": {
+                        "lat": 10.25498812010728,
+                        "lng": 11.18073917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Smart Computer Biz Center Gombe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107517367774471784655\">Babangida Garba</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZ0OfiLtM03M6EdDcTqUUNrKTpZSstXmbrh1faxf3tBc8nm_7V5uyQ3h9r1jrhNioNKSiHAAxqe3wdpIHh6JqQsqUyf596Zm6-6nWmOPWXK7UU6-MYET487I6Qh_Uw5KvVV0TpGwydK1Yx_dEyqCf8x-r4fDucfXYSAumazYhPQqyw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN72qfszR_xARHHNPkTzCc-8",
+            "plus_code": {
+                "compound_code": "754J+JR Gombe, Nigeria",
+                "global_code": "7F2H754J+JR"
+            },
+            "rating": 5,
+            "reference": "ChIJN72qfszR_xARHHNPkTzCc-8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bye Pass Rd, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2853924,
+                    "lng": 11.1709246
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28671457989272,
+                        "lng": 11.17223862989272
+                    },
+                    "southwest": {
+                        "lat": 10.28401492010728,
+                        "lng": 11.16953897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DGadas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104247812765035351267\">Sulaiman Abubakar Salihu</a>"
+                    ],
+                    "photo_reference": "AcYSjRhqMjZO7E2-wC2N0TCyiZi0YYPz6s4BwwBQgtO_GMkEhKb9vihGldWjTRskL68yaY3cBDL0g78RS0IVoJRNtWS99p8cySSEryFv92ahKyum-z3pIwvbN633QnnxYTK92oyn9YW0H5i0rGaSyNj2CVLoiCw5piuXxkNm7AnLa2QddHyC",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJHyfZYXvQ_xARDDhb51imrrY",
+            "rating": 4.3,
+            "reference": "ChIJHyfZYXvQ_xARDDhb51imrrY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58,
+            "vicinity": "75PC+598, Sabo Ln, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2804114,
+                    "lng": 11.177762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28178162989272,
+                        "lng": 11.17906462989272
+                    },
+                    "southwest": {
+                        "lat": 10.27908197010728,
+                        "lng": 11.17636497010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yahzain Computer Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109352695328503867559\">Husyn Muhammad</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3xZo6ZgGvL8EwbNnWV5tPrV9dXhKxynJExvhn0lMUFyA57tBKO6QcuXJ7TwKWYL9u6Wz_rT74cBl3_DpukmjhmkcbW1mSrKguBsygbX5v3q4SQ9SEOtnN-LeSvKj8B-bfeUsVVILKAqCpyOp9GQIcUST6zWfN43vhHzXLe6k0UWZT",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJEVeO2tTR_xARS5cD_6qM2vs",
+            "rating": 4.3,
+            "reference": "ChIJEVeO2tTR_xARS5cD_6qM2vs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "75JH+549, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2805888,
+                    "lng": 11.1775016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28192967989272,
+                        "lng": 11.17889837989272
+                    },
+                    "southwest": {
+                        "lat": 10.27923002010728,
+                        "lng": 11.17619872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Salmeenat Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ7f5-qyTR_xAR3-GghSqyzlg",
+            "rating": 0,
+            "reference": "ChIJ7f5-qyTR_xAR3-GghSqyzlg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "75JH+62J, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2698905,
+                    "lng": 11.1675266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27137537989272,
+                        "lng": 11.16885267989272
+                    },
+                    "southwest": {
+                        "lat": 10.26867572010728,
+                        "lng": 11.16615302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Habu computer center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108910158788953932512\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMUpuT12VzXIej_XbwQuAojc5NQ-6WBmZI6KYJxW17CVDlsYXUY1Fx94p7YixphvyB48htFzdftt_1UGWevCdydB6K7IX7bNhqmQSngVEIxNOHWpw2Dtx0Yrcx1nbrbg8MUtBAO0px2hr0MfuTSwALF2aKqDVUzwNrD1oqe2MPGSAe",
+                    "width": 2080
+                }
+            ],
+            "place_id": "ChIJVyCZ-o3R_xARDxdLdX-UToY",
+            "plus_code": {
+                "compound_code": "7599+X2 Gombe, Nigeria",
+                "global_code": "7F2H7599+X2"
+            },
+            "rating": 0,
+            "reference": "ChIJVyCZ-o3R_xARDxdLdX-UToY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gsm market, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2899553,
+                    "lng": 11.1802392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29130512989272,
+                        "lng": 11.18158902989272
+                    },
+                    "southwest": {
+                        "lat": 10.28860547010728,
+                        "lng": 11.17888937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Saidu Electrical Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJYfAr3czR_xARl8WfvTlogK8",
+            "plus_code": {
+                "compound_code": "75QJ+X3 Gombe, Nigeria",
+                "global_code": "7F2H75QJ+X3"
+            },
+            "rating": 0,
+            "reference": "ChIJYfAr3czR_xARl8WfvTlogK8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Market Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.284676,
+                    "lng": 11.1812579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28602842989272,
+                        "lng": 11.18260362989272
+                    },
+                    "southwest": {
+                        "lat": 10.28332877010728,
+                        "lng": 11.17990397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "AJ Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJT2Y6-C3R_xARoMosExfv48M",
+            "plus_code": {
+                "compound_code": "75MJ+VG Gombe, Nigeria",
+                "global_code": "7F2H75MJ+VG"
+            },
+            "rating": 0,
+            "reference": "ChIJT2Y6-C3R_xARoMosExfv48M",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Market, Road, Gombe"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,899 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiDEfQWnTPeDO4iO-MQE3_LhdDpxVAtxiPrXBmIXejj_TMqYTZW6xy_7BlgpJrD8LT80HSk0k14r-rdncuIEM7dFW79Dzu2RzBmmugR5kw2tI0G-E_pCosaloaFKrP2OKmhwfNBplhZNIVgRdpF8_ql4j8MM1Gp2aiQ4gojhQZmRmQ2QoIdatVZy-D1CoadRptTycbTeFWuf5neyjaetq0IREm20Ct_ikrIi-u2dD9awpij9im33BAwccyPp_RjtYTwaDVQ5nW4oboGfE4dJVpHNleazOH4ZamuSWnRs7kqhJ7aGzWThgHOtjyUOTwOvZC0LkMH-SvMYe9B1Tr85ycGFQzZ3fgS_252LjbUxLrKs__E6hj_6TOog2TJfHB60EG5hKiprtZa6MDl4MOsdhYPxPrMxsqqqVp0mxGGvGuCUaonZ6L6-GJb1R1ye3_soU7G",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1194845,
+                    "lng": 75.0254037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12082002989272,
+                        "lng": 75.02672027989273
+                    },
+                    "southwest": {
+                        "lat": 18.11812037010728,
+                        "lng": 75.02402062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jay Electronic And Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJ71_rdJ-xDsRrKr6lDxP_rQ",
+            "rating": 0,
+            "reference": "ChIJJ71_rdJ-xDsRrKr6lDxP_rQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "429G+Q5R, Padasthal Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.118766,
+                    "lng": 75.023431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12011097989272,
+                        "lng": 75.02477707989271
+                    },
+                    "southwest": {
+                        "lat": 18.11741132010728,
+                        "lng": 75.02207742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dhanashree Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113480045744545889894\">balasaheb patil</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1uSzEV3iS0l6GBaL_BrmgAk5eieuVAqnt5PZqIanQUYU9s1NG0hHZBSObIBVVZw92na8Fn61jPF8rmWZfzzwfc9c2DcGTLAWYrWsneT9ImVLe6KPfaj0xhXY4x--3Cp3dcEF83yMsK8_NEu4gyid_xvGtogEn9xcHVaOf8SOVrba2",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJV9PssDN5xDsR9M-eJufLinY",
+            "rating": 4.7,
+            "reference": "ChIJV9PssDN5xDsR9M-eJufLinY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "429F+G93, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1171632,
+                    "lng": 75.0262592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11851362989272,
+                        "lng": 75.02758077989272
+                    },
+                    "southwest": {
+                        "lat": 18.11581397010728,
+                        "lng": 75.02488112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahalaxmi Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJA6IpgzJ5xDsRAAAA0KH-gnw",
+            "plus_code": {
+                "compound_code": "428G+VG Indapur, Maharashtra",
+                "global_code": "7JCQ428G+VG"
+            },
+            "rating": 0,
+            "reference": "ChIJA6IpgzJ5xDsRAAAA0KH-gnw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "First Floor Shope No 4 S.P Complex Baba Chowk Indapur, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1612058,
+                    "lng": 74.9643976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.16243182989272,
+                        "lng": 74.96561042989272
+                    },
+                    "southwest": {
+                        "lat": 18.15973217010728,
+                        "lng": 74.96291077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pragati Electronics & Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101577472241747649013\">YOGESH JAGTAP</a>"
+                    ],
+                    "photo_reference": "AcYSjRiIu2ko88vEB8y68DqyijOkWkgC7mnePZoH1EDO63nxFU3meUwsMSt1_gDT2fTDwjS4wCdFXhiqenLwE-tRJbK5iKXkS_IToabrp_bh1FsojUsFdy9v1Ol_SwblC9Ww0kx9_dCzwrFak3aU38bV-W_XQxkAU-hUnCxXICgNvOj8mhDO",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ98p619IewzsRhSGYK-rkECY",
+            "plus_code": {
+                "compound_code": "5X67+FQ Rajwadi, Maharashtra",
+                "global_code": "7JCP5X67+FQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ98p619IewzsRhSGYK-rkECY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "A/p bhandgon, Solapur - Pune Hwy, higway, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1190329,
+                    "lng": 75.0232444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12033992989272,
+                        "lng": 75.02455207989271
+                    },
+                    "southwest": {
+                        "lat": 18.11764027010728,
+                        "lng": 75.02185242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Digi1",
+            "place_id": "ChIJZc-iNJN5xDsRIlk-j85jJdw",
+            "plus_code": {
+                "compound_code": "429F+J8 Indapur, Maharashtra",
+                "global_code": "7JCQ429F+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJZc-iNJN5xDsRIlk-j85jJdw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Indapur, Pune NH-9, Solapur - Pune Hwy, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1186943,
+                    "lng": 75.0234074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12003607989272,
+                        "lng": 75.02476992989271
+                    },
+                    "southwest": {
+                        "lat": 18.11733642010728,
+                        "lng": 75.02207027010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samsung Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106692596103204408181\">A\u0924\u0941L Shinde</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtMH-lmbRO6dTBf0IWFa2rVcQf6D4uBAlR6UUhw2X4uNirYyJBBGfNYfeUV8r2Gn7Eeq4QV30Fzaz49oiR7V-1ZsBVBWVOLd9nGvUT_6hGVoUoUMIYgFq0q_KMuFR6dL0MKMPuADFRFu8puAGFBjUN6X_YGL4IJwY6Q57u6ietoi0Y",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJZcrXYdN-xDsRjRNu2rDpqhI",
+            "rating": 4.1,
+            "reference": "ChIJZcrXYdN-xDsRjRNu2rDpqhI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "429F+F9F, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1167613,
+                    "lng": 75.0281899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11814082989272,
+                        "lng": 75.02947012989272
+                    },
+                    "southwest": {
+                        "lat": 18.11544117010727,
+                        "lng": 75.02677047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Siddharth Electronics And Mobiles",
+            "place_id": "ChIJIZqHr0p5xDsRAJhXQ7Fb-y4",
+            "plus_code": {
+                "compound_code": "428H+P7 Indapur, Maharashtra",
+                "global_code": "7JCQ428H+P7"
+            },
+            "rating": 0,
+            "reference": "ChIJIZqHr0p5xDsRAJhXQ7Fb-y4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 10, near Bus Stop, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1060557,
+                    "lng": 75.0208853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.10740452989272,
+                        "lng": 75.02221042989272
+                    },
+                    "southwest": {
+                        "lat": 18.10470487010728,
+                        "lng": 75.01951077010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Saraswati Electrical And Electronics",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116798405457181425340\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVpc8mtVNW12uwanCD0aIG0K5YFnB0W5bpOPWinP1kqr7dS-f8AogD8D-kxVa0nTo43vMgEWlVmi6MfPpOxE43EbA_OK2XfxyoSS0FoRfld6Ph6spi8rYHWPLYDVGVkaHzO4qrPGASyolxl491t1tmyKd_kvDlu1d1oeGhuBgYlafh",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJCd2vuWF5xDsRS3d7oSC2bl4",
+            "plus_code": {
+                "compound_code": "424C+C9 Indapur, Maharashtra",
+                "global_code": "7JCQ424C+C9"
+            },
+            "rating": 0,
+            "reference": "ChIJCd2vuWF5xDsRS3d7oSC2bl4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4, Akluj Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0866847,
+                    "lng": 74.9152817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08799782989272,
+                        "lng": 74.91666697989274
+                    },
+                    "southwest": {
+                        "lat": 18.08529817010728,
+                        "lng": 74.91396732010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shri datta electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJY19nwzOHwzsR8wThUuNdiVo",
+            "plus_code": {
+                "compound_code": "3WP8+M4 Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WP8+M4"
+            },
+            "rating": 0,
+            "reference": "ChIJY19nwzOHwzsR8wThUuNdiVo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Indapur Rd, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0862598,
+                    "lng": 74.9166237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08756607989272,
+                        "lng": 74.91795347989272
+                    },
+                    "southwest": {
+                        "lat": 18.08486642010728,
+                        "lng": 74.91525382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Priya Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJeXoQleCGwzsR2j_aHVXMas4",
+            "rating": 0,
+            "reference": "ChIJeXoQleCGwzsR2j_aHVXMas4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3WP8+GJ5, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1106754,
+                    "lng": 75.032433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11202507989272,
+                        "lng": 75.03378912989272
+                    },
+                    "southwest": {
+                        "lat": 18.10932542010728,
+                        "lng": 75.03108947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "HARISUNDAR LIGHT HOUSE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMT7dc1x5xDsRYc4Dx_-pHXs",
+            "plus_code": {
+                "compound_code": "426J+7X Indapur, Maharashtra",
+                "global_code": "7JCQ426J+7X"
+            },
+            "rating": 0,
+            "reference": "ChIJMT7dc1x5xDsRYc4Dx_-pHXs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1568881,
+                    "lng": 74.9681641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15828232989272,
+                        "lng": 74.96955402989272
+                    },
+                    "southwest": {
+                        "lat": 18.15558267010728,
+                        "lng": 74.96685437010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KRUSHNA ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 672,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105165383571321726437\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiExpzF3r5nyZ0W64AkjI7Wy_sq9LCQQtxMDtpYtBu9mQGcMZew0dBASFC21vC_6CBM3r6QQnRaiy5BfWRqJgVvkaxPloPSHYo_c0AgtZIrU2bfzuBmY81IGyT16fwt24cSrK2A4wNxYtkv1RlVN5opNSKIGoo3fprhkXB50yCvnf_1",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJCbSiozd_xDsR4HgyipqBARE",
+            "plus_code": {
+                "compound_code": "5X49+Q7 Rajwadi, Maharashtra",
+                "global_code": "7JCP5X49+Q7"
+            },
+            "rating": 0,
+            "reference": "ChIJCbSiozd_xDsR4HgyipqBARE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pune Solapur highway rajawadi Indapur service road rajawadi Radhai shopping center, shop no. 12 karmyogi Shankarao Patil sakhar karkhana chouk, Rajawadi Colony, Inadapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.086563,
+                    "lng": 74.9296778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08819047989272,
+                        "lng": 74.93090902989272
+                    },
+                    "southwest": {
+                        "lat": 18.08549082010728,
+                        "lng": 74.92820937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Skr Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJwROSVxiHwzsRqdGjRI7jlZ8",
+            "rating": 4.6,
+            "reference": "ChIJwROSVxiHwzsRqdGjRI7jlZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "3WPH+HV7, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1127452,
+                    "lng": 75.0270949
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11409657989272,
+                        "lng": 75.02842117989273
+                    },
+                    "southwest": {
+                        "lat": 18.11139692010727,
+                        "lng": 75.02572152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Krishna Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117039002635674130352\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMUEgyGZmw_WwpAd7lYBNkUNhdb1_IitbfVivzMsvLn0NJdRgyTyJILloT5sIedOjokqY7v7Vm_KtZ5ZDcrlAcuAt11yKQQXOhLkgdvkJGrBweYfB396pp3neWA63UG_PZoJJl00l7b0wuztWRo1UdVxa8Cy4yPu-jQo-ht9RpY7NH",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJT2Kla4B5xDsR4i--sZ9I74Y",
+            "plus_code": {
+                "compound_code": "427G+3R Indapur, Maharashtra",
+                "global_code": "7JCQ427G+3R"
+            },
+            "rating": 5,
+            "reference": "ChIJT2Kla4B5xDsR4i--sZ9I74Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Main Rd, Shivajinagar, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1140272,
+                    "lng": 75.03190860000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11535132989272,
+                        "lng": 75.03322127989271
+                    },
+                    "southwest": {
+                        "lat": 18.11265167010728,
+                        "lng": 75.03052162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Indapur Ganesh \u0908\u0932\u0947\u091f\u094d\u0930\u094b\u0928\u0940\u0915\u0932\u094d\u0938 .",
+            "place_id": "ChIJAQAAADR5xDsRLv7pwgBuE78",
+            "plus_code": {
+                "compound_code": "427J+JQ Indapur, Maharashtra",
+                "global_code": "7JCQ427J+JQ"
+            },
+            "rating": 0,
+            "reference": "ChIJAQAAADR5xDsRLv7pwgBuE78",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Solapur Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2039059,
+                    "lng": 74.918306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.20525422989272,
+                        "lng": 74.91965887989272
+                    },
+                    "southwest": {
+                        "lat": 18.20255457010728,
+                        "lng": 74.91695922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree mobile shopy and accessories",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111222931843388778474\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgppSPQxoH8cRbzTLBE3GSYkB5XrhChUQiE-9yuZFxyjd4_rNdFex86uBNE0AQYMj4AqCW1UDNsCbcb5_onnfL1f4g0fMOoRDHOdpCwkgIZ4ml6kWLvl1BB0QfWDcW3zVUPwOTIP2HwNaoQXTZizgNCmlLEiPPYjXHyxsAqfpIkmq4E",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJh8Gipd-BwzsRRDO0yfBHBts",
+            "plus_code": {
+                "compound_code": "6W39+H8 Loni, Maharashtra",
+                "global_code": "7JCP6W39+H8"
+            },
+            "rating": 0,
+            "reference": "ChIJh8Gipd-BwzsRRDO0yfBHBts",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Loni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1117727,
+                    "lng": 75.02621529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11312227989272,
+                        "lng": 75.02757062989272
+                    },
+                    "southwest": {
+                        "lat": 18.11042262010728,
+                        "lng": 75.02487097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Newton Coolers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116610269894197426417\">Suryakant Dhage</a>"
+                    ],
+                    "photo_reference": "AcYSjRgOuKvt4APYkWZHa-r8T3NR1InNAVi6uZ_splj9A9_8PabYQEYdhf8k7r5krqL1qZ1ywYl2MV91BCsVhBlGprA8YxvHptcJDlSBGJdP2ygxR2juzBQjPXy_CMlAFB7wsQm-6fUwjtUfIibdFCAgngR9kxl9BSsJzee61toVGg4HtvmB",
+                    "width": 1815
+                }
+            ],
+            "place_id": "ChIJoc3U2DF5xDsRwSCLNlgCuLI",
+            "rating": 4.5,
+            "reference": "ChIJoc3U2DF5xDsRwSCLNlgCuLI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "426G+PF5, Kasba, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1166001,
+                    "lng": 75.028493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11791662989272,
+                        "lng": 75.02992382989272
+                    },
+                    "southwest": {
+                        "lat": 18.11521697010728,
+                        "lng": 75.02722417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIP CAMPUTERS",
+            "place_id": "ChIJVdwYiWp5xDsRlc-ImaGWFKw",
+            "plus_code": {
+                "compound_code": "428H+J9 Indapur, Maharashtra",
+                "global_code": "7JCQ428H+J9"
+            },
+            "rating": 5,
+            "reference": "ChIJVdwYiWp5xDsRlc-ImaGWFKw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 14, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1062492,
+                    "lng": 75.00533949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.10758822989273,
+                        "lng": 75.00666107989272
+                    },
+                    "southwest": {
+                        "lat": 18.10488857010728,
+                        "lng": 75.00396142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amir Shaikh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109220223815400034388\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRis-ksvwVwNND4P5jNxjAOdS6C7I4flihIeY64r9ONzvdKLPrpAYpZYlOf6yhUNDZdG3h6z_iencULCfKHGHYmbcs83IEQAP2GBmB-KYrjenrbJfheZaJae2aO6A4pktHEING7nx-Sv8K7k_jK59JBC39U7CYr39bHVJxeszwjGz18S",
+                    "width": 2204
+                }
+            ],
+            "place_id": "ChIJHxFBhy15xDsRGITE1vDeUAU",
+            "plus_code": {
+                "compound_code": "4244+F4 Indapur, Maharashtra",
+                "global_code": "7JCQ4244+F4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJHxFBhy15xDsRGITE1vDeUAU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.157313,
+                    "lng": 74.96810359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15868602989272,
+                        "lng": 74.96947552989273
+                    },
+                    "southwest": {
+                        "lat": 18.15598637010728,
+                        "lng": 74.96677587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rachna Electronics AC & Refrigeration",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJWXSNJX5_xDsRu8WHycyGAL0",
+            "plus_code": {
+                "compound_code": "5X49+W6 Rajwadi, Maharashtra",
+                "global_code": "7JCP5X49+W6"
+            },
+            "rating": 5,
+            "reference": "ChIJWXSNJX5_xDsRu8WHycyGAL0",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Matan Market Lokmanya School, Solapur Rd, near Court, Pandharpur"
+        }
+    ],
+    "status": "OK"
+}

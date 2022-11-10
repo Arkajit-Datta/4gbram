@@ -1,0 +1,806 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiKQQx69_b6zQUf9XXQI6HJ1hzwfkf7W9Ywxl1lTv6xyqc9tHF9kCk-OMLVQ-GCJgkYinszyVvv_VyG3UwMwel9VoDnXZedX6nl8WUrZyHbQRLQJoAcf5mns5yajZgmEZsNFT3-vIuUoqdSCa21YkVDRbuNYCwB1wU0YcyifPgOmNnkVvOwpMR3OKyQtw_XCDmP9oU9KV5IxcC5D5SMK3CGNToA5njXi_tyHUA5eLvnqIs2dSkAgFsk_M7RIg7JFnzOATKIXNOIeiRKv8nzn8g5A6Djd6azK7X_LTXMIiw7_VeCWjK7OhnCOTX0tia1cVjZxFmmCmmEVY0irmrs0-9JQaOroMWaGTHcd6fmIxktA3-hSNaM8Hy4hII3tKG0Qu-U9H4ltEnv2KoGlWUrfUmQ3VbvjmlD0i2cxCXJRSDr6vrAuP6CpzT4",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6320252,
+                    "lng": 76.4155675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63336197989272,
+                        "lng": 76.41693927989272
+                    },
+                    "southwest": {
+                        "lat": 17.63066232010728,
+                        "lng": 76.41423962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Samarth Kirana Stores",
+            "place_id": "ChIJ8_GuP_7_xTsRRFA5_4xuhhU",
+            "plus_code": {
+                "compound_code": "JCJ8+R6 Khairat, Maharashtra",
+                "global_code": "7J9RJCJ8+R6"
+            },
+            "rating": 0,
+            "reference": "ChIJ8_GuP_7_xTsRRFA5_4xuhhU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Main Road Khairat Akkalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6954117,
+                    "lng": 76.4181244
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69683792989272,
+                        "lng": 76.41945567989272
+                    },
+                    "southwest": {
+                        "lat": 17.69413827010727,
+                        "lng": 76.41675602010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SANGMESHWAR KIRANA STORE",
+            "place_id": "ChIJu8t7eLD5xTsRjIidlRt-y2M",
+            "plus_code": {
+                "compound_code": "MCW9+56 Alur, Maharashtra",
+                "global_code": "7J9RMCW9+56"
+            },
+            "rating": 0,
+            "reference": "ChIJu8t7eLD5xTsRjIidlRt-y2M",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.04 Main Road, Aloor, Aloor Rd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6929704,
+                    "lng": 76.4279268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69468742989272,
+                        "lng": 76.42901517989272
+                    },
+                    "southwest": {
+                        "lat": 17.69198777010728,
+                        "lng": 76.42631552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BHAGYSHRI KIRANA STORE",
+            "place_id": "ChIJj4SD-3T5xTsRw8l8wL5W2DY",
+            "plus_code": {
+                "compound_code": "MCVH+55 Alur, Maharashtra",
+                "global_code": "7J9RMCVH+55"
+            },
+            "rating": 0,
+            "reference": "ChIJj4SD-3T5xTsRw8l8wL5W2DY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.04 Main Road Aloor, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5641389,
+                    "lng": 76.56399809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56546052989272,
+                        "lng": 76.56533887989272
+                    },
+                    "southwest": {
+                        "lat": 17.56276087010728,
+                        "lng": 76.56263922010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Khurd Grocery Store",
+            "place_id": "ChIJvz8kAWutyDsRbjDpTRf3flM",
+            "rating": 0,
+            "reference": "ChIJvz8kAWutyDsRbjDpTRf3flM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH77+MH5, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.699076,
+                    "lng": 76.42336
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70033562989272,
+                        "lng": 76.42487232989272
+                    },
+                    "southwest": {
+                        "lat": 17.69763597010728,
+                        "lng": 76.42217267010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SUKESH KIRANA STORE",
+            "place_id": "ChIJ1TcMow35xTsRldfnUDhcH5U",
+            "plus_code": {
+                "compound_code": "MCXF+J8 Alur, Maharashtra",
+                "global_code": "7J9RMCXF+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJ1TcMow35xTsRldfnUDhcH5U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01 Laxmi Temple Alur, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6983335,
+                    "lng": 76.46643569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69958032989273,
+                        "lng": 76.46771107989272
+                    },
+                    "southwest": {
+                        "lat": 17.69688067010728,
+                        "lng": 76.46501142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SWAMI KIRANA STORE",
+            "place_id": "ChIJ67-X0CBXzzsRZxBCnlVz5S8",
+            "plus_code": {
+                "compound_code": "MFX8+8H Kesar Jawalga, Maharashtra",
+                "global_code": "7J9RMFX8+8H"
+            },
+            "rating": 5,
+            "reference": "ChIJ67-X0CBXzzsRZxBCnlVz5S8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.01 Main Road, Kesar Jawalga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6997034,
+                    "lng": 76.42447829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70110522989273,
+                        "lng": 76.42586482989272
+                    },
+                    "southwest": {
+                        "lat": 17.69840557010728,
+                        "lng": 76.42316517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SHRI TRADERS",
+            "place_id": "ChIJt29jMEz5xTsRPWCeOh9h3Zw",
+            "plus_code": {
+                "compound_code": "MCXF+VQ Alur, Maharashtra",
+                "global_code": "7J9RMCXF+VQ"
+            },
+            "rating": 0,
+            "reference": "ChIJt29jMEz5xTsRPWCeOh9h3Zw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Basweshwar Chowk Alur, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5613359,
+                    "lng": 76.51305239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56273947989272,
+                        "lng": 76.51443452989272
+                    },
+                    "southwest": {
+                        "lat": 17.56003982010728,
+                        "lng": 76.51173487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Prabhu kirana store",
+            "place_id": "ChIJ08Oo2U6ryDsRtim6-XY01gY",
+            "plus_code": {
+                "compound_code": "HG67+G6 Aland, Karnataka",
+                "global_code": "7J9RHG67+G6"
+            },
+            "rating": 0,
+            "reference": "ChIJ08Oo2U6ryDsRtim6-XY01gY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "No-17 Khanapur raod jeerhalli, Tq, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5608844,
+                    "lng": 76.5593245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56225592989272,
+                        "lng": 76.56060832989272
+                    },
+                    "southwest": {
+                        "lat": 17.55955627010728,
+                        "lng": 76.55790867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mubarak Kirana store",
+            "place_id": "ChIJf3Xo7oGtyDsRuL4IDDeIij0",
+            "rating": 5,
+            "reference": "ChIJf3Xo7oGtyDsRuL4IDDeIij0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HH65+9P3, NEW ANSARI MOHALLA, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6990836,
+                    "lng": 76.4238334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70043202989272,
+                        "lng": 76.42518582989271
+                    },
+                    "southwest": {
+                        "lat": 17.69773237010728,
+                        "lng": 76.42248617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sunil Kirana Store",
+            "place_id": "ChIJF_n5eH_5xTsRGHDIpIrLC7g",
+            "plus_code": {
+                "compound_code": "MCXF+JG Alur, Maharashtra",
+                "global_code": "7J9RMCXF+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJF_n5eH_5xTsRGHDIpIrLC7g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.08 Main Road Alur, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.568699,
+                    "lng": 76.5658594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57005482989272,
+                        "lng": 76.56720502989272
+                    },
+                    "southwest": {
+                        "lat": 17.56735517010728,
+                        "lng": 76.56450537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Goude kirana and general store",
+            "place_id": "ChIJrebol1WtyDsRYuixtAq4Ub4",
+            "rating": 0,
+            "reference": "ChIJrebol1WtyDsRYuixtAq4Ub4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH98+F84, Matki Rd, Matki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6990744,
+                    "lng": 76.42336
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70033422989272,
+                        "lng": 76.42487192989272
+                    },
+                    "southwest": {
+                        "lat": 17.69763457010728,
+                        "lng": 76.42217227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KOTE KIRANA STORES",
+            "place_id": "ChIJ4Rjgp6n5xTsRQ0NMG5KwXIk",
+            "plus_code": {
+                "compound_code": "MCXF+J8 Alur, Maharashtra",
+                "global_code": "7J9RMCXF+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJ4Rjgp6n5xTsRQ0NMG5KwXIk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 03, Alur, Main Road, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6973758,
+                    "lng": 76.4253153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69872787989272,
+                        "lng": 76.42668612989272
+                    },
+                    "southwest": {
+                        "lat": 17.69602822010728,
+                        "lng": 76.42398647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aarush Kirana Store",
+            "place_id": "ChIJX-oRJQ_5xTsRsJY5SjPG_ik",
+            "plus_code": {
+                "compound_code": "MCWG+X4 Alur, Maharashtra",
+                "global_code": "7J9RMCWG+X4"
+            },
+            "rating": 0,
+            "reference": "ChIJX-oRJQ_5xTsRsJY5SjPG_ik",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 12, Main Road, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6973205,
+                    "lng": 76.42321319999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69852302989273,
+                        "lng": 76.42456787989272
+                    },
+                    "southwest": {
+                        "lat": 17.69582337010728,
+                        "lng": 76.42186822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhalke Kirana",
+            "place_id": "ChIJPwOBmhL5xTsR2x94fEIYmYA",
+            "plus_code": {
+                "compound_code": "MCWF+W7 Alur, Maharashtra",
+                "global_code": "7J9RMCWF+W7"
+            },
+            "rating": 0,
+            "reference": "ChIJPwOBmhL5xTsR2x94fEIYmYA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5652967,
+                    "lng": 76.5687308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56664697989272,
+                        "lng": 76.57007182989271
+                    },
+                    "southwest": {
+                        "lat": 17.56394732010728,
+                        "lng": 76.56737217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "N. B. Kinagi kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJR4dd5LOtyDsRvQNu6v8cc4Y",
+            "plus_code": {
+                "compound_code": "HH89+4F Aland, Karnataka",
+                "global_code": "7J9RHH89+4F"
+            },
+            "rating": 0,
+            "reference": "ChIJR4dd5LOtyDsRvQNu6v8cc4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Rd, opp. DEVI MANDIR, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5671284,
+                    "lng": 76.56597080000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56846777989272,
+                        "lng": 76.56735167989271
+                    },
+                    "southwest": {
+                        "lat": 17.56576812010728,
+                        "lng": 76.56465202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gouse kirana shop",
+            "place_id": "ChIJtXGHcfytyDsRte30_FaRzHc",
+            "rating": 0,
+            "reference": "ChIJtXGHcfytyDsRte30_FaRzHc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH88+V95, Razvi Rd, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6402672,
+                    "lng": 76.4656337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64160962989272,
+                        "lng": 76.46695917989273
+                    },
+                    "southwest": {
+                        "lat": 17.63890997010728,
+                        "lng": 76.46425952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hanuman Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117903260020747207762\">Prasad Kore</a>"
+                    ],
+                    "photo_reference": "AcYSjRiPwDBUh-8MMobywOBDXvzrWURbPU1JG4KHj9zuLnlEaupSFgfRed8F5oZdgdlnSZUF2z8d1Rwt7jStF8l6w1lEr2BShPEGs5FoCikUNxGgmwz9P7A-SZSvIxUaFCyg964qjQzv40Yhzc47EO_Xgr1LWpil8d3yRPztLweE00a00SVe",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJTUEBHXNVzzsRSHUtMt9EKCw",
+            "rating": 4.1,
+            "reference": "ChIJTUEBHXNVzzsRSHUtMt9EKCw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "JFR8+472, Nirgudi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6953951,
+                    "lng": 76.4199714
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69712142989272,
+                        "lng": 76.42115177989272
+                    },
+                    "southwest": {
+                        "lat": 17.69442177010728,
+                        "lng": 76.41845212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Mahatma Tea Shop",
+            "place_id": "ChIJK0etxTT5xTsRkFtM-HKS1T8",
+            "plus_code": {
+                "compound_code": "MCW9+5X Alur, Maharashtra",
+                "global_code": "7J9RMCW9+5X"
+            },
+            "rating": 0,
+            "reference": "ChIJK0etxTT5xTsRkFtM-HKS1T8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 13, Main Road, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5602379,
+                    "lng": 76.56070509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56157187989272,
+                        "lng": 76.56205482989272
+                    },
+                    "southwest": {
+                        "lat": 17.55887222010728,
+                        "lng": 76.55935517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Narona Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJSwNH8rOtyDsR5UrPx5kqekI",
+            "plus_code": {
+                "compound_code": "HH66+47 Aland, Karnataka",
+                "global_code": "7J9RHH66+47"
+            },
+            "rating": 0,
+            "reference": "ChIJSwNH8rOtyDsR5UrPx5kqekI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "new Ansari mohella, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6987621,
+                    "lng": 76.4237447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70014122989272,
+                        "lng": 76.42504172989273
+                    },
+                    "southwest": {
+                        "lat": 17.69744157010728,
+                        "lng": 76.42234207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Birajdar Enterprises",
+            "place_id": "ChIJY9KUT3P5xTsRHgyBth2Dz-I",
+            "plus_code": {
+                "compound_code": "MCXF+GF Alur, Maharashtra",
+                "global_code": "7J9RMCXF+GF"
+            },
+            "rating": 0,
+            "reference": "ChIJY9KUT3P5xTsRHgyBth2Dz-I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Main Road, Alur"
+        }
+    ],
+    "status": "OK"
+}

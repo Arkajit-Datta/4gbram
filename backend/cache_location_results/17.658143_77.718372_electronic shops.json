@@ -1,0 +1,98 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6824932,
+                    "lng": 77.6220936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68384152989272,
+                        "lng": 77.62349292989272
+                    },
+                    "southwest": {
+                        "lat": 17.68114187010728,
+                        "lng": 77.62079327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Universal Electronics Cool Care",
+            "place_id": "ChIJnauh41u1zjsRvVfTKyMiglg",
+            "plus_code": {
+                "compound_code": "MJJC+XR Zahirabad, Telangana",
+                "global_code": "7J9VMJJC+XR"
+            },
+            "rating": 0,
+            "reference": "ChIJnauh41u1zjsRvVfTKyMiglg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Adarsh Nagar Line Dttagiri Colony, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6814598,
+                    "lng": 77.6234424
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68280862989272,
+                        "lng": 77.62479222989272
+                    },
+                    "southwest": {
+                        "lat": 17.68010897010728,
+                        "lng": 77.62209257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samsung SmartPlaza - RR Combines",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112234799691376728283\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6PFJRtlPbMGgMboOhxmKH7V5aZpNTO7cnUgWhnzwe73RjP8P699UWX4eoJJ1DS1L7zdDv4oPoEnGIK-tafGlCTEQRg_Vxt8r1rmFnqLN3bNUdrkSsSNYBLEwe2S6vEzDKK5uluA2z956HMzKkO9czXMnBGSzaadZ9GHxrAmacngCr",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJvcGvTOH5yzsRCmDFl5SUq7c",
+            "plus_code": {
+                "compound_code": "MJJF+H9 Zahirabad, Telangana",
+                "global_code": "7J9VMJJF+H9"
+            },
+            "rating": 3.8,
+            "reference": "ChIJvcGvTOH5yzsRCmDFl5SUq7c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "Hyd Road, beside Sidhi Hotel, Shantinagar, Zahirabad Rural, Zahirabad"
+        }
+    ],
+    "status": "OK"
+}

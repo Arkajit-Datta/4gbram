@@ -1,0 +1,806 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhv4kDzbzKY11hYLKMIQmvH0I83x61uicHtyEW0Zn_X_MTLnn0YiZW-PiaYowVva6zLjfo7fTMxsrNJsLMEBB06xH0j5cqdrPX8p2EgY16w9uC_zs5u0dioBj8SWDuGVHb0SbOIFX1zzZrqg_EN1xHjBrv-DlEUZqb9T4ti_p6Qd-097GrYTnD0ZxHtAGv_a3l4_EZ6rum_EOqa4roY20m-RW-rJuy7jlilAhMLTJmXnMIVZhGhrU-BtsavnospcG75YhP2fIjPmMLRA-II8II1UGOjpvzMTDeiYaYpx-f7k0GxKNNm4o04UwzcSNA_tuNkvbH2MUnAbLr7j_-fMeUaY2Ec38zTYkJPQ9eiWWK0D95VD9vhfzCj2i5G6Vh2Q_dlpVo0UjJG8Bbht6OS6rY8KmjoHYIAMBPXtw_gKtneuLhLtCfGPRsD",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8358564,
+                    "lng": 76.6241673
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83724057989273,
+                        "lng": 76.62552462989272
+                    },
+                    "southwest": {
+                        "lat": 17.83454092010728,
+                        "lng": 76.62282497010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "TRUPATI TRADERS",
+            "place_id": "ChIJYVKL5GpbzzsRUy_ZLoqvJsY",
+            "plus_code": {
+                "compound_code": "RJPF+8M Omerga, Maharashtra",
+                "global_code": "7J9RRJPF+8M"
+            },
+            "rating": 0,
+            "reference": "ChIJYVKL5GpbzzsRUy_ZLoqvJsY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO.01 VRANDAVAN NAGAR NEAR EKUNDI ROAD OMERGA EKUNDI, ROAD"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9036004,
+                    "lng": 76.57941819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90497767989272,
+                        "lng": 76.58067947989272
+                    },
+                    "southwest": {
+                        "lat": 17.90227802010728,
+                        "lng": 76.57797982010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u092e\u093e\u090a\u0932\u0940 \u0915\u093f\u0930\u093e\u0923\u093e \u0905\u0901\u0921 \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0905\u0930",
+            "place_id": "ChIJT4xc4XddzzsRSG_6Bb2G4Yw",
+            "rating": 5,
+            "reference": "ChIJT4xc4XddzzsRSG_6Bb2G4Yw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WH3H+4JM, Ekurga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8407746,
+                    "lng": 76.61283159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84210172989272,
+                        "lng": 76.61417317989273
+                    },
+                    "southwest": {
+                        "lat": 17.83940207010728,
+                        "lng": 76.61147352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAMARTH KIRANA STORE",
+            "place_id": "ChIJSz09BWpbzzsR33MuHFTukHk",
+            "plus_code": {
+                "compound_code": "RJR7+84 Omerga, Maharashtra",
+                "global_code": "7J9RRJR7+84"
+            },
+            "rating": 0,
+            "reference": "ChIJSz09BWpbzzsR33MuHFTukHk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.07 Main Road Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8593493,
+                    "lng": 76.6772924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.86069607989272,
+                        "lng": 76.67865292989272
+                    },
+                    "southwest": {
+                        "lat": 17.85799642010727,
+                        "lng": 76.67595327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAI KIRANA STORE",
+            "place_id": "ChIJx8vGgVtFzzsRy7yxM1-Q12A",
+            "plus_code": {
+                "compound_code": "VM5G+PW Mulaj, Maharashtra",
+                "global_code": "7J9RVM5G+PW"
+            },
+            "rating": 0,
+            "reference": "ChIJx8vGgVtFzzsRy7yxM1-Q12A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03, Main Road, Mulaj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8397833,
+                    "lng": 76.6222216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84104757989272,
+                        "lng": 76.62356292989273
+                    },
+                    "southwest": {
+                        "lat": 17.83834792010728,
+                        "lng": 76.62086327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Basweshwar Kirana",
+            "place_id": "ChIJleMHR19bzzsRnb1HcFPEqJw",
+            "plus_code": {
+                "compound_code": "RJQC+WV Balsur, Maharashtra",
+                "global_code": "7J9RRJQC+WV"
+            },
+            "rating": 0,
+            "reference": "ChIJleMHR19bzzsRnb1HcFPEqJw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 02, Main Road, near School Omerga, Balsur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8409795,
+                    "lng": 76.6260838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84233507989272,
+                        "lng": 76.62743497989271
+                    },
+                    "southwest": {
+                        "lat": 17.83963542010728,
+                        "lng": 76.62473532010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Asif super market",
+            "place_id": "ChIJmThRe29bzzsR6Px0SRmeLIw",
+            "plus_code": {
+                "compound_code": "RJRG+9C Omerga, Maharashtra",
+                "global_code": "7J9RRJRG+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJmThRe29bzzsR6Px0SRmeLIw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8331486,
+                    "lng": 76.6354345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83448632989272,
+                        "lng": 76.63681392989272
+                    },
+                    "southwest": {
+                        "lat": 17.83178667010728,
+                        "lng": 76.63411427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Ganesh Kirana And General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJxTSiRq9bzzsRRLXcj-n__cg",
+            "plus_code": {
+                "compound_code": "RJMP+75 Omerga, Maharashtra",
+                "global_code": "7J9RRJMP+75"
+            },
+            "rating": 0,
+            "reference": "ChIJxTSiRq9bzzsRRLXcj-n__cg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Diggi Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.839675,
+                    "lng": 76.62222779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84102397989272,
+                        "lng": 76.62358017989273
+                    },
+                    "southwest": {
+                        "lat": 17.83832432010728,
+                        "lng": 76.62088052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MAHADEV KIRANA STORE",
+            "place_id": "ChIJpfnc2YRbzzsRvuvc1glBy7w",
+            "plus_code": {
+                "compound_code": "RJQC+VV Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+VV"
+            },
+            "rating": 0,
+            "reference": "ChIJpfnc2YRbzzsRvuvc1glBy7w",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Near, Shop No.01 Mahadev Gali, Indra Chowk, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8413203,
+                    "lng": 76.6118467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84256867989272,
+                        "lng": 76.61316107989272
+                    },
+                    "southwest": {
+                        "lat": 17.83986902010727,
+                        "lng": 76.61046142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhargavi Kirana Store",
+            "place_id": "ChIJB_sxGtFbzzsRARmzzMHO-5c",
+            "plus_code": {
+                "compound_code": "RJR6+GP Omerga, Maharashtra",
+                "global_code": "7J9RRJR6+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJB_sxGtFbzzsRARmzzMHO-5c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mansana colony, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8339402,
+                    "lng": 76.6336663
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83524812989272,
+                        "lng": 76.63500992989272
+                    },
+                    "southwest": {
+                        "lat": 17.83254847010728,
+                        "lng": 76.63231027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "HANNURE KIRANA STORE",
+            "place_id": "ChIJUcvtg1xbzzsRakmLX6EF820",
+            "plus_code": {
+                "compound_code": "RJMM+HF Omerga, Maharashtra",
+                "global_code": "7J9RRJMM+HF"
+            },
+            "rating": 0,
+            "reference": "ChIJUcvtg1xbzzsRakmLX6EF820",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Main Road, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8272637,
+                    "lng": 76.7497037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82859892989272,
+                        "lng": 76.75112317989273
+                    },
+                    "southwest": {
+                        "lat": 17.82589927010728,
+                        "lng": 76.74842352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "New Santosh Kirana",
+            "place_id": "ChIJmQxUfIZHzzsRi6XMod61fIw",
+            "plus_code": {
+                "compound_code": "RPGX+WV Talmod, Maharashtra",
+                "global_code": "7J9RRPGX+WV"
+            },
+            "rating": 5,
+            "reference": "ChIJmQxUfIZHzzsRi6XMod61fIw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 06, Talmod"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8361785,
+                    "lng": 76.62257369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83753597989272,
+                        "lng": 76.62387642989272
+                    },
+                    "southwest": {
+                        "lat": 17.83483632010728,
+                        "lng": 76.62117677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAGAR KIRANA STORE",
+            "place_id": "ChIJkRs-n5ZbzzsRkBXLDY_O4uA",
+            "plus_code": {
+                "compound_code": "RJPF+F2 Omerga, Maharashtra",
+                "global_code": "7J9RRJPF+F2"
+            },
+            "rating": 0,
+            "reference": "ChIJkRs-n5ZbzzsRkBXLDY_O4uA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no, 02, Patange Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8437584,
+                    "lng": 76.6181655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84511207989272,
+                        "lng": 76.61947587989272
+                    },
+                    "southwest": {
+                        "lat": 17.84241242010728,
+                        "lng": 76.61677622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ambika Kirana Store",
+            "place_id": "ChIJy8wr6ZNbzzsRlxVlH_AZuAM",
+            "plus_code": {
+                "compound_code": "RJV9+G7 Omerga, Maharashtra",
+                "global_code": "7J9RRJV9+G7"
+            },
+            "rating": 1,
+            "reference": "ChIJy8wr6ZNbzzsRlxVlH_AZuAM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.03 Main Raod Tadmod, near Vasim Kirana Tadmod"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8268987,
+                    "lng": 76.6889381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82824877989272,
+                        "lng": 76.69028762989272
+                    },
+                    "southwest": {
+                        "lat": 17.82554912010728,
+                        "lng": 76.68758797010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Samrudhi Kirana",
+            "place_id": "ChIJh6gs__1FzzsR_uymiwoK2x0",
+            "plus_code": {
+                "compound_code": "RMGQ+QH Turori, Maharashtra",
+                "global_code": "7J9RRMGQ+QH"
+            },
+            "rating": 0,
+            "reference": "ChIJh6gs__1FzzsR_uymiwoK2x0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 04, Main Road, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8279407,
+                    "lng": 76.7030983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82954332989272,
+                        "lng": 76.70445972989272
+                    },
+                    "southwest": {
+                        "lat": 17.82684367010728,
+                        "lng": 76.70176007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pranav Kirana Store",
+            "place_id": "ChIJWcVAcClFzzsRNYjsiRWLl6I",
+            "plus_code": {
+                "compound_code": "RPH3+56 Turori, Maharashtra",
+                "global_code": "7J9RRPH3+56"
+            },
+            "rating": 0,
+            "reference": "ChIJWcVAcClFzzsRNYjsiRWLl6I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 18, Main Road, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8818436,
+                    "lng": 76.7515069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.88318237989273,
+                        "lng": 76.75290922989272
+                    },
+                    "southwest": {
+                        "lat": 17.88048272010728,
+                        "lng": 76.75020957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Deepak Kirana Store",
+            "place_id": "ChIJ2_uajkRBzzsRB9W1uU3Hc28",
+            "plus_code": {
+                "compound_code": "VQJ2+PJ Jajan Mugli, Karnataka",
+                "global_code": "7J9RVQJ2+PJ"
+            },
+            "rating": 5,
+            "reference": "ChIJ2_uajkRBzzsRB9W1uU3Hc28",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop No.1main Road Wadi Kasarshirshi, near Hanuman Mandir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8278747,
+                    "lng": 76.6896982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82922922989273,
+                        "lng": 76.69104892989273
+                    },
+                    "southwest": {
+                        "lat": 17.82652957010728,
+                        "lng": 76.68834927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BADUBHAN KIRANA AND GENERAL STORE",
+            "place_id": "ChIJwZX3a6NFzzsR3U27SSZh4fM",
+            "plus_code": {
+                "compound_code": "RMHQ+4V Turori, Maharashtra",
+                "global_code": "7J9RRMHQ+4V"
+            },
+            "rating": 0,
+            "reference": "ChIJwZX3a6NFzzsR3U27SSZh4fM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02, Main Road, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.839803,
+                    "lng": 76.62656129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84139847989272,
+                        "lng": 76.62788417989272
+                    },
+                    "southwest": {
+                        "lat": 17.83869882010728,
+                        "lng": 76.62518452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MUSA KIRANA STORE",
+            "place_id": "ChIJ4QDW_kpbzzsRtYonAuPtJso",
+            "plus_code": {
+                "compound_code": "RJQG+WJ Omerga, Maharashtra",
+                "global_code": "7J9RRJQG+WJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ4QDW_kpbzzsRtYonAuPtJso",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 02, Hamid Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8282101,
+                    "lng": 76.6955985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82954557989273,
+                        "lng": 76.69694757989272
+                    },
+                    "southwest": {
+                        "lat": 17.82684592010728,
+                        "lng": 76.69424792010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BHAGWANT KIRANA AND GENERAL STORES",
+            "place_id": "ChIJc1WuGOZFzzsRCSY4gTaDL50",
+            "plus_code": {
+                "compound_code": "RMHW+76 Turori, Maharashtra",
+                "global_code": "7J9RRMHW+76"
+            },
+            "rating": 0,
+            "reference": "ChIJc1WuGOZFzzsRCSY4gTaDL50",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Ganesh Nagar Turori Omerga, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8396747,
+                    "lng": 76.6222311
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84102367989272,
+                        "lng": 76.62358347989273
+                    },
+                    "southwest": {
+                        "lat": 17.83832402010728,
+                        "lng": 76.62088382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SONWANE KIRANA BHANDAR",
+            "place_id": "ChIJcdmHDYZbzzsRgukF0xQeues",
+            "plus_code": {
+                "compound_code": "RJQC+VV Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+VV"
+            },
+            "rating": 0,
+            "reference": "ChIJcdmHDYZbzzsRgukF0xQeues",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01main Road, Omerga"
+        }
+    ],
+    "status": "OK"
+}

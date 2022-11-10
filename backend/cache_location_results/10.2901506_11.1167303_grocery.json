@@ -1,0 +1,797 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRig5KipxvU0kz_Z5SfaGNRshRlEPH3VeQxXUa3OVs7ECSldI9lxCW9t0nKVQS7LXj6zOnV_XttGb7g-owk9BYziNdyPFK7O97EQ13vfFG5vYGNSrDkxDFrumQC01Xr6Ei8tYig_JTfUukc4pLfBRSiNCRxIGfKSe-hklNXvn8-NztjTwBtnj37Xy5EPrcvY1pP4AoNLB7YNt_1CskeoJK4dKE5t2_RzVfHkZd6DPfLXl-Yv4j-dQyDcnxvqzaKc3F_fggkukSB5ceX3c05pq06ItAGIx3PC2LhI8VmsvAhaTZG8ZOhUuMOYImv_trYbNbF4Xlm97Y5UwBALkG8BVzBUz-HkLU-8lLcuSMMup4wUVM53f--Ovef106WceDZomqHmA-GGvvnvg9BQoJSTJABBpnwWiksr9dZWoMJW9F2mZ1wuEk8kJwRK",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2884789,
+                    "lng": 11.1591344
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28976452989272,
+                        "lng": 11.16049537989272
+                    },
+                    "southwest": {
+                        "lat": 10.28706487010728,
+                        "lng": 11.15779572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "IKRAM PROVISION STORE",
+            "place_id": "ChIJ7VASV4Da_xARKmWb103bkl0",
+            "plus_code": {
+                "compound_code": "75Q5+9M Gombe, Nigeria",
+                "global_code": "7F2H75Q5+9M"
+            },
+            "rating": 0,
+            "reference": "ChIJ7VASV4Da_xARKmWb103bkl0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2723877,
+                    "lng": 11.1813919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27371727989272,
+                        "lng": 11.18274292989272
+                    },
+                    "southwest": {
+                        "lat": 10.27101762010728,
+                        "lng": 11.18004327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAUKI PROVISION STORE",
+            "place_id": "ChIJPd70zGvQ_xAR9KHiKresD60",
+            "plus_code": {
+                "compound_code": "75CJ+XH Gombe, Nigeria",
+                "global_code": "7F2H75CJ+XH"
+            },
+            "rating": 0,
+            "reference": "ChIJPd70zGvQ_xAR9KHiKresD60",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2760724,
+                    "lng": 11.178983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27742677989272,
+                        "lng": 11.18028637989272
+                    },
+                    "southwest": {
+                        "lat": 10.27472712010728,
+                        "lng": 11.17758672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "WILICA PROVISION STORE",
+            "place_id": "ChIJu8NAKmnQ_xARpfUx4jRbwhM",
+            "plus_code": {
+                "compound_code": "75GH+CH Gombe, Nigeria",
+                "global_code": "7F2H75GH+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJu8NAKmnQ_xARpfUx4jRbwhM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2725933,
+                    "lng": 11.1645689
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27394197989272,
+                        "lng": 11.16593157989272
+                    },
+                    "southwest": {
+                        "lat": 10.27124232010728,
+                        "lng": 11.16323192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "A.A SAUKI PROVISION STORE",
+            "place_id": "ChIJm_ZMNXTQ_xARVuxZgaVuYkU",
+            "plus_code": {
+                "compound_code": "75F7+2R Gombe, Nigeria",
+                "global_code": "7F2H75F7+2R"
+            },
+            "rating": 0,
+            "reference": "ChIJm_ZMNXTQ_xARVuxZgaVuYkU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2885366,
+                    "lng": 11.1498583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28991622989272,
+                        "lng": 11.15121547989272
+                    },
+                    "southwest": {
+                        "lat": 10.28721657010728,
+                        "lng": 11.14851582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KUMO PROVISION STORE",
+            "place_id": "ChIJbZiOfIja_xARfASAXioz6vc",
+            "plus_code": {
+                "compound_code": "74QX+CW Gombe, Nigeria",
+                "global_code": "7F2H74QX+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJbZiOfIja_xARfASAXioz6vc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2757781,
+                    "lng": 11.1544179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27711442989272,
+                        "lng": 11.15565792989272
+                    },
+                    "southwest": {
+                        "lat": 10.27441477010728,
+                        "lng": 11.15295827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "FAH'S MART",
+            "place_id": "ChIJgS09v5va_xARY2fNhjIUA2o",
+            "rating": 0,
+            "reference": "ChIJgS09v5va_xARY2fNhjIUA2o",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Tula Rd, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3032779,
+                    "lng": 11.1669912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30466357989272,
+                        "lng": 11.16834157989272
+                    },
+                    "southwest": {
+                        "lat": 10.30196392010728,
+                        "lng": 11.16564192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KAMAL SUPER MARKET",
+            "place_id": "ChIJ9YaRm5zQ_xAREWFDhhe8JNk",
+            "plus_code": {
+                "compound_code": "8538+8Q Gombe, Nigeria",
+                "global_code": "7F2H8538+8Q"
+            },
+            "rating": 0,
+            "reference": "ChIJ9YaRm5zQ_xAREWFDhhe8JNk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2512818,
+                    "lng": 11.1778796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.25263562989272,
+                        "lng": 11.17927047989272
+                    },
+                    "southwest": {
+                        "lat": 10.24993597010728,
+                        "lng": 11.17657082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KHALID MINI MARKET",
+            "place_id": "ChIJzxlICBzQ_xAR1o7Lhr32gSk",
+            "plus_code": {
+                "compound_code": "752H+G5 Gombe, Nigeria",
+                "global_code": "7F2H752H+G5"
+            },
+            "rating": 0,
+            "reference": "ChIJzxlICBzQ_xAR1o7Lhr32gSk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2614283,
+                    "lng": 11.1633533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26275692989272,
+                        "lng": 11.16470707989272
+                    },
+                    "southwest": {
+                        "lat": 10.26005727010728,
+                        "lng": 11.16200742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "WAKILI GAWATA PROVISION STORE",
+            "place_id": "ChIJxU9JvgnQ_xARxOuznp9R178",
+            "plus_code": {
+                "compound_code": "7567+H8 Gombe, Nigeria",
+                "global_code": "7F2H7567+H8"
+            },
+            "rating": 0,
+            "reference": "ChIJxU9JvgnQ_xARxOuznp9R178",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2715863,
+                    "lng": 11.1907976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27291922989272,
+                        "lng": 11.19211927989272
+                    },
+                    "southwest": {
+                        "lat": 10.27021957010728,
+                        "lng": 11.18941962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "DAN FULANI PROVISION STORE",
+            "place_id": "ChIJrcP6x0bQ_xARourC1xFR6wc",
+            "plus_code": {
+                "compound_code": "75CR+J8 Gombe, Nigeria",
+                "global_code": "7F2H75CR+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJrcP6x0bQ_xARourC1xFR6wc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2718078,
+                    "lng": 11.1890419
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27312747989272,
+                        "lng": 11.19040372989272
+                    },
+                    "southwest": {
+                        "lat": 10.27042782010728,
+                        "lng": 11.18770407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "DANGOMPE PROVISION STORE",
+            "place_id": "ChIJg-46R0HQ_xARRkVDVfIu3vI",
+            "plus_code": {
+                "compound_code": "75CQ+PJ Gombe, Nigeria",
+                "global_code": "7F2H75CQ+PJ"
+            },
+            "rating": 0,
+            "reference": "ChIJg-46R0HQ_xARRkVDVfIu3vI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3008732,
+                    "lng": 11.153762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30222152989272,
+                        "lng": 11.15511752989272
+                    },
+                    "southwest": {
+                        "lat": 10.29952187010728,
+                        "lng": 11.15241787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ABDULLAZIZ PROVISION STORE",
+            "place_id": "ChIJ5fUqZHra_xARABkgk86EHWw",
+            "plus_code": {
+                "compound_code": "8523+8G Gombe, Nigeria",
+                "global_code": "7F2H8523+8G"
+            },
+            "rating": 0,
+            "reference": "ChIJ5fUqZHra_xARABkgk86EHWw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2873005,
+                    "lng": 11.1623853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28865562989272,
+                        "lng": 11.16377207989272
+                    },
+                    "southwest": {
+                        "lat": 10.28595597010728,
+                        "lng": 11.16107242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KAMAL PROVISION STORE",
+            "place_id": "ChIJqYVken_Q_xARH7M48klMHL0",
+            "rating": 0,
+            "reference": "ChIJqYVken_Q_xARH7M48klMHL0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "75P6+WXC, Saadu Maifata Street, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2693192,
+                    "lng": 11.1717162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27067407989272,
+                        "lng": 11.17306292989272
+                    },
+                    "southwest": {
+                        "lat": 10.26797442010728,
+                        "lng": 11.17036327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "H. KUMO STORES",
+            "place_id": "ChIJLTFyv3LQ_xARODAPjixKWxY",
+            "plus_code": {
+                "compound_code": "759C+PM Gombe, Nigeria",
+                "global_code": "7F2H759C+PM"
+            },
+            "rating": 0,
+            "reference": "ChIJLTFyv3LQ_xARODAPjixKWxY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.289296,
+                    "lng": 11.1075318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29066762989272,
+                        "lng": 11.10887862989272
+                    },
+                    "southwest": {
+                        "lat": 10.28796797010728,
+                        "lng": 11.10617897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "JERRY OJ PROVISION STORE",
+            "place_id": "ChIJv3FDUQbb_xARELb5gCT8xK0",
+            "plus_code": {
+                "compound_code": "74Q5+P2 Tempure, Nigeria",
+                "global_code": "7F2H74Q5+P2"
+            },
+            "rating": 0,
+            "reference": "ChIJv3FDUQbb_xARELb5gCT8xK0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Tempure"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2861165,
+                    "lng": 11.1426406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28741462989272,
+                        "lng": 11.14398057989272
+                    },
+                    "southwest": {
+                        "lat": 10.28471497010728,
+                        "lng": 11.14128092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nasara Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104247812765035351267\">Sulaiman Abubakar Salihu</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcNSyNozkY5488G4IJdCTihpC6wwdKKZdVPRu-JFdO5kpeLd7x5NShdEtbeozBc4YMzV5tdyzakXFJbJ7-KsbCP8AlCjMwKPl0Iydfi8y19WgDIK_mR_HVFnq0olm476faBEihSkZuLhPcEZ318ETk6iUobWV4VegWweszWJ0xDi3x",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJA8OpiIva_xARM54XEzqsscg",
+            "rating": 3.9,
+            "reference": "ChIJA8OpiIva_xARM54XEzqsscg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 433,
+            "vicinity": "74PV+C3R, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2947005,
+                    "lng": 11.166703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29608832989272,
+                        "lng": 11.16805852989272
+                    },
+                    "southwest": {
+                        "lat": 10.29338867010728,
+                        "lng": 11.16535887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "RAHAMA PROVISION STORE",
+            "place_id": "ChIJK8yQSIHQ_xARuf6kaHeI-9I",
+            "rating": 0,
+            "reference": "ChIJK8yQSIHQ_xARuf6kaHeI-9I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "75V8+VMP, PDP Street, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2562591,
+                    "lng": 11.1744064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.25761462989272,
+                        "lng": 11.17578582989272
+                    },
+                    "southwest": {
+                        "lat": 10.25491497010728,
+                        "lng": 11.17308617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "AHLAN MASAHLAN PROVISION STORE",
+            "place_id": "ChIJc8hGvRrQ_xARSgVioj5cmU8",
+            "plus_code": {
+                "compound_code": "754F+GQ Gombe, Nigeria",
+                "global_code": "7F2H754F+GQ"
+            },
+            "rating": 0,
+            "reference": "ChIJc8hGvRrQ_xARSgVioj5cmU8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2694362,
+                    "lng": 11.1738782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27080447989272,
+                        "lng": 11.17522617989272
+                    },
+                    "southwest": {
+                        "lat": 10.26810482010728,
+                        "lng": 11.17252652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Provision Store",
+            "place_id": "ChIJa18QbMbR_xARv8fJx_CYIhw",
+            "rating": 0,
+            "reference": "ChIJa18QbMbR_xARv8fJx_CYIhw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "759F+QHC, Unnamed Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2889584,
+                    "lng": 11.1471439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29030987989272,
+                        "lng": 11.14846372989272
+                    },
+                    "southwest": {
+                        "lat": 10.28761022010728,
+                        "lng": 11.14576407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Albarka Supermark",
+            "place_id": "ChIJFVJNKuDb_xARkW59BLe3tak",
+            "rating": 2,
+            "reference": "ChIJFVJNKuDb_xARkW59BLe3tak",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "74QW+HVJ Goodluck, Ebele Jonathan Road, Gombe"
+        }
+    ],
+    "status": "OK"
+}

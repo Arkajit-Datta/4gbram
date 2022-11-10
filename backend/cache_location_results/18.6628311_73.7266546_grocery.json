@@ -1,0 +1,912 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgZFdIPApr3YLPaHgEx3UL6ftSERJDMrnRcWKTYsL16VBbSmalPddR6tiQ7zM70-ph3M-AlGv-SVGu7q1W3o9czMPkgtNPJgkRJz7hijxn6Q8MMIM5GdphdXmFGN3PM_56_N_CxZDcbBxZdE9dki47Z38YgjiT5CwPuw58qBzam7pKdtvXJYWm8_67yc27z1OWu6GcUAGD2Z4rfLkKXoZogzMOqi12kfmg9dLFm8KX3aTIYsYIiFNcyJ3jF7NKqdjyfcGiUX0viqyQm0CkHJLq9lj3rMuxLaJH6QzzT8WNyqWDed3lGuQ6ITBQ824osyTBgCHrW02OaROuBFxmA3nFYN_0vgJHfGMQoJN4cLSbvxquK1vvABe7FbsIjv_r1MmHe_r59yXW_zvYGybVjP3xxD6ElTvYwSxU8nNFgC6HaueyypJJK3fDX",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.645919,
+                    "lng": 73.80073399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64738422989272,
+                        "lng": 73.80197247989271
+                    },
+                    "southwest": {
+                        "lat": 18.64468457010728,
+                        "lng": 73.79927282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MAULI SUPER MARKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ_____zO4wjsRUvJKhNHiots",
+            "rating": 0,
+            "reference": "ChIJ_____zO4wjsRUvJKhNHiots",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "ARUN PARK,DATTANAGAR, SHOP NO-6,Chinchwad, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6319805,
+                    "lng": 73.80463139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63332172989272,
+                        "lng": 73.80603297989272
+                    },
+                    "southwest": {
+                        "lat": 18.63062207010728,
+                        "lng": 73.80333332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SHRI JI KIRANA SUPER MARKET & GENERAL STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ4R3JSoO5wjsRWGT_A09jU2Y",
+            "plus_code": {
+                "compound_code": "JRJ3+QV Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRJ3+QV"
+            },
+            "rating": 2,
+            "reference": "ChIJ4R3JSoO5wjsRWGT_A09jU2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "14, Morewadi, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6000481,
+                    "lng": 73.78270739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60139672989272,
+                        "lng": 73.78409097989272
+                    },
+                    "southwest": {
+                        "lat": 18.59869707010727,
+                        "lng": 73.78139132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Welcome super market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109185102583311893737\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi28dxJGejje48vpYrzQa_w-sVE-4cwK4c0eJXfmW3azGft8euoxfc9JzbXEhIf_DKMcfth4lUFUfBdekO9Gc85Q8e8hc6IHTX-4ih_C5jbAh2CXMg0tET97og76D3kV-_42cq-UEgKfiS3ItoaEhbHTs2PF92dprnf7AoqVFgmCK0c",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJI9uAmxC5wjsRodM4i6ykM7Q",
+            "plus_code": {
+                "compound_code": "JQ2M+23 Pune, Maharashtra",
+                "global_code": "7JCMJQ2M+23"
+            },
+            "rating": 3.8,
+            "reference": "ChIJI9uAmxC5wjsRodM4i6ykM7Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Royal radki greens, Ganpati mander chok, Shivraj Nagar, Rahatani, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.640774,
+                    "lng": 73.789361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64217067989272,
+                        "lng": 73.79072257989272
+                    },
+                    "southwest": {
+                        "lat": 18.63947102010728,
+                        "lng": 73.78802292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "My Mart Groceries Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJRy7jIMq5wjsRsXIfz35tX1Q",
+            "rating": 3.7,
+            "reference": "ChIJRy7jIMq5wjsRsXIfz35tX1Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "JQRQ+8P5, Udyog Nagar, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6724469,
+                    "lng": 73.78003199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.67382242989272,
+                        "lng": 73.78138762989273
+                    },
+                    "southwest": {
+                        "lat": 18.67112277010727,
+                        "lng": 73.77868797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bajrang super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117825742026696876615\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi2h1Ep9QzbR9AQ6rWgeAiJoa1yhvfKbC2milBlKT4aMNHic-2aJRqmFLpzmfPCXW6ePzg5ORJIG4fQ17cxjtsSQ6KcBPcBCrvR1rfMhYi2L4qTC5UJSNcyqwnLYyvMp9BsOGE78btSLB_tvcdavQGAl7d3n0lcD1Yd7aA25iVOwahd",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ0WLNZOi3wjsRXNQKM2RuIFk",
+            "plus_code": {
+                "compound_code": "MQCJ+X2 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMQCJ+X2"
+            },
+            "rating": 4,
+            "reference": "ChIJ0WLNZOi3wjsRXNQKM2RuIFk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Panchganga Society, Dakshata Nagar, Rupeenagar, Sahyog Nagar, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5948281,
+                    "lng": 73.773588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59618767989272,
+                        "lng": 73.77487547989273
+                    },
+                    "southwest": {
+                        "lat": 18.59348802010728,
+                        "lng": 73.7721758201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "South super market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115833633953951379333\">raghav tantry</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHcZV9Z3tGmPqjhd5mzMswbZpukxeTuAyHvz1eNGucst6bLk6sjWXImmXi8wLlcWsBMtLeTNygj4tLpRDm1me2wg5omhoK25Zp011voHot-rEBBPlZ-wNOduDjtVBO5K2PriC9RSBUWkouNgre8MwmMaJUCGoxG_sJRU3X3w-m_zHk",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJp5eS_BS5wjsRxX0j7NaIeJE",
+            "plus_code": {
+                "compound_code": "HQVF+WC Wakad, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQVF+WC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJp5eS_BS5wjsRxX0j7NaIeJE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42,
+            "vicinity": "Opposite Sanskriti Arcade, Kaspate Wasti, Wakad, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5912268,
+                    "lng": 73.75229159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59258237989272,
+                        "lng": 73.75364217989272
+                    },
+                    "southwest": {
+                        "lat": 18.58988272010728,
+                        "lng": 73.75094252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ganesh SuperMarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115001747562737483979\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjnq-cvxRZ0qQKnamCzxIhgzxqNmWKpAQkPAL5zMLYHQ8jtvwZCpltO-pPmHYa79sOk0A7LxSnz7JZX6dK9GD3La31Fbponx965Up6FAPjk73JXxWp0wak9Egs7RkmTLT2UClKx5bYy7xQI-ZE4L5BkXn5DEJuCanxYRUc8OgIsYnvv",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJNaRblWC5wjsRYRacckt1cV4",
+            "rating": 4.3,
+            "reference": "ChIJNaRblWC5wjsRYRacckt1cV4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "HQR2+FVP, Hinjawadi Village, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6373188,
+                    "lng": 73.7902847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63871552989272,
+                        "lng": 73.79157887989273
+                    },
+                    "southwest": {
+                        "lat": 18.63601587010728,
+                        "lng": 73.78887922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rohini Grocery Shop",
+            "place_id": "ChIJn-QR0yq5wjsRv5jMP4_li5s",
+            "plus_code": {
+                "compound_code": "JQPR+W4 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQPR+W4"
+            },
+            "rating": 0,
+            "reference": "ChIJn-QR0yq5wjsRv5jMP4_li5s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "18/2, Lokmanya Colony, Ganesh Nagar, Thergaon, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6346524,
+                    "lng": 73.7696205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63600247989272,
+                        "lng": 73.77096797989272
+                    },
+                    "southwest": {
+                        "lat": 18.63330282010728,
+                        "lng": 73.76826832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jay Malhar Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJywSr1em5wjsRt79AzhtU64Y",
+            "plus_code": {
+                "compound_code": "JQM9+VR Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQM9+VR"
+            },
+            "rating": 2,
+            "reference": "ChIJywSr1em5wjsRt79AzhtU64Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hiwale appt S/No 37 2 opposite shree swami shaktipeeth, sairam colony, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6183377,
+                    "lng": 73.7912084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61965407989272,
+                        "lng": 73.79259452989272
+                    },
+                    "southwest": {
+                        "lat": 18.61695442010728,
+                        "lng": 73.78989487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "FAMILY KIRANA STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMSqAiMC5wjsRJiU2ZMfrUIU",
+            "plus_code": {
+                "compound_code": "JQ9R+8F Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ9R+8F"
+            },
+            "rating": 4.8,
+            "reference": "ChIJMSqAiMC5wjsRJiU2ZMfrUIU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "SNo 99, 21/1, Vijay Nagar Rd, Kalewadi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.60303,
+                    "lng": 73.7952169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60435012989273,
+                        "lng": 73.79656657989273
+                    },
+                    "southwest": {
+                        "lat": 18.60165047010728,
+                        "lng": 73.79386692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Laxmi Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJof5hm-K4wjsR-zuppXy9mkQ",
+            "plus_code": {
+                "compound_code": "JQ3W+63 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ3W+63"
+            },
+            "rating": 4.7,
+            "reference": "ChIJof5hm-K4wjsR-zuppXy9mkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "11 B,, 5, Kalewadi - Rahatani Rd, Arvind Colony, Rahatani, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.64342,
+                    "lng": 73.771644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64477622989272,
+                        "lng": 73.77296087989271
+                    },
+                    "southwest": {
+                        "lat": 18.64207657010727,
+                        "lng": 73.77026122010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yash Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJaUYDAsK5wjsRwNm0EEiAbqQ",
+            "rating": 4.3,
+            "reference": "ChIJaUYDAsK5wjsRwNm0EEiAbqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "JQVC+9M6, Bijali Nagar Road, Durvankur Colony, Bijali Nagar, Bijlinagar, Akurdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6223494,
+                    "lng": 73.7953735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62367992989272,
+                        "lng": 73.79683577989273
+                    },
+                    "southwest": {
+                        "lat": 18.62098027010727,
+                        "lng": 73.79413612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "New Lakshmi Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJc36fmzG5wjsR3KYYFi6wKYk",
+            "plus_code": {
+                "compound_code": "JQCW+W4 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQCW+W4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJc36fmzG5wjsR3KYYFi6wKYk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GULMOHAR GARDEN, A, Nirmal Nagar, Kalewadi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6242625,
+                    "lng": 73.773761
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62560697989272,
+                        "lng": 73.77511012989272
+                    },
+                    "southwest": {
+                        "lat": 18.62290732010728,
+                        "lng": 73.77241047010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "LAXMI SUPER MARKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJwSJ2PL-5wjsRJksHRYI1Y9Q",
+            "plus_code": {
+                "compound_code": "JQFF+MG Thergaon, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQFF+MG"
+            },
+            "rating": 5,
+            "reference": "ChIJwSJ2PL-5wjsRJksHRYI1Y9Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CHAITANYA VIHAR, Front of, gate, Thergaon, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6038624,
+                    "lng": 73.7902214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60517012989272,
+                        "lng": 73.79155362989272
+                    },
+                    "southwest": {
+                        "lat": 18.60247047010728,
+                        "lng": 73.78885397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sangmeshwar Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115268435875648374978\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6gK-g_s-phsObAnQUGBW4QGUjKuVUC0kho5mYuyB2ax7tpjiKnBjHTubAfJVWOXG4-o8yRMeEyVESBCIWJXi0zmxUJwRk09dHudaQQM4ICn2OMa_Xc60nQg-Nw4pS0MOmcdbf4PnhmNiU2HStu3qaSmkNfrc3-Lq-3q3ckEQA3-AB",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJQQAAABu5wjsRhGC9vByfKmI",
+            "plus_code": {
+                "compound_code": "JQ3R+G3 Rahatani, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ3R+G3"
+            },
+            "rating": 4.9,
+            "reference": "ChIJQQAAABu5wjsRhGC9vByfKmI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "opp. Thopte lawns, Jyotiba Colony, Ram Nagar, Rahatani, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5882999,
+                    "lng": 73.816908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58965117989273,
+                        "lng": 73.81824572989271
+                    },
+                    "southwest": {
+                        "lat": 18.58695152010728,
+                        "lng": 73.81554607010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "NILAM SUPER MARKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ99d0p764wjsRPoVxo1o6yFY",
+            "plus_code": {
+                "compound_code": "HRQ8+8Q Pune, Maharashtra",
+                "global_code": "7JCMHRQ8+8Q"
+            },
+            "rating": 4,
+            "reference": "ChIJ99d0p764wjsRPoVxo1o6yFY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SR NO 25/1/1, Bhalekar Nagar, Pimple Gurav, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6516749,
+                    "lng": 73.7918953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65300252989272,
+                        "lng": 73.79324967989271
+                    },
+                    "southwest": {
+                        "lat": 18.65030287010728,
+                        "lng": 73.79055002010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "siddhivinayak grocery store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJF9SQndW5wjsRCkEYa5ESPFg",
+            "rating": 3.7,
+            "reference": "ChIJF9SQndW5wjsRCkEYa5ESPFg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "MQ2R+MQJ, Kalbhor Nagar, MIDC, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6169254,
+                    "lng": 73.8006932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61827292989272,
+                        "lng": 73.80212072989272
+                    },
+                    "southwest": {
+                        "lat": 18.61557327010728,
+                        "lng": 73.79942107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tirathdas Grocery Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 780,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110382444798636288424\">Nitin Mehta</a>"
+                    ],
+                    "photo_reference": "AcYSjRhG_ileALFnwx6sv5gk9ABOBJ7l2GRykc5AHD0VGktBkHbEXqwghIbng9d9Z4x0VElrVWdmb8xSZ6PrbhTTGVRJS4w4ciXohGR8RFcxKCdAjOvNy7pGi36rxajnoUNWOebrlM_JeRytUUIGA2WAR0MCIkRuVwcCM_RTiiHGfBGjiVHe",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJfzbWVP-4wjsRh28AnOVP_EM",
+            "plus_code": {
+                "compound_code": "JR82+Q7 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJR82+Q7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJfzbWVP-4wjsRh28AnOVP_EM",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205,
+            "vicinity": "2, Tapovan Mandir Rd, Shastri Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.616571,
+                    "lng": 73.804638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61793327989272,
+                        "lng": 73.80599842989272
+                    },
+                    "southwest": {
+                        "lat": 18.61523362010728,
+                        "lng": 73.80329877010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Super Provision Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114806789001790514922\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgxYa2kQ41wrHTxjfkgG21bozC-VlNNBW0Kw3qJjc31afDheiPIwGg05Q5Fu2-t6z2-5Tw0wJu--gB2yTc1bt5ytdf2PjUWIAoHl9QbJgCVOIlU4Q0Cxp-AUS3Q32W_8lyp0WRiyTnknWoekQd2wf9RgRyyz17qOaIdGrivrHt29FjJ",
+                    "width": 1288
+                }
+            ],
+            "place_id": "ChIJt2VXbvi4wjsRM1I2NYnAGvY",
+            "plus_code": {
+                "compound_code": "JR83+JV Pune, Maharashtra",
+                "global_code": "7JCMJR83+JV"
+            },
+            "rating": 4.9,
+            "reference": "ChIJt2VXbvi4wjsRM1I2NYnAGvY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Shop No.Plot No.296,Near Hemu Kalani Garden, Pimpri, 1, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6059357,
+                    "lng": 73.7564926
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60728067989272,
+                        "lng": 73.75784302989273
+                    },
+                    "southwest": {
+                        "lat": 18.60458102010728,
+                        "lng": 73.75514337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Khilare Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ8Sejb0W5wjsRSe23vixNm_A",
+            "rating": 4,
+            "reference": "ChIJ8Sejb0W5wjsRSe23vixNm_A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JQ44+9H9, Munjoba Nagar, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad"
+        }
+    ],
+    "status": "OK"
+}

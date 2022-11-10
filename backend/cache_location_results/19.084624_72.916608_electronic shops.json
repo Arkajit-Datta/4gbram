@@ -1,0 +1,952 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRirSVnTlV10czS1oNOoSjkAQNOttPCct5wbIcIJMhlRI2HBsqzc-ctKsFFeFhRzdkga-c3JG-xW3RAH6sfbyXmB6zYCcmlkD_bbTksy6EC42KXabTmmuyJiWZtrVBvHvnNs1UcGg5yja1UGlp-edVAq59r0W_btY2wznA38-5AJ40p0JakrntJ4c_LTJtQh3rTCVC--GJxvgQ47otLTSQ3DXIc0kSDiDmN8OTsY8nhX27p_yjmtl9YdIdt-1w8-0fkI6CjCFBeo_ckvkiIcxCfOmfcaddwL0rQ52sRL535_vnhzmpskIi7SJIdIQ845U2kxmY1Ev0_z-QvtEMwSANsujmeWJoxHSbXHRRXTfwCCAMANIi0xV_WA3OMpEmw5rZwakdrI0Q0LWwdmAUmK6wtUPMfLYy3K6sLv5ImjB_0qZkqnrWEZHrPSYIoR4rp-5Ekz",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0993262,
+                    "lng": 72.9164479
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10062187989272,
+                        "lng": 72.91800647989272
+                    },
+                    "southwest": {
+                        "lat": 19.09792222010728,
+                        "lng": 72.91530682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100281902371818142609\">ravi teja</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3IUshSNEnKnI_Bbg2c4XFKHbOVns1ocOSSAAHUeEiqL-vYw1u8786gZribMJLXUg7SshjGPvf-09v6VTtCmYZuC6hvvrnGoS9hyG0Z0G-VnFLq9oigxHULQZkwqkNAR_yy0GRYfZ_q9-Ql_uzVZjBfCR4GINsLFDF4NwO5J2v88Ac",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJcY-bpcjH5zsR1KJX6MlxEIY",
+            "plus_code": {
+                "compound_code": "3WX8+PH Mumbai, Maharashtra",
+                "global_code": "7JFJ3WX8+PH"
+            },
+            "rating": 4,
+            "reference": "ChIJcY-bpcjH5zsR1KJX6MlxEIY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2218,
+            "vicinity": "FF-52, R City Mall, Phase 2, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0816376,
+                    "lng": 72.84143460000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08295582989272,
+                        "lng": 72.84269217989272
+                    },
+                    "southwest": {
+                        "lat": 19.08025617010728,
+                        "lng": 72.83999252010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Farhan Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJcUh6IKjJ5zsR0SVLIELSwaw",
+            "rating": 0,
+            "reference": "ChIJcUh6IKjJ5zsR0SVLIELSwaw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3RJR+MH3, MG Road, Railway Colony, Santacruz West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1045341,
+                    "lng": 72.8451631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10590952989272,
+                        "lng": 72.84658232989273
+                    },
+                    "southwest": {
+                        "lat": 19.10320987010728,
+                        "lng": 72.84388267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Zee Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117089198274078651910\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhouPuybaXMVwnlooUzi38H6fHCIpxGttw-sADKA2-ZQwaH8IC_0DbfXmLTyEncC-YPaRcgoF7SGdjswERyWWd7ukQzZ468zp-fSJm_33GxYfogBeqKzlMroY9Am3t6AAw-bWXuPqrB4K7cBtdm5vrFgK0CFx_kUogmj4ZVOkl16AIK",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjQhaILTJ5zsRQOetK3-Be8U",
+            "plus_code": {
+                "compound_code": "4R3W+R3 Mumbai, Maharashtra",
+                "global_code": "7JFJ4R3W+R3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJjQhaILTJ5zsRQOetK3-Be8U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 452,
+            "vicinity": "Shop no. 1,2,3, Anand Amrut, Tejpal Rd, near Parle Biscuit Factory, Vile Parle East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0479807,
+                    "lng": 72.9074758
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04922632989272,
+                        "lng": 72.90871777989273
+                    },
+                    "southwest": {
+                        "lat": 19.04652667010728,
+                        "lng": 72.90601812010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106210222648993612870\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRijAD3BG8LqZFaK1kJd_-yfjugR3LBurL4S3WABfdbnxeAt5YaUVUAorEez1ktZQgH5EmVPLHpXk7svW-7N73_PU6lIdKKU-eISWQu3WP03aCGw_KY3RAyH9J6JTXR4Xu7L_ljTDl9OQvo9V6x4FNj5Gs694fH_EdMeVZ0WZBDTvXdb",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJH4VNhhTH5zsRxaoKaeaDCag",
+            "plus_code": {
+                "compound_code": "2WX4+5X Mumbai, Maharashtra",
+                "global_code": "7JFJ2WX4+5X"
+            },
+            "rating": 4.8,
+            "reference": "ChIJH4VNhhTH5zsRxaoKaeaDCag",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7902,
+            "vicinity": "Ground Floor, Sabari Park, Sion - Trombay Rd, opp. RK studio, Ghatla, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1705735,
+                    "lng": 72.8740085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.17216172989272,
+                        "lng": 72.87548747989271
+                    },
+                    "southwest": {
+                        "lat": 19.16946207010728,
+                        "lng": 72.87278782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sainath Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJnZ6OqO635zsR9oursWMrUys",
+            "plus_code": {
+                "compound_code": "5VCF+6J Mumbai, Maharashtra",
+                "global_code": "7JFJ5VCF+6J"
+            },
+            "rating": 0,
+            "reference": "ChIJnZ6OqO635zsR9oursWMrUys",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 1/ 4, Suyog Society, Film City Road, Goregaon East, Mumbai - 400063"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1293418,
+                    "lng": 72.826184
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.13069162989272,
+                        "lng": 72.82753382989272
+                    },
+                    "southwest": {
+                        "lat": 19.12799197010727,
+                        "lng": 72.82483417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "B.J. Electronics.",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104207798093265663501\">Spirie India</a>"
+                    ],
+                    "photo_reference": "AcYSjRhH2E_HTOl7CJ37BWBiPo1DoJdtERMflt07oq_affn5zNL-r8ra2P7B30Ja-t4MDIEbtGA04sM1bkMMOZdZhOElYKSYnoVwv1KQFUqY71GYRfEwWEhneckiN4S4_IP8OhCJUdSkqlI6RS64myoIuE-rsx50yPGg---7Ulb9B4PtzRWV",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJbUJ5YdO35zsR1Wy5muNs7ko",
+            "plus_code": {
+                "compound_code": "4RHG+PF Mumbai, Maharashtra",
+                "global_code": "7JFJ4RHG+PF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJbUJ5YdO35zsR1Wy5muNs7ko",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Shop No. 10, Sai Kanwal Complex, Indira Nagar Near DN Nagar Metro Station Off, JP Road Next to PMC Bank Near Manish Nagar, Four Bungalows, Andheri West, behind Indian Oil Nagar, Andheri(w, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0641043,
+                    "lng": 72.8296399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06546107989272,
+                        "lng": 72.83095867989272
+                    },
+                    "southwest": {
+                        "lat": 19.06276142010728,
+                        "lng": 72.82825902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hamza Electric & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116859819605586260545\">Nishit Jain</a>"
+                    ],
+                    "photo_reference": "AcYSjRhh2bz84DsnSLwes8mcw2BuoQpF_Flu_ZUhR34ldiJQtpQyDdtd6UGDHchBfnYrcYOD2J_fcLwO63dhXjTUDNdsJ_mYfTOcbMFSHFTsqFnR30DGMg2_QMpkkLVG_FxZFMkVIxFTd2cTmOMLZ1cAJL_H49hM6lot3jdLObWAbqEmzi5s",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJf-c77RLJ5zsRzdifX5gurTY",
+            "plus_code": {
+                "compound_code": "3R7H+JV Mumbai, Maharashtra",
+                "global_code": "7JFJ3R7H+JV"
+            },
+            "rating": 3.7,
+            "reference": "ChIJf-c77RLJ5zsRzdifX5gurTY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "115, C, Dr Ambedkar Road, Pali Mala Rd, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0540982,
+                    "lng": 72.88707959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05534637989272,
+                        "lng": 72.88844137989271
+                    },
+                    "southwest": {
+                        "lat": 19.05264672010728,
+                        "lng": 72.88574172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116724470048912845980\">Jiwan Waghmare</a>"
+                    ],
+                    "photo_reference": "AcYSjRiiSaAgxQpEpHp0X5ezbRN7CWZhFqda9qDEXV7TnlyXpG_2hjhB8tu05fkNJYTkJ2FpPI-4MxZSrpIFXNd_gi16rxlMr6vYbyXZ9QvXGK8zUj62i64tTQ9zKPc9eeX9QMHGEH8PfaVa7G8ghXvz4OJLH7ROMCjkdh-19G6pD68Pqdg",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJt8ckKqXI5zsRDFoQZSs7qXM",
+            "plus_code": {
+                "compound_code": "3V3P+JR Mumbai, Maharashtra",
+                "global_code": "7JFJ3V3P+JR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJt8ckKqXI5zsRDFoQZSs7qXM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2126,
+            "vicinity": "Ground Floor & First Floor, V N Purav Road, Chembur, Near Swastik Mill Compound, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0869923,
+                    "lng": 72.8897252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08789682989272,
+                        "lng": 72.89097417989271
+                    },
+                    "southwest": {
+                        "lat": 19.08519717010728,
+                        "lng": 72.88827452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117801381169167959482\">SeeInside inc</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpOIKl7id-WWURl8HbSGs7FP6ZG0IbPTSq8EehzzcUtpQFk4G6D_QMpxJaKo0wYr-vgF0fiEEYQMJvQ8DMaeU3Q4UmuPLKK7rdfpYTOpO8h8qpBW_CLn8NgrmLL4GLCxezzja78qveps50c3HoNuJ8TOp78EFoUmfmOtMrwtnbEBca",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJd5d5d33I5zsRs_PlDfVJkq4",
+            "plus_code": {
+                "compound_code": "3VPQ+QV Mumbai, Maharashtra",
+                "global_code": "7JFJ3VPQ+QV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJd5d5d33I5zsRs_PlDfVJkq4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7858,
+            "vicinity": "UG - 41, 42, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0422248,
+                    "lng": 72.863343
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04355457989272,
+                        "lng": 72.86472862989271
+                    },
+                    "southwest": {
+                        "lat": 19.04085492010728,
+                        "lng": 72.86202897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - SION (WEST)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2022,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112138243305552815242\">Sagar Kolekar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhyjCrTTmCTYdQEayMl0BH08m6mllNjYIihrXQiIOSVBeRNld2aink7njO_910duDhELyqZsl7QOfU2VAXjsRPMSEow-DaMgAyzx0biR2D2VQjJRWOOiCjzlHVBQmoPfU-H1sPDtF5I_LY8ng8SF7Ub9C75iIDc1pe6JL_LqRXUyym3",
+                    "width": 1786
+                }
+            ],
+            "place_id": "ChIJ0XwbCtLI5zsRwdXCrMu92ko",
+            "plus_code": {
+                "compound_code": "2VR7+V8 Mumbai, Maharashtra",
+                "global_code": "7JFJ2VR7+V8"
+            },
+            "rating": 4,
+            "reference": "ChIJ0XwbCtLI5zsRwdXCrMu92ko",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1343,
+            "vicinity": "Indrapuri Society, near Waman Hari Pethe Jwellars, next to Cambridge Showroom, Sion West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1033948,
+                    "lng": 72.8875959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10475392989272,
+                        "lng": 72.88889847989272
+                    },
+                    "southwest": {
+                        "lat": 19.10205427010728,
+                        "lng": 72.88619882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BHAIRAV ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105131911942016193842\">BHAIRAV ELECTRONICS</a>"
+                    ],
+                    "photo_reference": "AcYSjRjowhxrlNV3f6WZkHl17KhRfBAXOp-w3roodfxq_VtoZPxZPvQ-s8u1FJCzlNpG7W33xaMmcXsoFyu_ubiV5allaxtCII_Rph8ymN58rV1Q5lrdVxwMMp7MH-kTGirSp623M0a6Glx2sF2xTFm06INY3otJXrc0oVy-QDfaqTBYNDMc",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJbyLwAnLI5zsRTdVLPFlQqi8",
+            "plus_code": {
+                "compound_code": "4V3Q+92 Mumbai, Maharashtra",
+                "global_code": "7JFJ4V3Q+92"
+            },
+            "rating": 3.3,
+            "reference": "ChIJbyLwAnLI5zsRTdVLPFlQqi8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No.5, Gadekar colony, nr. Maharashtra kata, nxt to metro station,, sakinaka,, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0724506,
+                    "lng": 72.84404649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07380537989272,
+                        "lng": 72.84546177989273
+                    },
+                    "southwest": {
+                        "lat": 19.07110572010728,
+                        "lng": 72.8427621201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ansari Electronic",
+            "place_id": "ChIJXdfF8F7J5zsR-rSlW0WGU-M",
+            "plus_code": {
+                "compound_code": "3RCV+XJ Mumbai, Maharashtra",
+                "global_code": "7JFJ3RCV+XJ"
+            },
+            "rating": 0,
+            "reference": "ChIJXdfF8F7J5zsR-rSlW0WGU-M",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Golibar Naka, Santacruz East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0984406,
+                    "lng": 73.0067145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09977607989272,
+                        "lng": 73.00801637989274
+                    },
+                    "southwest": {
+                        "lat": 19.09707642010727,
+                        "lng": 73.00531672010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Daksh Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJy0ZQa9jA5zsRcXfMFLVrFEM",
+            "plus_code": {
+                "compound_code": "32X4+9M Kopar Khairane, Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32X4+9M"
+            },
+            "rating": 0,
+            "reference": "ChIJy0ZQa9jA5zsRcXfMFLVrFEM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1/D/25, Suyash Society, near Ganesh Mandir, Sector 10, Kopar Khairane, Thane"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0713493,
+                    "lng": 73.000539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07284912989272,
+                        "lng": 73.00190577989272
+                    },
+                    "southwest": {
+                        "lat": 19.07014947010728,
+                        "lng": 72.99920612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arcee Electronics Vashi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108214659098153890950\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhiiHNuhhwSTz_lBJOPLnY9AdkOYzPG0Tzh_ecb2Scq7ZD3PtaNLeBVqkVKVOuu1kqnxqspxB11Zuym7EtcoITh8x12XgB-XLUaB8-qjZlkJLE9fF2UjcPqmQRr3nU8PTNsrlmQCxHfYJ_dat8ADX2-Xdg8m13I-MrjE2VsYmHcnk-2",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ____v0nB5zsRuWx_x6kz0V0",
+            "plus_code": {
+                "compound_code": "32C2+G6 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32C2+G6"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ____v0nB5zsRuWx_x6kz0V0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 214,
+            "vicinity": "Caveri Cooperative Housing Society Limited, No. 27/ 28/ 29/ 36/ 37/ 38, Sector 17, Vashi, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1279765,
+                    "lng": 72.8252706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.12932002989272,
+                        "lng": 72.82665322989273
+                    },
+                    "southwest": {
+                        "lat": 19.12662037010728,
+                        "lng": 72.82395357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Satyam Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107022599195368502083\">Dhansingh Rathore</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJPrZvmvCyqbG1w-3riMGFnlJ818Ih27oCunSDzhvcoTdU8pYrDL-LcPo2d9pQKaYxiRQZLNT7VzDWFoeeHnolZnuRvrl2VFU3otW14BAIBhjkHfXkkGKWFYTccqUlkFWdtFFc2tSectL2BAX6j6B7uyy-MyKUZjm8aMMJz1SvZbo1",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ____P-DJ5zsRwix_jPkNU6w",
+            "plus_code": {
+                "compound_code": "4RHG+53 Mumbai, Maharashtra",
+                "global_code": "7JFJ4RHG+53"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ____P-DJ5zsRwix_jPkNU6w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 374,
+            "vicinity": "A Vishwageet, Main Market, 3, Saint Louis Convent Rd, Ratan Nagar, Four Bungalows, Andheri West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.045826,
+                    "lng": 72.8971242
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04717922989272,
+                        "lng": 72.89847357989272
+                    },
+                    "southwest": {
+                        "lat": 19.04447957010728,
+                        "lng": 72.89577392010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NAKODA ELECTRONIC",
+            "place_id": "ChIJx_gsZbPJ5zsRWMK6bepFp1A",
+            "plus_code": {
+                "compound_code": "2VWW+8R Mumbai, Maharashtra",
+                "global_code": "7JFJ2VWW+8R"
+            },
+            "rating": 0,
+            "reference": "ChIJx_gsZbPJ5zsRWMK6bepFp1A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 1, CG Rd, near Ganpati Temple, Jeevan Sangaram Nagar, Chembur Colony, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0659696,
+                    "lng": 72.85724800000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06744897989272,
+                        "lng": 72.85862767989272
+                    },
+                    "southwest": {
+                        "lat": 19.06474932010727,
+                        "lng": 72.85592802010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Suryansh Electronic",
+            "place_id": "ChIJL4A2_uPI5zsRAAAAMCow-Uk",
+            "plus_code": {
+                "compound_code": "3V84+9V Mumbai, Maharashtra",
+                "global_code": "7JFJ3V84+9V"
+            },
+            "rating": 0,
+            "reference": "ChIJL4A2_uPI5zsRAAAAMCow-Uk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Bharat Nagar Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1097665,
+                    "lng": 72.8582303
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11110507989272,
+                        "lng": 72.85955387989273
+                    },
+                    "southwest": {
+                        "lat": 19.10840542010728,
+                        "lng": 72.85685422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Satyam Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118266092055813661044\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3jDVEZ1JTB6AWjasJ5aWJB1SZZmmQim31zkeHoomq0533JZ48t_TcijEp6cgI0qaTo-D0RpPWCqhEIXkBFnfVvU7A9DSAZ4UC9_pwMvYDVnvI4MHN_xCy_nkX66NjbRDeEotz157bdjl47I2q5Ph3ax3m6B5cUvWEaYMFjmW8nQjQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ2bXiODbI5zsRc90WMLXldB8",
+            "rating": 4,
+            "reference": "ChIJ2bXiODbI5zsRc90WMLXldB8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Shop no 2/3,Omex Co-Op Society Tarunbharat Road Opp Cigarate Factory (E), Chakala, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.071124,
+                    "lng": 72.8794637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07249552989272,
+                        "lng": 72.88081042989272
+                    },
+                    "southwest": {
+                        "lat": 19.06979587010728,
+                        "lng": 72.87811077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Janta Electronic And Hardware",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ64hiSpLI5zsRgyZTgNDiKPA",
+            "plus_code": {
+                "compound_code": "3VCH+CQ Mumbai, Maharashtra",
+                "global_code": "7JFJ3VCH+CQ"
+            },
+            "rating": 0,
+            "reference": "ChIJ64hiSpLI5zsRgyZTgNDiKPA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 203, Suraj Prasad Chawl, S G Brave Marg, Kurla West, John Mary Enclave, near L Ward Office, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1192733,
+                    "lng": 72.9114103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.12075547989272,
+                        "lng": 72.91269492989272
+                    },
+                    "southwest": {
+                        "lat": 19.11805582010728,
+                        "lng": 72.90999527010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Subhash Electronics",
+            "place_id": "ChIJP8iaKuTH5zsRJVMLcOd3zW4",
+            "plus_code": {
+                "compound_code": "4W96+PH Mumbai, Maharashtra",
+                "global_code": "7JFJ4W96+PH"
+            },
+            "rating": 0,
+            "reference": "ChIJP8iaKuTH5zsRJVMLcOd3zW4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Galleria Shopping Mall, Shop Number 5, Powai, Mumbai"
+        }
+    ],
+    "status": "OK"
+}

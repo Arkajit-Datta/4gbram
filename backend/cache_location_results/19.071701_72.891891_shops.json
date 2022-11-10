@@ -1,0 +1,959 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRghdvQbhPJou0mfvyHZFWhSnRu51MkH9S2_8d6AS4eXJS8m3-uhKVGWlOUKhEk1r2G5fP7kYa6VNkhp2a-KJcQITmf_By7IJVBVLacwOSxhp66l9EBPWeCxZ0fyKzSyT9PgVBier3XIj_wC_N8yrejucRphwX-2EVKXRUxDieebtvLj5YnGpV-tbKNoSqPDF3tRPQwiVqpfA5FetFpTM4NZE2rvX_4Ean00fZdznX3yMyXHXxvLh_UbTvXZ8n1pqKwZXjcgZ09nsMmoRRuoLy3WcBd-YaZHNUApMgwmGQ2mxLDy1bKsICe8Ew0jrIPKGzkL4ig9kzmFtTzHGXDN7jrr4urLeOoBNjx8tJnOACKtbJ94_6HWU-R6jiQF4naktae2zi6uM_immNQ3-R92m-AR_edRwUNzmkHZiEeI3CRcKQsGcWbmMg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0665708,
+                    "lng": 72.92649930000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06791262989272,
+                        "lng": 72.92787527989272
+                    },
+                    "southwest": {
+                        "lat": 19.06521297010728,
+                        "lng": 72.92517562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJRQYyEa3H5zsRVNn2xF2RpCM",
+            "plus_code": {
+                "compound_code": "3W8G+JH Mumbai, Maharashtra",
+                "global_code": "7JFJ3W8G+JH"
+            },
+            "rating": 5,
+            "reference": "ChIJRQYyEa3H5zsRVNn2xF2RpCM",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Plot No.43/A, 6, Road No. 5, Govandi Slums, Govandi West, Adasa Nagar, Shivaji Nagar, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0548773,
+                    "lng": 72.8309373
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05623692989272,
+                        "lng": 72.83221752989273
+                    },
+                    "southwest": {
+                        "lat": 19.05353727010728,
+                        "lng": 72.82951787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Twinkle - The Gifts Gallore",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115011712936307573561\">Twinkle The Gifts Gallore</a>"
+                    ],
+                    "photo_reference": "AcYSjRgfR44TYtW8JRTM70Q2FAdC6OkyulvD44UkgEMWmL3wyx4HRhXQgCb0ViOFjU0UzoyZFivj2cJh-0Y-bPh-vq7MS01UiXlI7mMvT84VrmkXAjnmky3F3YaXAViJ_5qGOMMsnU7DKMQkT_N8kDyQOwrWcVMCdoLKj7knCbFJARSvRd0E",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJjzjPrD_J5zsRmkUTz3w9M7U",
+            "plus_code": {
+                "compound_code": "3R3J+X9 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R3J+X9"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjzjPrD_J5zsRmkUTz3w9M7U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121,
+            "vicinity": "A 4/5, St Peters Rd, near Balaji Restaurant, off Hill Road, Shree Baba Nagar, Ranwar, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0698194,
+                    "lng": 72.8780937
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07122377989272,
+                        "lng": 72.87937042989273
+                    },
+                    "southwest": {
+                        "lat": 19.06852412010728,
+                        "lng": 72.87667077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "GUPTA LESS SHOP",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100159073797007884669\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhW9bC1MEKp2QYoBeSz1-Po_h8GkMofLWDDFTaeKQ4U3kLZ_pTb_Zo8MiuaLMQ6scdoqpd0_gALrqB0iPO0o30RPW1wIoHn3tu5MPTBSV7byr__Gx-Tl1Gcz8VGCXhbiUWt7vpLKYB-xE-04W7Tk-SmrLykST6TDGKOYVIRd-_JcCYB",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJNSynaKbJ5zsRFwWWztPsX5c",
+            "plus_code": {
+                "compound_code": "3V9H+W6 Mumbai, Maharashtra",
+                "global_code": "7JFJ3V9H+W6"
+            },
+            "rating": 5,
+            "reference": "ChIJNSynaKbJ5zsRFwWWztPsX5c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop No 1, near St Joseph Church, Kurla West, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.065194,
+                    "lng": 72.83375649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06664042989272,
+                        "lng": 72.83511387989272
+                    },
+                    "southwest": {
+                        "lat": 19.06394077010727,
+                        "lng": 72.83241422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "THE STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112733388807477545641\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjSTTAeGIuUQdNA6nMuGBoJ1Cl8axkRPjXdSpzUAhIr4qjHSkjXv3t7IOqmT57iE6yCURHRi0hXXOW3ni8HsArBp-VJXn4Xe9BpNrZMBVfoOk5HL4xieny8U-0d6VY1Pqtrl6-dO5Op8KGs2M-HhEtsLSD96ZvxdyATr5UHaEkpfidB",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJ_5il3xPJ5zsRTU623gcqfrk",
+            "plus_code": {
+                "compound_code": "3R8M+3G Mumbai, Maharashtra",
+                "global_code": "7JFJ3R8M+3G"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ_5il3xPJ5zsRTU623gcqfrk",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Shop No. S-68, Link Square Mall, 2nd Floor, Opp KFC, Off Linking Road, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.063677,
+                    "lng": 72.83445569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06504677989273,
+                        "lng": 72.83580737989271
+                    },
+                    "southwest": {
+                        "lat": 19.06234712010728,
+                        "lng": 72.83310772010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yuvi shop lasha",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103386252160478382723\">Ajo Alex</a>"
+                    ],
+                    "photo_reference": "AcYSjRhfMYoio2E9x6WrNHc2HsbgqoqrduyQfD8hcQcjQd8JKl7HYreOzSsLcvMADWd4UcNEu-WQ8nw37H6N3qSlP7p_orMb5iX2tJAFx6p1efsXHeAm6nOvG-gNZHIPB1W9G2tmOtebbkHQIJtzjga_Bijqs4UJCnfBMp-z2D19-4bh80DK",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJMdc5rRbJ5zsR0NhLsrV3cB4",
+            "plus_code": {
+                "compound_code": "3R7M+FQ Mumbai, Maharashtra",
+                "global_code": "7JFJ3R7M+FQ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJMdc5rRbJ5zsR0NhLsrV3cB4",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15355,
+            "vicinity": "Shop 45 Bandra Market, Link Rd, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0998183,
+                    "lng": 72.8671039
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10116212989272,
+                        "lng": 72.86846602989272
+                    },
+                    "southwest": {
+                        "lat": 19.09846247010728,
+                        "lng": 72.86576637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Riddhi Collection",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJrRiNR0TI5zsRojwWpoq1i1M",
+            "plus_code": {
+                "compound_code": "3VX8+WR Mumbai, Maharashtra",
+                "global_code": "7JFJ3VX8+WR"
+            },
+            "rating": 4,
+            "reference": "ChIJrRiNR0TI5zsRojwWpoq1i1M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Aimeda Compound, Church Pakhdi Road Number 2, Church Phakhadi, Sahar Village, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0559211,
+                    "lng": 72.8331257
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05719712989272,
+                        "lng": 72.8344967298927
+                    },
+                    "southwest": {
+                        "lat": 19.05449747010728,
+                        "lng": 72.83179707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Batik Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101531276178238786483\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjRrAxpBjI44QF5vlZPxmajnbEu4cl6MIQenuYjDbOfuvdNnFN3ZwZSKncfmbf4peEPzOrLbZsVu7epZqHw9uDxXF3m361AdZKYG4QAVWBfvtSsu3siZw1aqzSP3ZwN7iqQV7MIk7KemTcJ1In4YORzWcixs727N2Czcp3ArC7ZfGbb",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJPaUnqPHJ5zsRDDmLQHIHPEc",
+            "plus_code": {
+                "compound_code": "3R4M+97 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R4M+97"
+            },
+            "rating": 4.7,
+            "reference": "ChIJPaUnqPHJ5zsRDDmLQHIHPEc",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Shop no N 20-21, Wing-A, Elco Arcade, Hill Rd, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0699556,
+                    "lng": 72.8386792
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07134707989272,
+                        "lng": 72.83999727989271
+                    },
+                    "southwest": {
+                        "lat": 19.06864742010728,
+                        "lng": 72.83729762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Stylish & Co Gift Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112527246164931886336\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZNRljS5IlReZ7RmSb49S4HLJ4MFugynA7oe2Djs9wBjnghW2iKE8X48RAHkbt4mhvAmYVmPgCI8Tahya8klwhCrOF4HVYEVnMq_PbjFLjQWJCCeMQvTyVyF2gFgLSf8X2Z0dHEJkKvmbR2CqDG1xlTmX4Umzif5SoWl-7UlmPNZRR",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJKQAv4g_J5zsRk6ipptnOwzs",
+            "plus_code": {
+                "compound_code": "3R9Q+XF Mumbai, Maharashtra",
+                "global_code": "7JFJ3R9Q+XF"
+            },
+            "rating": 4,
+            "reference": "ChIJKQAv4g_J5zsRk6ipptnOwzs",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Amar Building, 2nd Rd, Khar, Ram Krishna Nagar, Khar West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0631032,
+                    "lng": 72.8246988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06443942989272,
+                        "lng": 72.82604162989271
+                    },
+                    "southwest": {
+                        "lat": 19.06173977010728,
+                        "lng": 72.82334197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117489949306933570801\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjIgIFgV_lPljbkhuIq9bQX9WOc18zVfCPt8FTtf_ye-osbuFzwDa0nkaHTf-5ZsttowodKiZOsaR1GFfhOrs611c7vHLa_NKAjeewdzIe0oEXSpER4rr3jdwE4CV86aQGJO_9-fLWLOqZC41i2dYmAv6BuvtYrao_mu3IOO1RhZAue",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJs_sey7HJ5zsRTUnDVPiGB-U",
+            "plus_code": {
+                "compound_code": "3R7F+6V Mumbai, Maharashtra",
+                "global_code": "7JFJ3R7F+6V"
+            },
+            "rating": 4.2,
+            "reference": "ChIJs_sey7HJ5zsRTUnDVPiGB-U",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Anand Villa, 30, Pali Mala Rd, next to Bagel shop, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.027175,
+                    "lng": 72.853674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02861527989272,
+                        "lng": 72.85505922989272
+                    },
+                    "southwest": {
+                        "lat": 19.02591562010728,
+                        "lng": 72.85235957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Beautiful - Matunga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115040734972496476325\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgesst6WRA6YGWW8amm7XtTiB2FwT0zbqmw3vTTHFUE-cbPhyC8oZFVOkNM0KfF_acte9A6wZuQySI_zti0aH-eX7GVKicDWWmRuWgmk0Dt1EH1vrlxc8ZlV_FR05iCx7Lzv4788FhqV63QurQyZti_FIAxGt-rDn5SDcTOGaVZ5jJH",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJxzsdTgXP5zsRReMZ6U5xu5Y",
+            "plus_code": {
+                "compound_code": "2VG3+VF Mumbai, Maharashtra",
+                "global_code": "7JFJ2VG3+VF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJxzsdTgXP5zsRReMZ6U5xu5Y",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "food",
+                "clothing_store",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 421,
+            "vicinity": "1, Palai Complex, Ground Floor, Plot No, 359, Bhandarkar Rd, Matunga (C.R.), Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0608828,
+                    "lng": 72.83601600000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06231277989272,
+                        "lng": 72.83733007989272
+                    },
+                    "southwest": {
+                        "lat": 19.05961312010728,
+                        "lng": 72.83463042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Just Dollar shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117710333930167289547\">sarfaraaz Shaikh</a>"
+                    ],
+                    "photo_reference": "AcYSjRhV_7TO5cJY7Cm_gZPSJF70CRIR4p5OTwo4QeJ6ysZtkhSSPmVLyyG9RvTV5LIxNr6v1jV9ZOVOoqNpWAyp8YP_VeuNT75hnCagqVzRB5kkuAMSwxEpeVsF4AHjShGytPYa8smHjWjm-CX52KGoAqo_yVAsM0kMzSzkZe2uoVFLrnGB",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJjzjPrD_J5zsRgYpG2Wwn5BM",
+            "plus_code": {
+                "compound_code": "3R6P+9C Mumbai, Maharashtra",
+                "global_code": "7JFJ3R6P+9C"
+            },
+            "rating": 3.7,
+            "reference": "ChIJjzjPrD_J5zsRgYpG2Wwn5BM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "Plot No, Sushila Sadan, 228, 31st Rd, opp. Shopper's Stop, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1185625,
+                    "lng": 72.8452476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11984787989272,
+                        "lng": 72.84660647989273
+                    },
+                    "southwest": {
+                        "lat": 19.11714822010727,
+                        "lng": 72.84390682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJk-CecVfJ5zsRMFTNdno_CNM",
+            "plus_code": {
+                "compound_code": "4R9W+C3 Mumbai, Maharashtra",
+                "global_code": "7JFJ4R9W+C3"
+            },
+            "rating": 0,
+            "reference": "ChIJk-CecVfJ5zsRMFTNdno_CNM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NADCO Shopping Centre, near shop, mekaguda, Railway Colony, Andheri West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0887539,
+                    "lng": 72.89363840000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09000957989272,
+                        "lng": 72.89497972989274
+                    },
+                    "southwest": {
+                        "lat": 19.08730992010728,
+                        "lng": 72.89228007010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJnaR16kHJ5zsRWr2GNAUuteI",
+            "rating": 0,
+            "reference": "ChIJnaR16kHJ5zsRWr2GNAUuteI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3VQV+GF2, Gurunanak Nagar, Narayan Nagar, Saki Naka, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.11074,
+                    "lng": 72.86645759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11205027989272,
+                        "lng": 72.86776867989272
+                    },
+                    "southwest": {
+                        "lat": 19.10935062010728,
+                        "lng": 72.86506902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Choice Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJz-2-EjnI5zsR74bLkQV6SHI",
+            "plus_code": {
+                "compound_code": "4V68+7H Mumbai, Maharashtra",
+                "global_code": "7JFJ4V68+7H"
+            },
+            "rating": 4.1,
+            "reference": "ChIJz-2-EjnI5zsR74bLkQV6SHI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 701,
+            "vicinity": "Shop No.5/5, Greenland Apts, J B Nagar, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0676372,
+                    "lng": 72.8355574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06896567989272,
+                        "lng": 72.83690807989272
+                    },
+                    "southwest": {
+                        "lat": 19.06626602010727,
+                        "lng": 72.83420842010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivam Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEQ70vBHJ5zsRuIdUEmZXhyc",
+            "plus_code": {
+                "compound_code": "3R9P+36 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R9P+36"
+            },
+            "rating": 0,
+            "reference": "ChIJEQ70vBHJ5zsRuIdUEmZXhyc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 1, Bhasin House, Opposite Hanuman Mandir, 736 Khar Pali Road, Khar W, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0622966,
+                    "lng": 72.876747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06373172989272,
+                        "lng": 72.87813322989273
+                    },
+                    "southwest": {
+                        "lat": 19.06103207010728,
+                        "lng": 72.87543357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bismillah Shop Traders",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJA4rJYJXI5zsR-hsvAoFu4xE",
+            "plus_code": {
+                "compound_code": "3V6G+WP Mumbai, Maharashtra",
+                "global_code": "7JFJ3V6G+WP"
+            },
+            "rating": 0,
+            "reference": "ChIJA4rJYJXI5zsR-hsvAoFu4xE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "6, Kurla Station Rd, Qureshi Nagar, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0804528,
+                    "lng": 72.8408484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08179692989272,
+                        "lng": 72.84223227989273
+                    },
+                    "southwest": {
+                        "lat": 19.07909727010728,
+                        "lng": 72.83953262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samara Gift Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112085221436261874177\">Kate Nairn</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_XG_uMdofpPeL87c_gvFqA3vCtx08kZORkOVuBTLv0kNfv3-0iAdp_iKEs-910Uvp4UD5dYpfsTeYuowfJmWQOHjQeAdUi20AN9ok-BxO9k3cbqSNmrNgZLy4qp3oaVhcCvtfKXoEX4PXSaQHwxkmtRaRjLim5FlGR2pn--U53tyT",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJ1xb86wfJ5zsRfToqK5_H1Pg",
+            "plus_code": {
+                "compound_code": "3RJR+58 Mumbai, Maharashtra",
+                "global_code": "7JFJ3RJR+58"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ1xb86wfJ5zsRfToqK5_H1Pg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 301,
+            "vicinity": "Santacruz Shopping Center, 2nd Hasnabad Ln, Willingdon, Santacruz West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0533413,
+                    "lng": 72.93776299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05474717989272,
+                        "lng": 72.93909287989273
+                    },
+                    "southwest": {
+                        "lat": 19.05204752010728,
+                        "lng": 72.93639322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shop No 3",
+            "place_id": "ChIJbdHWR5DH5zsRF9zDWog5hVU",
+            "plus_code": {
+                "compound_code": "3W3Q+84 Mumbai, Maharashtra",
+                "global_code": "7JFJ3W3Q+84"
+            },
+            "rating": 3,
+            "reference": "ChIJbdHWR5DH5zsRF9zDWog5hVU",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 3, Yashwantrao Chavan Nagar, Ekta Nagar, Mandala, Mankhurd, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0803009,
+                    "lng": 72.8403897
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08164312989272,
+                        "lng": 72.84180797989272
+                    },
+                    "southwest": {
+                        "lat": 19.07894347010728,
+                        "lng": 72.83910832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Richie Rich",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113589000679834684537\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh51pBoT52ERcX9PhWh_Sy6U7ZPvtCgTp-ov38PefwrxMIGtusdejjhbPGG2WPZYchWqWGJIaEtlthAaCdSMe9oGETkCCPmvp5_dOTaYkMprNFXweDs-E8faA3ViT07y-1MANWu69wsK55ru_89mK_WaunPv2dmwBOYKh77bm9mt_St",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJRc4k5gfJ5zsRac8cC9Rzui8",
+            "plus_code": {
+                "compound_code": "3RJR+45 Mumbai, Maharashtra",
+                "global_code": "7JFJ3RJR+45"
+            },
+            "rating": 4.2,
+            "reference": "ChIJRc4k5gfJ5zsRac8cC9Rzui8",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "Shop No.9, Reshma Apartments, 2nd Hasnabad Lane, Santacruz West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.069084,
+                    "lng": 72.899309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07042797989272,
+                        "lng": 72.90074972989272
+                    },
+                    "southwest": {
+                        "lat": 19.06772832010728,
+                        "lng": 72.89805007010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Channel - The Gift Shop in tilak nagar | Gift shop in chembur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102499862359172667056\">TOSIF Siddique</a>"
+                    ],
+                    "photo_reference": "AcYSjRhEZ0_sEopSKLiQQ33CDPiKJOfLAwCFSV0NQGdDnLfTNR209fb2cm-bDSRfcRPLwHYpR6SpQGhAw1IaQ87ro87cox7AFA4WHD0OKL0Jkl4QUj-lE64ck_zmWBMJqYJpBY05SCoZma6bf8RNo-9LZSjeuhPzqnlYEwxqaIaW9RBd4UgP",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJWwjxpCDG5zsRcaoL81ZrjEM",
+            "plus_code": {
+                "compound_code": "3V9X+JP Mumbai, Maharashtra",
+                "global_code": "7JFJ3V9X+JP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJWwjxpCDG5zsRcaoL81ZrjEM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 341,
+            "vicinity": "Sun view Apartment ,Shop No. 5&6, Opp. Amchi Sala, Chembur West, Tilak Nagar, Mumbai"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,811 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjfb2xAI3v9raE-ES1S3lIqSns48Av6C52JV2TEjn76bAZBMkyn3pTnaOg_ymmKpHJ1zfUmhdaLiycPKF5PkVeIqP1Wqk8JVV3gHVj2O2ULN8hdwRh6m9obci3mvcJE6NA0jYCCQYeI6o3RUP7YGGo6UC_sE45IBQNzh_aJMdP2ATG9Ln2EiAgW63cywqV8e8muhQ4Vy5fb9sHEwUchEFph7fkrtE0uBdIFk08afSuiWJqHuml0YsK8_qV9AEDrRl4CUKEw9vs2_WPrwyzuQ1CcMgfkS0f5KnhUD8IRwxGxBR0wqSgT-kMwPUtskAH9SdPUPjv-acjJ5Iul_7JHcmdfpKLlUGYdKHsCiHRXDiLiOw4DPvdMi988YBNLc3HaK0QKoPx2yvTVv4694xrQ8bFh_WXocI8gt4--AnkofI1EuWCcv2rH2Q",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8083613,
+                    "lng": 75.6390104
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80978092989272,
+                        "lng": 75.64040352989272
+                    },
+                    "southwest": {
+                        "lat": 17.80708127010728,
+                        "lng": 75.63770387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mauli Pan Shop",
+            "place_id": "ChIJTS1SDxI0xDsRAAAAsM5rcWI",
+            "rating": 0,
+            "reference": "ChIJTS1SDxI0xDsRAAAAsM5rcWI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ5Q+8JR, near Kade Petrol Pump, Somrai Nagar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8097416,
+                    "lng": 75.6376931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81111727989272,
+                        "lng": 75.63908052989271
+                    },
+                    "southwest": {
+                        "lat": 17.80841762010728,
+                        "lng": 75.63638087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dhuleshwar Paan Shop And Bekry",
+            "place_id": "ChIJKSWtHS81xDsRw2TXNnxJjls",
+            "plus_code": {
+                "compound_code": "RJ5Q+V3 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJKSWtHS81xDsRw2TXNnxJjls",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Main Road, near Bus Stop, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7545524,
+                    "lng": 75.59786799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75641022989272,
+                        "lng": 75.59855674999999
+                    },
+                    "southwest": {
+                        "lat": 17.75371057010728,
+                        "lng": 75.59580175
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A M Pan Shop",
+            "place_id": "ChIJoWFqxP0xxDsRNI9-C_2ycQY",
+            "plus_code": {
+                "compound_code": "QH3X+R4 Kamti, Maharashtra",
+                "global_code": "7J9QQH3X+R4"
+            },
+            "rating": 0,
+            "reference": "ChIJoWFqxP0xxDsRNI9-C_2ycQY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12, Mangalwedha - Mohol Rd, Kamti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8096419,
+                    "lng": 75.6450576
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81099137989272,
+                        "lng": 75.64641947989271
+                    },
+                    "southwest": {
+                        "lat": 17.80829172010727,
+                        "lng": 75.64371982010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balasaheb Shop",
+            "place_id": "ChIJ-fPFwu01xDsRSE9B7-7vj58",
+            "plus_code": {
+                "compound_code": "RJ5W+V2 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5W+V2"
+            },
+            "rating": 0,
+            "reference": "ChIJ-fPFwu01xDsRSE9B7-7vj58",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8967747,
+                    "lng": 75.5736014
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.89816497989272,
+                        "lng": 75.57496997989273
+                    },
+                    "southwest": {
+                        "lat": 17.89546532010728,
+                        "lng": 75.57227032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balraje Pan Shop",
+            "place_id": "ChIJX2llk9JJxDsRBMReUqZ-1kE",
+            "plus_code": {
+                "compound_code": "VHWF+PC Mohol, Maharashtra",
+                "global_code": "7J9QVHWF+PC"
+            },
+            "rating": 0,
+            "reference": "ChIJX2llk9JJxDsRBMReUqZ-1kE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Main Road Angar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8100938,
+                    "lng": 75.6452228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81144552989272,
+                        "lng": 75.64655607989273
+                    },
+                    "southwest": {
+                        "lat": 17.80874587010728,
+                        "lng": 75.64385642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aslam kirana shop",
+            "place_id": "ChIJ3aeSvrg1xDsRx79ciOM6b7E",
+            "rating": 0,
+            "reference": "ChIJ3aeSvrg1xDsRx79ciOM6b7E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ6W+23P, Bhaji Mandai, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8045097,
+                    "lng": 75.67218969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80585082989272,
+                        "lng": 75.67360507989271
+                    },
+                    "southwest": {
+                        "lat": 17.80315117010728,
+                        "lng": 75.67090542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pratik general stores and ladies shop",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102468194917737508104\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgsLC6KtuiUeN1-_14KzDJg3rkpH4iwdPFOGfqS_ePh48GnRFl6wYBO7QoQ1DkUe06BwiI3RNhR4B16FWAfxGiM7p3N0sgvfmNiqEZW57QnvLg1bTFJecJvMYK0mEi2mtgZVyUXg5l1TEG7Rr61brMftd_AAfyksJy_YQp2cipNArE3",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJbQ38YAE1xDsRxkhSCToWFAo",
+            "rating": 0,
+            "reference": "ChIJbQ38YAE1xDsRxkhSCToWFAo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RM3C+RV4, Ujani Vasahat, Kolegaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7233506,
+                    "lng": 75.649446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72474097989272,
+                        "lng": 75.65070402989272
+                    },
+                    "southwest": {
+                        "lat": 17.72204132010728,
+                        "lng": 75.64800437010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahesh Kirana And General Stores",
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100684197281697893976\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZ9QRLJ56zJRX_2mCWfYlwzYUTT5mnwA-hRFUFT_gc-aXelNomM7jWbIY8YTqv3l1awpEujoXbOgoSdMwqyPIYHE_y0lfS5hko8tHAFfpBKQ81Bx71TNKopmMO8EICbFx50Y4zekl1dO-tU8PoBGD7hHxaWAu459boxgSqeGPHYxtt",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ_SgsxFgzxDsRKGXxCW3OMSw",
+            "plus_code": {
+                "compound_code": "PJFX+8Q Mohol, Maharashtra",
+                "global_code": "7J9QPJFX+8Q"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ_SgsxFgzxDsRKGXxCW3OMSw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Shop No 1 Sayyad Warvade Kurul, Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8100299,
+                    "lng": 75.6391814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81135212989272,
+                        "lng": 75.64053512989271
+                    },
+                    "southwest": {
+                        "lat": 17.80865247010728,
+                        "lng": 75.63783547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Siddhnagesh Paan Shop",
+            "place_id": "ChIJz7pyAQM1xDsR4Qu0XT-SfM4",
+            "plus_code": {
+                "compound_code": "RJ6Q+2M Mohol, Maharashtra",
+                "global_code": "7J9QRJ6Q+2M"
+            },
+            "rating": 0,
+            "reference": "ChIJz7pyAQM1xDsR4Qu0XT-SfM4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bus Stand, Shop No 01 Main Raod, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8091149,
+                    "lng": 75.72558169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81045142989273,
+                        "lng": 75.72688997989272
+                    },
+                    "southwest": {
+                        "lat": 17.80775177010728,
+                        "lng": 75.72419032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shri Ganesh Genrel Store And Mobile Shop",
+            "place_id": "ChIJvxdUtpDLxTsRVt_K1D_N_qs",
+            "plus_code": {
+                "compound_code": "RP5G+J6 Solapur, Maharashtra",
+                "global_code": "7J9QRP5G+J6"
+            },
+            "rating": 0,
+            "reference": "ChIJvxdUtpDLxTsRVt_K1D_N_qs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "02, Chhatrapati Shivaji Maharaj Chowk, Budhavar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7771819,
+                    "lng": 75.6906241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.77821202989272,
+                        "lng": 75.69337254999999
+                    },
+                    "southwest": {
+                        "lat": 17.77551237010728,
+                        "lng": 75.68970794999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Suraj Pan Shop",
+            "place_id": "ChIJGZyl2_AzxDsRWNpffFzQEtE",
+            "plus_code": {
+                "compound_code": "QMGR+V6 Kamti Kh, Maharashtra",
+                "global_code": "7J9QQMGR+V6"
+            },
+            "rating": 0,
+            "reference": "ChIJGZyl2_AzxDsRWNpffFzQEtE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "20, Kamti Kh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8094468,
+                    "lng": 75.63786089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81083542989272,
+                        "lng": 75.63928082989273
+                    },
+                    "southwest": {
+                        "lat": 17.80813577010728,
+                        "lng": 75.63658117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ganesh Shop",
+            "place_id": "ChIJIbibhxc1xDsRLB8I8asqOj8",
+            "plus_code": {
+                "compound_code": "RJ5Q+Q5 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+Q5"
+            },
+            "rating": 0,
+            "reference": "ChIJIbibhxc1xDsRLB8I8asqOj8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8098692,
+                    "lng": 75.6473089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81122537989272,
+                        "lng": 75.64856652989272
+                    },
+                    "southwest": {
+                        "lat": 17.80852572010728,
+                        "lng": 75.64586687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GM PAN SHOP",
+            "place_id": "ChIJB_juGSI1xDsR7HZ-v4audiQ",
+            "rating": 5,
+            "reference": "ChIJB_juGSI1xDsR7HZ-v4audiQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RJ5W+WWV, Silanganpand Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8095884,
+                    "lng": 75.6378634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81094697989272,
+                        "lng": 75.63922602989271
+                    },
+                    "southwest": {
+                        "lat": 17.80824732010728,
+                        "lng": 75.63652637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Amit General Store",
+            "place_id": "ChIJ6T_WFmA1xDsReZ-ZAjQUGaw",
+            "plus_code": {
+                "compound_code": "RJ5Q+R4 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+R4"
+            },
+            "rating": 0,
+            "reference": "ChIJ6T_WFmA1xDsReZ-ZAjQUGaw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Bus Stand Main Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8094742,
+                    "lng": 75.63784009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81086307989272,
+                        "lng": 75.63926852989272
+                    },
+                    "southwest": {
+                        "lat": 17.80816342010727,
+                        "lng": 75.63656887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nilkantha Shop",
+            "place_id": "ChIJJdn1jKY1xDsRlAahrkYZQnI",
+            "plus_code": {
+                "compound_code": "RJ5Q+Q5 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+Q5"
+            },
+            "rating": 0,
+            "reference": "ChIJJdn1jKY1xDsRlAahrkYZQnI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 12, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7929527,
+                    "lng": 75.639006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.79430382989272,
+                        "lng": 75.64033262989271
+                    },
+                    "southwest": {
+                        "lat": 17.79160417010728,
+                        "lng": 75.63763297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gurukrupa Pan Shop",
+            "place_id": "ChIJN_hrQfQzxDsR2id_FRVUJL4",
+            "plus_code": {
+                "compound_code": "QJVQ+5J Mohol, Maharashtra",
+                "global_code": "7J9QQJVQ+5J"
+            },
+            "rating": 0,
+            "reference": "ChIJN_hrQfQzxDsR2id_FRVUJL4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5 Kurul, Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8067283,
+                    "lng": 75.64594459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80810527989272,
+                        "lng": 75.64727112989272
+                    },
+                    "southwest": {
+                        "lat": 17.80540562010728,
+                        "lng": 75.64457147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hanumant Shop",
+            "place_id": "ChIJG_jiMmM1xDsR5ulwFbVNwBQ",
+            "plus_code": {
+                "compound_code": "RJ4W+M9 Mohol, Maharashtra",
+                "global_code": "7J9QRJ4W+M9"
+            },
+            "rating": 0,
+            "reference": "ChIJG_jiMmM1xDsR5ulwFbVNwBQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no 01 Mani Rod Mohol, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8973253,
+                    "lng": 75.5731289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.89867187989272,
+                        "lng": 75.57445362989273
+                    },
+                    "southwest": {
+                        "lat": 17.89597222010728,
+                        "lng": 75.57175397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shaurya Traders",
+            "place_id": "ChIJKz8DYsdJxDsR2SSboAVBMFs",
+            "plus_code": {
+                "compound_code": "VHWF+W7 Paslewadi, Maharashtra",
+                "global_code": "7J9QVHWF+W7"
+            },
+            "rating": 0,
+            "reference": "ChIJKz8DYsdJxDsR2SSboAVBMFs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Road, near Angar, Paslewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8094331,
+                    "lng": 75.6403065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81072497989273,
+                        "lng": 75.64165517989272
+                    },
+                    "southwest": {
+                        "lat": 17.80802532010728,
+                        "lng": 75.63895552010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prateshmesh Shop",
+            "place_id": "ChIJqZR_yAs1xDsR8zZQTeZW6Z0",
+            "plus_code": {
+                "compound_code": "RJ5R+Q4 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5R+Q4"
+            },
+            "rating": 0,
+            "reference": "ChIJqZR_yAs1xDsR8zZQTeZW6Z0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop 01, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7430376,
+                    "lng": 75.7209731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74429177989272,
+                        "lng": 75.72232032989271
+                    },
+                    "southwest": {
+                        "lat": 17.74159212010728,
+                        "lng": 75.71962067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shambhuraje kirana & jeneral store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112864234352180794288\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRimw_lEbw_clpnkCQRfP7mSZJkA6OExP8l82dyri56iM7lBUwA0X44UXJbG8oQMNhQBqZXoJNIQ0nKSqH1cR5WAqpYNWXJ5WlWl0eCSLZpO9RUQV3jv7ZU2V5M-5mSQjuVCBXQwMkuA-N_utJn1DmwlxHm7yvc3BHfkhxBBEVtJ5j7T",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJ6zHIov3NxTsRLjnfunmflgE",
+            "plus_code": {
+                "compound_code": "PPVC+69 Mohol, Maharashtra",
+                "global_code": "7J9QPPVC+69"
+            },
+            "rating": 5,
+            "reference": "ChIJ6zHIov3NxTsRLjnfunmflgE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Zp school mundhewadi, Mohol"
+        }
+    ],
+    "status": "OK"
+}

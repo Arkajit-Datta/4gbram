@@ -1,0 +1,787 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiQt5BoaTTmE9HFpQ1uZ_pXrqa4tMBxg2RcZ3JS9MTP3erQzKl9cmP5gn2bUkQQ2fR782ic5-0PC9Wxlt-Dj5mMBa1XJitIBuPXCkxk72_x5TbOpvtayITNE9aRZGrwB5_iMvW28jHIEKQmhWRlVXS0Zm9PzBVRsa1lOGrvMZRc4OJmLlsuI6gTaKvnMmat_xTrvdsj7GLmzMdXGJNg8ZjA2f_4IL_JuQozdpGHqqYM6NgnOdhP7bmd4crokxLKrS5OD-QBdI3MlAhhApA4mIOMt-wci3LSC8wSOghFTAxLSQ0kffiwf3lMZQnp2JrO0Tzf9gWv7U9JvmCTM_719tDTR245FPAY6fNoOFzQSt54y7ZxhRz64AYY26qJTqJiYlgmvwIpJynwFLBXgOiNJece5ABu0KuvXnPoow-sw-Tc7Qd6RVpL_w",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8387665,
+                    "lng": 76.6202285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84009042989272,
+                        "lng": 76.62157022989273
+                    },
+                    "southwest": {
+                        "lat": 17.83739077010728,
+                        "lng": 76.61887057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Priya Pan Shop",
+            "place_id": "ChIJHRAszFpbzzsRfp61QoMPGFc",
+            "plus_code": {
+                "compound_code": "RJQC+G3 Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJHRAszFpbzzsRfp61QoMPGFc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 06, Main Road, near Bas Stand, Aarogya Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8413203,
+                    "lng": 76.6118467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84256867989272,
+                        "lng": 76.61316107989272
+                    },
+                    "southwest": {
+                        "lat": 17.83986902010727,
+                        "lng": 76.61046142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhargavi Kirana Store",
+            "place_id": "ChIJB_sxGtFbzzsRARmzzMHO-5c",
+            "plus_code": {
+                "compound_code": "RJR6+GP Omerga, Maharashtra",
+                "global_code": "7J9RRJR6+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJB_sxGtFbzzsRARmzzMHO-5c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mansana colony, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8382428,
+                    "lng": 76.61954589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83954292989272,
+                        "lng": 76.62088697989273
+                    },
+                    "southwest": {
+                        "lat": 17.83684327010728,
+                        "lng": 76.61818732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "GHODKE PAN SHOP",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110665923437360229990\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj6ygXu3xRk5iSbneAwO5yYaDErA0Km3tpG_4OQSbTy4zKIABhRMs1QdXkoGPmiWtGZMhbBhQ07qoVqG0BcRou3EkK8ZHg3okJkjRlaMhnLEk82z4AXbThmHaeuq_CNefC0pp8zTV6fYquPDvALMautCeZg5C6A-3xPshx-Alfe3w8v",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ2x1KeExbzzsRFf6nnlwo7W0",
+            "plus_code": {
+                "compound_code": "RJQ9+7R Omerga, Maharashtra",
+                "global_code": "7J9RRJQ9+7R"
+            },
+            "rating": 5,
+            "reference": "ChIJ2x1KeExbzzsRFf6nnlwo7W0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No.08, Aarogya Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8399372,
+                    "lng": 76.61932089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84124167989272,
+                        "lng": 76.62068637989272
+                    },
+                    "southwest": {
+                        "lat": 17.83854202010728,
+                        "lng": 76.61798672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BEST TEA STALL AND PAN SHOP",
+            "place_id": "ChIJA7xqluFbzzsR5yARGeSNivc",
+            "plus_code": {
+                "compound_code": "RJQ9+XP Omerga, Maharashtra",
+                "global_code": "7J9RRJQ9+XP"
+            },
+            "rating": 0,
+            "reference": "ChIJA7xqluFbzzsR5yARGeSNivc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.05 Indra Chowk, near Bas Stand, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8382829,
+                    "lng": 76.6231251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83963782989272,
+                        "lng": 76.62444007989272
+                    },
+                    "southwest": {
+                        "lat": 17.83693817010728,
+                        "lng": 76.62174042010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vishal Pan Shop",
+            "place_id": "ChIJM_Xod7VbzzsR7fGkqkS3ZME",
+            "plus_code": {
+                "compound_code": "RJQF+86 Omerga, Maharashtra",
+                "global_code": "7J9RRJQF+86"
+            },
+            "rating": 0,
+            "reference": "ChIJM_Xod7VbzzsR7fGkqkS3ZME",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 03, Main Rood, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8321135,
+                    "lng": 76.6255778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83346077989273,
+                        "lng": 76.62689857989271
+                    },
+                    "southwest": {
+                        "lat": 17.83076112010728,
+                        "lng": 76.62419892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "R.K PAAN SHOP",
+            "place_id": "ChIJrYMo3CtbzzsR974YlXTjulU",
+            "plus_code": {
+                "compound_code": "RJJG+R6 Omerga, Maharashtra",
+                "global_code": "7J9RRJJG+R6"
+            },
+            "rating": 0,
+            "reference": "ChIJrYMo3CtbzzsR974YlXTjulU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Main Road Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8396746,
+                    "lng": 76.62223089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84102367989272,
+                        "lng": 76.62358327989271
+                    },
+                    "southwest": {
+                        "lat": 17.83832402010728,
+                        "lng": 76.62088362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "FEROZ PAN SHOP",
+            "place_id": "ChIJiz3j7VdbzzsR9MIUVqmId2k",
+            "plus_code": {
+                "compound_code": "RJQC+VV Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+VV"
+            },
+            "rating": 0,
+            "reference": "ChIJiz3j7VdbzzsR9MIUVqmId2k",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.04, New Balaji Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8334047,
+                    "lng": 76.63999530000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83473827989272,
+                        "lng": 76.64150367989272
+                    },
+                    "southwest": {
+                        "lat": 17.83203862010728,
+                        "lng": 76.63880402010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ajay Pan Shop",
+            "place_id": "ChIJzVg5MApbzzsRWtZSEqZRFEk",
+            "plus_code": {
+                "compound_code": "RJMQ+9X Omerga, Maharashtra",
+                "global_code": "7J9RRJMQ+9X"
+            },
+            "rating": 0,
+            "reference": "ChIJzVg5MApbzzsRWtZSEqZRFEk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03, Diggi Rd, Sai Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8097668,
+                    "lng": 76.5967816
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81110602989272,
+                        "lng": 76.59814082989273
+                    },
+                    "southwest": {
+                        "lat": 17.80840637010728,
+                        "lng": 76.59544117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Patil Pan Shop",
+            "place_id": "ChIJ0UlUYzVbzzsRX_kb48-0SoU",
+            "plus_code": {
+                "compound_code": "RH5W+WP Omerga, Maharashtra",
+                "global_code": "7J9RRH5W+WP"
+            },
+            "rating": 0,
+            "reference": "ChIJ0UlUYzVbzzsRX_kb48-0SoU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.06, Gunjoti Rd, near Bus Stand, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8410823,
+                    "lng": 76.62605119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84243347989272,
+                        "lng": 76.62737667989272
+                    },
+                    "southwest": {
+                        "lat": 17.83973382010728,
+                        "lng": 76.62467702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "S M LADIES CORNER AND GIFT SENTER",
+            "place_id": "ChIJuaRa0cxbzzsRPeuZiTURsEw",
+            "plus_code": {
+                "compound_code": "RJRG+CC Omerga, Maharashtra",
+                "global_code": "7J9RRJRG+CC"
+            },
+            "rating": 0,
+            "reference": "ChIJuaRa0cxbzzsRPeuZiTURsEw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01, Main Road, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8397833,
+                    "lng": 76.6222216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84104757989272,
+                        "lng": 76.62356292989273
+                    },
+                    "southwest": {
+                        "lat": 17.83834792010728,
+                        "lng": 76.62086327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Basweshwar Kirana",
+            "place_id": "ChIJleMHR19bzzsRnb1HcFPEqJw",
+            "plus_code": {
+                "compound_code": "RJQC+WV Balsur, Maharashtra",
+                "global_code": "7J9RRJQC+WV"
+            },
+            "rating": 0,
+            "reference": "ChIJleMHR19bzzsRnb1HcFPEqJw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 02, Main Road, near School Omerga, Balsur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8416583,
+                    "lng": 76.6293111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84300752989272,
+                        "lng": 76.63065527989272
+                    },
+                    "southwest": {
+                        "lat": 17.84030787010727,
+                        "lng": 76.62795562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ROHAN PAN SHOP",
+            "place_id": "ChIJa7TRJE1bzzsRKO8d8LoGYuA",
+            "plus_code": {
+                "compound_code": "RJRH+MP Omerga, Maharashtra",
+                "global_code": "7J9RRJRH+MP"
+            },
+            "rating": 0,
+            "reference": "ChIJa7TRJE1bzzsRKO8d8LoGYuA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 07 Sambhaji Chowk, Mulaj Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8396012,
+                    "lng": 76.61771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84082477989272,
+                        "lng": 76.61904407989273
+                    },
+                    "southwest": {
+                        "lat": 17.83812512010728,
+                        "lng": 76.61634442010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OM SAI PAN SHOP",
+            "place_id": "ChIJuZFg2mBbzzsRttTGf0R9duY",
+            "plus_code": {
+                "compound_code": "RJQ9+R3 Omerga, Maharashtra",
+                "global_code": "7J9RRJQ9+R3"
+            },
+            "rating": 0,
+            "reference": "ChIJuZFg2mBbzzsRttTGf0R9duY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02 Main Road Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8361169,
+                    "lng": 76.6323745
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83742447989273,
+                        "lng": 76.63371327989272
+                    },
+                    "southwest": {
+                        "lat": 17.83472482010728,
+                        "lng": 76.63101362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balraje Pan Shop",
+            "place_id": "ChIJeWkm2yhbzzsR3zPyX2QHPSI",
+            "plus_code": {
+                "compound_code": "RJPJ+CW Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJeWkm2yhbzzsR3zPyX2QHPSI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, near Cort Omerga, Balaji Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8396886,
+                    "lng": 76.6222738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84099477989272,
+                        "lng": 76.62361957989273
+                    },
+                    "southwest": {
+                        "lat": 17.83829512010728,
+                        "lng": 76.62091992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "INGLE PAN SHOP",
+            "place_id": "ChIJ3Sn2oaBbzzsRRmHcm22Ai3c",
+            "plus_code": {
+                "compound_code": "RJQC+VW Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+VW"
+            },
+            "rating": 0,
+            "reference": "ChIJ3Sn2oaBbzzsRRmHcm22Ai3c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.08 Chaurasta Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8360569,
+                    "lng": 76.6313986
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83745832989272,
+                        "lng": 76.63276242989272
+                    },
+                    "southwest": {
+                        "lat": 17.83475867010728,
+                        "lng": 76.63006277010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Pan Shop",
+            "place_id": "ChIJk7BPt35bzzsREl7f2BYPgmY",
+            "plus_code": {
+                "compound_code": "RJPJ+CH Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJk7BPt35bzzsREl7f2BYPgmY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Kalas Tamba Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8385109,
+                    "lng": 76.6200401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83986942989272,
+                        "lng": 76.62135477989273
+                    },
+                    "southwest": {
+                        "lat": 17.83716977010727,
+                        "lng": 76.61865512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OM SAI PAN SHOP",
+            "place_id": "ChIJSVhFEgpbzzsRRGhUuOr4Aq4",
+            "plus_code": {
+                "compound_code": "RJQC+C2 Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+C2"
+            },
+            "rating": 0,
+            "reference": "ChIJSVhFEgpbzzsRRGhUuOr4Aq4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.08, near Bas Stand Omerga, Aarogya Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8268987,
+                    "lng": 76.6889381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82824877989272,
+                        "lng": 76.69028762989272
+                    },
+                    "southwest": {
+                        "lat": 17.82554912010728,
+                        "lng": 76.68758797010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Samrudhi Kirana",
+            "place_id": "ChIJh6gs__1FzzsR_uymiwoK2x0",
+            "plus_code": {
+                "compound_code": "RMGQ+QH Turori, Maharashtra",
+                "global_code": "7J9RRMGQ+QH"
+            },
+            "rating": 0,
+            "reference": "ChIJh6gs__1FzzsR_uymiwoK2x0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 04, Main Road, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8421824,
+                    "lng": 76.58765199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84353197989272,
+                        "lng": 76.58899777989272
+                    },
+                    "southwest": {
+                        "lat": 17.84083232010728,
+                        "lng": 76.58629812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Matge Paan Shop",
+            "place_id": "ChIJIb8_qphbzzsRVGhcQ6KXbPs",
+            "plus_code": {
+                "compound_code": "RHRQ+V3 Omerga, Maharashtra",
+                "global_code": "7J9RRHRQ+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJIb8_qphbzzsRVGhcQ6KXbPs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 02 Main Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8382725,
+                    "lng": 76.6222773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83960777989272,
+                        "lng": 76.62371562989273
+                    },
+                    "southwest": {
+                        "lat": 17.83690812010727,
+                        "lng": 76.62101597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VRANDAVAN PAN SHOP",
+            "place_id": "ChIJ44bqp7JbzzsRnEYUz7CWimc",
+            "plus_code": {
+                "compound_code": "RJQC+8W Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+8W"
+            },
+            "rating": 0,
+            "reference": "ChIJ44bqp7JbzzsRnEYUz7CWimc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no.03, Patange Rd, corner, Omerga"
+        }
+    ],
+    "status": "OK"
+}

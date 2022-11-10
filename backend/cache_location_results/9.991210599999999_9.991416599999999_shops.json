@@ -1,0 +1,237 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0661759,
+                    "lng": 9.9957808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.06753312989272,
+                        "lng": 9.997102329892721
+                    },
+                    "southwest": {
+                        "lat": 10.06483347010728,
+                        "lng": 9.994402670107277
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Biggey Design",
+            "place_id": "ChIJk3RbSvUZVRARXepkFVXJp1A",
+            "plus_code": {
+                "compound_code": "3X8W+F8 Birim, Nigeria",
+                "global_code": "7F2F3X8W+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJk3RbSvUZVRARXepkFVXJp1A",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Birim Main Street Town, Bagoro, LGA, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.06652,
+                    "lng": 9.994596
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.06771307989272,
+                        "lng": 9.996543729892721
+                    },
+                    "southwest": {
+                        "lat": 10.06501342010728,
+                        "lng": 9.993844070107277
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ocmous Design",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJMzRgnVkZVRARzfxV854AsNw",
+            "plus_code": {
+                "compound_code": "3X8V+JR Birim, Nigeria",
+                "global_code": "7F2F3X8V+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJMzRgnVkZVRARzfxV854AsNw",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sokoto"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0335,
+                    "lng": 9.9686
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.03490412989272,
+                        "lng": 9.970012429892725
+                    },
+                    "southwest": {
+                        "lat": 10.03220447010728,
+                        "lng": 9.96731277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gamawa Dispensary",
+            "place_id": "ChIJayxo1JceVRARf0P2yFlHR6M",
+            "rating": 5,
+            "reference": "ChIJayxo1JceVRARf0P2yFlHR6M",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "point_of_interest",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2XM9+CC5, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.079541,
+                    "lng": 9.916505899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.08089082989272,
+                        "lng": 9.917855729892718
+                    },
+                    "southwest": {
+                        "lat": 10.07819117010728,
+                        "lng": 9.915156070107274
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "9mobile SIM Registration Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJb8d29AsfVRARDl1XV9nz5Y4",
+            "plus_code": {
+                "compound_code": "3WH8+RJ Kumgas, Nigeria",
+                "global_code": "7F2F3WH8+RJ"
+            },
+            "rating": 0,
+            "reference": "ChIJb8d29AsfVRARDl1XV9nz5Y4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dio Associates Outlet No 2 Opp Magamar Gumau Junction, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.938076599999999,
+                    "lng": 9.898104
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.939426429892722,
+                        "lng": 9.899453829892721
+                    },
+                    "southwest": {
+                        "lat": 9.936726770107278,
+                        "lng": 9.896754170107277
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gwambe Dispensary",
+            "place_id": "ChIJdWaSxqviVBAR4FdogGqBpJU",
+            "rating": 0,
+            "reference": "ChIJdWaSxqviVBAR4FdogGqBpJU",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "point_of_interest",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WVQX+66Q, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0747807,
+                    "lng": 10.0361711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.07614042989272,
+                        "lng": 10.03753347989272
+                    },
+                    "southwest": {
+                        "lat": 10.07344077010728,
+                        "lng": 10.03483382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Yola Doka Dispensary",
+            "place_id": "ChIJu8YkdFgYVRARb9C8ft9S8k4",
+            "rating": 0,
+            "reference": "ChIJu8YkdFgYVRARb9C8ft9S8k4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "point_of_interest",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "32FP+WF7, Bauchi"
+        }
+    ],
+    "status": "OK"
+}

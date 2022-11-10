@@ -1,0 +1,396 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.566141,
+                    "lng": 76.5687294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56748977989272,
+                        "lng": 76.57006862989272
+                    },
+                    "southwest": {
+                        "lat": 17.56479012010728,
+                        "lng": 76.56736897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanket Electronic's aland",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102822479663086652102\">Sudarshan Lokhande</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMfrKWTqNvzEf88HklqkP41HA6R_nAKtqXI3x6MAd6PrBSQ-JMZnOFiL_JuoLEzplOvzWYRgSh6uX0iP3CQh9boRnWcOGRKVr158E3SX7fWetMnabSK0iB7J4Rf8qNCsyS7fx2rWWq14PYpUFXXXvRaRJ7ko7Or041R18X38npoolP",
+                    "width": 1746
+                }
+            ],
+            "place_id": "ChIJA4r-4L6syDsRB03379jM4Po",
+            "plus_code": {
+                "compound_code": "HH89+FF Aland, Karnataka",
+                "global_code": "7J9RHH89+FF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJA4r-4L6syDsRB03379jM4Po",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Main Rd, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5671978,
+                    "lng": 76.56866509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56854672989272,
+                        "lng": 76.57001382989272
+                    },
+                    "southwest": {
+                        "lat": 17.56584707010728,
+                        "lng": 76.56731417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhaskar Electronics Main Road Aland",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116857639019164977990\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1muQs8tDOcp80H9TNPFtp8nGvOHd47Ttpucn48Q1lDTcPubLM805V1KfnvBGZRs5MESlkNxMASQcud7TDgOgO_q_aQmbCRDbjv83PoLYUZOr7r_xTolmc1IedS6g5QiMQLX7kb1eLs1EKKtNgpp7IW4eBW9t86mhkezG-BDW9siud",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJScXM0L6syDsRKii6wtSUBlg",
+            "plus_code": {
+                "compound_code": "HH89+VF Aland, Karnataka",
+                "global_code": "7J9RHH89+VF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJScXM0L6syDsRKii6wtSUBlg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Unnamed Road, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5631161,
+                    "lng": 76.5655922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56448837989272,
+                        "lng": 76.56694892989273
+                    },
+                    "southwest": {
+                        "lat": 17.56178872010728,
+                        "lng": 76.56424927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Qazi Electrical Shop",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107831663551595791531\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4UzN2y-GsZtkiPrfnWkwmZUN52Ep6jXAzxEbAyAMMV4B28kggvCsUwVQ6wTTZ0FHJ_-Lq3TNbTmcYK8VXVjoBIQHS3DHkPGAge5SjvsVOKpJpLXJ1XKuSDLW8B4VOe6kluBjcGcxEOEO1FuN6lLsJXoQOc44vUFB2faCold8uuDAD",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJU99Y5GutyDsRc4fox4CEr08",
+            "plus_code": {
+                "compound_code": "HH78+66 Aland, Karnataka",
+                "global_code": "7J9RHH78+66"
+            },
+            "rating": 4.5,
+            "reference": "ChIJU99Y5GutyDsRc4fox4CEr08",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5648466,
+                    "lng": 76.5687868
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56619687989272,
+                        "lng": 76.57010592989272
+                    },
+                    "southwest": {
+                        "lat": 17.56349722010728,
+                        "lng": 76.56740627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ramesh Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ-yLsVb6syDsR1KT9L9pYHW4",
+            "rating": 4.7,
+            "reference": "ChIJ-yLsVb6syDsR1KT9L9pYHW4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HH79+WGM, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5665289,
+                    "lng": 76.56589629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56789862989272,
+                        "lng": 76.56718452989271
+                    },
+                    "southwest": {
+                        "lat": 17.56519897010728,
+                        "lng": 76.56448487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "gulzar electrical",
+            "place_id": "ChIJO-bKG7ysyDsRJobslj-CyzI",
+            "plus_code": {
+                "compound_code": "HH88+J9 Aland, Karnataka",
+                "global_code": "7J9RHH88+J9"
+            },
+            "rating": 5,
+            "reference": "ChIJO-bKG7ysyDsRJobslj-CyzI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "1, SH 34, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5665391,
+                    "lng": 76.56465510000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56791137989272,
+                        "lng": 76.56602017989272
+                    },
+                    "southwest": {
+                        "lat": 17.56521172010727,
+                        "lng": 76.56332052010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MEHBOOBA KGN DJ SOUND SYSTEM",
+            "place_id": "ChIJoaZXrwqtyDsRROUzATEa4bY",
+            "rating": 0,
+            "reference": "ChIJoaZXrwqtyDsRROUzATEa4bY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH87+JV6, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6991909,
+                    "lng": 76.4239887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70056647989272,
+                        "lng": 76.42529107989272
+                    },
+                    "southwest": {
+                        "lat": 17.69786682010728,
+                        "lng": 76.42259142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jainoddin Mobile Shopy & Computer Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112690212731075150676\">Jainoddin Mobile &amp; Computer Center</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2izAzFUt4ZN1Q7mybqqerc_yOvipA2OAr_TdNgkZDuJZpFuM1cDax2W4vIyEKUExO9X-Vh9N98nFRyPADWODg72OLJ5pFmwaQGKDZ08I5mKPyAqqqSd34yiLQQQfGTr3DYmxlHVs_ZDGwr75Cq02F2Q2alHriixbKE-AogcDP32fO",
+                    "width": 581
+                }
+            ],
+            "place_id": "ChIJaWKpBe_4xTsReO9eh-JyVA8",
+            "plus_code": {
+                "compound_code": "MCXF+MH Alur, Maharashtra",
+                "global_code": "7J9RMCXF+MH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJaWKpBe_4xTsReO9eh-JyVA8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Alur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.6962454,
+                    "lng": 76.42513220000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69759882989272,
+                        "lng": 76.42651177989272
+                    },
+                    "southwest": {
+                        "lat": 17.69489917010728,
+                        "lng": 76.42381212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DTH Sales and Services",
+            "permanently_closed": true,
+            "place_id": "ChIJ8YkNebz5xTsRjmrBD6zDfj8",
+            "rating": 5,
+            "reference": "ChIJ8YkNebz5xTsRjmrBD6zDfj8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MCWG+F2X, Aloor Rd, Alur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.5650071,
+                    "lng": 76.5687987
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56635797989272,
+                        "lng": 76.57011777989273
+                    },
+                    "southwest": {
+                        "lat": 17.56365832010728,
+                        "lng": 76.56741812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raghavendra Electronics",
+            "permanently_closed": true,
+            "place_id": "ChIJr9w__76syDsRO4wwPC4k_Tg",
+            "rating": 0,
+            "reference": "ChIJr9w__76syDsRO4wwPC4k_Tg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH89+2G2, Aland"
+        }
+    ],
+    "status": "OK"
+}

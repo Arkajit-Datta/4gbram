@@ -1,0 +1,826 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjz60MRVJFj1gMOxv6m3MVvTqsyunZJGmcD9MJzeTuted-uN3zITmQQGyUX5IrJ1mJujOm0iwltpGd_tSL-wUZrA9iXcD2gC1U7-qR-TylJ5VHL6DhDGhcNaTM3dKxCXNHmAs27dtfn7KQlI7IwmzRDwBqjNsY-o7KomvwbfGKxkNDQOsG0Bb2zwrZem99mmnzgDhNNr8TfkybHZg-QWblxNKTiAtfXIUzdWxonAPTPM_a24Q03U3nOPlCRNf4tiZI0Bc8O5Cp9HEudWGu_YZNGKU_OGGGk_safWawbpfXO01lXv-jsmvHU7v3GjtjW683SUBE3XCL5P6jDbjxcrYHUGliI1f37x8wFeYo3q4aHqfZZZiP5WXKAWnY0ujgZq4gEhBfz6RxsE4J6jbnzbRNqF6L258Qe04qnvYqTjGcE6ErdOPKWzg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1490034,
+                    "lng": 74.9602251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15035612989272,
+                        "lng": 74.96163437989271
+                    },
+                    "southwest": {
+                        "lat": 18.14765647010728,
+                        "lng": 74.95893472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Krushnali General Store & Kirana Shop.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJUX4wHomBwzsRKNSG4h6Pidk",
+            "rating": 0,
+            "reference": "ChIJUX4wHomBwzsRKNSG4h6Pidk",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4XX6+J3, Bijwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1235121,
+                    "lng": 75.00314449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12484327989272,
+                        "lng": 75.00458877989273
+                    },
+                    "southwest": {
+                        "lat": 18.12214362010728,
+                        "lng": 75.00188912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jagdamba Pan Shop",
+            "place_id": "ChIJpbBteMp_xDsReC-5pWAErqc",
+            "plus_code": {
+                "compound_code": "42F3+C7 Indapur, Maharashtra",
+                "global_code": "7JCQ42F3+C7"
+            },
+            "rating": 0,
+            "reference": "ChIJpbBteMp_xDsReC-5pWAErqc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Near, Baramati Road, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0856999,
+                    "lng": 74.90776249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08702147989272,
+                        "lng": 74.90910797989272
+                    },
+                    "southwest": {
+                        "lat": 18.08432182010727,
+                        "lng": 74.90640832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shourya Pan Shop",
+            "place_id": "ChIJ26a8xvSHwzsRcQVex9-4zZc",
+            "plus_code": {
+                "compound_code": "3WP5+74 Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WP5+74"
+            },
+            "rating": 0,
+            "reference": "ChIJ26a8xvSHwzsRcQVex9-4zZc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shelgaon - Nimgaon Rd, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1169382,
+                    "lng": 75.0267351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11829447989272,
+                        "lng": 75.02808882989271
+                    },
+                    "southwest": {
+                        "lat": 18.11559482010728,
+                        "lng": 75.02538917010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bagwan Fruit Shop",
+            "place_id": "ChIJlz_4Jqd5xDsRNXEL9xsupNM",
+            "plus_code": {
+                "compound_code": "428G+QM Indapur, Maharashtra",
+                "global_code": "7JCQ428G+QM"
+            },
+            "rating": 0,
+            "reference": "ChIJlz_4Jqd5xDsRNXEL9xsupNM",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1near Baramati, Main Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.063867,
+                    "lng": 74.9282375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.06523502989272,
+                        "lng": 74.92958962989272
+                    },
+                    "southwest": {
+                        "lat": 18.06253537010728,
+                        "lng": 74.92688997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RUKMINI MHETRE KIRANA SHOP",
+            "place_id": "ChIJYUZJB4eHwzsR__FKe31Axrc",
+            "rating": 5,
+            "reference": "ChIJYUZJB4eHwzsR__FKe31Axrc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3W7H+G7X, Varkute Khurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2012982,
+                    "lng": 74.9516239
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.20269272989272,
+                        "lng": 74.95301867989272
+                    },
+                    "southwest": {
+                        "lat": 18.19999307010728,
+                        "lng": 74.95031902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PJSB GAIKWAD PAN SHOP",
+            "place_id": "ChIJRRPvs0yBwzsRLi6f3zdIMVc",
+            "plus_code": {
+                "compound_code": "6X22+GJ Varkute Bk., Maharashtra",
+                "global_code": "7JCP6X22+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJRRPvs0yBwzsRLi6f3zdIMVc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Varkute Bk."
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1480259,
+                    "lng": 74.9615669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.14935002989272,
+                        "lng": 74.9629692798927
+                    },
+                    "southwest": {
+                        "lat": 18.14665037010728,
+                        "lng": 74.96026962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PRUTHVIRAJ PAN SHOP",
+            "place_id": "ChIJx8daGq6BwzsR8qiGfayp_bA",
+            "plus_code": {
+                "compound_code": "4XX6+6J Bijwadi, Maharashtra",
+                "global_code": "7JCP4XX6+6J"
+            },
+            "rating": 0,
+            "reference": "ChIJx8daGq6BwzsR8qiGfayp_bA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Bijwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1176058,
+                    "lng": 75.02640889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11891302989272,
+                        "lng": 75.02766147989271
+                    },
+                    "southwest": {
+                        "lat": 18.11621337010728,
+                        "lng": 75.02496182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "POPULAR GENERAL STORES",
+            "place_id": "ChIJY7UapJN5xDsRRhfIYoS2cgU",
+            "plus_code": {
+                "compound_code": "429G+2H Indapur, Maharashtra",
+                "global_code": "7JCQ429G+2H"
+            },
+            "rating": 0,
+            "reference": "ChIJY7UapJN5xDsRRhfIYoS2cgU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nr Baba Chowk, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0867354,
+                    "lng": 74.91526859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08800692989272,
+                        "lng": 74.91666917989271
+                    },
+                    "southwest": {
+                        "lat": 18.08530727010728,
+                        "lng": 74.91396952010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raj Pan Shop",
+            "place_id": "ChIJ0euHYsmHwzsRItrHXzQ-bsY",
+            "plus_code": {
+                "compound_code": "3WP8+M4 Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WP8+M4"
+            },
+            "rating": 0,
+            "reference": "ChIJ0euHYsmHwzsRItrHXzQ-bsY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Nimgav, Near, Baramati Road, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1122536,
+                    "lng": 75.020845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11359982989272,
+                        "lng": 75.02214987989274
+                    },
+                    "southwest": {
+                        "lat": 18.11090017010728,
+                        "lng": 75.01945022010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rajvali Pan Shop",
+            "place_id": "ChIJ3-fsUIh5xDsRCCAThKxm6g8",
+            "plus_code": {
+                "compound_code": "426C+W8 Indapur, Maharashtra",
+                "global_code": "7JCQ426C+W8"
+            },
+            "rating": 3,
+            "reference": "ChIJ3-fsUIh5xDsRCCAThKxm6g8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rajvil Nagar, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1213664,
+                    "lng": 75.014787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12272647989272,
+                        "lng": 75.01606727989271
+                    },
+                    "southwest": {
+                        "lat": 18.12002682010727,
+                        "lng": 75.01336762010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vaishnavi Kirana Store",
+            "place_id": "ChIJjdq6JMJ_xDsRG_gcLG7bnPo",
+            "plus_code": {
+                "compound_code": "42C7+GW Indapur, Maharashtra",
+                "global_code": "7JCQ42C7+GW"
+            },
+            "rating": 0,
+            "reference": "ChIJjdq6JMJ_xDsRG_gcLG7bnPo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Babras Mala, near V.p College, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0874599,
+                    "lng": 74.9172755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08883102989272,
+                        "lng": 74.91862277989271
+                    },
+                    "southwest": {
+                        "lat": 18.08613137010728,
+                        "lng": 74.91592312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhairavnath Paan Shop",
+            "place_id": "ChIJBeWWg-CGwzsRAAAAMPUTo1U",
+            "plus_code": {
+                "compound_code": "3WP8+XW Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WP8+XW"
+            },
+            "rating": 0,
+            "reference": "ChIJBeWWg-CGwzsRAAAAMPUTo1U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Indapur Rd, Rod, Nimgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1288367,
+                    "lng": 75.0037308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.13018477989272,
+                        "lng": 75.00506347989271
+                    },
+                    "southwest": {
+                        "lat": 18.12748512010728,
+                        "lng": 75.00236382010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Apna tea point paan shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113515273890964075053\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRguab_LjJKgOTeae2oKDe8AW1HGoVFDbqLBOA3x5dVvNmDDv8eebwxiWKKsSKnsADyLpF1H9SbFW2ZuNStaSSu7tlOjxrD9sH8c2GVNcx-HDuWIbCKFCJ9631MigXsMPySvQvltO1Oa6-5t7arP2YdzAZejutDSgFr_bBA8s7zuXYoK",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJlfLT9Ed_xDsRWh5bK6seE2w",
+            "plus_code": {
+                "compound_code": "42H3+GF Indapur, Maharashtra",
+                "global_code": "7JCQ42H3+GF"
+            },
+            "rating": 0,
+            "reference": "ChIJlfLT9Ed_xDsRWh5bK6seE2w",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1, Solapur - Pune Hwy, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1577257,
+                    "lng": 74.96794779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15902922989272,
+                        "lng": 74.96925692989272
+                    },
+                    "southwest": {
+                        "lat": 18.15632957010728,
+                        "lng": 74.96655727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KACHARE PAN SHOP AND RECHARGE CENTER",
+            "place_id": "ChIJH7rwiJ1_xDsRg3ypqcWCrSA",
+            "plus_code": {
+                "compound_code": "5X59+35 Rajwadi, Maharashtra",
+                "global_code": "7JCP5X59+35"
+            },
+            "rating": 0,
+            "reference": "ChIJH7rwiJ1_xDsRg3ypqcWCrSA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Solapur - Pune Hwy, Rajwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0826623,
+                    "lng": 74.9250787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08439917989272,
+                        "lng": 74.92589269999999
+                    },
+                    "southwest": {
+                        "lat": 18.08169952010727,
+                        "lng": 74.92263670000003
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JANU PAN SHOP",
+            "place_id": "ChIJf-KbpT6HwzsRW8r1bkoruas",
+            "plus_code": {
+                "compound_code": "3WMG+32 Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WMG+32"
+            },
+            "rating": 0,
+            "reference": "ChIJf-KbpT6HwzsRW8r1bkoruas",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nimgaon Ketki Bijwadi, Rd, Nimgaon Ketki"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1619554,
+                    "lng": 74.9641666
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.16306127989272,
+                        "lng": 74.96529492989272
+                    },
+                    "southwest": {
+                        "lat": 18.16036162010728,
+                        "lng": 74.96259527010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KISMAT GENERAL STORES",
+            "place_id": "ChIJPQWJGAmBwzsRRmfW8IXOU9g",
+            "plus_code": {
+                "compound_code": "5X67+QM Indapur, Maharashtra",
+                "global_code": "7JCP5X67+QM"
+            },
+            "rating": 0,
+            "reference": "ChIJPQWJGAmBwzsRRmfW8IXOU9g",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.085917,
+                    "lng": 74.9262432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08745112989272,
+                        "lng": 74.92773217989271
+                    },
+                    "southwest": {
+                        "lat": 18.08475147010728,
+                        "lng": 74.92503252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prem Pan Shop",
+            "place_id": "ChIJR5jsYSWHwzsRwQkbOqfgE7I",
+            "plus_code": {
+                "compound_code": "3WPG+9F Nimgaon Ketki, Maharashtra",
+                "global_code": "7JCP3WPG+9F"
+            },
+            "rating": 0,
+            "reference": "ChIJR5jsYSWHwzsRwQkbOqfgE7I",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Indapur RoadBhadalwadi, Bhadalwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1140259,
+                    "lng": 75.0272904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11537852989272,
+                        "lng": 75.02859727989272
+                    },
+                    "southwest": {
+                        "lat": 18.11267887010728,
+                        "lng": 75.02589762010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Botre collection (cloth shop )",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJn6XcKLV5xDsRV6ygh-tlJUw",
+            "plus_code": {
+                "compound_code": "427G+JW Indapur, Maharashtra",
+                "global_code": "7JCQ427G+JW"
+            },
+            "rating": 0,
+            "reference": "ChIJn6XcKLV5xDsRV6ygh-tlJUw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Men rode Indapur, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1078653,
+                    "lng": 75.0281206
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.10923117989272,
+                        "lng": 75.0293979798927
+                    },
+                    "southwest": {
+                        "lat": 18.10653152010728,
+                        "lng": 75.02669832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhuj Angraj Kirana And General Store",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112946867668981254940\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj8hX8C5BqD19dQcL-4BmZiD7nFkiyynwOfW9y7843J9N46n3qZXL905dqF6U31WPtLTLFajraPwYqK-KxaP2AuTrMQE1KCNw_9lYoFpoUNKgdwyckCtXtYU1FKQBXkY-SVYQynWWC3CPaMNUOv0RvVEj1-js0XVRd6vPA_g6seXO38",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJbZFvnTp5xDsRAAAAcD74NXk",
+            "plus_code": {
+                "compound_code": "425H+46 Indapur, Maharashtra",
+                "global_code": "7JCQ425H+46"
+            },
+            "rating": 5,
+            "reference": "ChIJbZFvnTp5xDsRAAAAcD74NXk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Navin Kachori 100 Putty Road Indapur, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1186978,
+                    "lng": 75.02340749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12003847989272,
+                        "lng": 75.02477162989273
+                    },
+                    "southwest": {
+                        "lat": 18.11733882010727,
+                        "lng": 75.02207197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHOLK PAN SHOP AND GENERAL STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 563,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111531280891729523518\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpSy8jQIY45tiHkfsJ7pZvoewoLR4s2ec2lWsN_WB00fvnobUsUdVzbzexn7DJSO4nMRLr8bACCAcQR6rHhaRikKsJUY5Z6w2GzxqLzKwjRoSPJ0whVJ_Nabr1oRbee0z-Cfo_fcILa_dJgv5AnPdMmCfa943s6kXEpOSxELrul-0",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJY6TJJrp5xDsRCeEhP0xcL70",
+            "plus_code": {
+                "compound_code": "429F+F9 Indapur, Maharashtra",
+                "global_code": "7JCQ429F+F9"
+            },
+            "rating": 0,
+            "reference": "ChIJY6TJJrp5xDsRCeEhP0xcL70",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Near, Sarkari Davakhan, Indapur"
+        }
+    ],
+    "status": "OK"
+}

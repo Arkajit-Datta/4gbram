@@ -1,0 +1,968 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjdu81MU9KEqfGzMftu-KkRbnjs2zu0xB6CNT8JiAx1ImMfZK2ZbfQu-T0oGOEL3SY5A8P9g_Aaa3DQvIXjfiQvXo1MUmExRMOVMfMbOsFnwDa2zPYpc_JcelGVUI8q7M3ad74Ax76CBsQlB6aeO00rWE39c8BWv-mCi0svNACXKF4XNTmeEuviFGEJh0lw_fBiuOvT7xvchKaEwSc3HjFj8VUvm7QhwXz9kWqBiDFhKoPzttltvdTmXZL3XgvtlDnnB-6HmbpYh96hnDCUzz9lME9McmOtIYqSHe_E4FQzxlI3u5P_7biLcpetFi5hZRD0U8hpT7zRI0oiANNLinZcjhJrzO6x1eI-s0YaW1xAokvt_1MPBMjwCnWwC_-dddj3A8iQ9VZVtDyooVo2WahlWOR-XVxWkB37ShiwndpDf6GI4vwCwHvLs0IUN_Gw4jSd",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.594797,
+                    "lng": 73.72851279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59616177989272,
+                        "lng": 73.72991482989273
+                    },
+                    "southwest": {
+                        "lat": 18.59346212010728,
+                        "lng": 73.72721517010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103084266854657474091\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhtQMO0WvWNdazhhwBIG6VWb_GkHz7TZcRtEBjQjTZ6s4aHA7Mfuh-G4KWJy1bBJ6HlABBZ2QkXU65TcCotBEe-JB312Y6BNN8at6ai44YcqD7cPz58Gb1YU735XQ1BUI6RpcX6GgC4inNiHb5YcSmx-TE9lqZo-Rx7c1shV-fpuCC3",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJx7cGyyihwjsRzzelrDTWtNo",
+            "plus_code": {
+                "compound_code": "HPVH+WC Hinjawadi, Pune, Maharashtra",
+                "global_code": "7JCMHPVH+WC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJx7cGyyihwjsRzzelrDTWtNo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124,
+            "vicinity": "Gr. & 1st Floor, Terminal One,S. No. 256/6/1 + 256/7 (Part Hinjawadi, Taluka, Phase 1, Hinjawadi, Mulshi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5903357,
+                    "lng": 73.77084390000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59159187989272,
+                        "lng": 73.77219322989272
+                    },
+                    "southwest": {
+                        "lat": 18.58889222010728,
+                        "lng": 73.76949357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SURYA ELECTRONICS - WAKAD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108185539756396673778\">gaurav pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRjIuKR39vqyTsel2TbKTVYVvwv-HfTNORB91WJ9In5bxbSNhVYPGazuqH4cVSxAPIdrKqp5I5nK5wQzddQ1fAXcIUeOy917KjUSvETjelPUIB2YKe2Cs_Gq_okGiICcyTwz5QAnRVVo3i6wAj9tGdGfAIvFyNYAtHyOmblzTUor3Qhy",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJGQRBEdW5wjsRi5yMWWGEJfE",
+            "plus_code": {
+                "compound_code": "HQRC+48 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQRC+48"
+            },
+            "rating": 4.5,
+            "reference": "ChIJGQRBEdW5wjsRi5yMWWGEJfE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10576,
+            "vicinity": "GO SQUARE BUILDING SHOP NO 1 & 2, Mankar Chowk Rd, Wakad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5994628,
+                    "lng": 73.7929372
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60088947989272,
+                        "lng": 73.79425872989272
+                    },
+                    "southwest": {
+                        "lat": 18.59818982010728,
+                        "lng": 73.79155907010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Radhika Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113766976569772113579\">Radhika Electronics</a>"
+                    ],
+                    "photo_reference": "AcYSjRjARq1Hhotncy_q7FiHhQLQkrZ34a4xm2bC2UxdTTP-agFu5D-dGiemTiDgpEaqz2F_W3uknkuArZ5KLmtNKG7KBNr_5FC02QJwwkOxofKgUYS03bbhad8d9vGybg6-mZ6XYbMoCUg2Gg2SQrakKy02Tf2krizlBzRvU4mAUSNbKOQm",
+                    "width": 4752
+                }
+            ],
+            "place_id": "ChIJ653X2x25wjsRTfbjz97PYwg",
+            "plus_code": {
+                "compound_code": "HQXV+Q6 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQXV+Q6"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ653X2x25wjsRTfbjz97PYwg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 650,
+            "vicinity": "Rahatani Rd, Deepmala Society, Pimple Saudagar, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5912277,
+                    "lng": 73.7475218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59242512989272,
+                        "lng": 73.74878102989273
+                    },
+                    "southwest": {
+                        "lat": 18.58972547010728,
+                        "lng": 73.74608137010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102065858260706165557\">Rashmikant Shah</a>"
+                    ],
+                    "photo_reference": "AcYSjRjupuWAvkN-fo2RFnQWygA6omnNqdzIhm0BSzhhkKhVtviVEKkT4kvG7w5lxS5wBEzrHsiZyBFwjidO7xs_O7uXXnIX_LLOtF042v6JI-ECWaPCkzzv7JTZZXO17-SasH5xLxwpwQAwhQuHeo84k8nUkAFk7P7oWl7r3lA8-po2u5N0",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ2ROQi9-7wjsRuMLMHZjKo9k",
+            "plus_code": {
+                "compound_code": "HPRX+F2 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHPRX+F2"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ2ROQi9-7wjsRuMLMHZjKo9k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3289,
+            "vicinity": "Sparsh Plaza, \u0930\u0938\u094d\u0924\u093e, next to Marriot Courtyard, opposite \u090f\u091a\u092a\u0940 \u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u092a\u092e\u094d\u092a - \u0938\u092e\u0930\u094d\u0925 \u0938\u0930\u094d\u0935\u093f\u0938 \u0938\u094d\u091f\u0947\u0936\u0928, Hinjawadi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6266446,
+                    "lng": 73.8098535
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62800977989273,
+                        "lng": 73.81119072989272
+                    },
+                    "southwest": {
+                        "lat": 18.62531012010728,
+                        "lng": 73.80849107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Malhar Electronic And Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJt1C_AFu4wjsRso-U41XISOc",
+            "rating": 0,
+            "reference": "ChIJt1C_AFu4wjsRso-U41XISOc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JRG5+MW5, Haralwadi, Pimpri Colony, Pimpri-Chinchwad, near Jama Mashjid, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6212119,
+                    "lng": 73.81800840000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62257897989273,
+                        "lng": 73.81936057989272
+                    },
+                    "southwest": {
+                        "lat": 18.61987932010728,
+                        "lng": 73.81666092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Swami Samarth Electronic",
+            "place_id": "ChIJpW2x0Ci5wjsR_CZlwa5aB7Y",
+            "plus_code": {
+                "compound_code": "JRC9+F6 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRC9+F6"
+            },
+            "rating": 0,
+            "reference": "ChIJpW2x0Ci5wjsR_CZlwa5aB7Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, YCM Rd, Sant Tukaram Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6253768,
+                    "lng": 73.8017965
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62675897989272,
+                        "lng": 73.80304627989271
+                    },
+                    "southwest": {
+                        "lat": 18.62405932010728,
+                        "lng": 73.80034662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111294937863661833962\">HACK KING 007</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkiNi-1pgmZwVh0WYF5BcWlz3IURjXq4BB7P93HF15jky5ApjIV3MO0_OYWcpGP1KHujqbVFxC9Tf-9Vx6l4X_Vulk60CvybBZD5FFK5hsmvAEUzqe8mRrHd6_881EfoPCMCGQOKciF8-YPuVEu_b5vhrNU9gKZw0MJ7rCKWo1mMSn",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJi1bYP665wjsRskQPhmPeEwk",
+            "plus_code": {
+                "compound_code": "JRG2+5P Pimpri Colony, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRG2+5P"
+            },
+            "rating": 3.9,
+            "reference": "ChIJi1bYP665wjsRskQPhmPeEwk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5795,
+            "vicinity": "Shubhan Galleria, Shop No. 2, Ground Floor Opp Judson High School, next to Finolx Chowk, Pimpri Colony, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5904472,
+                    "lng": 73.7700353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59165942989272,
+                        "lng": 73.77154722989272
+                    },
+                    "southwest": {
+                        "lat": 18.58895977010728,
+                        "lng": 73.76884757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109471140454619881689\">Pushkar Sathe</a>"
+                    ],
+                    "photo_reference": "AcYSjRjK8Z3vqbIYsh3-AhIHOZwpgbtGfEjmyTVQV1Ls-8YrLqylxX-M5E3AXgqVih358CtoW4NqbogEuvTHROlE2muc6BdoIFMbKcyBc1HD7b1YFEyxtkRnECYYn-wOH8yBo1u6WLz294_XcBKx4PRPz5NhPS6VpRBQ83JriDwXuRo80-DJ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJySY8PUC5wjsRmkhO5BXW6eA",
+            "plus_code": {
+                "compound_code": "HQRC+52 Pune, Maharashtra",
+                "global_code": "7JCMHQRC+52"
+            },
+            "rating": 3.9,
+            "reference": "ChIJySY8PUC5wjsRmkhO5BXW6eA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4950,
+            "vicinity": "Ground Floor, Showroom no.3/2 Building No. A, GO Square, Wakad, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6189334,
+                    "lng": 73.8187665
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62032277989272,
+                        "lng": 73.82012382989272
+                    },
+                    "southwest": {
+                        "lat": 18.61762312010728,
+                        "lng": 73.81742417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mataji Electonics & Electrical",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB9vIW8S5wjsR8I5SKmrTa2o",
+            "plus_code": {
+                "compound_code": "JR99+HG Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJR99+HG"
+            },
+            "rating": 0,
+            "reference": "ChIJB9vIW8S5wjsR8I5SKmrTa2o",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "41/329, Sabayog Cooperative Housing Society, Vallabh Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.60244,
+                    "lng": 73.77774939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60391532989272,
+                        "lng": 73.77921457989271
+                    },
+                    "southwest": {
+                        "lat": 18.60121567010728,
+                        "lng": 73.77651492010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maharashtra Electronics Corporation | Best Electronic Shop in Wakad Pimpri-Chinchwad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110009380917023035617\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjE3kvpJm19YuHjKgrwRoLDvYytR7wW4uwf_AlrniBQmS-PzwKZ4mlyHEGodbJwBBYbgkdUNLip-98hW-xMu5kxoZzht5yn30S8dPfHZNW3xlEH_0g-a3evRlVu700JXaKOH9krjPpBJSEYlm19qyoPZyk2JwxHmbRGc3TleQhwV71g",
+                    "width": 3240
+                }
+            ],
+            "place_id": "ChIJU4sH9xG5wjsRxDYFm_03hO0",
+            "plus_code": {
+                "compound_code": "JQ2H+X3 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ2H+X3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJU4sH9xG5wjsRxDYFm_03hO0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 340,
+            "vicinity": "Pride Purple Square S No 210/2,210/5 and 211 Mouje, Puna, Aundh - Ravet BRTS Rd, Wakad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5908591,
+                    "lng": 73.7668199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59225707989272,
+                        "lng": 73.76819707989272
+                    },
+                    "southwest": {
+                        "lat": 18.58955742010728,
+                        "lng": 73.76549742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 778,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101193963074359012343\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyJMXkJWrM6As4Rg1w0nZbNqPSLRflD0S6Pa_u7QX7vtfiXmasYhFLDkzyHXfXfs-ddMKdfbE1th1ipjvv4WhlDG9FrBJ6sY7sBiR6beJAy_AAiaO_AeNPECf23nQxdPp43Ww0S9svooagFmPTmhkUXLiG0Yxuh5uFWuf2ylIeVXOe",
+                    "width": 1039
+                }
+            ],
+            "place_id": "ChIJ74XfPdO5wjsRh9xEGVjXqrA",
+            "plus_code": {
+                "compound_code": "HQR8+8P Wakad, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQR8+8P"
+            },
+            "rating": 4,
+            "reference": "ChIJ74XfPdO5wjsRh9xEGVjXqrA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 317,
+            "vicinity": "Survey No. 27/3, Chandan Colozium, near Sahayadri Motors, Wakad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.648346,
+                    "lng": 73.78755220000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64971977989272,
+                        "lng": 73.78886997989271
+                    },
+                    "southwest": {
+                        "lat": 18.64702012010728,
+                        "lng": 73.78617032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106056824281480122833\">Rohit Lomte</a>"
+                    ],
+                    "photo_reference": "AcYSjRgrdFlra7HUu--GngMf_Q1htkcQzhtqJ9ROBiebdz5OMLwrzY_MlNOe9YXo2XyJ2HSCo5VsOehtLPR4pbODTGO1CX_bFZhYYExrtGTlcuuudIDX72XClw0XqWziEMwlUSHk_ISSsAz3N0klu20aeWtNuVCtUFzV5JVS466Bqyp1Evjr",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJwbbzQpS5wjsRbZs6g9fDUV4",
+            "plus_code": {
+                "compound_code": "JQXQ+82 Pune, Maharashtra",
+                "global_code": "7JCMJQXQ+82"
+            },
+            "rating": 4,
+            "reference": "ChIJwbbzQpS5wjsRbZs6g9fDUV4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1260,
+            "vicinity": "Upper Ground & Lower Ground Floor, Gems crystal Building, near Pantaloons, Chinchwad, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5979448,
+                    "lng": 73.7594737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59940762989272,
+                        "lng": 73.76084297989273
+                    },
+                    "southwest": {
+                        "lat": 18.59670797010728,
+                        "lng": 73.75814332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PRINCE ELECTRICAL AND ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQdgZimW5wjsR3H_P9uPk538",
+            "plus_code": {
+                "compound_code": "HQX5+5Q Pune, Maharashtra",
+                "global_code": "7JCMHQX5+5Q"
+            },
+            "rating": 3.8,
+            "reference": "ChIJQdgZimW5wjsR3H_P9uPk538",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop no. Q 10, Prestine Prolife, Wakad., Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6144718,
+                    "lng": 73.8006972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61582377989272,
+                        "lng": 73.80197737989272
+                    },
+                    "southwest": {
+                        "lat": 18.61312412010728,
+                        "lng": 73.79927772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Janki Electronics & Communication",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJpRo8K_-4wjsRJW2k5NgF2Ew",
+            "rating": 0,
+            "reference": "ChIJpRo8K_-4wjsRJW2k5NgF2Ew",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JR72+Q7M, Pimpri Gaon, Waghere Associates Near, Shastri Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.633232,
+                    "lng": 73.7993967
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63460882989272,
+                        "lng": 73.80078202989272
+                    },
+                    "southwest": {
+                        "lat": 18.63190917010728,
+                        "lng": 73.79808237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maharashtra Electronics Corporation | Best Electronic Shop in Pimpri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105902537164874870562\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhRnIS3Ky_Vy96rCrWgdHdGXyiPme_6RYe4F-5USWS5BSCLAXNw9t3uK1maIvQDTuiTFGv-UeXIOwNOo_G77xFB41JCCu5nm1SKhjj72_ZKxkEYkExaDboLS6RXBB8RUivhloYSquPWkzqCHA23Z7exC_IbsoGoib1MY8uJhecuHKRo",
+                    "width": 3240
+                }
+            ],
+            "place_id": "ChIJcwYdh8axwjsRJKRYpyo14mY",
+            "plus_code": {
+                "compound_code": "JQMX+7Q Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQMX+7Q"
+            },
+            "rating": 3.7,
+            "reference": "ChIJcwYdh8axwjsRJKRYpyo14mY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80,
+            "vicinity": "B-Zone business spaces Nr. Indian Oil petrol pump, Old Mumbai - Pune Hwy, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6148833,
+                    "lng": 73.7851167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61620812989272,
+                        "lng": 73.78655697989272
+                    },
+                    "southwest": {
+                        "lat": 18.61350847010728,
+                        "lng": 73.78385732010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yash mobile and electronic's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJBaEzwIW5wjsRzRxVKnRhPRU",
+            "rating": 0,
+            "reference": "ChIJBaEzwIW5wjsRzRxVKnRhPRU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQ7P+X25, opp. to MM college of pharmacy, Sector No. 34, Kalewadi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6335487,
+                    "lng": 73.798897
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63508332989272,
+                        "lng": 73.80040247989272
+                    },
+                    "southwest": {
+                        "lat": 18.63238367010728,
+                        "lng": 73.79770282010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - CHINCHWAD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 301,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114246057387385006598\">\u0906\u0938 \u0928\u093e\u091a\u0942\u0928 \u0926\u093e\u0916\u0935 \u092e\u093f\u0924\u094d\u0930\u093e</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcpAurSmibCQHFyCp6NfmfOTH2g5Bl4lLF5vq3-RcWqU_iIC-gQ45Qkmjc6PeMuyZ356BnLz7TIMh6W3uOE7oVJR8aN9gUfspNejie7uCfllBl3uYKa-g0PTFTu5GJAd2pTjoDe8WOSL0yRL92tVscUKCTKq7_uQQ35-VxTUx6ceCV",
+                    "width": 489
+                }
+            ],
+            "place_id": "ChIJyQsQcky4wjsReAfAF6GWaHE",
+            "plus_code": {
+                "compound_code": "JQMX+CH Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQMX+CH"
+            },
+            "rating": 3.9,
+            "reference": "ChIJyQsQcky4wjsReAfAF6GWaHE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6459,
+            "vicinity": "CB/2/001, Empire Estate, Old Mumbai Rd, near Ranka Jewellers, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6107336,
+                    "lng": 73.79862229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61207667989272,
+                        "lng": 73.79997172989272
+                    },
+                    "southwest": {
+                        "lat": 18.60937702010728,
+                        "lng": 73.79727207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SK ELECTRONIC AND ELECTRICALS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100767796675007117827\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiEjh1_QrExrgxVc_5yi43k2CStQuFWKg8k46JOone2Pd_Fxc4CwNZd-6o__29em0KsKZUOpdlrOAyjCiP3VvM1FSSiO1ZdKYfo3zG7iP28ydGe8jCpXoRICcNh-AoXT3Rn7MLs8NvtRqL7qMxj0xzlEK18P4yatN2I4OTiIuEjcPO2",
+                    "width": 3348
+                }
+            ],
+            "place_id": "ChIJbXusIKG5wjsRXZi46FIHiIQ",
+            "plus_code": {
+                "compound_code": "JQ6X+7C Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ6X+7C"
+            },
+            "rating": 5,
+            "reference": "ChIJbXusIKG5wjsRXZi46FIHiIQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "near pawneshwar mandir, Mali Ali, Pimpri Gaon, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5823126,
+                    "lng": 73.8157268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58366907989272,
+                        "lng": 73.81701767989271
+                    },
+                    "southwest": {
+                        "lat": 18.58096942010727,
+                        "lng": 73.81431802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHREYA ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116489640420515116449\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgQOeWSG_4tLNiI3UMwHZX-AvhYEH51TO_94aMX3MONPvNgUfTNsN4sb0foj3WtLkvuVD0rEdtLXwmHZ1uAJNpLDmSllb41Fvx9i0pTWKMQBGErg2l7dHzIqw-UzozQKXttLTX2YWeV0LCtX4KP2aU-X-3iqNXEcCeiWHMp8bz4qWtE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJdYwq9si4wjsRS3qZWRgYq54",
+            "plus_code": {
+                "compound_code": "HRJ8+W7 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHRJ8+W7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJdYwq9si4wjsRS3qZWRgYq54",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 155,
+            "vicinity": "Krishna Chowk, Dyanesh Park, New Sanghavi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6221539,
+                    "lng": 73.80193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62348542989272,
+                        "lng": 73.80326502989271
+                    },
+                    "southwest": {
+                        "lat": 18.62078577010728,
+                        "lng": 73.80056537010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Khushi Electronics And Home Appliances",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJPQKCuFa4wjsRk4FgXVPrWZ0",
+            "plus_code": {
+                "compound_code": "JRC2+VQ Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRC2+VQ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJPQKCuFa4wjsRk4FgXVPrWZ0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "Shagun Chowk, Jawaharlal Nehru Road, near Sughandhalaya, Pimpri Area, Pimpri Colony, Pimpri-Chinchwad"
+        }
+    ],
+    "status": "OK"
+}

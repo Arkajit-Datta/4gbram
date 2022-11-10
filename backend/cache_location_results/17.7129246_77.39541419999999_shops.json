@@ -1,0 +1,776 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgUwMxsyIJhVTIu7oQcNDTF0Fytct_hdxvfMfNvmUV3zdVNX8nQxSUSFMC6dFb_R64nSnE_OwGXdCCCrXD0bwqCVes0m4BnZ3OXguFkYjNSIatAX0eNb8mr-puaW2Qhl9jmoX7i1kYm8F99evY4E4GPHaKGAX86cu5EoKk6xZAU4qQAeOEe0wj2tVZeJMWX5Gg2bosmMx3UlXRT_2vlmf1KAohhDEVvwAslCmUwqZ2_726MeDU5oJvJOWE38aUZLJQXpmh2pnzJK6VMf2g5uHbd21O1gkdkoXxRP67hcvkQMTu48SgHY7-au-iAe7xwxUCWaK1an9ZcoitB8zkTlnd6GGAZl4j9M9NL7wIMjksLMrT2sU_-oPK3FBS4dSThJVHLowQ8vrtS8--ycBh1fjXVIkCqYUAZi9_yFq6azN-A72TuUzqlQg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7264048,
+                    "lng": 77.36881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72775287989272,
+                        "lng": 77.37016392989273
+                    },
+                    "southwest": {
+                        "lat": 17.72505322010728,
+                        "lng": 77.36746427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Veerabhadreshwara kirana shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJd1t6zEvTzjsRozeDA4golVo",
+            "rating": 0,
+            "reference": "ChIJd1t6zEvTzjsRozeDA4golVo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P9G9+HG7, near Rutika mobile, beside Mannaekhelli, Mannaekhelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7526807,
+                    "lng": 77.3594849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75405142989272,
+                        "lng": 77.36079762989272
+                    },
+                    "southwest": {
+                        "lat": 17.75135177010728,
+                        "lng": 77.35809797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Reddy Kirana Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEeEYGxjRzjsR-3j1b0ONakM",
+            "rating": 0,
+            "reference": "ChIJEeEYGxjRzjsR-3j1b0ONakM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q935+3QH, Unnamed Road, Bambalgi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7238937,
+                    "lng": 77.31450889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72524497989272,
+                        "lng": 77.31583402989273
+                    },
+                    "southwest": {
+                        "lat": 17.72254532010728,
+                        "lng": 77.31313437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ansari kirana shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100159650506125833076\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjcDgQ1HqYZSMxwEDK9P7YJQlrNAHwwjy2C79m_xQytCzklw6GZOyX5mFDRTcuhqvMr6aOfSNkPBcgnjIoIosP8uTYa_4vWTqsBZTPj6UqIhwPMJ0IEayxnEiJOzVqXFvT1K05ciopmiXyjUneM6LdbcSsveb8MwV7efvRnopBOexlS",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJmctHOMnTzjsRLO4oC02oRQ0",
+            "plus_code": {
+                "compound_code": "P8F7+HR Nagankhera, Karnataka",
+                "global_code": "7J9VP8F7+HR"
+            },
+            "rating": 5,
+            "reference": "ChIJmctHOMnTzjsRLO4oC02oRQ0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Nagankhera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7445777,
+                    "lng": 77.3693493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74596037989273,
+                        "lng": 77.37070192989272
+                    },
+                    "southwest": {
+                        "lat": 17.74326072010728,
+                        "lng": 77.36800227010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raj Kumar Shop",
+            "place_id": "ChIJPUZ9sQbRzjsRMe5xlKPAucI",
+            "plus_code": {
+                "compound_code": "P9V9+RP Nidwancha, Karnataka",
+                "global_code": "7J9VP9V9+RP"
+            },
+            "rating": 0,
+            "reference": "ChIJPUZ9sQbRzjsRMe5xlKPAucI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3 Main Road Nidwancha, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7419037,
+                    "lng": 77.4561458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74325202989272,
+                        "lng": 77.45749062989273
+                    },
+                    "southwest": {
+                        "lat": 17.74055237010728,
+                        "lng": 77.45479097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Abdul Rasheed kirana shop",
+            "place_id": "ChIJu7Lyc4LPzjsRa2Ky2xHj1JI",
+            "rating": 5,
+            "reference": "ChIJu7Lyc4LPzjsRa2Ky2xHj1JI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "PFR4+QF6, Unnamed Road, Rajgera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6822963,
+                    "lng": 77.31643849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68364602989272,
+                        "lng": 77.31777907989273
+                    },
+                    "southwest": {
+                        "lat": 17.68094637010728,
+                        "lng": 77.31507942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SV shop",
+            "place_id": "ChIJJ31HAA_TzjsReB4ly_a-XoA",
+            "plus_code": {
+                "compound_code": "M8J8+WH Nirna, Karnataka",
+                "global_code": "7J9VM8J8+WH"
+            },
+            "rating": 5,
+            "reference": "ChIJJ31HAA_TzjsReB4ly_a-XoA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2-39/2 Qureshi Mohalla Nirna Tq. Humnabad, Dist, Nirna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.629906,
+                    "lng": 77.4270633
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63127307989272,
+                        "lng": 77.42842457989272
+                    },
+                    "southwest": {
+                        "lat": 17.62857342010728,
+                        "lng": 77.42572492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PATIL'S kirana shop",
+            "place_id": "ChIJFcyqq6YzyTsRzXcTX2m5mS8",
+            "rating": 0,
+            "reference": "ChIJFcyqq6YzyTsRzXcTX2m5mS8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JCHG+XR4, Udamnalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.748591,
+                    "lng": 77.3993784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74994382989272,
+                        "lng": 77.40072667989271
+                    },
+                    "southwest": {
+                        "lat": 17.74724417010728,
+                        "lng": 77.39802702010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirana Shop",
+            "place_id": "ChIJO_7_GhPOzjsRAAAAsJzrUDg",
+            "plus_code": {
+                "compound_code": "P9XX+FQ Indira Nagar, Karnataka",
+                "global_code": "7J9VP9XX+FQ"
+            },
+            "rating": 0,
+            "reference": "ChIJO_7_GhPOzjsRAAAAsJzrUDg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "132 Qureshi Mohalla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7070977,
+                    "lng": 77.4152371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70846812989272,
+                        "lng": 77.41654937989271
+                    },
+                    "southwest": {
+                        "lat": 17.70576847010728,
+                        "lng": 77.41384972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "AHMED SHAREEF KIRANA SHOP",
+            "place_id": "ChIJVVrURtfNzjsR83631wVnOok",
+            "rating": 0,
+            "reference": "ChIJVVrURtfNzjsR83631wVnOok",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PC48+R3Q, Markunda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7308273,
+                    "lng": 77.3500569
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73211877989272,
+                        "lng": 77.35139417989272
+                    },
+                    "southwest": {
+                        "lat": 17.72941912010728,
+                        "lng": 77.34869452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tawakkal kirana and general store",
+            "place_id": "ChIJ787ml5PRzjsRL170uvd5rms",
+            "plus_code": {
+                "compound_code": "P9J2+82 Chitguppa, Karnataka",
+                "global_code": "7J9VP9J2+82"
+            },
+            "rating": 0,
+            "reference": "ChIJ787ml5PRzjsRL170uvd5rms",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NH-65 Road mannaekhelli, TQ, Chitguppa"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7500898,
+                    "lng": 77.40031909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75143632989272,
+                        "lng": 77.40166957989271
+                    },
+                    "southwest": {
+                        "lat": 17.74873667010728,
+                        "lng": 77.39896992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A H S kirana shop",
+            "place_id": "ChIJrQkmIW7PzjsRoY_Fh4G6yUc",
+            "rating": 0,
+            "reference": "ChIJrQkmIW7PzjsRoY_Fh4G6yUc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QC22+24G, Indira Nagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6269744,
+                    "lng": 77.4251735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62837107989272,
+                        "lng": 77.42650457989272
+                    },
+                    "southwest": {
+                        "lat": 17.62567142010727,
+                        "lng": 77.42380492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiva Hari style shop\u2702\ufe0f",
+            "place_id": "ChIJI4lABh4zyTsR-LMSFQ_G3OU",
+            "rating": 0,
+            "reference": "ChIJI4lABh4zyTsR-LMSFQ_G3OU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JCGG+Q3M, Udamnalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7858854,
+                    "lng": 77.3647897
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78719647989272,
+                        "lng": 77.3661343298927
+                    },
+                    "southwest": {
+                        "lat": 17.78449682010727,
+                        "lng": 77.36343467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jagannath Kirana Shop",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108155068185921211386\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0PUYEnoz84gaZcjhMIzOCaPgaaIRui3mhaRQ2bGV7gv0barirF7q1W60ViV9vtKPDXP94-V46ZHinUpucVQeStlKOQCJEYDNPLaog-appvc05KbfdjkQtmWeIqSrFOQoFSDNZR6u0W8tnmTJp8mPOfjrcwF5bfo0HdA3A62QFJK3T",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ3euiVH7RzjsRintw0AHn8sM",
+            "plus_code": {
+                "compound_code": "Q9P7+9W Bidar, Karnataka",
+                "global_code": "7J9VQ9P7+9W"
+            },
+            "rating": 5,
+            "reference": "ChIJ3euiVH7RzjsRintw0AHn8sM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "s, Lakshmi mandir pakkadalli Aurad, Bidar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6800175,
+                    "lng": 77.3145077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68137227989272,
+                        "lng": 77.31586407989272
+                    },
+                    "southwest": {
+                        "lat": 17.67867262010728,
+                        "lng": 77.31316442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reddy kirana shop",
+            "place_id": "ChIJR31I1pzTzjsRRncyv2FI-cA",
+            "rating": 5,
+            "reference": "ChIJR31I1pzTzjsRRncyv2FI-cA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M8J7+2Q5, Muttangi, Road, Nirna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7276638,
+                    "lng": 77.3660338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72900282989272,
+                        "lng": 77.36739337989272
+                    },
+                    "southwest": {
+                        "lat": 17.72630317010728,
+                        "lng": 77.36469372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Mohad Pan Shop",
+            "place_id": "ChIJ9yhsu4DTzjsR9QJpPqIPI1k",
+            "plus_code": {
+                "compound_code": "P9H8+3C Mannaekhelli, Karnataka",
+                "global_code": "7J9VP9H8+3C"
+            },
+            "rating": 0,
+            "reference": "ChIJ9yhsu4DTzjsR9QJpPqIPI1k",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mannaekhelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.787838,
+                    "lng": 77.4730056
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78916917989272,
+                        "lng": 77.47440487989272
+                    },
+                    "southwest": {
+                        "lat": 17.78646952010727,
+                        "lng": 77.47170522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirana Shop",
+            "place_id": "ChIJbSn41dHJzjsRnTjHLu8zHAc",
+            "rating": 0,
+            "reference": "ChIJbSn41dHJzjsRnTjHLu8zHAc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QFQF+46J, Satoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.751031,
+                    "lng": 77.3993267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75240382989272,
+                        "lng": 77.40068192989271
+                    },
+                    "southwest": {
+                        "lat": 17.74970417010728,
+                        "lng": 77.39798227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ravi kirana shop",
+            "place_id": "ChIJy37DGK_PzjsRecifNp52WBc",
+            "rating": 0,
+            "reference": "ChIJy37DGK_PzjsRecifNp52WBc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q92X+CP8, near Gram Panchayat Road, Bagdal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6847373,
+                    "lng": 77.46658769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68606597989272,
+                        "lng": 77.46798682989271
+                    },
+                    "southwest": {
+                        "lat": 17.68336632010728,
+                        "lng": 77.46528717010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rangareddy kirana shop and home",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103661962510096309871\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgj-YcGnYz1p_wiVZLNY9wBwkDNP5cpxO-Dv6-0-I0qnxJddtH62P1m3duVHCjNExU_H1y3X3S40P6WjC0D1cdvoN5dEFY3F0nTteE3gRsdYW22n9IzDua8iOtZ8F_E5cS7xQRNO3mq9-Pl0wlpVhin1BvYWgOCUm1cqq0M9gS0Cdeo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJPUx565jNzjsRbxMAP3gCXwk",
+            "plus_code": {
+                "compound_code": "MFM8+VJ Madgi, Telangana",
+                "global_code": "7J9VMFM8+VJ"
+            },
+            "rating": 0,
+            "reference": "ChIJPUx565jNzjsRbxMAP3gCXwk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Madgi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6801839,
+                    "lng": 77.3147127
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68145677989272,
+                        "lng": 77.31596012989273
+                    },
+                    "southwest": {
+                        "lat": 17.67875712010728,
+                        "lng": 77.31326047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sandeep (lakhan) shop",
+            "place_id": "ChIJmQl2qWDTzjsReh2CKkNx6pQ",
+            "rating": 0,
+            "reference": "ChIJmQl2qWDTzjsReh2CKkNx6pQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M8J7+3V7, Unnamed Road, Nirna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7035899,
+                    "lng": 77.3764207
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70484192989272,
+                        "lng": 77.37751587989273
+                    },
+                    "southwest": {
+                        "lat": 17.70214227010728,
+                        "lng": 77.37481622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hugar Kirana Shop",
+            "place_id": "ChIJs7DWL2TTzjsRpj5w5wFvkHQ",
+            "rating": 0,
+            "reference": "ChIJs7DWL2TTzjsRpj5w5wFvkHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P93G+CHF, SH 15, Meenkhera"
+        }
+    ],
+    "status": "OK"
+}

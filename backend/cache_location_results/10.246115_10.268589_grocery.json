@@ -1,0 +1,155 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2690602,
+                    "lng": 10.328773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27044397989272,
+                        "lng": 10.33011452989272
+                    },
+                    "southwest": {
+                        "lat": 10.26774432010728,
+                        "lng": 10.32741487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BNANA PROVISION STORE",
+            "place_id": "ChIJBZ4vNh9GVRARrpBkclSPqXU",
+            "plus_code": {
+                "compound_code": "789H+JG Maimadi, Nigeria",
+                "global_code": "7F2G789H+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJBZ4vNh9GVRARrpBkclSPqXU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sfawa Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ_VRdx5NHVRAROobR83kJe5Q",
+            "rating": 5,
+            "reference": "ChIJ_VRdx5NHVRAROobR83kJe5Q",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "78CJ+G3C, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.27532,
+                    "lng": 10.3323136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27666292989272,
+                        "lng": 10.33361537989272
+                    },
+                    "southwest": {
+                        "lat": 10.27396327010728,
+                        "lng": 10.33091572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Market",
+            "place_id": "ChIJjX-_t6BIVRAR1OV_GcL1RwA",
+            "rating": 3.7,
+            "reference": "ChIJjX-_t6BIVRAR1OV_GcL1RwA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "78GJ+4WG, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2587742,
+                    "lng": 10.3087196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26010027989272,
+                        "lng": 10.31008052989272
+                    },
+                    "southwest": {
+                        "lat": 10.25740062010728,
+                        "lng": 10.30738087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJn2LbjTNGVRAR7frWfca6-o0",
+            "rating": 4.5,
+            "reference": "ChIJn2LbjTNGVRAR7frWfca6-o0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "7855+GG6, Gwaram"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,836 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiMF88v1pqN_JQsGGGufBq6ixWxmOtVfGh_PGp29TTAld5YfGuyRwsrEZKL3_KUyHinD_RFSD-njx0y8Lxvj-oQJAaa287CqVAc3q_GgD_mzY3gibl_NdxU2BU6cjvba7T2fBfw3Ek3uJW6qYeXUbSApd1ggRdc9-sakkRwrqzsCUGE1vFrv0lL-aFHKO57sRy3xa_OnAD7kH06XvXhn5SL3a35NuRpNDZj6xEpNyPxvS1Tt-1Demcw6q_KzvNDLZZiUrMhZtRWYdJgE1JfrNcWSJuvzQFPsTRHl3u3sBSHSIAxd6Wxg1nzJebupBm4w9wNAXa287KypwBXW0uMQd127fgSM_kgHFTCbRMA3-CUbm6EqK4NnwCCbcq1HjA0zgQd6DMp133DOABqzlG4mDKWsvqLuvjv_lIoiORDlLVbfRTYADcLfA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5789922,
+                    "lng": 78.1089363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58039307989272,
+                        "lng": 78.11031387989273
+                    },
+                    "southwest": {
+                        "lat": 17.57769342010728,
+                        "lng": 78.10761422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirana shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJz-R1f3X7yzsRTTCFAxdsEJE",
+            "plus_code": {
+                "compound_code": "H4H5+HH Sangareddy, Telangana",
+                "global_code": "7J9WH4H5+HH"
+            },
+            "rating": 0,
+            "reference": "ChIJz-R1f3X7yzsRTTCFAxdsEJE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H no 6, 46, 7th ward, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6238871,
+                    "lng": 78.0865886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62523782989272,
+                        "lng": 78.08791822989272
+                    },
+                    "southwest": {
+                        "lat": 17.62253817010728,
+                        "lng": 78.08521857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri Sai Balaji Fancy Stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117969343100583948048\">Sri Sai Balaji Services</a>"
+                    ],
+                    "photo_reference": "AcYSjRiEKwxf1WHBf2FakM_CcU7oxpyRDyNoYraZo2To5XFAyrRKUvCn1KY-LocUhKLj4lKbO0gq5WDNS00o-rNMzvxe1G8Y70pQDrx8umWuYtM3YeBXg4pV8bj8tX6pjiyG6cr0-Fr3DEPmO2jQsiu0NDTwIQIOw4TBhp1BoPVeockyuOcw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJsSSCarj5yzsRLjJw9okKCZs",
+            "plus_code": {
+                "compound_code": "J3FP+HJ Sangareddy, Telangana",
+                "global_code": "7J9WJ3FP+HJ"
+            },
+            "rating": 4,
+            "reference": "ChIJsSSCarj5yzsRLjJw9okKCZs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Cinema Road Sangareddy,, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6140941,
+                    "lng": 78.0817703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61537777989272,
+                        "lng": 78.08311722989272
+                    },
+                    "southwest": {
+                        "lat": 17.61267812010728,
+                        "lng": 78.08041757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SWEET CORN SHOP",
+            "place_id": "ChIJpxINfZf5yzsRnaclaX_YdlA",
+            "plus_code": {
+                "compound_code": "J37J+JP Sangareddy, Telangana",
+                "global_code": "7J9WJ37J+JP"
+            },
+            "rating": 0,
+            "reference": "ChIJpxINfZf5yzsRnaclaX_YdlA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "New Bus Stand Sangareddy, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6153743,
+                    "lng": 78.0737035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61671262989272,
+                        "lng": 78.07505087989271
+                    },
+                    "southwest": {
+                        "lat": 17.61401297010728,
+                        "lng": 78.07235122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirana shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQYoFUWr5yzsRymTkwJZJp30",
+            "plus_code": {
+                "compound_code": "J38F+4F Sangareddy, Telangana",
+                "global_code": "7J9WJ38F+4F"
+            },
+            "rating": 0,
+            "reference": "ChIJQYoFUWr5yzsRymTkwJZJp30",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2, Rajampet Rd, Ahmed Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5970951,
+                    "lng": 78.0711122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59843267989272,
+                        "lng": 78.07245682989272
+                    },
+                    "southwest": {
+                        "lat": 17.59573302010728,
+                        "lng": 78.06975717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anitha Landury Shop",
+            "place_id": "ChIJTWizPyD5yzsRBV8UaibWsa8",
+            "plus_code": {
+                "compound_code": "H3WC+RC Sangareddy, Telangana",
+                "global_code": "7J9WH3WC+RC"
+            },
+            "rating": 0,
+            "reference": "ChIJTWizPyD5yzsRBV8UaibWsa8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Brundavan Colony, Rajampet, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6114565,
+                    "lng": 78.0833782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61280572989272,
+                        "lng": 78.08471132989273
+                    },
+                    "southwest": {
+                        "lat": 17.61010607010727,
+                        "lng": 78.08201167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ss pan shop",
+            "place_id": "ChIJIW19uFT5yzsRX69w1l_qjfE",
+            "plus_code": {
+                "compound_code": "J36M+H9 Sangareddy, Telangana",
+                "global_code": "7J9WJ36M+H9"
+            },
+            "rating": 0,
+            "reference": "ChIJIW19uFT5yzsRX69w1l_qjfE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5-2-148-1, ShantiNagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6261851,
+                    "lng": 78.0867648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62757207989272,
+                        "lng": 78.08811252989271
+                    },
+                    "southwest": {
+                        "lat": 17.62487242010728,
+                        "lng": 78.08541287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHIVA PAN SHOP",
+            "place_id": "ChIJkzTsA_H5yzsRk3J-YJgkhfk",
+            "plus_code": {
+                "compound_code": "J3GP+FP Sangareddy, Telangana",
+                "global_code": "7J9WJ3GP+FP"
+            },
+            "rating": 0,
+            "reference": "ChIJkzTsA_H5yzsRk3J-YJgkhfk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bus Stand, Old, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6408612,
+                    "lng": 78.1236495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64219327989272,
+                        "lng": 78.12499512989271
+                    },
+                    "southwest": {
+                        "lat": 17.63949362010728,
+                        "lng": 78.12229547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kiranam And General Store",
+            "place_id": "ChIJCVpVFZ33yzsRAAAAMJ44aAg",
+            "plus_code": {
+                "compound_code": "J4RF+8F Sangareddy, Telangana",
+                "global_code": "7J9WJ4RF+8F"
+            },
+            "rating": 0,
+            "reference": "ChIJCVpVFZ33yzsRAAAAMJ44aAg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1-90/1 Fasalwadi Fasalwadi, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6395763,
+                    "lng": 78.1224944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64093797989273,
+                        "lng": 78.12384787989271
+                    },
+                    "southwest": {
+                        "lat": 17.63823832010728,
+                        "lng": 78.12114822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kethaki Sangameshwar Kirana Shop",
+            "place_id": "ChIJpxJssYb3yzsR8gQlE24dDjw",
+            "rating": 3.3,
+            "reference": "ChIJpxJssYb3yzsR8gQlE24dDjw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "J4QC+RX9, Kulabgoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.616198,
+                    "lng": 77.95420899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61754642989272,
+                        "lng": 77.95553392989271
+                    },
+                    "southwest": {
+                        "lat": 17.61484677010728,
+                        "lng": 77.95283427010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Famous Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1331,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118362016926850410646\">Famous Shopping Mall</a>"
+                    ],
+                    "photo_reference": "AcYSjRjX0-izLYdCmZciOAdkP3hSejETZWauyAJ8RsFDUETCa0bGpVl8S8cKPqvfsPhsd9I6jXmIk1RQfAxFtyjAB61SfWecTQVMd6hMtTSBgZy792o5LrSXdufC2I0vjgkWukv3FjocdCnXs4qzdbrLhceTpL2msykO18zNtvRtzH4COdtr",
+                    "width": 708
+                }
+            ],
+            "place_id": "ChIJm9ojNEb-yzsRDvIQP_8TVO8",
+            "plus_code": {
+                "compound_code": "JX83+FM Sadashivpet, Telangana",
+                "global_code": "7J9VJX83+FM"
+            },
+            "rating": 1,
+            "reference": "ChIJm9ojNEb-yzsRDvIQP_8TVO8",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shastri Road, Sadasivapet, near Bus Stand, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.614924,
+                    "lng": 78.08318229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61626812989272,
+                        "lng": 78.08452107989272
+                    },
+                    "southwest": {
+                        "lat": 17.61356847010728,
+                        "lng": 78.08182142010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiva Parvati Kirana Shop",
+            "place_id": "ChIJa_QdThH5yzsRMUvYW_cIBY4",
+            "plus_code": {
+                "compound_code": "J37M+X7 Sangareddy, Telangana",
+                "global_code": "7J9WJ37M+X7"
+            },
+            "rating": 0,
+            "reference": "ChIJa_QdThH5yzsRMUvYW_cIBY4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "ShantiNagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6166717,
+                    "lng": 77.9549356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61804087989272,
+                        "lng": 77.95628337989272
+                    },
+                    "southwest": {
+                        "lat": 17.61534122010728,
+                        "lng": 77.95358372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yadulla Kirana Stores",
+            "place_id": "ChIJ2w-3BP3_yzsRH0HOTgQ7YYI",
+            "plus_code": {
+                "compound_code": "JX83+MX Sadashivpet, Telangana",
+                "global_code": "7J9VJX83+MX"
+            },
+            "rating": 0,
+            "reference": "ChIJ2w-3BP3_yzsRH0HOTgQ7YYI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sadhashivpet Shadhashivpeta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5832044,
+                    "lng": 78.0860857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58455942989272,
+                        "lng": 78.08742562989272
+                    },
+                    "southwest": {
+                        "lat": 17.58185977010728,
+                        "lng": 78.08472597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Venkateshwara kirana and general store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJvfzVux_7yzsRFovU4cR2qPk",
+            "rating": 5,
+            "reference": "ChIJvfzVux_7yzsRFovU4cR2qPk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H3MP+7CH, Pothreddipalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6081943,
+                    "lng": 78.08278469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60955782989272,
+                        "lng": 78.08416597989273
+                    },
+                    "southwest": {
+                        "lat": 17.60685817010727,
+                        "lng": 78.08146632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Priyaa Fashions & Ladies Emporium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105021999154438312982\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhaJZGYKVCXVYcs9rYx93BbimUeR1qS0_NpT2vDWfW6AqO39Ynqg9Hm6FmCPEDM4mFAbJg7qAK_TgB4dUBhLXx01LpL3Z28DpZuSpiTaKGlUzyONAKTmSnihhLzuPHbFa3BeINN380J2vVRdhmVz3vwjNxPI3qlZRs4vJtTUAX5ifMv",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJW0LkRkz5yzsRaP5VxM-0hao",
+            "plus_code": {
+                "compound_code": "J35M+74 Sangareddy, Telangana",
+                "global_code": "7J9WJ35M+74"
+            },
+            "rating": 4,
+            "reference": "ChIJW0LkRkz5yzsRaP5VxM-0hao",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "jewelry_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "manjeera nagar, opp to electricity office, near gokul venkateshwara hospital, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.611288,
+                    "lng": 78.081893
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61264717989273,
+                        "lng": 78.08329512989272
+                    },
+                    "southwest": {
+                        "lat": 17.60994752010728,
+                        "lng": 78.08059547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MAHANKALI GIFT ARTICALS & LADIES EMPORIUM",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104435897943409800308\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgDXDXC_IGK26NZImtO8DP_Kgr_aAlrewGJldKSXosAzko4C0hqCvaRT9nQKyx8nHGncot5mwqam4qww8QpN9p6TotMTOritctEVDyiAktrB6PLkVjUpmFpvEqnUp6ufc0vHEj6I-4qMLYZGE6OubZd7X4A3qOmsaCL7L_naXg1VxKK",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJFb09epb5yzsRwVNuxfqwVLM",
+            "plus_code": {
+                "compound_code": "J36J+GQ Sangareddy, Telangana",
+                "global_code": "7J9WJ36J+GQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJFb09epb5yzsRwVNuxfqwVLM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Beside I.B. ,Main Road, Sangareddy, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6058369,
+                    "lng": 78.0266736
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60719102989272,
+                        "lng": 78.02805672989273
+                    },
+                    "southwest": {
+                        "lat": 17.60449137010728,
+                        "lng": 78.02535707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhavani Kiranam Shop",
+            "place_id": "ChIJ0Y2pgjr5yzsR69KYKNjkL6M",
+            "plus_code": {
+                "compound_code": "J24G+8M Sangareddy, Telangana",
+                "global_code": "7J9WJ24G+8M"
+            },
+            "rating": 0,
+            "reference": "ChIJ0Y2pgjr5yzsR69KYKNjkL6M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Peddapur, Peddapur Rd, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5999465,
+                    "lng": 78.0625388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60130317989272,
+                        "lng": 78.06383077989271
+                    },
+                    "southwest": {
+                        "lat": 17.59860352010728,
+                        "lng": 78.06113112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dugra Matha Kiranam Shop",
+            "place_id": "ChIJM9iHsfb5yzsR0hhDsv-7lNE",
+            "plus_code": {
+                "compound_code": "H3X7+X2 Sangareddy, Telangana",
+                "global_code": "7J9WH3X7+X2"
+            },
+            "rating": 0,
+            "reference": "ChIJM9iHsfb5yzsR0hhDsv-7lNE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mithry Nargar, Road No. 4, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6056171,
+                    "lng": 78.0793218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60697377989272,
+                        "lng": 78.08065217989272
+                    },
+                    "southwest": {
+                        "lat": 17.60427412010728,
+                        "lng": 78.07795252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ANANTHA KRISHNA KIRANAM & GENERAL SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJZfncWPP5yzsRbMK94lUduIA",
+            "plus_code": {
+                "compound_code": "J34H+6Q Sangareddy, Telangana",
+                "global_code": "7J9WJ34H+6Q"
+            },
+            "rating": 5,
+            "reference": "ChIJZfncWPP5yzsRbMK94lUduIA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sangareddy Bypass Rd, Marepally, Ahmed Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6244847,
+                    "lng": 78.0870655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62585802989272,
+                        "lng": 78.08841557989273
+                    },
+                    "southwest": {
+                        "lat": 17.62315837010728,
+                        "lng": 78.08571592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shankar Shop",
+            "place_id": "ChIJWWcGwBX5yzsR8_6CYp_mzzY",
+            "rating": 2.3,
+            "reference": "ChIJWWcGwBX5yzsR8_6CYp_mzzY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "J3FP+QRW, Shivaji Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6131099,
+                    "lng": 77.9926407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61449147989272,
+                        "lng": 77.99399287989272
+                    },
+                    "southwest": {
+                        "lat": 17.61179182010728,
+                        "lng": 77.99129322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lucky Kiranam Shop",
+            "place_id": "ChIJ3zGx3J__yzsRGZnIbahfYa4",
+            "plus_code": {
+                "compound_code": "JX7V+63 Sangareddy, Telangana",
+                "global_code": "7J9VJX7V+63"
+            },
+            "rating": 0,
+            "reference": "ChIJ3zGx3J__yzsRGZnIbahfYa4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nandikandi, Sangareddy"
+        }
+    ],
+    "status": "OK"
+}

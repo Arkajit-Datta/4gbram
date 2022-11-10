@@ -1,0 +1,796 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgN_EoHxUC6xIXpBL-QT9y5d3hnKN8CsxDqvOYX3n7HtoHj0_SyCQpXHEtxbaTE4yaiyliIE0zqzGqKrjq63M_25cF-RRkNH7yggOr36eOVSaOXLXFo-7QPM9FZ0ajXeOYwhh2k8olqboo0KJ-n5n11CgXwGehcpQxWY9XfyTMa1ZIlBFtAXSuwm30lK7MCX3bkuJiv_s-R3zJDFQIk-OOn49G8uTdqpTxBi14Vxt5a-yP0343V0fGl1DQt01G1-WKjc7uvSDO_w6ZCF0wRESszckpOShnTrkVx2XrwZeFfK8d83ipNR8PPy-wk-4AitPseCbp53AWq_ZzPOL_B3Fnthd9Qk7QVgIbIZjp7Ri4BNA6wDJ6y39aI3UleE4MN8_Y1F4yaydcNb7rJ6cj1K0zszDjYvzb5O9PCfy77uiBj_q3GsfaU8Q",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2717174,
+                    "lng": 10.3303668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27310077989272,
+                        "lng": 10.33168952989272
+                    },
+                    "southwest": {
+                        "lat": 10.27040112010728,
+                        "lng": 10.32898987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sarki Street Opp Lando Plaza Alkas",
+            "place_id": "ChIJbSrM_thHVRARig3r1SM75xA",
+            "rating": 0,
+            "reference": "ChIJbSrM_thHVRARig3r1SM75xA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "78CJ+M56, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mohammed Textile",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJJX824zpHVRARX95hDBzi0Ek",
+            "plus_code": {
+                "compound_code": "78CJ+G3 Alkaleri, Nigeria",
+                "global_code": "7F2G78CJ+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJJX824zpHVRARX95hDBzi0Ek",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop 13,New Road, Alhaji Mohammed Central Market, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2690602,
+                    "lng": 10.328773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27044397989272,
+                        "lng": 10.33011452989272
+                    },
+                    "southwest": {
+                        "lat": 10.26774432010728,
+                        "lng": 10.32741487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BNANA PROVISION STORE",
+            "place_id": "ChIJBZ4vNh9GVRARrpBkclSPqXU",
+            "plus_code": {
+                "compound_code": "789H+JG Maimadi, Nigeria",
+                "global_code": "7F2G789H+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJBZ4vNh9GVRARrpBkclSPqXU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2685651,
+                    "lng": 10.331786
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26992792989272,
+                        "lng": 10.33319007989272
+                    },
+                    "southwest": {
+                        "lat": 10.26722827010728,
+                        "lng": 10.33049042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Danbaba's Shop",
+            "place_id": "ChIJ2_jRTh1HVRARLy8oBHY1qYM",
+            "rating": 0,
+            "reference": "ChIJ2_jRTh1HVRARLy8oBHY1qYM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "789J+CPF, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Baffason Textile and Tailoring services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJXVflirNHVRARBWbmIBQ-sCs",
+            "plus_code": {
+                "compound_code": "78CJ+G3 Alkaleri, Nigeria",
+                "global_code": "7F2G78CJ+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJXVflirNHVRARBWbmIBQ-sCs",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Local Govt, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2696067,
+                    "lng": 10.331399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27098557989272,
+                        "lng": 10.33279872989272
+                    },
+                    "southwest": {
+                        "lat": 10.26828592010728,
+                        "lng": 10.33009907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MTN Agent",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113696803084099906354\">Basiru Ahmad ALKAS Basiru Ahmad ALKAS</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOc8FkhNfH9JAgkFD7cxpoTdBETQyQek8G97NVcWVgn3eHbQbNmMoqg373TNHYar7b0-dUFMItENnc09p3lkOJJz2XjMear3mX6P3AfhjRtJZqXz6C-fqy0AIYSozjlZLNIQ3FwsgwvPVaJ15XDanfHn39KeQ2cvW55K1ZMzjAJRsa",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJmc-njUpHVRAR9nbJVlFeSpA",
+            "rating": 3,
+            "reference": "ChIJmc-njUpHVRAR9nbJVlFeSpA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "789J+RHR, Marafa St, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2701725,
+                    "lng": 10.3327541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27153227989272,
+                        "lng": 10.33410072989272
+                    },
+                    "southwest": {
+                        "lat": 10.26883262010728,
+                        "lng": 10.33140107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "SAUKI MEDICINE STORE",
+            "place_id": "ChIJqYOBnh5GVRARfoCG3T0LIvA",
+            "plus_code": {
+                "compound_code": "78CM+34 Maimadi, Nigeria",
+                "global_code": "7F2G78CM+34"
+            },
+            "rating": 0,
+            "reference": "ChIJqYOBnh5GVRARfoCG3T0LIvA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2704241,
+                    "lng": 10.3335397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27179342989272,
+                        "lng": 10.33488277989272
+                    },
+                    "southwest": {
+                        "lat": 10.26909377010728,
+                        "lng": 10.33218312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "AL - KHAIRAT MEDICINE STORE",
+            "place_id": "ChIJvZtsJRxGVRARaywjvX4K4nY",
+            "plus_code": {
+                "compound_code": "78CM+5C Maimadi, Nigeria",
+                "global_code": "7F2G78CM+5C"
+            },
+            "rating": 0,
+            "reference": "ChIJvZtsJRxGVRARaywjvX4K4nY",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "garba maigari",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJi7MKUQFHVRAR2KRisqmkOcg",
+            "plus_code": {
+                "compound_code": "78CJ+G3 Alkaleri, Nigeria",
+                "global_code": "7F2G78CJ+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJi7MKUQFHVRAR2KRisqmkOcg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Marafa St, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3021663,
+                    "lng": 10.2867439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30345442989272,
+                        "lng": 10.28815717989272
+                    },
+                    "southwest": {
+                        "lat": 10.30075477010728,
+                        "lng": 10.28545752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kumbi Dispensary",
+            "place_id": "ChIJ-_iuR0FIVRARHvTh5Rb7fyI",
+            "rating": 0,
+            "reference": "ChIJ-_iuR0FIVRARHvTh5Rb7fyI",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "872P+WM4"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amana Fabrics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJEclkjjFHVRARoGN7h3Yhoyw",
+            "plus_code": {
+                "compound_code": "78CJ+G3 Alkaleri, Nigeria",
+                "global_code": "7F2G78CJ+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJEclkjjFHVRARoGN7h3Yhoyw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Local Govt, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2502687,
+                    "lng": 10.2004623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.2511194,
+                        "lng": 10.20215982989272
+                    },
+                    "southwest": {
+                        "lat": 10.2478802,
+                        "lng": 10.19946017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kurwala Dispensary",
+            "place_id": "ChIJv1PF2bs5VRAR_Vn-nY7CvOA",
+            "rating": 0,
+            "reference": "ChIJv1PF2bs5VRAR_Vn-nY7CvOA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7622+45G, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2381,
+                    "lng": 10.2865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.23944547989272,
+                        "lng": 10.28785107989272
+                    },
+                    "southwest": {
+                        "lat": 10.23674582010728,
+                        "lng": 10.28515142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gwaram Dispensary",
+            "place_id": "ChIJx9d-wKNHVRARDvA7ne1lemo",
+            "rating": 0,
+            "reference": "ChIJx9d-wKNHVRARDvA7ne1lemo",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "67QP+6HX, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2710858,
+                    "lng": 10.3355793
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27241402989272,
+                        "lng": 10.33693597989272
+                    },
+                    "southwest": {
+                        "lat": 10.26971437010728,
+                        "lng": 10.33423632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "BABAYO SHOPPING COMPLEX",
+            "place_id": "ChIJdwHYVBxGVRARNehgKGsrhZE",
+            "plus_code": {
+                "compound_code": "78CP+C6 Maimadi, Nigeria",
+                "global_code": "7F2G78CP+C6"
+            },
+            "rating": 0,
+            "reference": "ChIJdwHYVBxGVRARNehgKGsrhZE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2685322,
+                    "lng": 10.3335106
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26988202989272,
+                        "lng": 10.33486042989272
+                    },
+                    "southwest": {
+                        "lat": 10.26718237010728,
+                        "lng": 10.33216077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "mal.bala Mai manja da mangyada alkaleri Black B11",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103932916762029353880\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjatwjBxHE0k8oZzujZqyrseusckJA9jAB7wMgRxXwIOn6thYgOwD_bXid-r2HBNKDLf76LNZ7SPVbThiEK8c2WEJXJVfkD2eW4Sd_QdtdLeMMjAQ0D2MKmFDyMZwcBaD8ppoHio8CxhpmYo_Lg5lzWIwdC-1GA2ZJS3qIL0h1mpjj0",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ_70NotNHVRARCdJ4Zx8sUOA",
+            "plus_code": {
+                "compound_code": "789M+CC Alkaleri, Nigeria",
+                "global_code": "7F2G789M+CC"
+            },
+            "rating": 0,
+            "reference": "ChIJ_70NotNHVRARCdJ4Zx8sUOA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "local government, Central market, opposite alh baba Mai goro, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2082524,
+                    "lng": 10.1904675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.20955712989272,
+                        "lng": 10.19182772989272
+                    },
+                    "southwest": {
+                        "lat": 10.20685747010728,
+                        "lng": 10.18912807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kwagal Dispensary",
+            "place_id": "ChIJ2aLX5UA5VRAR6zAOr-BrChM",
+            "rating": 0,
+            "reference": "ChIJ2aLX5UA5VRAR6zAOr-BrChM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "655R+854, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2981,
+                    "lng": 10.2874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29961932989272,
+                        "lng": 10.28856302989272
+                    },
+                    "southwest": {
+                        "lat": 10.29691967010728,
+                        "lng": 10.28586337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Rugar-Jalo Dispensary",
+            "place_id": "ChIJAffX-kFIVRARz7lA68NOGS8",
+            "rating": 0,
+            "reference": "ChIJAffX-kFIVRARz7lA68NOGS8",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "77XP+6XR"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2677161,
+                    "lng": 10.3304874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26905442989272,
+                        "lng": 10.33181277989272
+                    },
+                    "southwest": {
+                        "lat": 10.26635477010728,
+                        "lng": 10.32911312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Alkaleri Town Dispensary",
+            "place_id": "ChIJd5PXJRlGVRARB3q7RPNYhJ0",
+            "rating": 0,
+            "reference": "ChIJd5PXJRlGVRARB3q7RPNYhJ0",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "789J+35Q, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2713037,
+                    "lng": 10.3301431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27264717989272,
+                        "lng": 10.33148382989272
+                    },
+                    "southwest": {
+                        "lat": 10.26994752010728,
+                        "lng": 10.32878417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Firstmonie Agent - Sunusi Usman",
+            "place_id": "ChIJ0WcSEthHVRARI-NVHgtMf74",
+            "plus_code": {
+                "compound_code": "78CJ+G3 Alkaleri, Nigeria",
+                "global_code": "7F2G78CJ+G3"
+            },
+            "rating": 0,
+            "reference": "ChIJ0WcSEthHVRARI-NVHgtMf74",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aym Shafa Filling Station Alkaleri#, Alkaleri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2393768,
+                    "lng": 10.2824373
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.24074387989272,
+                        "lng": 10.28379012989272
+                    },
+                    "southwest": {
+                        "lat": 10.23804422010728,
+                        "lng": 10.28109047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Market",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101087508572746674223\">aliyu garba</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7uqdwWte-E0xS5SFAigp2w3TAT6xAeQpEF2xIyl6S6r5KsU817ncxFwtKKHj4K5vkRlaHav303x5aiQymKnKOUuTTY_FAK6hHYxv9p_YhjwxTbQJtg6sKtW8gyWD89VnsAzuTuZpfYbHxZwvfcpPbqIGy06eWTkyq-OLSj1G_JKke",
+                    "width": 1088
+                }
+            ],
+            "place_id": "ChIJH8xhf6JHVRARnu1hJesIkK0",
+            "rating": 4.8,
+            "reference": "ChIJH8xhf6JHVRARnu1hJesIkK0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "67QJ+PXV, Gwaram"
+        }
+    ],
+    "status": "OK"
+}

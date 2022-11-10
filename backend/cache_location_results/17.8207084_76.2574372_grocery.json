@@ -1,0 +1,819 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRj0n_q1E7yuENGTF_UbPqkNKXTzgkud-NBVoeurKuYvWaqveszGh3ebKXzJKGfx959MSNCxgmTWF2KlV07WGgSFSEGJe5OxTgCPwgHuUVl9JzOSXVX9zHfcxdobe3aV5ZGQlxKYpgEKSO7vn3u35hfsK4swEwsUbpbaAJiaDlaT1BiwmyXUetQ0rwfJQyHjhd6aQjxvvggJLuiMf1n4r2vzcFE0y4fk4pCEi3LZhCSycz8YrUrvMfJYjMKTwT_b9a4ZpHfFKxrb8-x4iRrheDjHNPYDpy-wgn-xWG8z9fc2Xs8V6MNSXIgkWSeaI-zNBV_ob0fX-0OqyIwDGPdQnVy0bcA7ZqeoJCxJT2yO0O0JO2gOYuLZMNMk6VVye_tRF54F4s14aAn8bWTQY_XDoCgLre-Avs9wMMlPEaJA_bGCqlGOjlT48qOK",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7429471,
+                    "lng": 76.2379543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74405582989272,
+                        "lng": 76.23968752989272
+                    },
+                    "southwest": {
+                        "lat": 17.74135617010728,
+                        "lng": 76.23698787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "shri Swami Samarth Kirana Store",
+            "opening_hours": {},
+            "place_id": "ChIJt-FgTsrlxTsRifvrEwLQb_A",
+            "plus_code": {
+                "compound_code": "P6VQ+55 Shahapur, Maharashtra",
+                "global_code": "7J9RP6VQ+55"
+            },
+            "rating": 0,
+            "reference": "ChIJt-FgTsrlxTsRifvrEwLQb_A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03 Main Road Shahapur, Shahapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7473631,
+                    "lng": 76.1629035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74856037989272,
+                        "lng": 76.16421662989272
+                    },
+                    "southwest": {
+                        "lat": 17.74586072010728,
+                        "lng": 76.16151697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SOMNATH KIRANA AND GENERAL STORE",
+            "place_id": "ChIJ10TnFy_pxTsR_iZxN04ClLQ",
+            "plus_code": {
+                "compound_code": "P5W7+W5 Keshegaon, Maharashtra",
+                "global_code": "7J9RP5W7+W5"
+            },
+            "rating": 0,
+            "reference": "ChIJ10TnFy_pxTsR_iZxN04ClLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02, Main Road, Keshegaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7497302,
+                    "lng": 76.31831869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75095192989272,
+                        "lng": 76.31979517989272
+                    },
+                    "southwest": {
+                        "lat": 17.74825227010728,
+                        "lng": 76.31709552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bashveshvar Kirana Store",
+            "place_id": "ChIJoTnab3L7xTsR7YetE6i4Dsc",
+            "plus_code": {
+                "compound_code": "P8X9+V8 Nandgaon, Maharashtra",
+                "global_code": "7J9RP8X9+V8"
+            },
+            "rating": 0,
+            "reference": "ChIJoTnab3L7xTsR7YetE6i4Dsc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 02, Main Road, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7778999,
+                    "lng": 76.2808721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.77925707989272,
+                        "lng": 76.28222422989272
+                    },
+                    "southwest": {
+                        "lat": 17.77655742010728,
+                        "lng": 76.27952457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ABAY KIRANA STORE",
+            "place_id": "ChIJUTFTqQvxxTsRhQd9e1ZfoEM",
+            "plus_code": {
+                "compound_code": "Q7HJ+59 Yedola, Maharashtra",
+                "global_code": "7J9RQ7HJ+59"
+            },
+            "rating": 0,
+            "reference": "ChIJUTFTqQvxxTsRhQd9e1ZfoEM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Main Road, Yadola Yadola"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7354528,
+                    "lng": 76.2327476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73680232989273,
+                        "lng": 76.23409912989273
+                    },
+                    "southwest": {
+                        "lat": 17.73410267010728,
+                        "lng": 76.23139947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Swami samarth grocery shop",
+            "place_id": "ChIJ19QNVlvlxTsR1W7fqVTJBBw",
+            "plus_code": {
+                "compound_code": "P6PM+54 Shahapur, Maharashtra",
+                "global_code": "7J9RP6PM+54"
+            },
+            "rating": 0,
+            "reference": "ChIJ19QNVlvlxTsR1W7fqVTJBBw",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bus Stop, SH154, Shahapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8266642,
+                    "lng": 76.33381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82801672989272,
+                        "lng": 76.33512502989272
+                    },
+                    "southwest": {
+                        "lat": 17.82531707010727,
+                        "lng": 76.33242537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Laxmi kirana stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108814762558181634558\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiSx3p34YVh4BVX6LIWfvEn-JdwFbQg5Yt7nY6djWI3MXdlij9QhSk36zcO0N_zVuR8q9qkr7DW0aVlzuUuakrRW_-nZAkpWaWg49Ls3SJ5r8vB2xxIwyV1q--NK3YdWDBJuFKjOa70Wftqq1P_TeRrKgBCYU8gO1zHKyIR8KQ-Axel",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJx3DoyJHxxTsRt9LcyCy5N6Q",
+            "plus_code": {
+                "compound_code": "R8GM+MG Jalkot, Maharashtra",
+                "global_code": "7J9RR8GM+MG"
+            },
+            "rating": 0,
+            "reference": "ChIJx3DoyJHxxTsRt9LcyCy5N6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sambhaji Nagar jalkot tuljapur, Tuljapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7647429,
+                    "lng": 76.26440199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76611022989272,
+                        "lng": 76.26572227989273
+                    },
+                    "southwest": {
+                        "lat": 17.76341057010728,
+                        "lng": 76.26302262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAMARTH KIRANA STORE",
+            "place_id": "ChIJje_zAqDvxTsRJi8_zF4GJZI",
+            "plus_code": {
+                "compound_code": "Q777+VQ Wagdari, Maharashtra",
+                "global_code": "7J9RQ777+VQ"
+            },
+            "rating": 0,
+            "reference": "ChIJje_zAqDvxTsRJi8_zF4GJZI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Main Road, Wagdari"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8135617,
+                    "lng": 76.2408713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81490552989272,
+                        "lng": 76.24222267989272
+                    },
+                    "southwest": {
+                        "lat": 17.81220587010728,
+                        "lng": 76.23952302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivmahlar Prasadik Bhandar",
+            "place_id": "ChIJca0BaBXvxTsRB91VazI1e2A",
+            "plus_code": {
+                "compound_code": "R67R+C8 Anadur, Maharashtra",
+                "global_code": "7J9RR67R+C8"
+            },
+            "rating": 0,
+            "reference": "ChIJca0BaBXvxTsRB91VazI1e2A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 02, Andur, Main Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8594346,
+                    "lng": 76.1931809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.86054822989272,
+                        "lng": 76.19442662989272
+                    },
+                    "southwest": {
+                        "lat": 17.85784857010728,
+                        "lng": 76.19172697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "DIPAK KIRANA STORE",
+            "place_id": "ChIJl5tX6XPtxTsR48BaXo-NtDQ",
+            "plus_code": {
+                "compound_code": "V55V+Q7 Chivari, Maharashtra",
+                "global_code": "7J9RV55V+Q7"
+            },
+            "rating": 0,
+            "reference": "ChIJl5tX6XPtxTsR48BaXo-NtDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Main Road, Chivari"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7821152,
+                    "lng": 76.2410201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78346417989273,
+                        "lng": 76.24230867989272
+                    },
+                    "southwest": {
+                        "lat": 17.78076452010728,
+                        "lng": 76.23960902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GANESH KIRANA STORE",
+            "place_id": "ChIJxYI6LczvxTsR5t1pZRVUI0M",
+            "plus_code": {
+                "compound_code": "Q6JR+RC Khudawadi, Maharashtra",
+                "global_code": "7J9RQ6JR+RC"
+            },
+            "rating": 0,
+            "reference": "ChIJxYI6LczvxTsR5t1pZRVUI0M",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Main Road Khuda Wadi, Khudawadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8261834,
+                    "lng": 76.3338453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82753132989272,
+                        "lng": 76.33514712989272
+                    },
+                    "southwest": {
+                        "lat": 17.82483167010728,
+                        "lng": 76.33244747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SAMARTH KIRANA STORE",
+            "place_id": "ChIJS-6qCCHxxTsRgGxjG4dhE2s",
+            "plus_code": {
+                "compound_code": "R8GM+FG Jalkot, Maharashtra",
+                "global_code": "7J9RR8GM+FG"
+            },
+            "rating": 0,
+            "reference": "ChIJS-6qCCHxxTsRgGxjG4dhE2s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02, Sambhaji Nagar, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8146691,
+                    "lng": 76.2759426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81592227989272,
+                        "lng": 76.27718802989273
+                    },
+                    "southwest": {
+                        "lat": 17.81322262010728,
+                        "lng": 76.27448837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0932\u093e\u0902\u0921\u0917\u0947 \u0939\u094b\u0932\u0938\u0947\u0932 \u0915\u093f\u0930\u093e\u0923\u093e \u092a\u093e\u0921\u094b\u0933\u0940 (\u0906 )",
+            "place_id": "ChIJvc_Z5GzxxTsRHxxpCgdK0KU",
+            "rating": 0,
+            "reference": "ChIJvc_Z5GzxxTsRHxxpCgdK0KU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R77G+V9G, Akkalkot - Naldurg - Tuljapur Rd, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7503365,
+                    "lng": 76.319683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75169357989272,
+                        "lng": 76.32099952989272
+                    },
+                    "southwest": {
+                        "lat": 17.74899392010727,
+                        "lng": 76.31829987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nikhil Kirana Store",
+            "place_id": "ChIJ58GPOuf7xTsR0SIFzTRUK0s",
+            "plus_code": {
+                "compound_code": "Q829+4V Nandgaon, Maharashtra",
+                "global_code": "7J9RQ829+4V"
+            },
+            "rating": 0,
+            "reference": "ChIJ58GPOuf7xTsR0SIFzTRUK0s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11, Main Road, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8108705,
+                    "lng": 76.27212039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81226002989272,
+                        "lng": 76.27351577989273
+                    },
+                    "southwest": {
+                        "lat": 17.80956037010728,
+                        "lng": 76.27081612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MADINA KIRANA STORE",
+            "place_id": "ChIJWRYwVCLxxTsR56USaO7dBgM",
+            "plus_code": {
+                "compound_code": "R76C+9V Naldurg, Maharashtra",
+                "global_code": "7J9RR76C+9V"
+            },
+            "rating": 0,
+            "reference": "ChIJWRYwVCLxxTsR56USaO7dBgM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Naldurg, Rahim Nagar, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8254894,
+                    "lng": 76.3326417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82690192989272,
+                        "lng": 76.33400632989273
+                    },
+                    "southwest": {
+                        "lat": 17.82420227010728,
+                        "lng": 76.33130667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SHIRI SIDDESHWAR KIRANA STORE",
+            "place_id": "ChIJ-5KcK3nxxTsRw1oJSQ4Ytgw",
+            "plus_code": {
+                "compound_code": "R8GM+53 Jalkot, Maharashtra",
+                "global_code": "7J9RR8GM+53"
+            },
+            "rating": 0,
+            "reference": "ChIJ-5KcK3nxxTsRw1oJSQ4Ytgw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Main Road, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7460028,
+                    "lng": 76.3197701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74736567989272,
+                        "lng": 76.32112462989272
+                    },
+                    "southwest": {
+                        "lat": 17.74466602010728,
+                        "lng": 76.31842497010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MAHESH KIRANA STORE",
+            "place_id": "ChIJJSigBtr7xTsRgg5uzylEYFc",
+            "plus_code": {
+                "compound_code": "P8W9+CW Nandgaon, Maharashtra",
+                "global_code": "7J9RP8W9+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJJSigBtr7xTsRgg5uzylEYFc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Main Road Nandgaon, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8249723,
+                    "lng": 76.2618797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82620612989272,
+                        "lng": 76.26301167989273
+                    },
+                    "southwest": {
+                        "lat": 17.82350647010728,
+                        "lng": 76.26031202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gaikwad Kirana",
+            "place_id": "ChIJk344S_3vxTsRUUsNs_sPvDk",
+            "plus_code": {
+                "compound_code": "R7F6+XQ Naldurg, Maharashtra",
+                "global_code": "7J9RR7F6+XQ"
+            },
+            "rating": 0,
+            "reference": "ChIJk344S_3vxTsRUUsNs_sPvDk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 03, Main Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8162626,
+                    "lng": 76.2839961
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81761232989272,
+                        "lng": 76.28534887989271
+                    },
+                    "southwest": {
+                        "lat": 17.81491267010728,
+                        "lng": 76.28264922010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shadab Kirana And General Store",
+            "place_id": "ChIJIyPYiV7xxTsRoGpK-d2c4O8",
+            "plus_code": {
+                "compound_code": "R78M+GH Naldurg, Maharashtra",
+                "global_code": "7J9RR78M+GH"
+            },
+            "rating": 0,
+            "reference": "ChIJIyPYiV7xxTsRoGpK-d2c4O8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 08, Killa Gate Rd, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8139888,
+                    "lng": 76.2405399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81531587989272,
+                        "lng": 76.24189697989272
+                    },
+                    "southwest": {
+                        "lat": 17.81261622010728,
+                        "lng": 76.23919732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "JAY MALHAR PRASADIK BHANDAR",
+            "place_id": "ChIJ9SeOI0LuxTsRaOwqesRO5Mo",
+            "plus_code": {
+                "compound_code": "R67R+H6 Anadur, Maharashtra",
+                "global_code": "7J9RR67R+H6"
+            },
+            "rating": 5,
+            "reference": "ChIJ9SeOI0LuxTsRaOwqesRO5Mo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "shopping_mall",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1, near by Khandoba Mandir, Andur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8158821,
+                    "lng": 76.2811581
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81726332989272,
+                        "lng": 76.28250982989273
+                    },
+                    "southwest": {
+                        "lat": 17.81456367010728,
+                        "lng": 76.27981017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vignharta Traders",
+            "place_id": "ChIJuV907L7xxTsRjA3m9ljEOi0",
+            "plus_code": {
+                "compound_code": "R78J+9F Naldurg, Maharashtra",
+                "global_code": "7J9RR78J+9F"
+            },
+            "rating": 0,
+            "reference": "ChIJuV907L7xxTsRjA3m9ljEOi0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11killa, Road, Naldurg"
+        }
+    ],
+    "status": "OK"
+}

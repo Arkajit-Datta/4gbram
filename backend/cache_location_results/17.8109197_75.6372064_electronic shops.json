@@ -1,0 +1,851 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRidnj7iHAunuWzypzfqJk1gJ7uRLwwR4LvtaEJICjWUKN_bWuKD0cCLGrnKYEJkr-MJIjxt9XscuhNTnDD7i0TZ-AhScR2C43fFVBWYr1fxFePLLZ1X6xmLlFUe4NK_5ecMwCKEIYso-hGRLfM7KaeEnMIzzE-c8301OR7vm-XuipgB1sChYuHpj_rubF5rTjr6kHopwlK7vjg73zAGO797jMUpC46WrHV2k63EO2ub0a6uZDv38LWqaat57YBujRzVtNE2hB1N9CrwAiDZT2KAEuH7caxZD0GrvGOdaGnA47vvJUsma0poq0-kSIMMpZKJRjgkhcXkncqHqC03K4S6n267B0DWLWQhG5T2yjjuDdbE1MzmtMoWZ15JLyOi18cSTWAKgS3qEosEzsGM2R2xFwtcbOZsQvaVFwswa3e4FZ7Cv43NVkjiXd28IhUJPnwy",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8094099,
+                    "lng": 75.6399911
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81073677989272,
+                        "lng": 75.64134277989271
+                    },
+                    "southwest": {
+                        "lat": 17.80803712010728,
+                        "lng": 75.63864312010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Astavinayak electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJo_tsahI0xDsRRlcLtesfnRY",
+            "rating": 0,
+            "reference": "ChIJo_tsahI0xDsRRlcLtesfnRY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ5Q+QXQ, Siddhart, Siddharth Nagar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8094158,
+                    "lng": 75.6403624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81076582989272,
+                        "lng": 75.64174362989272
+                    },
+                    "southwest": {
+                        "lat": 17.80806617010727,
+                        "lng": 75.63904397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dattakrupa Electronic",
+            "place_id": "ChIJCadNeOM1xDsRE1HSUtk3jPE",
+            "plus_code": {
+                "compound_code": "RJ5R+Q4 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5R+Q4"
+            },
+            "rating": 0,
+            "reference": "ChIJCadNeOM1xDsRE1HSUtk3jPE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01ain Road Sambhjiraje Chowk, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8093176,
+                    "lng": 75.6390876
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81061762989272,
+                        "lng": 75.64044532989271
+                    },
+                    "southwest": {
+                        "lat": 17.80791797010728,
+                        "lng": 75.63774567010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vaishnavi Electronics and electrical",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112274970921539818225\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiraMbreRWoWA8S79pFti_-TJSuinmMUwnvNdb-Zx2Fe9obuggLrL7WG8ujNcrH-rMWVHODT4zZr4tVL-D8cZzKARuQOOk7UCIclBVhdyboHkEFJGtaBdEFCrVVtQlfsr2khtjHVwl7u9A5p5ngZw9SnjPwVuHayZkRGknLIze6SLjT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJR3b4HcQ1xDsRfKL176_N7z8",
+            "plus_code": {
+                "compound_code": "RJ5Q+PJ Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+PJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJR3b4HcQ1xDsRfKL176_N7z8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "main road Shivaji Chowk, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7992443,
+                    "lng": 75.6396761
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80059987989272,
+                        "lng": 75.64094992989273
+                    },
+                    "southwest": {
+                        "lat": 17.79790022010728,
+                        "lng": 75.63825027010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Royal Electrical & Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJreaarzI1xDsRoSyjy-rcp5I",
+            "plus_code": {
+                "compound_code": "QJXQ+MV Mohol, Maharashtra",
+                "global_code": "7J9QQJXQ+MV"
+            },
+            "rating": 5,
+            "reference": "ChIJreaarzI1xDsRoSyjy-rcp5I",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 2 Vidya Nagar Kurul, Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8101694,
+                    "lng": 75.6403588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81151802989272,
+                        "lng": 75.64170272989271
+                    },
+                    "southwest": {
+                        "lat": 17.80881837010728,
+                        "lng": 75.63900307010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Naganath Work Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103185029595487360143\">sawpnil shinde</a>"
+                    ],
+                    "photo_reference": "AcYSjRgySSP48PPid-adQZs_8leMc8K-dWZcIz1nKseOBf2dcuLB0RqY47CyGOUbIbwZ0RxLxz3bYhgUPMem77tntLdT2uHecEedxX7FbLsv8Du7ih_V2IYBe09xNhhE4k75bLeuFIQyW8k9iSYLZP43ip00g1p6LHbTA6RbtA9vouuHAECx",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJVaciRRI0xDsRTwDQyfcmOFw",
+            "rating": 5,
+            "reference": "ChIJVaciRRI0xDsRTwDQyfcmOFw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "RJ6R+349, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8076862,
+                    "lng": 75.6423444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80902552989272,
+                        "lng": 75.64372287989272
+                    },
+                    "southwest": {
+                        "lat": 17.80632587010728,
+                        "lng": 75.64102322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sachin Sales And Services",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJExBpZg00xDsRAAAAcJqHDyg",
+            "plus_code": {
+                "compound_code": "RJ5R+3W Mohol, Maharashtra",
+                "global_code": "7J9QRJ5R+3W"
+            },
+            "rating": 5,
+            "reference": "ChIJExBpZg00xDsRAAAAcJqHDyg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 73 Market Yard Mohol, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8414135,
+                    "lng": 75.5627178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84289867989272,
+                        "lng": 75.56405627989272
+                    },
+                    "southwest": {
+                        "lat": 17.84019902010728,
+                        "lng": 75.56135662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u092d\u093e\u0930\u0924 \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u094b\u0928\u093f\u0915\u094d\u0938",
+            "place_id": "ChIJcWZL_Jc3xDsRH6rcuQ9v-Bc",
+            "rating": 0,
+            "reference": "ChIJcWZL_Jc3xDsRH6rcuQ9v-Bc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RHR6+PX9, Solapur - Pune Hwy, Chikhali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8092259,
+                    "lng": 75.6417826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81057367989272,
+                        "lng": 75.64307572989271
+                    },
+                    "southwest": {
+                        "lat": 17.80787402010728,
+                        "lng": 75.64037607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ashok Electronics",
+            "place_id": "ChIJ5xfFaC01xDsRtPnoZwyayVs",
+            "plus_code": {
+                "compound_code": "RJ5R+MP Mohol, Maharashtra",
+                "global_code": "7J9QRJ5R+MP"
+            },
+            "rating": 0,
+            "reference": "ChIJ5xfFaC01xDsRtPnoZwyayVs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Main Road Mohol, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8067686,
+                    "lng": 75.6465548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80812682989272,
+                        "lng": 75.64786602989273
+                    },
+                    "southwest": {
+                        "lat": 17.80542717010728,
+                        "lng": 75.64516637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amrutdhara Electronics",
+            "place_id": "ChIJ55J98XI0xDsRAAAAcHrL0B8",
+            "plus_code": {
+                "compound_code": "RJ4W+PJ Mohol, Maharashtra",
+                "global_code": "7J9QRJ4W+PJ"
+            },
+            "rating": 5,
+            "reference": "ChIJ55J98XI0xDsRAAAAcHrL0B8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 2, Simolanghan Pandh Road, near Shah Hospital, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8092662,
+                    "lng": 75.6429698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81066302989272,
+                        "lng": 75.64431377989273
+                    },
+                    "southwest": {
+                        "lat": 17.80796337010728,
+                        "lng": 75.64161412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pranav Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108345708689490131805\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwMrtpTx8vnytRtmOMeo6KNp2TJVsJTNiBROPAVGGL231y72sWffbT-dpb2VRvLndrj3mSjYMwWyziJTzcNHt73PXURKn0Xq0y7xmVoAOq4YbNeQ0q7hD3Z5jvnqEYencVd8d_rgjfbDspNbZ_HHKH01XQWG5sqOPiWeZ2Env5LElu",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ6YiNuxI0xDsRGKFrkXeOwI0",
+            "rating": 5,
+            "reference": "ChIJ6YiNuxI0xDsRGKFrkXeOwI0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "RJ5V+P55, Siddharth Nagar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8093031,
+                    "lng": 75.6408936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81064042989272,
+                        "lng": 75.64224352989271
+                    },
+                    "southwest": {
+                        "lat": 17.80794077010728,
+                        "lng": 75.63954387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bharath Engineering Works, Mohol",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJFW8R9W01xDsRUVwQjmc2RHo",
+            "plus_code": {
+                "compound_code": "RJ5R+P9 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5R+P9"
+            },
+            "rating": 5,
+            "reference": "ChIJFW8R9W01xDsRUVwQjmc2RHo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Railway Station, Service road Street Road from Bus Stop to, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7992503,
+                    "lng": 75.6396781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80060472989272,
+                        "lng": 75.64096547989273
+                    },
+                    "southwest": {
+                        "lat": 17.79790507010728,
+                        "lng": 75.63826582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MZ New Bombay Electronic's",
+            "opening_hours": {},
+            "place_id": "ChIJlfDzxhI0xDsRRztgxp1ty7g",
+            "plus_code": {
+                "compound_code": "QJXQ+MV Mohol, Maharashtra",
+                "global_code": "7J9QQJXQ+MV"
+            },
+            "rating": 5,
+            "reference": "ChIJlfDzxhI0xDsRRztgxp1ty7g",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Vidhya Nagar Kurul Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8086962,
+                    "lng": 75.6336132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81008782989272,
+                        "lng": 75.63497327989273
+                    },
+                    "southwest": {
+                        "lat": 17.80738817010728,
+                        "lng": 75.63227362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JIO Digital Life",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111827019444322594244\">Dhiren Kalase</a>"
+                    ],
+                    "photo_reference": "AcYSjRhLS1m_ST2ISHw3yo-kEq9Et1AitAiUYF3uKQBM73SdIPw9Ql7HAgi7mFlS9ev8kWNmShgEclghN3qEfDhRDMRvhnBKV_UVovCa6_nTaym4Am1NtpKnS730_x9vhLt24bLfbPlhl9dqqKoSIjxOojqk0iosgYtRVlZeyYp30zRo9YG2",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJk2qjFhA0xDsRsi6I7fjXqhQ",
+            "rating": 3.8,
+            "reference": "ChIJk2qjFhA0xDsRsi6I7fjXqhQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "RJ5M+FCH, D.B.Kalase Marg, Kalase Nagar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8069173,
+                    "lng": 75.6464215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80825662989272,
+                        "lng": 75.64782297989274
+                    },
+                    "southwest": {
+                        "lat": 17.80555697010728,
+                        "lng": 75.64512332010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Siddhanagesh Electronic",
+            "place_id": "ChIJ1_aiJh41xDsRVELGl8Z2Ktg",
+            "rating": 4,
+            "reference": "ChIJ1_aiJh41xDsRVELGl8Z2Ktg",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RJ4W+QH8, Silanganpand Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8100457,
+                    "lng": 75.6431506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81144547989272,
+                        "lng": 75.64450352989272
+                    },
+                    "southwest": {
+                        "lat": 17.80874582010728,
+                        "lng": 75.64180387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivani Mobile",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113470736169145883780\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjy71ntNIVrBtb-lJz-RJJoxuxSzA112SQ1lZgnMJxrhNumAgdmHIRhvBp9I1CcYGEf4fcDeyTGqYZkHYE6mZeGYx9rIxQxS0KDwgH9BJzIZI-weSsDKpj9G6RDTBODapBQBfOaWhIxjPG7DRulBP59lixmicbMN8oIusWAEq8OIVsG",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJBTUwaxI0xDsRulooItmEIko",
+            "plus_code": {
+                "compound_code": "RJ6V+27 Mohol, Maharashtra",
+                "global_code": "7J9QRJ6V+27"
+            },
+            "rating": 4.4,
+            "reference": "ChIJBTUwaxI0xDsRulooItmEIko",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "Sambhaji chowk,main road, Mohol"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8091987,
+                    "lng": 75.6382422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81055657989272,
+                        "lng": 75.63960362989273
+                    },
+                    "southwest": {
+                        "lat": 17.80785692010728,
+                        "lng": 75.63690397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kabir electronic",
+            "permanently_closed": true,
+            "place_id": "ChIJW9bDt341xDsR3QFEPaJMjeM",
+            "rating": 0,
+            "reference": "ChIJW9bDt341xDsR3QFEPaJMjeM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ5Q+M7H, Moriskhali Bazar caul, Mohol"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8106444,
+                    "lng": 75.6437643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81200272989272,
+                        "lng": 75.64511737989272
+                    },
+                    "southwest": {
+                        "lat": 17.80930307010728,
+                        "lng": 75.64241772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Om Sai Mobile Shop Kurul",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110428384180146068416\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgO7ryakrcX2jYhAHPLd_LEcC7FkPeAl8-rpUVUOxf9-VsHx8puz6Hy8vHB8DvYpaQnppxd9QM2gCzVnU2NucIMJWkMrlo5YAMvNsaLoovjQuO4MWtI4aCBO2QESY8g-b5A9TdqWsuENzgMfbhwTQuHVd7MlH0F4en4FRxtQ32f5VSc",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJESM-F0otxDsRieQ-6dxeMoc",
+            "plus_code": {
+                "compound_code": "RJ6V+6G Mohol, Maharashtra",
+                "global_code": "7J9QRJ6V+6G"
+            },
+            "rating": 4,
+            "reference": "ChIJESM-F0otxDsRieQ-6dxeMoc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "At post kurul tal. Mohol Dis.solapur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8092061,
+                    "lng": 75.6398023
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81059922989272,
+                        "lng": 75.64114812989273
+                    },
+                    "southwest": {
+                        "lat": 17.80789957010728,
+                        "lng": 75.63844847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pravin electricals",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116338398780191996353\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj1xhL7IJXItS0ygsb27G-NVztYPgz0m_Q4j2jyHryFx2XuVEMLJYgsDk_NkejG0r_h3QighvlZb2ztdpjMBRmRgF3dhbNzNaiNencfoGQJc6N7S2WR7v7LVmgeGqRBUDqeZa2OjTB18gq0P9EgG5pGJRdm4xIk2ZFlCG3-m2p45P-W",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJj7ZdaxI0xDsR06wge0XKEGo",
+            "rating": 4,
+            "reference": "ChIJj7ZdaxI0xDsR06wge0XKEGo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "RJ5Q+MWM, Mohol"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8101199,
+                    "lng": 75.64314999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81144547989272,
+                        "lng": 75.64450352989272
+                    },
+                    "southwest": {
+                        "lat": 17.80874582010728,
+                        "lng": 75.64180387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mayuri Mobile",
+            "permanently_closed": true,
+            "place_id": "ChIJJ-AnZPk1xDsR7MHVdrS1a-k",
+            "rating": 1,
+            "reference": "ChIJJ-AnZPk1xDsR7MHVdrS1a-k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RJ6V+276, Shivaji Chowk, Mohol"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.80614,
+                    "lng": 75.644725
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80747152989272,
+                        "lng": 75.64606487989272
+                    },
+                    "southwest": {
+                        "lat": 17.80477187010728,
+                        "lng": 75.64336522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji Mobile Stores",
+            "permanently_closed": true,
+            "place_id": "ChIJ80tn0HI0xDsRUzkiEiDyet4",
+            "rating": 5,
+            "reference": "ChIJ80tn0HI0xDsRUzkiEiDyet4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RJ4V+FV5, Solapur - Dhule National Hwy, Siddharth Nagar, Mohol"
+        }
+    ],
+    "status": "OK"
+}

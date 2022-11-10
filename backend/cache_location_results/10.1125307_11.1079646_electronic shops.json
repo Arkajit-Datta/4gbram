@@ -1,0 +1,44 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0480955,
+                    "lng": 11.2003506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.04946112989272,
+                        "lng": 11.20169332989272
+                    },
+                    "southwest": {
+                        "lat": 10.04676147010728,
+                        "lng": 11.19899367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Alh.LADAN SOLAR ENGENEERING",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJrelOXs63_xARXt3Wg65tQlM",
+            "rating": 4,
+            "reference": "ChIJrelOXs63_xARXt3Wg65tQlM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "26X2+64H, Tashan magarya motor park, Kumo"
+        }
+    ],
+    "status": "OK"
+}

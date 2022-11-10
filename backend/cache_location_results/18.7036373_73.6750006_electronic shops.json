@@ -1,0 +1,913 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiS_mjPe1v2CbckAE22Chji0N07C53MMVq2l7uD0RykjGUHtwtOJ38mXjR37PV3ay2zxwBSxN5uG25LNh3WsutqdauZyAG6n4mYKF1Nq9ipgl1D7RGhUm59d4Q9sZTmYI7MBZgHuY0_W6TmcwmVlVaHwIQhAayzvINWq8UJMh8P81tfGKbXQbrCDcVLRl0krzBF0B8Bh3KR-Mf_QSSY5Orlfv0-P6p8qnID8-fyPFDQ1ffxPNIjX9oMiwKtozxeE9dwkRiWHuuCz3Dp-QgJO_rKAtN8V77YQYtsuZ7Rc2JfV-I16fFUOJvoXrmFwZoQ-inc0kNYE57RV8iuA1LB9zOg9OS-POfh8P7Ue22vIHujFrDAGNpvT5swy9Fs8FvclQNy-ZBr4vklbd_njEDXVswHkJ-4BCQQmrtfeYoY2JjH6EzPS4CNwN4UuYznAbrP_Iij",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6812006,
+                    "lng": 73.7296552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.68250717989272,
+                        "lng": 73.73103467989273
+                    },
+                    "southwest": {
+                        "lat": 18.67980752010728,
+                        "lng": 73.7283350201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kartik Electronic",
+            "place_id": "ChIJFSK_tsCwwjsRAAAAMD1yTS4",
+            "rating": 0,
+            "reference": "ChIJFSK_tsCwwjsRAAAAMD1yTS4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MPJH+FVF, Dr Ambedkar Rd, near Datta Mandir, Gandhi Nagar, Dehu Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.615243,
+                    "lng": 73.765384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61657887989272,
+                        "lng": 73.76671322989273
+                    },
+                    "southwest": {
+                        "lat": 18.61387922010728,
+                        "lng": 73.76401357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kailashnath Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1728,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106552264108421804610\">Ashish Thorat</a>"
+                    ],
+                    "photo_reference": "AcYSjRgWGX4uvcNUF_Q1p0D-W2xe1vpcBi0qUZmJ_7rXYZ1iGC94ngNqFiHa2g2IQar9mjfCKioq9P6jo4aOW-HgWyiAvGFM-RuIVcTqEwYB7ZoFINNTKDQSpib1Jgi0-FYji61tRaceP9c1pt9Q1cue_VX9mKnOlPknpDJLwi47DP6gcE6P",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJzdzN4Z25wjsRQroAZYcr7hU",
+            "rating": 3.7,
+            "reference": "ChIJzdzN4Z25wjsRQroAZYcr7hU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "JQ88+35R, Chinchwad rd,, Dhange Chowk Flyover, opposite Shivaji statue, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6486293,
+                    "lng": 73.7626458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64997692989273,
+                        "lng": 73.76399257989273
+                    },
+                    "southwest": {
+                        "lat": 18.64727727010728,
+                        "lng": 73.76129292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Choice Mobile and electronics",
+            "place_id": "ChIJYbH-EGi5wjsRMzPNWTt20tI",
+            "plus_code": {
+                "compound_code": "JQX7+C3 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQX7+C3"
+            },
+            "rating": 5,
+            "reference": "ChIJYbH-EGi5wjsRMzPNWTt20tI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "142, Gurudwara Rd, Gawade Wada, Gurudwara Colony, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6456738,
+                    "lng": 73.766995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64696797989273,
+                        "lng": 73.76829447989272
+                    },
+                    "southwest": {
+                        "lat": 18.64426832010728,
+                        "lng": 73.76559482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "New Bhawani Electronics & Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJYcyYH-m5wjsRR-A7OwrSMuU",
+            "rating": 5,
+            "reference": "ChIJYcyYH-m5wjsRR-A7OwrSMuU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JQW8+7Q9, Gurudwara Rd, Bharatmata Housing Society, Sector No. 30, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6147055,
+                    "lng": 73.76556350000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61608167989272,
+                        "lng": 73.76694782989273
+                    },
+                    "southwest": {
+                        "lat": 18.61338202010728,
+                        "lng": 73.76424817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AV Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJR9DVB565wjsRAAAAMO2CK18",
+            "plus_code": {
+                "compound_code": "JQ78+V6 Thergaon, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ78+V6"
+            },
+            "rating": 0,
+            "reference": "ChIJR9DVB565wjsRAAAAMO2CK18",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 2, Dange Chowk Rd, Onkar Colony, Yashoda Colony, Thergaon, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6453187,
+                    "lng": 73.75452469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64657737989272,
+                        "lng": 73.75589297989272
+                    },
+                    "southwest": {
+                        "lat": 18.64387772010728,
+                        "lng": 73.75319332010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Charbhuja Mobile And Electrics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJC8vr2vC5wjsRAAAA0K4Inmw",
+            "plus_code": {
+                "compound_code": "JQW3+4R Ravet, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQW3+4R"
+            },
+            "rating": 0,
+            "reference": "ChIJC8vr2vC5wjsRAAAA0K4Inmw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, Shinde Vasti, Ravet, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.73635,
+                    "lng": 73.69655949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.73770722989272,
+                        "lng": 73.69788792989273
+                    },
+                    "southwest": {
+                        "lat": 18.73500757010728,
+                        "lng": 73.69518827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vaishnavi Electronics And Furniture",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107397643144668636339\">vishal pawar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjazM6vHrLKpMC60p12draFmBcVogjH5hY1RtewkAj3BJQ0veWo-rh3O-Oo2sCdFM6yKZTuaV5gJ_WqNr7cPqTw04dNOg42fzHxKKd6qh8aVaC57Howg9vWkJbaCksPCgBF8b0X9NBPQM-Bqja_d5JS_VjZR8GoT-6y-VVg0pDDr4aS",
+                    "width": 4632
+                }
+            ],
+            "place_id": "ChIJ-V26pYSxwjsRv2n6pllKKwg",
+            "plus_code": {
+                "compound_code": "PMPW+GJ Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPMPW+GJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ-V26pYSxwjsRv2n6pllKKwg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "943, Talegaon - Chakan Rd, Vidya Vihar Colony, Anand Nagar, Talegaon-Chakan, Road, Vidya Vihar Colony, Anand Nagar, Manohar Nagar, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.614059,
+                    "lng": 73.764616
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61543877989272,
+                        "lng": 73.76596957989273
+                    },
+                    "southwest": {
+                        "lat": 18.61273912010728,
+                        "lng": 73.76326992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Krishna Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113022677488961990990\">Krishna Electronics</a>"
+                    ],
+                    "photo_reference": "AcYSjRjTDl-3vgvpui_q2PcZSIN0h-iGMvhZx1DCPIS60g7zFaGeNFVxJL8wFJeacpa8mX5udJX3tUbsbVvcHf2cV3XcS5U4lveIhgLseLdbXIkqY8s5p7DZckwYyq3uZDBbd0PS_bMCrw7nHASE83L0QOyfhe4Tnl7R57dS0_WWZ4xfuTKE",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJxbSX9525wjsRRL1wccUtnUE",
+            "plus_code": {
+                "compound_code": "JQ77+JR Pune, Maharashtra",
+                "global_code": "7JCMJQ77+JR"
+            },
+            "rating": 3.5,
+            "reference": "ChIJxbSX9525wjsRRL1wccUtnUE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No. 6, Bhoir Road, Pimpri-Chinchwad, Moreshwar Colony, Thergaon, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7413632,
+                    "lng": 73.6815936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.74271962989272,
+                        "lng": 73.68294517989273
+                    },
+                    "southwest": {
+                        "lat": 18.74001997010728,
+                        "lng": 73.68024552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Digital Store & More",
+            "place_id": "ChIJHYIoyIuxwjsRAAAAcH2Pux0",
+            "plus_code": {
+                "compound_code": "PMRJ+GJ Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPMRJ+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJHYIoyIuxwjsRAAAAcH2Pux0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4, Pawar Building, Talegaon Varale Rd, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7037381,
+                    "lng": 73.6829631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.70515252989272,
+                        "lng": 73.68433247989272
+                    },
+                    "southwest": {
+                        "lat": 18.70245287010728,
+                        "lng": 73.68163282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivtej Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117779864401050677496\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgdCzFCigN2-81j2oQbV6f-PZaQjuGZ4tanhQqHhnJDT_0SASpIg-G0HOM_5WCF55ThIc2wgbFniHZC4urfun5iwJE4nKEutZoZ0uhQXloA8Eo11rq18W6zGyivb2NEr2GGUrwxKtWvE0k1shXBXlzXdVummNRr6e9Lwe-b_xShbHGz",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ7XoJRy2xwjsRMeohfA3NBgA",
+            "plus_code": {
+                "compound_code": "PM3M+F5 Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPM3M+F5"
+            },
+            "rating": 0,
+            "reference": "ChIJ7XoJRy2xwjsRMeohfA3NBgA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Samatane phata, near Janata hardware, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7163818,
+                    "lng": 73.7681964
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.71779342989273,
+                        "lng": 73.76952852989272
+                    },
+                    "southwest": {
+                        "lat": 18.71509377010728,
+                        "lng": 73.76682887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ATHARVA ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108185539756396673778\">gaurav pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRi0oCS2aDpnrI_9e6x6pBrfvXh7AsjN6zyiUmcI2lYaNDKblFs5xldBNsZqdZLG4lJC83kKB82bb4sqDowx5gqT_OVSDKBoxTv9-LqJPCedqoX_T_6OxIb4Gn2tH1paR4GCCu5smNwQaXgcr5MEfo1Cnq-eVbIDO-mAYgq3fz2K8vSx",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJa3FY4Ny2wjsRXo6rImfqt5Y",
+            "plus_code": {
+                "compound_code": "PQ89+H7 Dehu, Maharashtra",
+                "global_code": "7JCMPQ89+H7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJa3FY4Ny2wjsRXo6rImfqt5Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 305,
+            "vicinity": "Dehu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6818739,
+                    "lng": 73.71198729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.68322462989272,
+                        "lng": 73.71338402989271
+                    },
+                    "southwest": {
+                        "lat": 18.68052497010728,
+                        "lng": 73.71068437010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SK Electricals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJP8FAwFC3wjsRjsjepMxCXU0",
+            "plus_code": {
+                "compound_code": "MPJ6+PQ Dehu Road, Maharashtra",
+                "global_code": "7JCMMPJ6+PQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJP8FAwFC3wjsRjsjepMxCXU0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Oppsite kute fortune, rajwada chowk, Sai Nagar, Mamurdi, Dehu Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6139598,
+                    "lng": 73.7634183
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61525037989272,
+                        "lng": 73.76483792989272
+                    },
+                    "southwest": {
+                        "lat": 18.61255072010728,
+                        "lng": 73.76213827010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AKASH ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115933959220424954501\">AKASH ELECTRONICS</a>"
+                    ],
+                    "photo_reference": "AcYSjRj5dTFtdw2ajAoE-k0akwYf0w_Mlwg1SEYzl-qi2rCV_Gb7gYOdQak5b9ZJYptk3mnjMKbciWrXQ7JSBAXG6cIAc1TPe3fVz2Klh55w3YDzulE7R7AugDcBn_TVHGaZE8gDgkzZjvR-ok8gJr6sYOQNQPlLcLRgXRi289el37Rn_ls",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJvf___4O5wjsRNN2vbepfFqI",
+            "plus_code": {
+                "compound_code": "JQ77+H9 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ77+H9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJvf___4O5wjsRNN2vbepfFqI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "SHOP NO 6 AND 7 ARUN PLAZA BUILDING BELOW SAI JYOTI HOSPITAL DANGE CHOWK THERGAON PUNE, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7232441,
+                    "lng": 73.6830647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.72453802989272,
+                        "lng": 73.68434877989272
+                    },
+                    "southwest": {
+                        "lat": 18.72183837010728,
+                        "lng": 73.68164912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 577,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101987099166044499270\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgV5jrxoW3ffXOYUco4sTPRgVwsknG4CRTtWkjEoKniIJjRswbIiKiabI9-u9m10IFdBzeOiWxtaOXayET5mkxtlQ1cGIQp9Pg1TaXfhQo8ekTWMsYwDupuqK8rtA3XGFNKretK8C9dNFyYCmoC2icM5tkKab_YoiCB-8OIv0NVC8Km",
+                    "width": 1276
+                }
+            ],
+            "place_id": "ChIJ6Qdf5gGxwjsRstlpnncJldU",
+            "plus_code": {
+                "compound_code": "PMFM+76 Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPMFM+76"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ6Qdf5gGxwjsRstlpnncJldU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 576,
+            "vicinity": "Ground Floor & First Floor, Centre One, No. 535/1, Jijamata Chowk, Talegaon Station Rd, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6809928,
+                    "lng": 73.7293578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.68233527989272,
+                        "lng": 73.73069607989271
+                    },
+                    "southwest": {
+                        "lat": 18.67963562010728,
+                        "lng": 73.72799642010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raj Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112214941394648675943\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHPZhWk650MvLlrDwowHinZGTG9AbCjX4NCU7Fv7NQUJ_x7yg1MY8Rn-JdA6_I1nmnCNAGOGt57XNa1Z2q6yg37NsPSNipGyqBGQ02UQIo0qT7HrsX6pkIf2lP8nIdtg2nwqQ4QxpCGvq3ygRSvHXtkTCA7miRk9fIbg5UB0C6Rz4b",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJvYVbWLiwwjsRqM_Ty5M-w2c",
+            "plus_code": {
+                "compound_code": "MPJH+9P Dehu Road, Maharashtra",
+                "global_code": "7JCMMPJH+9P"
+            },
+            "rating": 0,
+            "reference": "ChIJvYVbWLiwwjsRqM_Ty5M-w2c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gandhi Nagar, Ambedkar Nagar, Dehu Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6603429,
+                    "lng": 73.7316596
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66170772989272,
+                        "lng": 73.73300177989272
+                    },
+                    "southwest": {
+                        "lat": 18.65900807010728,
+                        "lng": 73.73030212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A K Computers & K M Electrical",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117198456880585358361\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7bjeUNNpkCg7aToW5doaMmpJ99LDa1FhpF3ZshUs51c3B35Gdk31Jzy0L-yR8L-1EFEbho2DJgRQruweZ7dLXhwI_pwFOMXZVCgfAng773tKdLt-hMgVdPhzcp4Vw6R5xIOgy1s3gkjGoGHNYgP3kR3BxRqQci6kccmIOzRWnTEu3",
+                    "width": 1932
+                }
+            ],
+            "place_id": "ChIJBUFa56awwjsREwNPJMmAShA",
+            "plus_code": {
+                "compound_code": "MP6J+5M Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMP6J+5M"
+            },
+            "rating": 4,
+            "reference": "ChIJBUFa56awwjsREwNPJMmAShA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "BRT Bus Terminal Mukai Chowk, Madras Bombay Trunk Rd, Ravet, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7286075,
+                    "lng": 73.6777594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.72997892989272,
+                        "lng": 73.67913327989274
+                    },
+                    "southwest": {
+                        "lat": 18.72727927010728,
+                        "lng": 73.67643362010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AGARWAL ELECTRONICS",
+            "place_id": "ChIJ-UkhdfWxwjsRGIuKgk8JkG4",
+            "plus_code": {
+                "compound_code": "PMHH+C4 Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPMHH+C4"
+            },
+            "rating": 3,
+            "reference": "ChIJ-UkhdfWxwjsRGIuKgk8JkG4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 3, Talegaon Station Rd, nr. St Depo, Rajgurav Colony, Talegaoan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7027427,
+                    "lng": 73.6875434
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.70414847989272,
+                        "lng": 73.68890712989271
+                    },
+                    "southwest": {
+                        "lat": 18.70144882010728,
+                        "lng": 73.68620747010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JAI ELECTRONIC",
+            "place_id": "ChIJNeaQZ7KxwjsRX2sgRibZm-E",
+            "rating": 0,
+            "reference": "ChIJNeaQZ7KxwjsRX2sgRibZm-E",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PM3Q+32V, Parandwadi Rd, Somatne Phata, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6437652,
+                    "lng": 73.7561624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64519702989272,
+                        "lng": 73.75748352989271
+                    },
+                    "southwest": {
+                        "lat": 18.64249737010728,
+                        "lng": 73.75478387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJqSGWDvG5wjsRG_Gdl-H1Iys",
+            "rating": 3,
+            "reference": "ChIJqSGWDvG5wjsRG_Gdl-H1Iys",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JQV4+GF3, Sector 32 A, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6515197,
+                    "lng": 73.75191439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65286452989272,
+                        "lng": 73.75328327989273
+                    },
+                    "southwest": {
+                        "lat": 18.65016487010728,
+                        "lng": 73.75058362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Iconsys india",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116254665325420481947\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLf4OzlXIk2YRL6S4mepgdnA_kin38eQkVLp6OW9f7rAyVtE-QRYZn0fgxS-uoyrJGf76uclLaZunqOMQvMrR6d5ymf86-tgUTzKiEmWfe2Q_prgI1yn2CqOLcMlLdEaSQGDy_eeEpG36OtB_a-oQ0b31k9kuaPEgnRNhhsBPRdIHh",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJPQHkPmC5wjsRZLEEDA-8OC4",
+            "plus_code": {
+                "compound_code": "MQ22+JQ Ravet, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMQ22+JQ"
+            },
+            "rating": 0,
+            "reference": "ChIJPQHkPmC5wjsRZLEEDA-8OC4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MIDC, Shindhe wasti chowk Nr Madhav mithas, Pipeline Rd, Ravet, Pune"
+        }
+    ],
+    "status": "OK"
+}

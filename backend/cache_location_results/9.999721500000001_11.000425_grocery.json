@@ -1,0 +1,46 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.913941,
+                    "lng": 11.0067738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.91529487989272,
+                        "lng": 11.00812422989272
+                    },
+                    "southwest": {
+                        "lat": 9.912595220107276,
+                        "lng": 11.00542457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GWU BUSINESS CONCEPT",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJh8R2aKXc_xARP0TY5-VH8H8",
+            "rating": 3.8,
+            "reference": "ChIJh8R2aKXc_xARP0TY5-VH8H8",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "W274+HPC, inside Federal University, Kashere"
+        }
+    ],
+    "status": "OK"
+}

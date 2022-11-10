@@ -1,0 +1,273 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1691752,
+                    "lng": 10.1479182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.17052502989272,
+                        "lng": 10.14926802989272
+                    },
+                    "southwest": {
+                        "lat": 10.16782537010728,
+                        "lng": 10.14656837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Eys Halady",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJqfJnDpQ9VRARSoMlifvNU_g",
+            "plus_code": {
+                "compound_code": "549X+M5 Guri Hill, Nigeria",
+                "global_code": "7F2G549X+M5"
+            },
+            "rating": 0,
+            "reference": "ChIJqfJnDpQ9VRARSoMlifvNU_g",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kaduna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1588889,
+                    "lng": 10.1675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.16023872989272,
+                        "lng": 10.16884982989272
+                    },
+                    "southwest": {
+                        "lat": 10.15753907010728,
+                        "lng": 10.16615017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yumza General Enterprises",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJJ_IZfr49VRARQ2QI2s2bUc0",
+            "plus_code": {
+                "compound_code": "5558+HX Guri Hill, Nigeria",
+                "global_code": "7F2G5558+HX"
+            },
+            "rating": 0,
+            "reference": "ChIJJ_IZfr49VRARQ2QI2s2bUc0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "740101, Nigeria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1691752,
+                    "lng": 10.1479182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.17052502989272,
+                        "lng": 10.14926802989272
+                    },
+                    "southwest": {
+                        "lat": 10.16782537010728,
+                        "lng": 10.14656837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Biggey Design",
+            "place_id": "ChIJy10G9Nc9VRAR2WzTu-pyNLg",
+            "plus_code": {
+                "compound_code": "549X+M5 Guri Hill, Nigeria",
+                "global_code": "7F2G549X+M5"
+            },
+            "rating": 0,
+            "reference": "ChIJy10G9Nc9VRAR2WzTu-pyNLg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Galambi Main Street Road Town, Kirfi LGA, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0543821,
+                    "lng": 10.1471026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05573192989272,
+                        "lng": 10.14845242989272
+                    },
+                    "southwest": {
+                        "lat": 10.05303227010728,
+                        "lng": 10.14575277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gangar Dispensary",
+            "place_id": "ChIJsZlFuPQWVRARinO1Vf0mrnU",
+            "rating": 0,
+            "reference": "ChIJsZlFuPQWVRARinO1Vf0mrnU",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "343W+QR5, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2082524,
+                    "lng": 10.1904675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.20955712989272,
+                        "lng": 10.19182772989272
+                    },
+                    "southwest": {
+                        "lat": 10.20685747010728,
+                        "lng": 10.18912807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kwagal Dispensary",
+            "place_id": "ChIJ2aLX5UA5VRAR6zAOr-BrChM",
+            "rating": 0,
+            "reference": "ChIJ2aLX5UA5VRAR6zAOr-BrChM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "655R+854, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1085833,
+                    "lng": 10.0429997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.10993312989272,
+                        "lng": 10.04434952989272
+                    },
+                    "southwest": {
+                        "lat": 10.10723347010728,
+                        "lng": 10.04164987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Galadima Town Dispensary",
+            "place_id": "ChIJ1dFxSoIiVRARlVjJAY0mHq0",
+            "rating": 0,
+            "reference": "ChIJ1dFxSoIiVRARlVjJAY0mHq0",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "425V+C5Q, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0747807,
+                    "lng": 10.0361711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.07614042989272,
+                        "lng": 10.03753347989272
+                    },
+                    "southwest": {
+                        "lat": 10.07344077010728,
+                        "lng": 10.03483382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Yola Doka Dispensary",
+            "place_id": "ChIJu8YkdFgYVRARb9C8ft9S8k4",
+            "rating": 0,
+            "reference": "ChIJu8YkdFgYVRARb9C8ft9S8k4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "32FP+WF7, Bauchi"
+        }
+    ],
+    "status": "OK"
+}

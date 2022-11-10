@@ -1,0 +1,831 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRilEvyGojf1_Lq9BHGsDlQAZ5uT3AC27OAOJYXkJzOJiupVbPBbYoFED0YqK4GKCKCRfmnJXJOjxDPtkY1W4N_G0jJdVzxG9jaIzrJzTwzmMFdOsFyrJZmXswxuRgFXzMGfVf382FdEaQNCuOFHyfJ7DAN_SGYPEnpX8GjuIBQetY48tK91TeAq3TyZ5hGRG8_xL8yHlyPqcmRvnf8DYq4qblPidlEfmyh3a8aHO2RIlslUVUhjrghbCuvnxwjWZDFAZLF0qkLg49CPkq_iPK8K0R7mDe9jyLNXQfu1KnJ-y3QI4ylsyR2oz9_MYy3iK6mxtBO8Hrsj-vycsVbKK2ZS_GxWEkfqk_y7hfXA56h_eC9zraXtU32JVl5drFpueYMT4-F6zD032VeYcxdkacBXgrJxWGlstWFHbgFsYFJRz1S1ttBR2C0d",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.309128,
+                    "lng": 74.513021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31044957989272,
+                        "lng": 74.51400182989272
+                    },
+                    "southwest": {
+                        "lat": 18.30774992010728,
+                        "lng": 74.51130217010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rushikesh kirana store",
+            "place_id": "ChIJgXyUcnENwzsRzLWgBlnuKk0",
+            "rating": 0,
+            "reference": "ChIJgXyUcnENwzsRzLWgBlnuKk0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8G57+M67, Kharadi, Kharade Wadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.229137,
+                    "lng": 74.5727134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.23056157989272,
+                        "lng": 74.57409457989272
+                    },
+                    "southwest": {
+                        "lat": 18.22786192010728,
+                        "lng": 74.57139492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Siddharth Grocery store",
+            "place_id": "ChIJh8O_lTsLwzsRrURyaWgZAPI",
+            "plus_code": {
+                "compound_code": "6HHF+M3 Baramati, Maharashtra",
+                "global_code": "7JCP6HHF+M3"
+            },
+            "rating": 0,
+            "reference": "ChIJh8O_lTsLwzsRrURyaWgZAPI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gojubavi, Airport Road, Baramati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3160378,
+                    "lng": 74.580617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31738937989272,
+                        "lng": 74.58195902989272
+                    },
+                    "southwest": {
+                        "lat": 18.31468972010728,
+                        "lng": 74.57925937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0915\u092e\u0932\u0947\u0936 \u0915\u093f\u0930\u093e\u0923\u093e \u0938\u094d\u091f\u094b\u0930",
+            "place_id": "ChIJNZUvQ-YNwzsRr-uwA8XVv1k",
+            "rating": 0,
+            "reference": "ChIJNZUvQ-YNwzsRr-uwA8XVv1k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8H8J+C69, Shirsuphal - Ravangaon Rd, Shirsuphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2957417,
+                    "lng": 74.4668923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.29709337989272,
+                        "lng": 74.46821497989272
+                    },
+                    "southwest": {
+                        "lat": 18.29439372010728,
+                        "lng": 74.46551532010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sadguru Grocery",
+            "place_id": "ChIJfTE8UvAOwzsRgqfZlJHCR2s",
+            "rating": 0,
+            "reference": "ChIJfTE8UvAOwzsRgqfZlJHCR2s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7FW8+7QV, Deulgaon Rasal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2618727,
+                    "lng": 74.4226015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.26322142989272,
+                        "lng": 74.42392822989272
+                    },
+                    "southwest": {
+                        "lat": 18.26052177010728,
+                        "lng": 74.42122857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shrushti kirana stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118263265490884471789\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXMJwCfjbQN1bra21bvg8DAk9f3OZ_v951cXcb9ozpchMoif7JGQUbem08BQes9BOSAwUuyUII2MSAbRd33FkHbJxW6JWKJgsUyNl7GfrUXZlZ7n-DY6UBYpfXo4TrTLEeLsk_bXElNoux1TAWxEBEZ6VexyUXmRzRzYNRKIAHtxEd",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJcSngJfoPwzsRZr5pNl7E_T4",
+            "rating": 4.7,
+            "reference": "ChIJcSngJfoPwzsRZr5pNl7E_T4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "7C6F+R43, Karhati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3568396,
+                    "lng": 74.4705754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.35819377989272,
+                        "lng": 74.47190377989271
+                    },
+                    "southwest": {
+                        "lat": 18.35549412010728,
+                        "lng": 74.46920412010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u091c\u092f \u092d\u0935\u093e\u0928\u0940 \u0915\u093f\u0930\u093e\u0923\u093e \u0938\u094d\u091f\u094b\u0905\u0930\u094d\u0938",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJKQptcmIRwzsR1XcRt4CV_Js",
+            "rating": 5,
+            "reference": "ChIJKQptcmIRwzsR1XcRt4CV_Js",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9F4C+M5X, Hinganigada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3173794,
+                    "lng": 74.5809147
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31872682989272,
+                        "lng": 74.58232707989272
+                    },
+                    "southwest": {
+                        "lat": 18.31602717010728,
+                        "lng": 74.57962742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vishal Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJvzbOLCYNwzsRPao_AQ1awTs",
+            "plus_code": {
+                "compound_code": "8H8J+X9 Shirsuphal, Maharashtra",
+                "global_code": "7JCP8H8J+X9"
+            },
+            "rating": 5,
+            "reference": "ChIJvzbOLCYNwzsRPao_AQ1awTs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sirsuphal, road, Malad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2499442,
+                    "lng": 74.53780569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.25129427989272,
+                        "lng": 74.53923547989271
+                    },
+                    "southwest": {
+                        "lat": 18.24859462010728,
+                        "lng": 74.53653582010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SWAMI PRASAD KIRANA STORE",
+            "place_id": "ChIJF3aF_c0LwzsR_KQCGFSza88",
+            "plus_code": {
+                "compound_code": "6GXQ+X4 Baramati, Maharashtra",
+                "global_code": "7JCP6GXQ+X4"
+            },
+            "rating": 0,
+            "reference": "ChIJF3aF_c0LwzsR_KQCGFSza88",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Shirsuphal, Undwadi Road, Undawadi KP, Baramati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2947819,
+                    "lng": 74.4676813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.29613432989272,
+                        "lng": 74.46910352989272
+                    },
+                    "southwest": {
+                        "lat": 18.29343467010727,
+                        "lng": 74.46640387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BHAIRAVNATH KIRANA AND GENERAL STORES",
+            "place_id": "ChIJcWNWG8IPwzsRa_GgrfEvtYA",
+            "plus_code": {
+                "compound_code": "7FV9+W3 Deulgaon Rasal, Maharashtra",
+                "global_code": "7JCP7FV9+W3"
+            },
+            "rating": 0,
+            "reference": "ChIJcWNWG8IPwzsRa_GgrfEvtYA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1 Bhairavnath Mandir, Deulgaon Rasal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3591081,
+                    "lng": 74.46966309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.36046382989272,
+                        "lng": 74.47097477989273
+                    },
+                    "southwest": {
+                        "lat": 18.35776417010728,
+                        "lng": 74.46827512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jyoti General stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ93DtENYRwzsRPTaKLjyvNWE",
+            "plus_code": {
+                "compound_code": "9F59+JR Hinganigada, Maharashtra",
+                "global_code": "7JCP9F59+JR"
+            },
+            "rating": 5,
+            "reference": "ChIJ93DtENYRwzsRPTaKLjyvNWE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hinganigada gavthan, Hinganigada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2368672,
+                    "lng": 74.6091136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.23836867989272,
+                        "lng": 74.61041827989271
+                    },
+                    "southwest": {
+                        "lat": 18.23566902010728,
+                        "lng": 74.60771862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pinky Super Market",
+            "place_id": "ChIJhY79xsR0wzsRAAAAMFVrmE4",
+            "plus_code": {
+                "compound_code": "6JP5+PJ Baramati, Maharashtra",
+                "global_code": "7JCP6JP5+PJ"
+            },
+            "rating": 0,
+            "reference": "ChIJhY79xsR0wzsRAAAAMFVrmE4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1 Wajarwadi Katphal, Baramati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3581732,
+                    "lng": 74.4838845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.36035764999999,
+                        "lng": 74.48656934999998
+                    },
+                    "southwest": {
+                        "lat": 18.35744505,
+                        "lng": 74.48298955
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "JAY BHAWANI KIRANA STORES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116879987567552642492\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRimArX_rAcLQFMfToWIrs8l9KbVmpNUqMTcRW3NTmk-Y6RsQPQdvfSzwCzRv5h6x3Br6oYvI1ivhnqf5zbhaY49o1V7thC3gzG8_1fUckskiIiM1tuq2-TT8oPea842zLP04q8sCqqqbufMYHzCIIzza_OigS1kccGxc9II3-SQggsc",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJS-arOvcRwzsRo9lmEj_jzUc",
+            "plus_code": {
+                "compound_code": "9F5M+7H Hinganigada, Maharashtra",
+                "global_code": "7JCP9F5M+7H"
+            },
+            "rating": 5,
+            "reference": "ChIJS-arOvcRwzsRo9lmEj_jzUc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1 Kololi Supa, Road, Hinganigada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2294792,
+                    "lng": 74.4573803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.23075607989272,
+                        "lng": 74.45869542989271
+                    },
+                    "southwest": {
+                        "lat": 18.22805642010728,
+                        "lng": 74.45599577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shravani General Store",
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104180586328398376316\">Vinayak Jadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRhUsmkqep4-0SMBrRme7aWdAUbAubJS96PovTAvFJHICNr_eub7Sjs-bmLvOHuCU_UkxDSfgzX9yeAxjl1z9MaMw5LVvCxkin5YMSFyrQysOfhsLvXPBp6c8qI8BLZ80FABDuMu6_1O4meVnj-4et94bNkItqaj6AWlg3rOqvSor2vW",
+                    "width": 3200
+                }
+            ],
+            "place_id": "ChIJUcXEph4JwzsRTb1l-0YsMmM",
+            "rating": 3,
+            "reference": "ChIJUcXEph4JwzsRTb1l-0YsMmM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6FH4+QXJ, Jalgaon Kadepathar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2792429,
+                    "lng": 74.50057149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.28057332989272,
+                        "lng": 74.50191352989273
+                    },
+                    "southwest": {
+                        "lat": 18.27787367010728,
+                        "lng": 74.49921387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sanskruti Kirana Store",
+            "place_id": "ChIJwcW7fFQNwzsRlSd2u4AcGBM",
+            "rating": 4.7,
+            "reference": "ChIJwcW7fFQNwzsRlSd2u4AcGBM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "7GH2+P64, Unnamed Road, Karkhel"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3104968,
+                    "lng": 74.567548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31187207989272,
+                        "lng": 74.56914772989272
+                    },
+                    "southwest": {
+                        "lat": 18.30917242010728,
+                        "lng": 74.56644807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MORYA KIRANA STORES",
+            "place_id": "ChIJMVp4m_kNwzsRW27BftYV1yk",
+            "plus_code": {
+                "compound_code": "8H69+52 Shirsuphal, Maharashtra",
+                "global_code": "7JCP8H69+52"
+            },
+            "rating": 5,
+            "reference": "ChIJMVp4m_kNwzsRW27BftYV1yk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.5 Baramati, Road, Shirdifal, Shirsuphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3153648,
+                    "lng": 74.511355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31670287989272,
+                        "lng": 74.51266852989272
+                    },
+                    "southwest": {
+                        "lat": 18.31400322010727,
+                        "lng": 74.50996887010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KANCHAN KIRANA AND GENERAL STORES",
+            "place_id": "ChIJpSK683sNwzsRhXX-VuP1bQ0",
+            "plus_code": {
+                "compound_code": "8G86+4G Deulgaon Rasal, Maharashtra",
+                "global_code": "7JCP8G86+4G"
+            },
+            "rating": 0,
+            "reference": "ChIJpSK683sNwzsRhXX-VuP1bQ0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 8 Baramati, Road, Deulgaon Rasal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2794833,
+                    "lng": 74.60560699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.28081327989273,
+                        "lng": 74.60700692989272
+                    },
+                    "southwest": {
+                        "lat": 18.27811362010728,
+                        "lng": 74.60430727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0938\u093e\u0935\u0924\u093e\u092e\u093e\u0933\u0940 \u0915\u093f\u0930\u093e\u0923\u093e \u0905\u0901\u0921 \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0905\u0930\u094d\u0938",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGXDnf_BzwzsRDeGfQGLoguc",
+            "plus_code": {
+                "compound_code": "7JH4+Q6 Baramati, Maharashtra",
+                "global_code": "7JCP7JH4+Q6"
+            },
+            "rating": 0,
+            "reference": "ChIJGXDnf_BzwzsRDeGfQGLoguc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "A/p Gadikhelwadi, Baramati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2930986,
+                    "lng": 74.4983046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.29449247989272,
+                        "lng": 74.49971647989273
+                    },
+                    "southwest": {
+                        "lat": 18.29179282010728,
+                        "lng": 74.49701682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pratik Kirana",
+            "place_id": "ChIJ5d7GW2sPwzsRuN3SUKGWqKk",
+            "plus_code": {
+                "compound_code": "7FVX+68 Karkhel, Maharashtra",
+                "global_code": "7JCP7FVX+68"
+            },
+            "rating": 0,
+            "reference": "ChIJ5d7GW2sPwzsRuN3SUKGWqKk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.1, Karkhel"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3158846,
+                    "lng": 74.58099059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31723442989272,
+                        "lng": 74.58233122989273
+                    },
+                    "southwest": {
+                        "lat": 18.31453477010727,
+                        "lng": 74.57963157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0938\u0930\u0938\u094d\u0935\u0924\u0940 \u0915\u093f\u0930\u093e\u0923\u093e \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0905\u0930 \u0936\u093f\u0930\u094d\u0938\u0941\u092b\u0933",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115974662882672061535\">Kailas Pawar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgi0NCIzYa5Y2ihSoveX6VUzOLhwCQZxW_bFch9F1VXUiJ5N2Htzrb-JxxT8vC5ITSurrNQ9Oyo-dyV2KZW8HoIcgsbfoXxGpwdoC1YbuiBZsH8sffA0hB-FrpbgTLPOSeGnnvlVJiXAfzUDzw11YFW4gjRAhCUqTbF1RTqejpPtdru",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJX1lCihcNwzsR1oQIuK2JHt8",
+            "rating": 0,
+            "reference": "ChIJX1lCihcNwzsR1oQIuK2JHt8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8H8J+995, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3155944,
+                    "lng": 74.5813146
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31691892989272,
+                        "lng": 74.58266067989273
+                    },
+                    "southwest": {
+                        "lat": 18.31421927010728,
+                        "lng": 74.57996102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u094d\u0930\u0940 \u0938\u093f\u0930\u0938\u093e\u0908 \u0915\u093f\u0930\u093e\u0923\u093e (\u0906\u091f\u094b\u0933\u0947 \u092c\u0902\u0927\u0941)",
+            "place_id": "ChIJ0ZjC44QNwzsRR-yzaKzjYOg",
+            "rating": 0,
+            "reference": "ChIJ0ZjC44QNwzsRR-yzaKzjYOg",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8H8J+6G4, Pune"
+        }
+    ],
+    "status": "OK"
+}

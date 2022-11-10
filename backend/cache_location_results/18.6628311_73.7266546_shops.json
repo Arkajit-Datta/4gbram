@@ -1,0 +1,910 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgQ7KsicyAYRSPdMFtr5wh7aZK5m4Jrcg97Je9Mu6Z8k2lx8ZFceB6FRGvH_22tjkdzY1IGc9ZSJZhy6heoJewA_aKcG1DmsdXI7A-xRZo9Oe5QwFwqKHoWw00oot48_DLm8x0D3IBtm0fb_bpIs5EGdu12BtwjbPNj_a-vWJRO_nfJ9YG-GSMmUXK8aHibT10NBBYNGnMzTkLbKPBLyVcZLhRzyRShTvGe0U2S3jbiSNsODbfNZRiYeTThagT-6ogPNdGR_OJA02wdpobVlB3BMsXpdsK1CsFpV-C0-a5e0EI72GfqspKASi5y5q5eEdsUuvUXCmbNH0EJT1p38tIQfuDQNBXbp_on0xqAa_2RxfBEZn03usUAPqVV8Osa6vlch9kt_nFVUydpBvkiaGRJiJ15EDywpV0zIFnK3vvksfcCtQHO9g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6219167,
+                    "lng": 73.8181436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62327477989272,
+                        "lng": 73.81944687989272
+                    },
+                    "southwest": {
+                        "lat": 18.62057512010728,
+                        "lng": 73.81674722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Stop & Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB2tmKV64wjsRE3QXVoVbm5M",
+            "plus_code": {
+                "compound_code": "JRC9+Q6 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRC9+Q6"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJB2tmKV64wjsRE3QXVoVbm5M",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Shop No. 26, Hawker Zone, opp. Fire Brigade, Sant Tukaram Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6483488,
+                    "lng": 73.7702977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64965447989272,
+                        "lng": 73.77163072989272
+                    },
+                    "southwest": {
+                        "lat": 18.64695482010728,
+                        "lng": 73.76893107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Stop & Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114610039836242452420\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiDGRVyEkaHcp4AUjsYUWyL7nL4kEJB0KHJlrfA-CKairiAv9swsfWFit8bV_x1CIb3CQWFXeedlstXvntfRG0TohiXgjQEjxQEGQcIdRqGscGwImbRatVQi1gUUwAympCAAwbZ9oP5htEeV2jAPHpm972xOvAtrJuADRg523cbyPZd",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJEckZDui5wjsRfMI6AU-v1kw",
+            "plus_code": {
+                "compound_code": "JQXC+84 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQXC+84"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJEckZDui5wjsRfMI6AU-v1kw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55,
+            "vicinity": "Pradhikaran Sector No. 26 Pradhikaran Nigdi Pradhikaran Pimpri-Chinchwad, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6433969,
+                    "lng": 73.7717555
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64472022989272,
+                        "lng": 73.77308657989272
+                    },
+                    "southwest": {
+                        "lat": 18.64202057010728,
+                        "lng": 73.77038692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yagesh Varieties & Ladies Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJI1v4AcK5wjsR7QmqEkmSdTU",
+            "rating": 0,
+            "reference": "ChIJI1v4AcK5wjsR7QmqEkmSdTU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQVC+9PC, Om Chowk, Chinchwad, Bijli Nagar Rd, Bijlinagar, Akurdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6184622,
+                    "lng": 73.80316599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61980362989272,
+                        "lng": 73.80454377989273
+                    },
+                    "southwest": {
+                        "lat": 18.61710397010728,
+                        "lng": 73.80184412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Choice Gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJV8vzNla4wjsRIk_f77sItYI",
+            "plus_code": {
+                "compound_code": "JR93+97 Pune, Maharashtra",
+                "global_code": "7JCMJR93+97"
+            },
+            "rating": 4,
+            "reference": "ChIJV8vzNla4wjsRIk_f77sItYI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Shop No, 380, Opp Neelam Tea House, Jawaharlal Nehru Road, Shastri Nagar, Pimpri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6210966,
+                    "lng": 73.8031827
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62242252989272,
+                        "lng": 73.80450257989273
+                    },
+                    "southwest": {
+                        "lat": 18.61972287010728,
+                        "lng": 73.80180292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ritika Multy Store",
+            "place_id": "ChIJv3ZOZ5m5wjsR4nMH1TjbrfM",
+            "plus_code": {
+                "compound_code": "JRC3+C7 Pune, Maharashtra",
+                "global_code": "7JCMJRC3+C7"
+            },
+            "rating": 0,
+            "reference": "ChIJv3ZOZ5m5wjsR4nMH1TjbrfM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Shastri Nagar, Pimpri Colony, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6362223,
+                    "lng": 73.789216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63761482989273,
+                        "lng": 73.79052217989272
+                    },
+                    "southwest": {
+                        "lat": 18.63491517010728,
+                        "lng": 73.78782252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aaiji Gift shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107003563099717715456\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh8i2SUdiC_NqC2POaPi4RdnxmP1G6SVCLRd5FYfWFYq3AqxP_vKttAyOEHeDixY9Q2J2ASHTa7WRfkYmSZpyZFgiZ9D1Bq2M6wOeaPPp6JS9QUZg3PGnPfqt2AuNtjhb85Z6kEgyP4CRvDlH5V7SewPwsQ7EpJT5qluardB8R18ooU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJUTvGpxu5wjsRtfq9v3KMeQY",
+            "rating": 1.6,
+            "reference": "ChIJUTvGpxu5wjsRtfq9v3KMeQY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "JQPQ+FMW, Chinchwad Station Rd, Udyog Nagar, Deoghar Society, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5963472,
+                    "lng": 73.7185301
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59782657989272,
+                        "lng": 73.71983417989273
+                    },
+                    "southwest": {
+                        "lat": 18.59512692010728,
+                        "lng": 73.7171345201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Archies Gift Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112972353453162045955\">Mukesh Patel</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGFpnVoQ3ceioynxpy2nDSyW9t_BOGGRCvkrRLPN3uh2cpdQslt_dhJpEGbIbSDm5s9GBwC6dco0KkhCpHPNS2EumdTvUcnMEwsb2opNzlvuXwqp6r4aipM7zkRi9CV__2JUAvX_xM6hdw0ZGXSa3Q9jEc_nNH9cE6SM2j82giDx00",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ12mxxOe7wjsR69Z3HutAcXY",
+            "plus_code": {
+                "compound_code": "HPW9+GC Pune, Maharashtra",
+                "global_code": "7JCMHPW9+GC"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ12mxxOe7wjsR69Z3HutAcXY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "No3, plot, Food Court, No24, Hinjawadi Phase 2 Rd, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6590906,
+                    "lng": 73.8084047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66049622989272,
+                        "lng": 73.80977507989273
+                    },
+                    "southwest": {
+                        "lat": 18.65779657010728,
+                        "lng": 73.80707542010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amrut Foods & Gift House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJByambia4wjsRfKMzDLGSShY",
+            "plus_code": {
+                "compound_code": "MR55+J9 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMR55+J9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJByambia4wjsRfKMzDLGSShY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "Shop No.3, Plot No.108, Krishna Emp., RTO Office Rd, Purnanagar, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5960893,
+                    "lng": 73.7883715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59748432989272,
+                        "lng": 73.78964962989272
+                    },
+                    "southwest": {
+                        "lat": 18.59478467010728,
+                        "lng": 73.78694997010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AREA44",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1706,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116063601149258347642\">Dhirajkumar star</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXUdBmPPbTqSZLl1JQFVnKuI3YwcNr1r0nSfexxTX6CYEcPvAkbo-iTHJSXg_DaiX2jUo-IbyAd8JiEVROORZnqGUxTRGUZPauSRC83j0qaDe0aUfxKjSups71vvulHy1EguUAnRIrTltYGu226T5DJQEE0wtgqTsebNxbgdXlPKZt",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJrzM4c0C5wjsRLWJPLDh4U6k",
+            "plus_code": {
+                "compound_code": "HQWQ+C8 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQWQ+C8"
+            },
+            "rating": 3.3,
+            "reference": "ChIJrzM4c0C5wjsRLWJPLDh4U6k",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Rainbow Plaza, opposite Mac Donalds, Sunshine Villas, Dwarkadheesh Gardens, Pimple Saudagar, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6210492,
+                    "lng": 73.81897339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62239807989272,
+                        "lng": 73.82032947989272
+                    },
+                    "southwest": {
+                        "lat": 18.61969842010728,
+                        "lng": 73.81762982010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Smita Ladies Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJV9viemC4wjsRdt5cVzFMPiM",
+            "plus_code": {
+                "compound_code": "JRC9+CH Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJRC9+CH"
+            },
+            "rating": 0,
+            "reference": "ChIJV9viemC4wjsRdt5cVzFMPiM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "431/2332, Sant Tukaram Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6271664,
+                    "lng": 73.7803333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62856027989272,
+                        "lng": 73.78168757989272
+                    },
+                    "southwest": {
+                        "lat": 18.62586062010728,
+                        "lng": 73.77898792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ledies Shopee",
+            "place_id": "ChIJW9GfOWq5wjsRp-ymt-LISgo",
+            "plus_code": {
+                "compound_code": "JQGJ+V4 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQGJ+V4"
+            },
+            "rating": 0,
+            "reference": "ChIJW9GfOWq5wjsRp-ymt-LISgo",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Moraya Gosavi Samadhi Marg, Gandhi Peth, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6074003,
+                    "lng": 73.78070439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60879717989272,
+                        "lng": 73.78197672989272
+                    },
+                    "southwest": {
+                        "lat": 18.60609752010728,
+                        "lng": 73.77927707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AARADHYA PAAN SHOP",
+            "place_id": "ChIJ3Yk3vF-5wjsRu2IhDfgNGxw",
+            "plus_code": {
+                "compound_code": "JQ4J+X7 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ4J+X7"
+            },
+            "rating": 0,
+            "reference": "ChIJ3Yk3vF-5wjsRu2IhDfgNGxw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Rahatani Phata Rahatani Phata"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6465032,
+                    "lng": 73.770063
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64784027989272,
+                        "lng": 73.77147607989272
+                    },
+                    "southwest": {
+                        "lat": 18.64514062010728,
+                        "lng": 73.76877642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Happy Shoppy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105851104670489920558\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiFcCL3UXleGcN0lEaDnSLqWy6XlvHFWKyRkDn4-zC-sgDnREIQIogXxcOBHPw3fMzAzsnNJKSY3bwsGqo_Gw-BzhNcbkqSWBHPt5bHkY3TDyIN7PDXkTGnASr77vP4QR0gEHKNKRMeqfIzH8Q0bHXLwgrjER5PvxWqXbFGLXCRGnzn",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJzXjG0Bq5wjsR3tEXDo3dEfs",
+            "plus_code": {
+                "compound_code": "JQWC+J2 Nigdi, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQWC+J2"
+            },
+            "rating": 0,
+            "reference": "ChIJzXjG0Bq5wjsR3tEXDo3dEfs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Puja Classic Apartment, Shop No. G-04, nr. Morya Petrol Pump, Sector No. 26, Pradhikaran, Nigdi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6134278,
+                    "lng": 73.791111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61479817989272,
+                        "lng": 73.79246332989271
+                    },
+                    "southwest": {
+                        "lat": 18.61209852010727,
+                        "lng": 73.78976367010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sheetal Provision And General Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ9YG94gC5wjsRJjb9tDs0vtI",
+            "plus_code": {
+                "compound_code": "JQ7R+9C Pune, Maharashtra",
+                "global_code": "7JCMJQ7R+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJ9YG94gC5wjsRJjb9tDs0vtI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5, Shraddha Colony Parvati English Medium School, Road, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6057939,
+                    "lng": 73.7834736
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60709512989272,
+                        "lng": 73.78481092989271
+                    },
+                    "southwest": {
+                        "lat": 18.60439547010728,
+                        "lng": 73.78211127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiv Varieties & Ladies Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJFc61ZgW5wjsRkxBZluaGliM",
+            "plus_code": {
+                "compound_code": "JQ4M+89 Pune, Maharashtra",
+                "global_code": "7JCMJQ4M+89"
+            },
+            "rating": 0,
+            "reference": "ChIJFc61ZgW5wjsRkxBZluaGliM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 6, Shastri Nagar, Rahatani, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6216076,
+                    "lng": 73.8000547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62298702989272,
+                        "lng": 73.80144427989272
+                    },
+                    "southwest": {
+                        "lat": 18.62028737010728,
+                        "lng": 73.79874462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hina Ladies Emporium & Gift Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJm3i_GVS4wjsRrpxcltuuXGg",
+            "plus_code": {
+                "compound_code": "JRC2+M2 Pune, Maharashtra",
+                "global_code": "7JCMJRC2+M2"
+            },
+            "rating": 0,
+            "reference": "ChIJm3i_GVS4wjsRrpxcltuuXGg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 12, Shastri Nagar, Pimpri Colony, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6226196,
+                    "lng": 73.8006388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62395787989272,
+                        "lng": 73.80197557989271
+                    },
+                    "southwest": {
+                        "lat": 18.62125822010728,
+                        "lng": 73.79927592010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Super Selection",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJd6vQAVS4wjsRAAAA0FJNBiA",
+            "plus_code": {
+                "compound_code": "JRF2+37 Pune, Maharashtra",
+                "global_code": "7JCMJRF2+37"
+            },
+            "rating": 0,
+            "reference": "ChIJd6vQAVS4wjsRAAAA0FJNBiA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 166, Main Bazar Rd, opp. Vijay bakery, Pimpri Area, Shastri Nagar, Pimpri Colony, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6169254,
+                    "lng": 73.8006932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61827292989272,
+                        "lng": 73.80212072989272
+                    },
+                    "southwest": {
+                        "lat": 18.61557327010728,
+                        "lng": 73.79942107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tirathdas Grocery Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110382444798636288424\">Nitin Mehta</a>"
+                    ],
+                    "photo_reference": "AcYSjRgEF2o7nZdFhsWQSnPPJJyw54_zNcgl_ewMAN8fPVTr5DMF8LyK-nxCQ18563iEYQH2rdmp002h0I5aUUlnpk8zJStQ92k-cRKbg9F-XZOGefPallIOACuS4OMdxDAZ0Ah8wrOh7JfSSpSHG1RB75rXLSFfNSOKkvhKvnLQ83bzNWcr",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJfzbWVP-4wjsRh28AnOVP_EM",
+            "plus_code": {
+                "compound_code": "JR82+Q7 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJR82+Q7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJfzbWVP-4wjsRh28AnOVP_EM",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205,
+            "vicinity": "2, Tapovan Mandir Rd, Shastri Nagar, Pimpri Colony, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5936348,
+                    "lng": 73.78603439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59490482989273,
+                        "lng": 73.78744967989272
+                    },
+                    "southwest": {
+                        "lat": 18.59220517010728,
+                        "lng": 73.78475002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SPOT18",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109519541044589282827\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLKb6NSFi95winbjZ9eKzzJ5JEhlT3nmVHSduEkLLewwr7fgKJbrriAmYsVo9cP-7MdZPyjSez2M73pDsGo-HNWn_kX8ABdjJL07ULv0DXfrrphfkVk1RmkgQgj_bwbRMrR64T6p996ieWCXLm91ahpm3C7M23qa0WBtH9WEDRkbY",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ50nBYhi5wjsRxf3gZ5HTUVE",
+            "plus_code": {
+                "compound_code": "HQVP+FC Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMHQVP+FC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ50nBYhi5wjsRxf3gZ5HTUVE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "movie_theater",
+                "cafe",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27694,
+            "vicinity": "Wakad - Bhosari BRTS Rd, Mana-mandir Society, Rahatani, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.60877,
+                    "lng": 73.7732799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61013057989272,
+                        "lng": 73.77463247989272
+                    },
+                    "southwest": {
+                        "lat": 18.60743092010728,
+                        "lng": 73.77193282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Trupti Ladies Corner & General Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103339753221276461461\">Ajju Kasar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhWTKbei3YB3_wjmEuclzd-qxR8KJ6V5BR7xlXoHehdA38x38H7Gy_i0WfaXaNnojdB99dp_WrpDfBHaqVX-8P5iSfd-gOvXVZ9rJoelVzFiM1aRfZteioCL9kmtUq8qz5G-pweK8uEZPhiTio_krWt9-CvGTltnvj21E59grBT5xgd",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4biznQy5wjsR3fqhtXnSrbk",
+            "plus_code": {
+                "compound_code": "JQ5F+G8 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQ5F+G8"
+            },
+            "rating": 5,
+            "reference": "ChIJ4biznQy5wjsR3fqhtXnSrbk",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shivdarshan Colony No-16,, Sai Park Colony, Thergaon, Pimpri-Chinchwad"
+        }
+    ],
+    "status": "OK"
+}

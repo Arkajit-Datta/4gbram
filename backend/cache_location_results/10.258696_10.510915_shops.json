@@ -1,0 +1,366 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.290817,
+                    "lng": 10.4280278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29219827989272,
+                        "lng": 10.42937557989272
+                    },
+                    "southwest": {
+                        "lat": 10.28949862010728,
+                        "lng": 10.42667592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Franco Mini Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJr2HRLAZPVRARlmQshDKLKzI",
+            "plus_code": {
+                "compound_code": "7CRH+86 Arawa, Nigeria",
+                "global_code": "7F2G7CRH+86"
+            },
+            "rating": 0,
+            "reference": "ChIJr2HRLAZPVRARlmQshDKLKzI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "13 Yogbo Road, Makurdi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.290817,
+                    "lng": 10.4280278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29219827989272,
+                        "lng": 10.42937557989272
+                    },
+                    "southwest": {
+                        "lat": 10.28949862010728,
+                        "lng": 10.42667592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pharteey Shoes And Bags",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJufVn-pRPVRARUEDYu8dJiCE",
+            "plus_code": {
+                "compound_code": "7CRH+86 Arawa, Nigeria",
+                "global_code": "7F2G7CRH+86"
+            },
+            "rating": 0,
+            "reference": "ChIJufVn-pRPVRARUEDYu8dJiCE",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bauchi - Gombe Rd, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.290817,
+                    "lng": 10.4280278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29219827989272,
+                        "lng": 10.42937557989272
+                    },
+                    "southwest": {
+                        "lat": 10.28949862010728,
+                        "lng": 10.42667592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yadanmo Nigeria Limited",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJFzNlbWhPVRARhfSkQZnWGto",
+            "plus_code": {
+                "compound_code": "7CRH+86 Arawa, Nigeria",
+                "global_code": "7F2G7CRH+86"
+            },
+            "rating": 0,
+            "reference": "ChIJFzNlbWhPVRARhfSkQZnWGto",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "204 Bauchi - Gombe Rd, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3040221,
+                    "lng": 10.5064283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30540177989272,
+                        "lng": 10.50776837989272
+                    },
+                    "southwest": {
+                        "lat": 10.30270212010728,
+                        "lng": 10.50506872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sebhill Divine Investment Limited",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJfS-yIIxRVRARP-U0CjAOp2E",
+            "plus_code": {
+                "compound_code": "8G34+JH Bulmari, Nigeria",
+                "global_code": "7F2G8G34+JH"
+            },
+            "rating": 0,
+            "reference": "ChIJfS-yIIxRVRARP-U0CjAOp2E",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "D1,Archmoldes Mega Plaza, Gombe Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3040221,
+                    "lng": 10.5064283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30540177989272,
+                        "lng": 10.50776837989272
+                    },
+                    "southwest": {
+                        "lat": 10.30270212010728,
+                        "lng": 10.50506872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kendo All Star",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJjcL_2y5RVRAR_bot8Gh9PRM",
+            "plus_code": {
+                "compound_code": "8G34+JH Bulmari, Nigeria",
+                "global_code": "7F2G8G34+JH"
+            },
+            "rating": 0,
+            "reference": "ChIJjcL_2y5RVRAR_bot8Gh9PRM",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C14,Archimodes Mega Plaza, Gombe Road, Kaduna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3009666,
+                    "lng": 10.4944771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30234682989272,
+                        "lng": 10.49581852989272
+                    },
+                    "southwest": {
+                        "lat": 10.29964717010728,
+                        "lng": 10.49311887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Inkil",
+            "place_id": "ChIJ-9H05ppRVRARj5SmjVGYjpM",
+            "plus_code": {
+                "compound_code": "8F2V+9Q Bulmari, Nigeria",
+                "global_code": "7F2G8F2V+9Q"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ-9H05ppRVRARj5SmjVGYjpM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "A345"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.262046,
+                    "lng": 10.585611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26339582989272,
+                        "lng": 10.58696082989272
+                    },
+                    "southwest": {
+                        "lat": 10.26069617010728,
+                        "lng": 10.58426117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Garin Muazu Dispensary",
+            "place_id": "ChIJOTsenChYVRAR4WOa7ePfwD4",
+            "rating": 0,
+            "reference": "ChIJOTsenChYVRAR4WOa7ePfwD4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7H6P+R69, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3009873,
+                    "lng": 10.4945602
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30236747989272,
+                        "lng": 10.49590172989272
+                    },
+                    "southwest": {
+                        "lat": 10.29966782010728,
+                        "lng": 10.49320207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Furniture and wood work",
+            "place_id": "ChIJpeeAlMRRVRARnHa7ZVprhso",
+            "rating": 0,
+            "reference": "ChIJpeeAlMRRVRARnHa7ZVprhso",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8F2V+9RV, Bauchi - Gombe Rd, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.300967,
+                    "lng": 10.494477
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30234682989272,
+                        "lng": 10.49581852989272
+                    },
+                    "southwest": {
+                        "lat": 10.29964717010728,
+                        "lng": 10.49311887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dan Daraman Enterprises",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJvW1vl5JRVRARK08t_5A-06w",
+            "plus_code": {
+                "compound_code": "8F2V+9Q Bulmari, Nigeria",
+                "global_code": "7F2G8F2V+9Q"
+            },
+            "rating": 0,
+            "reference": "ChIJvW1vl5JRVRARK08t_5A-06w",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bauchi - Gombe Rd, Gombe"
+        }
+    ],
+    "status": "OK"
+}

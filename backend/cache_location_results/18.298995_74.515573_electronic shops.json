@@ -1,0 +1,44 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3171701,
+                    "lng": 74.44564989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31852372989272,
+                        "lng": 74.4469559798927
+                    },
+                    "southwest": {
+                        "lat": 18.31582407010728,
+                        "lng": 74.44425632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0915\u093e\u0915\u0921\u0947 \u092c\u094b\u0930\u0935\u0947\u0932 \u0926\u0941\u0930\u0941\u0938\u094d\u0924\u0940",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJCf60__sPwzsRBlNgX-jxpNI",
+            "rating": 5,
+            "reference": "ChIJCf60__sPwzsRBlNgX-jxpNI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "8C8W+V77, Kololi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,857 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhTWpbc8GqQPAoUAo5ixP44zFeGkXyz4hNv_Z2SmaK6Br_fBFixekwPEznQEUiWkuDDFZvpyB_Crrt7GK2ukEB58suKD1Ex93eNF-WRJXYt_2W7XjVq8CDRJlepByHV79768uLvLr0gozBovEVqmB1ZjNBcciYCnV70PGM1IghXnvnK9crnn4Zl7M0vLwG77nM8HIYMSf7gyC98-XuYjF0xkXdyOku9qS5ctnYU1bb6_Zo4yhQL6EzQ6ybcAai0NHqr9wuNzifsZ5VbDR-7v4f3A70bCIulHRsUZ5dq4LkQnOqJl_itZMxoz8H5mUygVrqUlomVdwqbUZTnZOayA9izDe9_CoCo_WlBjhnE2__cdX4IctwIyfrfwkW6Y3dfomN-0yZW6cFloXei557GqWk54WclTGDS0Ajd3nr7GXNm6dMatZTNdE8x",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7959544,
+                    "lng": 73.3252883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79730357989273,
+                        "lng": 73.32662837989272
+                    },
+                    "southwest": {
+                        "lat": 18.79460392010728,
+                        "lng": 73.32392872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jagvir Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJpYLtfmMH6DsRfFOWc0X3FK4",
+            "rating": 4.5,
+            "reference": "ChIJpYLtfmMH6DsRfFOWc0X3FK4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Q8WG+94M, Navanath Colony, Yashwant Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8091454,
+                    "lng": 73.3353286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.81048047989272,
+                        "lng": 73.3366239798927
+                    },
+                    "southwest": {
+                        "lat": 18.80778082010728,
+                        "lng": 73.33392432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sainath Kirana",
+            "place_id": "ChIJKRurhYj95zsRtb0HX7ia1W8",
+            "plus_code": {
+                "compound_code": "R85P+M4 Khopoli, Maharashtra",
+                "global_code": "7JCMR85P+M4"
+            },
+            "rating": 0,
+            "reference": "ChIJKRurhYj95zsRtb0HX7ia1W8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 At Lowji, opp. Rly Station Lowji, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8037449,
+                    "lng": 73.3288941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.80514697989273,
+                        "lng": 73.33025187989274
+                    },
+                    "southwest": {
+                        "lat": 18.80244732010728,
+                        "lng": 73.3275522201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ANITALL INDIA STORES",
+            "place_id": "ChIJM7ddDX4H6DsRgMVauKtynx0",
+            "plus_code": {
+                "compound_code": "R83H+GH Khopoli, Maharashtra",
+                "global_code": "7JCMR83H+GH"
+            },
+            "rating": 0,
+            "reference": "ChIJM7ddDX4H6DsRgMVauKtynx0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shri Ram Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9070985,
+                    "lng": 73.3338727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90846012989272,
+                        "lng": 73.33526102989272
+                    },
+                    "southwest": {
+                        "lat": 18.90576047010728,
+                        "lng": 73.33256137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Maroshree Kirana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJSTnSfp375zsRqI8D0MnlEzI",
+            "plus_code": {
+                "compound_code": "W84M+RG Karjat, Maharashtra",
+                "global_code": "7JCMW84M+RG"
+            },
+            "rating": 0,
+            "reference": "ChIJSTnSfp375zsRqI8D0MnlEzI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 002 Matoshree Kiran, Patil-Ali Road, Dahivali, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7845627,
+                    "lng": 73.3440657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78591882989272,
+                        "lng": 73.34540117989272
+                    },
+                    "southwest": {
+                        "lat": 18.78321917010728,
+                        "lng": 73.34270152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "NATIONAL KIRANA STORS",
+            "place_id": "ChIJTbHYI8EH6DsRIhoi4FKotlU",
+            "plus_code": {
+                "compound_code": "Q8MV+RJ Navi Mumbai, Maharashtra",
+                "global_code": "7JCMQ8MV+RJ"
+            },
+            "rating": 0,
+            "reference": "ChIJTbHYI8EH6DsRIhoi4FKotlU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Shastri Nagar Opp Look Me Khopoli, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8645222,
+                    "lng": 73.37272279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.86589507989272,
+                        "lng": 73.37412807989271
+                    },
+                    "southwest": {
+                        "lat": 18.86319542010728,
+                        "lng": 73.37142842010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tanvi Kirana Store",
+            "place_id": "ChIJsaihKhP_5zsRVMTqJNHtMxI",
+            "plus_code": {
+                "compound_code": "V97F+R3 Karjat, Maharashtra",
+                "global_code": "7JCMV97F+R3"
+            },
+            "rating": 5,
+            "reference": "ChIJsaihKhP_5zsRVMTqJNHtMxI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 3 Kondivade, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.881141,
+                    "lng": 73.3736588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.88252127989272,
+                        "lng": 73.37499382989272
+                    },
+                    "southwest": {
+                        "lat": 18.87982162010728,
+                        "lng": 73.37229417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Ganpati Kirana & General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2Um_7Ob_5zsRDFe5aT2-Nv4",
+            "plus_code": {
+                "compound_code": "V9JF+FF Khandpe, Maharashtra",
+                "global_code": "7JCMV9JF+FF"
+            },
+            "rating": 0,
+            "reference": "ChIJ2Um_7Ob_5zsRDFe5aT2-Nv4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 2, near Khandpe, Stand, Khandpe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8297719,
+                    "lng": 73.2838709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.83115452989272,
+                        "lng": 73.28523312989272
+                    },
+                    "southwest": {
+                        "lat": 18.82845487010728,
+                        "lng": 73.28253347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Patel Kirana",
+            "place_id": "ChIJf7EIi3z95zsRt0MFeh0iSgU",
+            "plus_code": {
+                "compound_code": "R7HM+WG Khalapur, Maharashtra",
+                "global_code": "7JCMR7HM+WG"
+            },
+            "rating": 0,
+            "reference": "ChIJf7EIi3z95zsRt0MFeh0iSgU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2 Shivaji Maharaj Chowk Georai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7900265,
+                    "lng": 73.308947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79137662989272,
+                        "lng": 73.31029772989272
+                    },
+                    "southwest": {
+                        "lat": 18.78867697010728,
+                        "lng": 73.30759807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pratiksha kirana stores",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ13Azb8gH6DsRcMG3ck3XSU0",
+            "plus_code": {
+                "compound_code": "Q8R5+2H Sajgaon, Maharashtra",
+                "global_code": "7JCMQ8R5+2H"
+            },
+            "rating": 0,
+            "reference": "ChIJ13Azb8gH6DsRcMG3ck3XSU0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sajgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9103827,
+                    "lng": 73.32615849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91165817989272,
+                        "lng": 73.32749367989273
+                    },
+                    "southwest": {
+                        "lat": 18.90895852010728,
+                        "lng": 73.32479402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nihal Kirana Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111887061487656713508\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjp10P-6VKGo8evvlsOdFrAHPHGAiioClyKNHeoe6p0VK9VoLQa0_7jn7q883z06xa2XdpQVoemdrsTX7X_0_wm7caBZGKCEZ5-AdIUxtrYj1i53svdieucX-fH0rzrVLdol7Tw3gZkXzcMnmKFXaCrqWEGRrWbtToq5SRunKzUnrpg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ3zessff75zsR_JoUWsWPKAE",
+            "plus_code": {
+                "compound_code": "W86G+5F Karjat, Maharashtra",
+                "global_code": "7JCMW86G+5F"
+            },
+            "rating": 5,
+            "reference": "ChIJ3zessff75zsR_JoUWsWPKAE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Plot no 109, MHADA Colony, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7856908,
+                    "lng": 73.34117189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78701452989272,
+                        "lng": 73.34254927989272
+                    },
+                    "southwest": {
+                        "lat": 18.78431487010728,
+                        "lng": 73.33984962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gurukrupa Traders",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJKwLNlCIH6DsRcXrQdiTs85o",
+            "rating": 5,
+            "reference": "ChIJKwLNlCIH6DsRcXrQdiTs85o",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Q8PR+7FM, Shastrinagar, Sri Swami Samarth Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7925223,
+                    "lng": 73.3335238
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79384812989272,
+                        "lng": 73.33485327989271
+                    },
+                    "southwest": {
+                        "lat": 18.79114847010727,
+                        "lng": 73.33215362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai Kirana Shop",
+            "place_id": "ChIJi5HGM7EH6DsRFIdOReyIDUs",
+            "plus_code": {
+                "compound_code": "Q8RM+XC Khopoli, Maharashtra",
+                "global_code": "7JCMQ8RM+XC"
+            },
+            "rating": 0,
+            "reference": "ChIJi5HGM7EH6DsRFIdOReyIDUs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 2, near by Durga Maata Mandir, Shanti Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9095859,
+                    "lng": 73.3278933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91093387989272,
+                        "lng": 73.32921772989272
+                    },
+                    "southwest": {
+                        "lat": 18.90823422010728,
+                        "lng": 73.32651807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pooja Kirana Stores",
+            "place_id": "ChIJDTUtqwL75zsRuutzydyjCoc",
+            "plus_code": {
+                "compound_code": "W85H+R5 Karjat, Maharashtra",
+                "global_code": "7JCMW85H+R5"
+            },
+            "rating": 0,
+            "reference": "ChIJDTUtqwL75zsRuutzydyjCoc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3 Sai Kiran Apartment, Kotval Nagar, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9068964,
+                    "lng": 73.3333423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90824472989272,
+                        "lng": 73.33469022989271
+                    },
+                    "southwest": {
+                        "lat": 18.90554507010728,
+                        "lng": 73.33199057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sawant Kirana Stores",
+            "opening_hours": {},
+            "place_id": "ChIJezlEwWH75zsRsRKUTrjyU1c",
+            "plus_code": {
+                "compound_code": "W84M+Q8 Karjat, Maharashtra",
+                "global_code": "7JCMW84M+Q8"
+            },
+            "rating": 5,
+            "reference": "ChIJezlEwWH75zsRsRKUTrjyU1c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1 Sonar Aali, Dahivali, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9032319,
+                    "lng": 73.31886349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90461302989272,
+                        "lng": 73.32021082989272
+                    },
+                    "southwest": {
+                        "lat": 18.90191337010728,
+                        "lng": 73.31751117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Siraj Super Market",
+            "place_id": "ChIJ3xLFQ3n75zsRVsNPVjf8E_U",
+            "plus_code": {
+                "compound_code": "W839+7G Karjat, Maharashtra",
+                "global_code": "7JCMW839+7G"
+            },
+            "rating": 0,
+            "reference": "ChIJ3xLFQ3n75zsRVsNPVjf8E_U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gundage, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.911145,
+                    "lng": 73.32123709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91249352989272,
+                        "lng": 73.32260242989271
+                    },
+                    "southwest": {
+                        "lat": 18.90979387010728,
+                        "lng": 73.31990277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Seema Provision Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJeVCnU3b75zsRDv5XqVCGizs",
+            "plus_code": {
+                "compound_code": "W86C+FG Karjat, Maharashtra",
+                "global_code": "7JCMW86C+FG"
+            },
+            "rating": 0,
+            "reference": "ChIJeVCnU3b75zsRDv5XqVCGizs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Karjat Junction Kacheri Road, Dahivali, Karjat, near Railway Station, Raigad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8123107,
+                    "lng": 73.33298940000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.81365747989273,
+                        "lng": 73.3343389798927
+                    },
+                    "southwest": {
+                        "lat": 18.81095782010728,
+                        "lng": 73.33163932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u092a\u093e\u092c\u0941\u091c\u0940 \u0938\u0941\u092a\u0930 \u092e\u093e\u0930\u094d\u0915\u0947\u091f",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115152406492907165379\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3wFQMROl3_y0ubllJdftUu-0_yLuMxGlmK4YeI4XRC4MWyfKNzAzW2sTqd_oFMRa8uKW9T9CKGansz0quUCEf_zq-iyJ0JRfVAPJ_mZx2FiHoMRI9BSWe6gt4_69CDruRtNqC9saQv-juog6rLyzXnKnRKwxygF8ZRrst44VkCe3K",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJRZul8GL95zsRJDM0QiostA8",
+            "plus_code": {
+                "compound_code": "R86M+W5 Khopoli, Maharashtra",
+                "global_code": "7JCMR86M+W5"
+            },
+            "rating": 4,
+            "reference": "ChIJRZul8GL95zsRJDM0QiostA8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Sarswati Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9129077,
+                    "lng": 73.31980050000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91425752989272,
+                        "lng": 73.32114112989271
+                    },
+                    "southwest": {
+                        "lat": 18.91155787010728,
+                        "lng": 73.31844147010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gurunath Store",
+            "place_id": "ChIJ83TQjO375zsRoY0LN0CI4zg",
+            "plus_code": {
+                "compound_code": "W879+5W Karjat, Maharashtra",
+                "global_code": "7JCMW879+5W"
+            },
+            "rating": 0,
+            "reference": "ChIJ83TQjO375zsRoY0LN0CI4zg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Opp, Karjat - Murbad Rd, Bhisegaon, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9097316,
+                    "lng": 73.3276515
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91104697989272,
+                        "lng": 73.32899962989272
+                    },
+                    "southwest": {
+                        "lat": 18.90834732010727,
+                        "lng": 73.32629997010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Samartha Krupa Traders",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106402029664469216419\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg8ZD8K9rdpVpK1DN8zX_atSGSB72Tj5_4Y0q8ZRrv_684ozm9WHIkFJkEeKc6W6Kt3SpjKkXwUgPpgIZyng6LPBHRawkY2w_uBZ9r4b3zuoBBShMh3O31BIl0nLGjwSuOWakPc9V5TZeGCilBdRMZz76IuHm-Y_JbkXCo3s7Vt7G2S",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJH7I8z5H75zsR0I1YMzh6YlI",
+            "plus_code": {
+                "compound_code": "W85H+V3 Karjat, Maharashtra",
+                "global_code": "7JCMW85H+V3"
+            },
+            "rating": 5,
+            "reference": "ChIJH7I8z5H75zsR0I1YMzh6YlI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop no. 1, Chadda Terrace, Kotwalnagar, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7827353,
+                    "lng": 73.3399453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78406252989272,
+                        "lng": 73.34131892989272
+                    },
+                    "southwest": {
+                        "lat": 18.78136287010728,
+                        "lng": 73.33861927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Navkar Traders",
+            "place_id": "ChIJ0aVK8G4H6DsRAFfgXY1mfz0",
+            "plus_code": {
+                "compound_code": "Q8MQ+4X Khopoli, Maharashtra",
+                "global_code": "7JCMQ8MQ+4X"
+            },
+            "rating": 0,
+            "reference": "ChIJ0aVK8G4H6DsRAFfgXY1mfz0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Katrang Rd, Sri Swami Samarth Nagar, Khopoli"
+        }
+    ],
+    "status": "OK"
+}

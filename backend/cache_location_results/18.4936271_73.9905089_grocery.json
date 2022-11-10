@@ -1,0 +1,977 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRivPTV1qFpEVjHEXZqwV-KRTOTHBOjduy9d7osYvJM33gb9mCAuFKyAK3ozwRAU3RmVMjValvNfM0-kGNX5r2aEddBW4FSljtQmxXLqu28qIgnjGy-YJQP2gqVQ4i9xilZIw7ZMf1AwjL4lAtfOXx-i4wuz0jnng_q_QZyLAJ1B0nGT-SUoaPwgo4CHU_qg7bgl-bnHyn_v16JQjZvecn1KYKOvALqIJKIJ9F3Bz2OsaMwO4z_D8n6emJCz1Rdqq1A-virEo-gBeneqNzQ8md3qg88aTzu6QVeCvJXO-BVWe1Wfxs5WhzVhyzKZqmCQMVL2jCyvBUtrm5X3NSki6doNZwO_9cZfyexaRDENRLoFWOeFG8BDGxfuuVVU7MHnuXKzFyBOaa6dm2QOHGZXwMQVAve9m994i05RGFDSomen6cL1QhBTfeza",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5534666,
+                    "lng": 73.9363328
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55475957989272,
+                        "lng": 73.93768162989272
+                    },
+                    "southwest": {
+                        "lat": 18.55205992010728,
+                        "lng": 73.93498197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pravin Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ14alqNjDwjsRK-KygDoR1nM",
+            "plus_code": {
+                "compound_code": "HW3P+9G Pune, Maharashtra",
+                "global_code": "7JCMHW3P+9G"
+            },
+            "rating": 0,
+            "reference": "ChIJ14alqNjDwjsRK-KygDoR1nM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 3, near Santosh Foot Wear, Tukaram Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5676017,
+                    "lng": 73.91410040000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56888772989272,
+                        "lng": 73.91544342989272
+                    },
+                    "southwest": {
+                        "lat": 18.56618807010728,
+                        "lng": 73.91274377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kailash Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112693195877488121376\">Chandrakant Turare</a>"
+                    ],
+                    "photo_reference": "AcYSjRiMoyexzuuZcFl5mhPr2jBba5K453TYZWuqpc8rOwZ4piElFoKhLeuHhFWaq-S42vfIiXdzI88KRiAds0_evpElNvwzGHmW6Dqn_C5Dy09aoaok5myeArK5B3AQjSltR84u-AjqnsUDCmDlSmv77tTUx2-ZSTpbkBzUbeIEYJLNLOXT",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJAQAAAEfBwjsRNEk1hHr3V20",
+            "plus_code": {
+                "compound_code": "HW97+2J Pune, Maharashtra",
+                "global_code": "7JCMHW97+2J"
+            },
+            "rating": 4,
+            "reference": "ChIJAQAAAEfBwjsRNEk1hHr3V20",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 872,
+            "vicinity": "Shop No 6, Roshma Residency, Viman Nagar, Plot No 106, Viman Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5330709,
+                    "lng": 73.8954995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.53434402989272,
+                        "lng": 73.89684302989274
+                    },
+                    "southwest": {
+                        "lat": 18.53164437010728,
+                        "lng": 73.89414337010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ram Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNcXg_KnBwjsRAlUGNyvSwEM",
+            "plus_code": {
+                "compound_code": "GVMW+66 Pune, Maharashtra",
+                "global_code": "7JCMGVMW+66"
+            },
+            "rating": 4.3,
+            "reference": "ChIJNcXg_KnBwjsRAlUGNyvSwEM",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "Shop No 2, Sukhwani Classic, South Main Road,, Koregaon Park, near Shahu Modak Udyan, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5367291,
+                    "lng": 73.8973446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.53808022989272,
+                        "lng": 73.89863347989272
+                    },
+                    "southwest": {
+                        "lat": 18.53538057010728,
+                        "lng": 73.89593382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nature's Basket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101162417912051945989\">\uc815\uc900\uc601</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkfHZrO8re9QWtiHvnkPvDEegjsftB6DYFHljnJab0VeX6QJK4-h-HzDdhdunNG3eG2H_vvs32uDVPt_bRAbS3lWwx1RQNSQDK56Tpl8TUYFwErLJjH3_YITaFA4paicTcUeOkSFoDRmguG09WHk28NOnB0KYwagNcE7Oc3WwKHQwH",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJZUAllUnBwjsRnX-Fy8R0m5c",
+            "plus_code": {
+                "compound_code": "GVPW+MW Pune, Maharashtra",
+                "global_code": "7JCMGVPW+MW"
+            },
+            "rating": 4.2,
+            "reference": "ChIJZUAllUnBwjsRnX-Fy8R0m5c",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1242,
+            "vicinity": "Plot No.352, Shop No. 1 and 2, Ground Floor, Business Square, 3, Lane Number 5, Koregaon Park, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5428064,
+                    "lng": 73.9233883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54419197989272,
+                        "lng": 73.92473852989271
+                    },
+                    "southwest": {
+                        "lat": 18.54149232010728,
+                        "lng": 73.92203887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sandip Grocery",
+            "place_id": "ChIJSVCNvPHBwjsRbHc5HpiLLUk",
+            "plus_code": {
+                "compound_code": "GWVF+49 Pune, Maharashtra",
+                "global_code": "7JCMGWVF+49"
+            },
+            "rating": 0,
+            "reference": "ChIJSVCNvPHBwjsRbHc5HpiLLUk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Bus Stop, near by Kharadi, Vitthal Nagar, Digambar Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5176655,
+                    "lng": 73.93679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51900972989272,
+                        "lng": 73.93818437989273
+                    },
+                    "southwest": {
+                        "lat": 18.51631007010728,
+                        "lng": 73.93548472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Florida Mart (Grocery Store)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1196,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115182673008752377589\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVB1QJnLHoG-TSfjtsDhZRrUMsFrUZCPfp_d4D60u4szXTHVN3RP-FiSSlaDgUIMOr4h-vCwh5kvtf6ytdeqotFtuO6Pa48gcoc4cgcOlFT94fO0Z6Dzn8J9OC5NM1Oab1gAoKXvrst6EAU-Bo7niJLtqhmGs77zeDRLSdY4eK0VF3",
+                    "width": 1196
+                }
+            ],
+            "place_id": "ChIJlw0tY7fBwjsR1v0DUoK3qbA",
+            "plus_code": {
+                "compound_code": "GW9P+3P Pune, Maharashtra",
+                "global_code": "7JCMGW9P+3P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJlw0tY7fBwjsR1v0DUoK3qbA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "Florida Mart, behind to amanora mall Opp- to marvel arco society , tupe road, township, Amanora Park Town, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5431818,
+                    "lng": 73.9232998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54453647989272,
+                        "lng": 73.92466087989273
+                    },
+                    "southwest": {
+                        "lat": 18.54183682010728,
+                        "lng": 73.92196122010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gulab Fulmali Grocery",
+            "place_id": "ChIJWSdL66rBwjsR6US0wnNeEh0",
+            "plus_code": {
+                "compound_code": "GWVF+78 Pune, Maharashtra",
+                "global_code": "7JCMGWVF+78"
+            },
+            "rating": 0,
+            "reference": "ChIJWSdL66rBwjsR6US0wnNeEh0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 16, Bus Stop, near by Kharadi, Dhanvantari Colony, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5529549,
+                    "lng": 73.925105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55430042989272,
+                        "lng": 73.92649172989272
+                    },
+                    "southwest": {
+                        "lat": 18.55160077010728,
+                        "lng": 73.92379207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Balaji Food Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102149829518183522740\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiZbYwXn4Innbr3Od8LyWTpExnZnIOJmkC7OOLvavp8WSI0U56VDQzH0piCsiHcHj4233P4geWfh67BT8Lvlh7_eFTBT5uA8KR6Gj6vGAcDBSYNBgtPDfro_vs0NFFbrEyFM2hLnhlp4LtYNmBCBEQNVOoxc1ZGhMNDshKNg2l3F4_j",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ_zdjo1LBwjsRndh7R9ZyKMc",
+            "plus_code": {
+                "compound_code": "HW3G+52 Pune, Maharashtra",
+                "global_code": "7JCMHW3G+52"
+            },
+            "rating": 5,
+            "reference": "ChIJ_zdjo1LBwjsRndh7R9ZyKMc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "shop no 1, Jai gas agency, Sr no 41, 05, Anand Park, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5063484,
+                    "lng": 73.9409518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50775742989272,
+                        "lng": 73.94260277989271
+                    },
+                    "southwest": {
+                        "lat": 18.50505777010728,
+                        "lng": 73.93990312010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rushikesh Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJoxUvHe_DwjsRozdXTzWXmM8",
+            "plus_code": {
+                "compound_code": "GW4R+G9 Hadapsar, Pune, Maharashtra",
+                "global_code": "7JCMGW4R+G9"
+            },
+            "rating": 5,
+            "reference": "ChIJoxUvHe_DwjsRozdXTzWXmM8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Vidhya Vihar colony lane 2, DP Rd, Hadapsar, pune28"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.551072,
+                    "lng": 73.9508608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55239897989272,
+                        "lng": 73.95218652989273
+                    },
+                    "southwest": {
+                        "lat": 18.54969932010728,
+                        "lng": 73.94948687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJpdI0oMXDwjsRAAAAMKIyrHc",
+            "rating": 0,
+            "reference": "ChIJpdI0oMXDwjsRAAAAMKIyrHc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HX22+C8H, Eon Free Zone Rd, EON Free Zone, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5640699,
+                    "lng": 73.9470013
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56542282989273,
+                        "lng": 73.94834852989271
+                    },
+                    "southwest": {
+                        "lat": 18.56272317010728,
+                        "lng": 73.94564887010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dhanshree Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104111371710526867160\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_pdM0r7Si7m1eBfaxQLEpP5uGqznMuii4KMr-_yA3boEtM0CHTrLor-lgQqRNNiuWh6udKgX4V5PaerILgx1-_mQxmHPfxB1DqHRvzTkhFBXTiUO-zxUW5hSPxfDnxCSKO8INwB4XRjy74eQZtviJ6Ub2N_s_ba144Lzr4_p97XWI",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJE0mClzvDwjsRjRLv2VE2ye8",
+            "plus_code": {
+                "compound_code": "HW7W+MQ Pune, Maharashtra",
+                "global_code": "7JCMHW7W+MQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJE0mClzvDwjsRjRLv2VE2ye8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Lane Number 10, Tulaja Bhawani Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5034194,
+                    "lng": 73.9275068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50476637989272,
+                        "lng": 73.92888972989272
+                    },
+                    "southwest": {
+                        "lat": 18.50206672010728,
+                        "lng": 73.92619007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "One Stop Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112335267571426087614\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjMRGPIwK7cTRXm8H5BwNDg82PwNp9VITm8fn8lbzZMWo0iVLnNMfllkk-_EmBfFg66KoJ5fGceU1s8QgcNvbqQc6hk41YhLgYXBTy-l1UHGnnwCaUPPU3wgxjTWyPjSH1C8P2kldIKop0wUYYWuAeOstxGB4iseytf0Rt5Yq809SUW",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJH5zbJ1bBwjsRHD5l0VpCWfk",
+            "plus_code": {
+                "compound_code": "GW3H+92 Pune, Maharashtra",
+                "global_code": "7JCMGW3H+92"
+            },
+            "rating": 4.4,
+            "reference": "ChIJH5zbJ1bBwjsRHD5l0VpCWfk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Shop 18-19, Shanti Niketan Building, 13, Magarpatta Rd, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5534797,
+                    "lng": 73.9212991
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55487142989273,
+                        "lng": 73.92264637989273
+                    },
+                    "southwest": {
+                        "lat": 18.55217177010728,
+                        "lng": 73.91994672010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bholeshwar Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112968437064297526598\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh2Jh7u1_kfnyW4xbcyJZucWaJkCHAwon5EhC8Mm5NmORaDwdYiKQn8oezfx0xKaJ8iVgmTXWf9ASM7Wvj24hxqdChej7dxQ2UIoaQeM4ae8LydXUvbu20LZbvTlWyHQMyARCAmf_4Axs5tYb3A1bmh9eMp5lvxUkOlD5JEJ_HBCcPQ",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ7wTAJ2nBwjsRdnSzYBrIghI",
+            "plus_code": {
+                "compound_code": "HW3C+9G Pune, Maharashtra",
+                "global_code": "7JCMHW3C+9G"
+            },
+            "rating": 4,
+            "reference": "ChIJ7wTAJ2nBwjsRdnSzYBrIghI",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "41/1 Vidhya Nagar, Behind Aai Mata Mandir, Somnath Nagar road,, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5115756,
+                    "lng": 73.94366490000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51292412989272,
+                        "lng": 73.94505177989272
+                    },
+                    "southwest": {
+                        "lat": 18.51022447010728,
+                        "lng": 73.94235212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shaikh's Grocery store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105992224979441683380\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRguvA1wlSySLMhL2w9jYo4vK2btOKw3w-4ZJtHod43sJzoKg6dqMJRLsf0uwAY0mzl_mR_xTON9SeDKzqxinvtsvsZUUf69hjpthTisBhtUokDbx2OBYIoueWKLfjxxrdn_sM0Unwx2BcEPceK73SYNOZtRHf3HRWsBNQFv5fAxWC2f",
+                    "width": 712
+                }
+            ],
+            "place_id": "ChIJDWEZ_JHDwjsRS0oXLMFd40Y",
+            "plus_code": {
+                "compound_code": "GW6V+JF Pune, Maharashtra",
+                "global_code": "7JCMGW6V+JF"
+            },
+            "rating": 4.8,
+            "reference": "ChIJDWEZ_JHDwjsRS0oXLMFd40Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Orient garden, Sadhunana Tupe Vasti, Sade Satra Nali, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.557995,
+                    "lng": 73.933973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55920762989272,
+                        "lng": 73.93528872989272
+                    },
+                    "southwest": {
+                        "lat": 18.55650797010728,
+                        "lng": 73.93258907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shreekrishna Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108979076019396692409\">Aniket Ughade</a>"
+                    ],
+                    "photo_reference": "AcYSjRiTWras4KW6GtsFBKwsaB6lGR9-16fRVQ3l4W_jfb8ht584wQTAOwoEwq0ygHBOpIDlBfqQYXhGr4iiVTBHeTRtATmrPVnu71LReBWlD2lyPxW9LsqJWLA29SQC_zWoNYcDZQ9YVoq13SIZPPv0eIGK8oMPOA0jk2vbrRqWCXsL3ZKO",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJ99VUQmDBwjsRnxFsjQrOVDk",
+            "plus_code": {
+                "compound_code": "HW5M+5H Pune, Maharashtra",
+                "global_code": "7JCMHW5M+5H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ99VUQmDBwjsRnxFsjQrOVDk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Santa Housing Society, Kharadi Road, Chandan nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5099029,
+                    "lng": 73.92841279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51136797989272,
+                        "lng": 73.92977077989272
+                    },
+                    "southwest": {
+                        "lat": 18.50866832010728,
+                        "lng": 73.92707112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Shoppee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ__wYkcHBwjsRapxLpXgZMLM",
+            "plus_code": {
+                "compound_code": "GW5H+X9 Pune, Maharashtra",
+                "global_code": "7JCMGW5H+X9"
+            },
+            "rating": 0,
+            "reference": "ChIJ__wYkcHBwjsRapxLpXgZMLM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Destination Center, F-20 First Floor, Magarpatta, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4575164,
+                    "lng": 73.91255610000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.45886872989272,
+                        "lng": 73.91391547989272
+                    },
+                    "southwest": {
+                        "lat": 18.45616907010728,
+                        "lng": 73.91121582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bhavana Super Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 359,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105745513760599805184\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhzclXTu5Ak7-Itr1sTxKywa1o-JXasW5NDIE5g71IFt7M83J_6zYEigRvxT0ergRYuGYzExM_VkaKVxDBuA4b3PI6nelyzrpwEJzpP6yLRFGRehM-Uf4tGmkovgRVvWryjIWWJ_0sdSbQ7_TJJlkSyKsAmlMprr01SC0vfvsSCczNO",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJTZZnkDzrwjsRpISPuE62EaI",
+            "plus_code": {
+                "compound_code": "FW57+22 Pune, Maharashtra",
+                "global_code": "7JCMFW57+22"
+            },
+            "rating": 0,
+            "reference": "ChIJTZZnkDzrwjsRpISPuE62EaI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no 14, Katraj-Hadapsar Bypass Rd, Hole Vasti, Undri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5048246,
+                    "lng": 73.9024175
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50620232989272,
+                        "lng": 73.9037680298927
+                    },
+                    "southwest": {
+                        "lat": 18.50350267010728,
+                        "lng": 73.90106837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Decent Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101436133737402363988\">shivshankar swami</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2UVkW75dM0JUuFHnwUDXf4EOmSLKLsRGL98Z85l6ps7eikkEOnl-M2Lp4K9EILB3HrOuA1iCnv_KRDGL1cHVMAfl5Z8dV1ULL6x5xmfhBqzq91pSEL_XlveNPDpATWpY5O-pI_ouYMmUvy2Vp8wIWjFMUZsbSvFdCR7CvdBRPaZcR",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJAQAA0MXBwjsRPi6Q-S-NxfE",
+            "plus_code": {
+                "compound_code": "GW32+WX Pune, Maharashtra",
+                "global_code": "7JCMGW32+WX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAQAA0MXBwjsRPi6Q-S-NxfE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Moti Villa Society, Shop No 3 & 4, Gavali Dhadge Nagar, opposite Ganesh Mandir, Fatima Nagar, Wanowrie, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5554571,
+                    "lng": 73.94088409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55677582989272,
+                        "lng": 73.94224447989272
+                    },
+                    "southwest": {
+                        "lat": 18.55407617010728,
+                        "lng": 73.93954482010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MATOSHRI SUPER MARKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1932,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114123712955775031640\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjK88wayIgtO9ZxhZ_iF27xHy4N3WP2SAv_swJlIdxxV3mDwdxDlqoI5SgvRO1n-BvaI7_tjbPCEyA9lh764WTboR8F6T-dfFp2TeTSqnlM82ub6txVmyAHSn7e1Yp4IQj-oTzlpPhjcRl4euPGco2JetGzlG9ASlPOgvJcqWzuYNGi",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJD9YPBjbDwjsR_7FJSNJ654Y",
+            "plus_code": {
+                "compound_code": "HW4R+59 Pune, Maharashtra",
+                "global_code": "7JCMHW4R+59"
+            },
+            "rating": 4.1,
+            "reference": "ChIJD9YPBjbDwjsR_7FJSNJ654Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "1, Chaudhri Vasti Rd, opposite TUSCAN ESTATE, Choudhari Wasti, Ashoka Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.566898,
+                    "lng": 73.9143632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56826592989272,
+                        "lng": 73.91572257989273
+                    },
+                    "southwest": {
+                        "lat": 18.56556627010728,
+                        "lng": 73.91302292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Royal Food Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJHVDuyerBwjsRfV-HHtrH4yo",
+            "rating": 4.1,
+            "reference": "ChIJHVDuyerBwjsRfV-HHtrH4yo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 366,
+            "vicinity": "HW87+PPX, Lunkad Queensland Internal Rd, Konark Nagar, Mhada Colony, Viman Nagar, Pune"
+        }
+    ],
+    "status": "OK"
+}

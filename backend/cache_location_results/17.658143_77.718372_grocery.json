@@ -1,0 +1,854 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhBl6dtgWHfaZARedMwaP8XdrcOF7hPTY9umRvp9MvCstkGSK94yIeDp7Tbee2nJrnsySdqAtR5xS8mjoNmJffEUK84u-vLKsXeGRPwZAhbLtKLwABkY3N-TFyrqerOvsDa1G42k5OBjRidOWBXSW_zbLpG_RaR-V92HmVi7vaRLNO89UixVcA6DVflT6v-5rOAYCDIPpix6KIS8cGYpt-HvjtQWV_RNVLAS_te6D64lWxw1J3i4TwGqsBc78oGUWBqmQYHz0vKsfr2P3ZJPrhlGLLK04VembV8sl4OboAcIEY5jFTZpQTw-koXXskg4OBwIP_EVdJr_SABuSC8uT_9AD2NyFOA7QuhqUfG0xmvFzEmkG8ZmLkenBe7DOym-Z9Sp3TuahsfS1OhKY78FnsD4OJaAQGIbdJun79SVraXpA1m10FEay13",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6343676,
+                    "lng": 77.75668019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63575352989272,
+                        "lng": 77.75802397989273
+                    },
+                    "southwest": {
+                        "lat": 17.63305387010728,
+                        "lng": 77.75532432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Ram Kirana & General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJyEBVdtTyTsRSdfS05H_wFI",
+            "plus_code": {
+                "compound_code": "JQM4+PM Zahirabad, Telangana",
+                "global_code": "7J9VJQM4+PM"
+            },
+            "rating": 0,
+            "reference": "ChIJJyEBVdtTyTsRSdfS05H_wFI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "D-Sangareddy, H.No.1-68,V-Venkatapur M-Kohir, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6707331,
+                    "lng": 77.6664507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67205012989272,
+                        "lng": 77.66779072989272
+                    },
+                    "southwest": {
+                        "lat": 17.66935047010728,
+                        "lng": 77.66509107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Huggelli, Super Market",
+            "place_id": "ChIJf7Tm7H2zzjsRZE7-Nj7TJD8",
+            "rating": 5,
+            "reference": "ChIJf7Tm7H2zzjsRZE7-Nj7TJD8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MMC8+7HW, Huggelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6816895,
+                    "lng": 77.6544763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68304122989272,
+                        "lng": 77.65585162989272
+                    },
+                    "southwest": {
+                        "lat": 17.68034157010728,
+                        "lng": 77.65315197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "JAI BHAVANI MATHA KIRANA General Store",
+            "place_id": "ChIJ_9YJOKuzzjsRv8quOrU1ARo",
+            "plus_code": {
+                "compound_code": "MMJ3+MQ Ranjole, Telangana",
+                "global_code": "7J9VMMJ3+MQ"
+            },
+            "rating": 0,
+            "reference": "ChIJ_9YJOKuzzjsRv8quOrU1ARo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Rangole Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6753087,
+                    "lng": 77.80059299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67666897989272,
+                        "lng": 77.80193727989273
+                    },
+                    "southwest": {
+                        "lat": 17.67396932010728,
+                        "lng": 77.79923762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rukmini Panduranga Kirana General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ1S8vSdCszjsRQrIr4lQEWoQ",
+            "plus_code": {
+                "compound_code": "MRG2+47 Melasangam, Telangana",
+                "global_code": "7J9VMRG2+47"
+            },
+            "rating": 5,
+            "reference": "ChIJ1S8vSdCszjsRQrIr4lQEWoQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "2-70, main road, Melasangam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6649712,
+                    "lng": 77.70992
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66634247989272,
+                        "lng": 77.71127957989272
+                    },
+                    "southwest": {
+                        "lat": 17.66364282010727,
+                        "lng": 77.70857992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "New Saibaba Kirana Shop",
+            "place_id": "ChIJn_i6E9KyzjsRAAAA0P2KEgM",
+            "rating": 0,
+            "reference": "ChIJn_i6E9KyzjsRAAAA0P2KEgM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MP75+XXM, Mumbai Hwy, near Indi Cash Atm, Digwal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6340001,
+                    "lng": 77.7558221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63531327989272,
+                        "lng": 77.75719422989273
+                    },
+                    "southwest": {
+                        "lat": 17.63261362010728,
+                        "lng": 77.75449457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiva kirana general stores",
+            "photos": [
+                {
+                    "height": 689,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108067221964338341274\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXW3im_6z7IsJ0dvqSB52NlnUfqD_YVSOmTahMKRkYPI1WeajNgXMCiGelw-HP01JKWFWSqCTBs3KtIhEa47R0fZDQfUtcGN4ERiI4oyIFtmrvdCXOiAop2YPnhDYZFq4CV5wrJ9FgvNDaApIMtJTV3VxnggESzbofQDhsICqYw0pF",
+                    "width": 689
+                }
+            ],
+            "place_id": "ChIJY3ksrgJTyTsR_aBx3iHiT3g",
+            "plus_code": {
+                "compound_code": "JQM4+J8 Venkatapur, Telangana",
+                "global_code": "7J9VJQM4+J8"
+            },
+            "rating": 0,
+            "reference": "ChIJY3ksrgJTyTsR_aBx3iHiT3g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1-64 VENKATAPUR, Koheer, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6977615,
+                    "lng": 77.6426298
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69911617989272,
+                        "lng": 77.64402772989273
+                    },
+                    "southwest": {
+                        "lat": 17.69641652010728,
+                        "lng": 77.64132807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Devi kirana store",
+            "place_id": "ChIJY25JIZi1zjsR2HhfXrIm2yk",
+            "rating": 0,
+            "reference": "ChIJY25JIZi1zjsR2HhfXrIm2yk",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MJXV+432, Thammadpalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6826054,
+                    "lng": 77.63017769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68393717989273,
+                        "lng": 77.63156712989273
+                    },
+                    "southwest": {
+                        "lat": 17.68123752010728,
+                        "lng": 77.62886747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ms mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111705568652627575593\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuYVx874Vv-1OYCWSN_HutkXzKW9X9cBEEtMo9yt379zmu4Vz_4-lZ95ho2brEGa6s5U3fC_TDumMkg0AR2KUHbZmbBw6W94UvoIFGWuSGUcL_8WIcoGSw9B6wyjWnyjoa8WoII5ruRfbkcgxt23F1MoZk1XX3EevEKbcWjDaY-xbe",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJO_53dFC1zjsRoPY88A0jyH4",
+            "plus_code": {
+                "compound_code": "MJMJ+23 Zahirabad, Telangana",
+                "global_code": "7J9VMJMJ+23"
+            },
+            "rating": 5,
+            "reference": "ChIJO_53dFC1zjsRoPY88A0jyH4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Allipur dargah, Royal colony Pastapur, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6486299,
+                    "lng": 77.8081551
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64986612989273,
+                        "lng": 77.80944927989272
+                    },
+                    "southwest": {
+                        "lat": 17.64716647010728,
+                        "lng": 77.80674962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kamkol Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113824046528234287059\">Satish Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_bScaynnLYTC_jLFjs1rF4xXPI5L_3QDiDQTfaD96gVrmxa0FzkXLpzTgqvHhkdPBFSN7qvFSeCM4zdAJrUy7G75SO_dYpOxQ_WVm75OLNG2OKJWT_hn9ZM-t1AFXCGGU-AP0AJZoZtnU5zmnXFLta1ui895Jp8BRlCM6mZZ95s-9",
+                    "width": 2352
+                }
+            ],
+            "place_id": "ChIJ1zoAAjxTyTsRwPXOs67USqc",
+            "rating": 3.9,
+            "reference": "ChIJ1zoAAjxTyTsRwPXOs67USqc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 509,
+            "vicinity": "JRX5+F7J, Kamkole"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6622161,
+                    "lng": 77.6490729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66333612989272,
+                        "lng": 77.65018117989271
+                    },
+                    "southwest": {
+                        "lat": 17.66063647010727,
+                        "lng": 77.64748152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "M.D. Saber Kirana & General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111823145838367049269\">MD Saber Kirana &amp; General Store</a>"
+                    ],
+                    "photo_reference": "AcYSjRik_-oQ4wPMr2UN8pWsVT1A2i52uX5EK-kk88Zv1X5_1bA5_TwTByrhHlHIU8T20MYY3JZYZsk0I2klCvmx2y5coNG1wqYisDFmuBNGvHIRPNmx7dONHCqAjvVB6-vZmWdyKb4N_8AQbNNwPsr7ysGnlIEFa79OO_iLZlfPElw44OtD",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJbeUzHk6XyzsRjPD0DGsGzKE",
+            "plus_code": {
+                "compound_code": "MJ6X+VJ Allipur, Telangana",
+                "global_code": "7J9VMJ6X+VJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJbeUzHk6XyzsRjPD0DGsGzKE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "10, 6-3-1241, Opp, Raj Bhavan Rd, MS Maqta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5807536,
+                    "lng": 77.6998934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.581774,
+                        "lng": 77.70582755000001
+                    },
+                    "southwest": {
+                        "lat": 17.5776924,
+                        "lng": 77.69791534999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Star Krina shop",
+            "place_id": "ChIJwzFb3BdNyTsR2T4XnGGWMho",
+            "rating": 0,
+            "reference": "ChIJwzFb3BdNyTsR2T4XnGGWMho",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HMJX+8X2, Khanapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6331835,
+                    "lng": 77.6947412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63454072989272,
+                        "lng": 77.69606097989272
+                    },
+                    "southwest": {
+                        "lat": 17.63184107010728,
+                        "lng": 77.69336132010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SRIKRUTHA KIRANA & GENERAL STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101111090438936788077\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgVyfytum6crylAC-FprpSz358DUzXybGA31bVfC8Cr8BYzKNXmTeIrZTr-0QLfFJ_guavUuu0jlnIo_Bq3JCH7d5YT5B7rp6clPlCC35L588kf-AKU-S-6Py0CP--GP6NoBdF0GgXdy7pMtZnh_ONkkUAjNNJriwJ_toNIjCSrbwQ",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJVUBoTG1NyTsRrbc7Zy0Md94",
+            "plus_code": {
+                "compound_code": "JMMV+7V Zahirabad, Telangana",
+                "global_code": "7J9VJMMV+7V"
+            },
+            "rating": 5,
+            "reference": "ChIJVUBoTG1NyTsRrbc7Zy0Md94",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "H.NO 1, 73, GURJUWADA KOHIR, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7401575,
+                    "lng": 77.6811927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74152372989272,
+                        "lng": 77.68258997989271
+                    },
+                    "southwest": {
+                        "lat": 17.73882407010727,
+                        "lng": 77.67989032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "VILLAGE FRESH VEGETABLES",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110022519779864970373\">Narsimha Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgk4FnIQ9PUCoplzYQTLky9WonbnuzMPrt4eXFf9RZrtxjvl4lOHvDgHQZc1qSJb1CBRgO5pPl6l6ZE3NJHi1WwMuxESksrLot7mP0BrR54bX_Vxi1WU28LRuoG3Ylfd8KqjT1ueuY5s-qxnDkIXcJM-ri8gSM-aWR3X6WaGmx1aPV9",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJb-UtElSzzjsRbA3Y7qVGyFk",
+            "rating": 5,
+            "reference": "ChIJb-UtElSzzjsRbA3Y7qVGyFk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "PMRJ+3F, Bardipur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7131793,
+                    "lng": 77.7387073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71453107989272,
+                        "lng": 77.74005127989273
+                    },
+                    "southwest": {
+                        "lat": 17.71183142010728,
+                        "lng": 77.73735162010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Kirana store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJS4H6IpezzjsR8lLjRtWQvqQ",
+            "rating": 1,
+            "reference": "ChIJS4H6IpezzjsR8lLjRtWQvqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "PP7Q+7FG, Unnamed Road, Edulapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5720825,
+                    "lng": 77.7190309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57343247989272,
+                        "lng": 77.72038167989272
+                    },
+                    "southwest": {
+                        "lat": 17.57073282010727,
+                        "lng": 77.71768202010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "S S Kiranam Store&Fast Food Centre",
+            "place_id": "ChIJPT77V65NyTsRa5kRA0O_HqU",
+            "rating": 5,
+            "reference": "ChIJPT77V65NyTsRa5kRA0O_HqU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HPC9+RJJ, Unnamed Road, Paidigummal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6764922,
+                    "lng": 77.6304351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67781842989272,
+                        "lng": 77.63178367989273
+                    },
+                    "southwest": {
+                        "lat": 17.67511877010727,
+                        "lng": 77.62908402010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ADIRA MUNTHA GERNAL STOR",
+            "place_id": "ChIJqbmaxVq1zjsR9ypueak8k3A",
+            "rating": 0,
+            "reference": "ChIJqbmaxVq1zjsR9ypueak8k3A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MJGJ+H5V, Zahirabad Rural, Allipur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6751727,
+                    "lng": 77.62303469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67652002989272,
+                        "lng": 77.62410552989272
+                    },
+                    "southwest": {
+                        "lat": 17.67382037010728,
+                        "lng": 77.62140587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Syeds Kirana And General Store",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115954049728900079638\">Md Sallu</a>"
+                    ],
+                    "photo_reference": "AcYSjRiZyGabXXQ29SguUry4e21sVYzKu2zqc4RpU2CFZzzZySH5gyLh_ch_tc-DLdeWD6uYCPsROFQkEBuzMJmB-skt0ZKmvImq0dpqsH1gmnqMexf7vIBPKYrQWKFTvbkE9prCpu7IkpMbqcIedTtCJc7zEdzTSn5-T_BZmyZzkGB8v6z2",
+                    "width": 1472
+                }
+            ],
+            "place_id": "ChIJN0dzIiq1zjsRWCuOUsivMNM",
+            "plus_code": {
+                "compound_code": "MJGF+36 Zahirabad, Telangana",
+                "global_code": "7J9VMJGF+36"
+            },
+            "rating": 5,
+            "reference": "ChIJN0dzIiq1zjsRWCuOUsivMNM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Zam Zam Colony, Zahirabad Rural, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6015555,
+                    "lng": 77.7156124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60290482989272,
+                        "lng": 77.71700952989272
+                    },
+                    "southwest": {
+                        "lat": 17.60020517010728,
+                        "lng": 77.71430987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sri Sai Zee Distributor's",
+            "place_id": "ChIJZXHHtK1NyTsRHKIjCrp0hNo",
+            "rating": 0,
+            "reference": "ChIJZXHHtK1NyTsRHKIjCrp0hNo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JP28+J7F, Kohir Rd, Kohir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5951799,
+                    "lng": 77.7164178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59654742989272,
+                        "lng": 77.71776367989271
+                    },
+                    "southwest": {
+                        "lat": 17.59384777010728,
+                        "lng": 77.71506402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Egg planet and Confectionery's",
+            "place_id": "ChIJue3zp9lNyTsRlN4CdSXO9Rg",
+            "rating": 0,
+            "reference": "ChIJue3zp9lNyTsRlN4CdSXO9Rg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HPW8+3HF, Kohir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6767683,
+                    "lng": 77.664335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67805477989272,
+                        "lng": 77.66566807989271
+                    },
+                    "southwest": {
+                        "lat": 17.67535512010728,
+                        "lng": 77.66296842010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "INDIAN SPL TEA POINT & GENERAL",
+            "place_id": "ChIJQfMrXQ2zzjsRvjyNWNYVM24",
+            "rating": 5,
+            "reference": "ChIJQfMrXQ2zzjsRvjyNWNYVM24",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MMG7+PP4, Huggelli"
+        }
+    ],
+    "status": "OK"
+}

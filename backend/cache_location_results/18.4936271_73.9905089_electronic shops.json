@@ -1,0 +1,984 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgbGZ9-a8gfQPTkIg4EVRakxetrJQZ_5RyoPqpl7JLz_f_PkeIgPOXUFdZFzbNxiCskxwSY-tnv57EUiCPXJjXUJmnqdRinDT654-v38lRxmfeskKqwNx2NFipaYLpxxFLCLs9SrrZXRt-WRmwzlXpHMUq91ZYw8mzl5-mVtO_4BlRjfKUvgPvQ8OaWWd9HwQZXwiz5rH3muvnQprUv0L5PRNdyjvAYAPLBpOCE4ZRqqHUOJF09GAPBOn4ESLKbeK0jYeM6lYCVZpM34SbZ5RVMrN6q9Z7fXiIAEgCX398bHlWW6lMGa3xGToKotjOKS9U5Fgpfm9JujOv2YL8gaXycHlHZ9ObozpqIPlKMQw3OWU5Rat6A0-EFgoapQV0V9rm7ajJ0jMsHVSLgcyChWbBIhHr4vUCkTwTPqfeA1meNKZ6saS3AqLmMQahG5Z1_r5Kc",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.57994,
+                    "lng": 73.97694899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58143437989272,
+                        "lng": 73.97823037989272
+                    },
+                    "southwest": {
+                        "lat": 18.57873472010728,
+                        "lng": 73.97553072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 522,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101680892374608094163\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjAGo7-EaWmNdO6cSNIJuYJ3FftCqAmV5zJoxvaaFcNrVS6okVp2BEwujM23DvlrrF6Ac-kobiZEw0dJCtASzf1pVV939Q0wvt77vpWUGqO7whLEowMO3ekcN7WYxKajAi5U05Mevom2tDYd_66sUs7l5oU4w3aP1PcoKxZ85LLshL8",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJWb1jA0nDwjsRlTThQv4_VyU",
+            "plus_code": {
+                "compound_code": "HXHG+XQ Pune, Maharashtra",
+                "global_code": "7JCMHXHG+XQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJWb1jA0nDwjsRlTThQv4_VyU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 215,
+            "vicinity": "Taluka Haveli, Landmark 24, opp. Wageshwar Temple Road, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5668891,
+                    "lng": 73.9182824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56822407989272,
+                        "lng": 73.91971502989273
+                    },
+                    "southwest": {
+                        "lat": 18.56552442010728,
+                        "lng": 73.91701537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "New Pavan Electrical and Mobile Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107686639599298339363\">Parvat Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRikQV0EDSI2OXEu0lyq7sfnFblqsCD6bc5Xgp8WUMHI2hfrRfMGVq2tdrxz3uYbGjYtb6aux-xxj2TupzA_DvXIKq1lHYn7QNFoo8VksV_TRk3W9Rc0cfFPvb65iTQpFeKjVeyMgfgTH4nu9Zcv2W4BFZi0sbi4192u3FW_leGK4ORI",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJU6g9gEbBwjsRk-kPN1fwybE",
+            "plus_code": {
+                "compound_code": "HW89+Q8 Pune, Maharashtra",
+                "global_code": "7JCMHW89+Q8"
+            },
+            "rating": 3.6,
+            "reference": "ChIJU6g9gEbBwjsRk-kPN1fwybE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Shop No. 6, Festival Appartment, Sainik Nagar, Clover Park, Viman Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5622766,
+                    "lng": 73.9164991
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56391532989272,
+                        "lng": 73.91808197989272
+                    },
+                    "southwest": {
+                        "lat": 18.56121567010728,
+                        "lng": 73.91538232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109364081546765840634\">Rushikesh Daphal</a>"
+                    ],
+                    "photo_reference": "AcYSjRhfL0IvFkNWqEYwwG0dEJfQoWSJP-GYv1-V7L-WkWF_ngPJb7FQz4yJtKs7mONoDSyj7EJXc7kiTrSPvtL-ZAQEACIkverkYoZQt4d_loFAQn-4tKFj1BD295yMmCKxI5okk7HY5h4jp-MzTYLCWtzMYqplj4mOLPO71fqlWAYHq3x2",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJWf0UQcHBwjsRCz3M2Db9ZYA",
+            "plus_code": {
+                "compound_code": "HW68+WH Pune, Maharashtra",
+                "global_code": "7JCMHW68+WH"
+            },
+            "rating": 4.1,
+            "reference": "ChIJWf0UQcHBwjsRCz3M2Db9ZYA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3444,
+            "vicinity": "1st Phoenix Market City Unit No: F-41, Viman Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5686084,
+                    "lng": 73.907461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56983832989272,
+                        "lng": 73.90901227989272
+                    },
+                    "southwest": {
+                        "lat": 18.56713867010728,
+                        "lng": 73.90631262010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maharashtra Electronics Corporation | Best Electronic shop in Viman Nagar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100828224525249319094\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhtw_5fBIT0FBjm-e4qWA6E1xypDDpxYvGqZ9oQMTURynaS5jomkjC_vm-aToAVoCRhZMkm0FB7V6N5hHrUM-QGHRfR68a5lrCLNaFd2VY9GKAInC8ssL2tGYYzO6a77Al7DjSswVDWc_j16Hj0jm7gid-8m23m5O41r-FcNs6fvB7Z",
+                    "width": 3240
+                }
+            ],
+            "place_id": "ChIJX1Ew5znBwjsRa5xHMG18Yvo",
+            "plus_code": {
+                "compound_code": "HW94+CX Pune, Maharashtra",
+                "global_code": "7JCMHW94+CX"
+            },
+            "rating": 3.6,
+            "reference": "ChIJX1Ew5znBwjsRa5xHMG18Yvo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 220,
+            "vicinity": "COMMERCIAL COMPLEX, Shop No 20,21,22 ,Ground Floor, New Airport Rd, Viman Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5553322,
+                    "lng": 73.9340299
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55671487989272,
+                        "lng": 73.93541137989271
+                    },
+                    "southwest": {
+                        "lat": 18.55401522010728,
+                        "lng": 73.93271172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Om Electronics & Electricals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlXiOvWHBwjsRqNIWT7-hud8",
+            "rating": 2.3,
+            "reference": "ChIJlXiOvWHBwjsRqNIWT7-hud8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HW4M+4JJ, Chandan Nagar, Kharadi Rd, Raghavendra Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5623075,
+                    "lng": 73.9165951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56378917989272,
+                        "lng": 73.91821042989272
+                    },
+                    "southwest": {
+                        "lat": 18.56108952010728,
+                        "lng": 73.91551077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rj Electrishiyn",
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100029854864915850303\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgu0kRCmG03uQnqAYdkrO-WAXgtfgjtmsmPWtEmyFVRaLkrMr08F1O07ueWqa0dMpi5VCqhFP1zNcEbafPDC0QB430z-3v4Zw-gwJSsYG6KfUpPLa-_X5vLfetKMeFAwo-mVp3OG1BVft3OV6qVaVuXaM2MBLpNhAKZ5WRDv4nj4Txg",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJp2i6uZPBwjsRVpwT56CfR5U",
+            "plus_code": {
+                "compound_code": "HW68+WJ Pune, Maharashtra",
+                "global_code": "7JCMHW68+WJ"
+            },
+            "rating": 0,
+            "reference": "ChIJp2i6uZPBwjsRVpwT56CfR5U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "14, Nagar Rd, Clover Park, Viman Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.519635,
+                    "lng": 73.93128519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52045762989272,
+                        "lng": 73.93232267989272
+                    },
+                    "southwest": {
+                        "lat": 18.51775797010728,
+                        "lng": 73.92962302010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110680862921447945140\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj03DZXnuRwtLye1VZO_CRSryqr6F6QlQeT1xzdo0yzz756arQ1EDT46HAPjCUolPRdG3oMOXoesYxkGMRvowUPgHEawX3hv3qYfCoeSUDsN7Bu9ktweix79ZyW-9gEpGVkSNyiNTk5OQmk-a_mteUbs2v095-8WUSx7_DpygYKXBXn",
+                    "width": 945
+                }
+            ],
+            "place_id": "ChIJsw3L1OHBwjsRo33XIg86c2k",
+            "plus_code": {
+                "compound_code": "GW9J+VG Pune, Maharashtra",
+                "global_code": "7JCMGW9J+VG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJsw3L1OHBwjsRo33XIg86c2k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 338,
+            "vicinity": "Seasons Mall, Unit No.S-14, 2nd Floor, Magarpatta, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5037911,
+                    "lng": 73.9008312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50513732989273,
+                        "lng": 73.9022357798927
+                    },
+                    "southwest": {
+                        "lat": 18.50243767010728,
+                        "lng": 73.89953612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118278571239944446319\">Shabbir Tatiwala</a>"
+                    ],
+                    "photo_reference": "AcYSjRhoe9svu8YgkiP0M8V-OisYppOlpTnZ4GJfXYBOoM5JsG0LFfx0TmPcxLrVxaiRWw2O84inO0LZGDPwhxpXj0_EyC_dgZjCrblOHHL5pRbADcJOu44KjQd7SQ2_YyhKaiJgZJ98Zj9_H6eUVOlW6rj3jx4CPNsiNod99szHfkXVNFww",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1Z0P9sXBwjsR1Dw14FcaQ10",
+            "plus_code": {
+                "compound_code": "GW32+G8 Pune, Maharashtra",
+                "global_code": "7JCMGW32+G8"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ1Z0P9sXBwjsR1Dw14FcaQ10",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1490,
+            "vicinity": "KPCT, Shop C and D, No. 26, 27 and 28, Ground and First Floor, Vitthal Rao Shivarkar Rd, next to Vishal Mega Mart, Wanwadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5508492,
+                    "lng": 73.9374879
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55214227989272,
+                        "lng": 73.93882137989273
+                    },
+                    "southwest": {
+                        "lat": 18.54944262010728,
+                        "lng": 73.93612172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118001314725359130804\">Manasvi Tyagi</a>"
+                    ],
+                    "photo_reference": "AcYSjRh318VlxdtX11f31vWOAMeRk3CIFo5XfXVZEFh9iwuuOBRJY39WGAKJexIGACiLvE34BHxZ-MN-27Bq8WsiBGRwwwqPccpveS2XsLNQeKU7AHMxLp8k9woHhQDmObcRh5EOpSSdpB5nByNmAPsixCvMLWG2N6xm9G-uwfhWGcsrd-OR",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJUYZAV9jDwjsRXVmcRgovXO8",
+            "plus_code": {
+                "compound_code": "HW2Q+92 Pune, Maharashtra",
+                "global_code": "7JCMHW2Q+92"
+            },
+            "rating": 4.3,
+            "reference": "ChIJUYZAV9jDwjsRXVmcRgovXO8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 474,
+            "vicinity": "Almonte, Survey No. 8, near Raddison Hotel, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5194487,
+                    "lng": 73.93099339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52036322989272,
+                        "lng": 73.93220562989272
+                    },
+                    "southwest": {
+                        "lat": 18.51766357010728,
+                        "lng": 73.92950597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107741263166707664190\">Bhushan Sonawane</a>"
+                    ],
+                    "photo_reference": "AcYSjRimqD5j2UY6Ymx_wKrWKPl6D5yWerS7NsbGmvQ64qEgSbj2ETquTCcxr682fTvpiyI8fBmf0NDFAzAIFawCxBERD2fAPgsbSFbsbaVQHwfMu3GAV_4ey00P8VDPJuePa-_IKKX7lX2Mi69U4WZ-BRGU3EWkGDZM6xiFwMKiQjCHEB9W",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJBffIV4nBwjsRa-oyPpLytEE",
+            "plus_code": {
+                "compound_code": "GW9J+Q9 Pune, Maharashtra",
+                "global_code": "7JCMGW9J+Q9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJBffIV4nBwjsRa-oyPpLytEE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4614,
+            "vicinity": "21, Ground Floor, SEASONS MALL, Magarpatta Police Station Rd, Magarpatta, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5012023,
+                    "lng": 73.9320723
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50255137989272,
+                        "lng": 73.93343767989272
+                    },
+                    "southwest": {
+                        "lat": 18.49985172010727,
+                        "lng": 73.93073802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Abhijit Electricals & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJWV1QuvjBwjsRsaRrP9bjOHI",
+            "rating": 4,
+            "reference": "ChIJWV1QuvjBwjsRsaRrP9bjOHI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GW2J+FRP, Dangmali Ln, Hadapsar Gaon, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4965702,
+                    "lng": 73.94378379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.49784197989272,
+                        "lng": 73.94507087989273
+                    },
+                    "southwest": {
+                        "lat": 18.49514232010728,
+                        "lng": 73.94237122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Triveni Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100715852794724083298\">Triveni Electronics</a>"
+                    ],
+                    "photo_reference": "AcYSjRhQww9RMdXol_O4D7rXTrvD03IJbjpAl9KOzgC-nQ8c-x73sy4YGKAge_3OusTzcGSxgDzYMGDpIeR9mfSz_JQfRLAz9RsShcUyYZU2Rsk86j-xpNo7hyYdmwZFVHs5ITY8QT0xOTrhDVK3SjbIKLhkaFiRmvH4PbKTz51SAyoTnxke",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJuUyKmQbCwjsRd0GKshThBWw",
+            "plus_code": {
+                "compound_code": "FWWV+JG Pune, Maharashtra",
+                "global_code": "7JCMFWWV+JG"
+            },
+            "rating": 4,
+            "reference": "ChIJuUyKmQbCwjsRd0GKshThBWw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "vicinity": "Survey No. 8, Saswad Rd, opp. Gliding Center, Satavwadi, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5759479,
+                    "lng": 73.9583311
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57729362989273,
+                        "lng": 73.95966582989273
+                    },
+                    "southwest": {
+                        "lat": 18.57459397010728,
+                        "lng": 73.95696617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SPACE ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2R8bTlfDwjsR8nML1GOhRkA",
+            "rating": 0,
+            "reference": "ChIJ2R8bTlfDwjsR8nML1GOhRkA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXG5+99C, Ganesh Park Rd, Sai Satyam Park, Kawade Wasti, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5628469,
+                    "lng": 73.9317678
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56424047989272,
+                        "lng": 73.93311297989273
+                    },
+                    "southwest": {
+                        "lat": 18.56154082010727,
+                        "lng": 73.93041332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - CHANDAN NAGAR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103466417367261625168\">Pradip Kale</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJvztVXX4pDFcSdEFX2K5CVbFUBBI7zzP1kL2MsEP2aGfCA9zOKTIUwvXgqqqonRKRHE8zmLa7CVsbV8boTUZ1iF7YbB4BbTW38IcWlSkpvZnCWOXPM-xowiZqv4QTI2DmozFxab2HLCsvphWH3MZMnMub8dWxZ5FQ9R0GH_fMLxi_",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJwZlR8l7BwjsRhIfxc8IqSu0",
+            "plus_code": {
+                "compound_code": "HW7J+4P Pune, Maharashtra",
+                "global_code": "7JCMHW7J+4P"
+            },
+            "rating": 3.7,
+            "reference": "ChIJwZlR8l7BwjsRhIfxc8IqSu0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3345,
+            "vicinity": "Plot No. 9, Survey No. 48/2, Prabhakar Hights Nagar Road, Chandan Nagar, below Chate Classes, near Rupee Bank, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5524945,
+                    "lng": 73.9364873
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55384102989272,
+                        "lng": 73.93787822989272
+                    },
+                    "southwest": {
+                        "lat": 18.55114137010728,
+                        "lng": 73.93517857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHREE RAM ELECTRONICS SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJVe2N8aLBwjsRNbcwQkwJzEo",
+            "plus_code": {
+                "compound_code": "HW2P+XH Pune, Maharashtra",
+                "global_code": "7JCMHW2P+XH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJVe2N8aLBwjsRNbcwQkwJzEo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "08, 2a, chowk, opp. Bank of India, Yashwant Nagar, Kharadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4811323,
+                    "lng": 73.9005513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48261182989272,
+                        "lng": 73.90191092989272
+                    },
+                    "southwest": {
+                        "lat": 18.47991217010728,
+                        "lng": 73.89921127010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "S 3 communication and Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118206506972337832374\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXKcDZuDbOU5Np2PTcoyWC_zdEdBbTL9E1viEKXzoyudF8sI0IjUhebvZFQsvfFIqk0b7p7kBGSqB4cCOP_xK0xpFtP-DjwswkcgqwRlb_6LET5TpfYU3rPH7uuSBJXRzwLEHaIgefXeLgr3eW7iSQvLjojlgpckhKw8AE4iEwaEpz",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJp_AsG7rrwjsRNuYwJPBkxUk",
+            "plus_code": {
+                "compound_code": "FWJ2+F6 Pune, Maharashtra",
+                "global_code": "7JCMFWJ2+F6"
+            },
+            "rating": 5,
+            "reference": "ChIJp_AsG7rrwjsRNuYwJPBkxUk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Shop No- 1, Shrimati Apartment, Salunke Vihar Rd, near Abc farm, Kondhwa, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.560771,
+                    "lng": 73.9179281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56212042989272,
+                        "lng": 73.9192780798927
+                    },
+                    "southwest": {
+                        "lat": 18.55942077010728,
+                        "lng": 73.91657842010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yash Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109849525235615975115\">Vikram Jagtap</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHiji3uky8zHMmDKSxqlaB8Oj0PsGAKNqAgJ8BYavyeDDbWuWtAl5cA55bkonfbjSqwcgkPCuldfs0O1sdujiEJ7O5cM93YeOcCktt4Mf5vDQ17WG4gYyYhdJie-qE59XMGxBm4RLmZPr6NWGobTJUCkLozeIYiwaO43wAV2E6lJZR",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJU5Lwg0HBwjsRtyHf5csnVVU",
+            "rating": 2,
+            "reference": "ChIJU5Lwg0HBwjsRtyHf5csnVVU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "HW69+853, Nagar Rd, Clover Park, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5558137,
+                    "lng": 73.9259442
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55718002989272,
+                        "lng": 73.92721842989272
+                    },
+                    "southwest": {
+                        "lat": 18.55448037010728,
+                        "lng": 73.92451877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yash Electronics & Mobile",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107101637091533776071\">yogesh doke</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLrPSQo8XBIwqD6gGGkDD9oJLjMOiYkNjG2A1Sbcz8OHEhl6afuwCJ-TXrHRxdg1IdMm_IFFH1J_SRST6902BFd4Zux4Qm77MJao61n9T5Ef05gTqyaP13PUG-LUQKJGKjwMfspMAiMmYOGNCsfFVlCpcG4fioQY35JMGdRE382xo-",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJR0aCtGfBwjsRlTRBld5c7OM",
+            "plus_code": {
+                "compound_code": "HW4G+89 Pune, Maharashtra",
+                "global_code": "7JCMHW4G+89"
+            },
+            "rating": 3.3,
+            "reference": "ChIJR0aCtGfBwjsRlTRBld5c7OM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "Sr No.48/2,, opp. Desarada Classes, Ganesh Nagar, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4871458,
+                    "lng": 73.9306628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48855197989272,
+                        "lng": 73.93200382989272
+                    },
+                    "southwest": {
+                        "lat": 18.48585232010728,
+                        "lng": 73.92930417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samson electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmyAExALrwjsRxt9U4ohckLw",
+            "plus_code": {
+                "compound_code": "FWPJ+V7 Autadwadi Handewadi, Maharashtra",
+                "global_code": "7JCMFWPJ+V7"
+            },
+            "rating": 0,
+            "reference": "ChIJmyAExALrwjsRxt9U4ohckLw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Samson electronics , near ganpati mandir Bhekrainagar , hadpsar , pune -28"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.463003,
+                    "lng": 73.9336503
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.46435952989272,
+                        "lng": 73.93499977989272
+                    },
+                    "southwest": {
+                        "lat": 18.46165987010728,
+                        "lng": 73.93230012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VARAD ELECTRONICS - WAREHOUSE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3508,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107548607136107567975\">VARAD ELECTRONICS</a>"
+                    ],
+                    "photo_reference": "AcYSjRhbwnU68tS9pRMZVGoQTfqH7AYAIHmrZygFMIIM2hN7ghR61RqH9s9YbLRAbfHpR4Pi0cN8JYj2ujD7uZZz86Cbk-tQspbSqjQSHV8McJuHEM31c1JJHrzjC1HJRYqWd4nohLaXapdxLc58fr5d6YFb715KmD1p6YGa-OwKpdogY28w",
+                    "width": 2480
+                }
+            ],
+            "place_id": "ChIJxaJv3SDqwjsRX6f85szqrPc",
+            "plus_code": {
+                "compound_code": "FW7M+6F Pune, Maharashtra",
+                "global_code": "7JCMFW7M+6F"
+            },
+            "rating": 4.9,
+            "reference": "ChIJxaJv3SDqwjsRX6f85szqrPc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Pandhari Nagar, Handewadi, Pune"
+        }
+    ],
+    "status": "OK"
+}

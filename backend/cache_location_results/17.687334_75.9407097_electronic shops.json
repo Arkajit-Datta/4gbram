@@ -1,0 +1,874 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgxDLUcFM0sClM7qYjRVVUseHv9WXMKUVV_qPknUL9glI7o6vmOJEU15One_HdEC58lVB-27xmvvDVE8HlQdwMTwcOwEMGW2j6ETLaDVbMxAt7G_pLQiLX44pO-hAIdtzNEBvAjTz6PYd1DznmctfDTBUQ0b2lTZX7Gii5-HtWCcO7Um1YvsUjep8yoEvBpa63nUHd9zEOMlCPg16N1f2OUvILUm9K3rrVbSsBdgYSIjR-a0X9s9HbSFbRY2X9oU2zBJHXA21HD7_guGI9Ho92P1uDheHMF7OfvfdZqrFY76_R50rW9KfiR_z544EI-X0pFlwDkbp1DKs71mlRS7dMcjhwkDVBIiFWXnAnIsiJmvQWmrb3zXDm-1iXLGJdgZRLRQu2y-9otttohjR__Iwo67jmgvX9fH9dFraBvl17dv1rY0FZuF-l4WGN22XhDwKPm",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6819568,
+                    "lng": 75.8957901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68336502989272,
+                        "lng": 75.89719747989272
+                    },
+                    "southwest": {
+                        "lat": 17.68066537010727,
+                        "lng": 75.89449782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116590638006829804161\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2lunZ7MwXEkaA1yWk41PtdlPFykZzGcWa8ggf-aDU9sJ4Z0oT2fQVtIiYKwPElz033KPseifMgRqxTUK-IrrFLXhbTNy3S1UxoRa6ioQmm2f1dHZd7JkTjZlkoaTRvDVmmkziSIGYqETSpN-khsDfw6HZ6zlBv22vkwymI_7ytT33",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJZyJgf5nRxTsRX8e9O90YRoY",
+            "plus_code": {
+                "compound_code": "MVJW+Q8 Solapur, Maharashtra",
+                "global_code": "7J9QMVJW+Q8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZyJgf5nRxTsRX8e9O90YRoY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1659,
+            "vicinity": "Vishal Heights Near Solapur Central Bus Stand Unit no. 1-7,18-25 on Ground Floor and Unit no. 1-7,18-25 on First Floor situated at Pune Road, Marunji Shaniwar Peth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6769828,
+                    "lng": 75.89841310000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67830367989272,
+                        "lng": 75.89976087989272
+                    },
+                    "southwest": {
+                        "lat": 17.67560402010728,
+                        "lng": 75.89706122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samarth Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117289609231294281816\">Shardul Shahapure</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOwFL7sC7SATQKqqk4CyFpwlwYLu-bLMbDUBqJ_8zK_fKBaKKrsaAT4wYGtyyDB-QzjUxxYKNZnsuLgzh0zKbE7URQHtTq6ppzsM39eB5DvHooSvRpx93oXAfjqvyQh8HIv9kueEV4ls78PfuyZBRxec4Sgbiy0KCwg3rlE5-SnJNH",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJSeIl3n_QxTsRmx5FUKdgDLA",
+            "plus_code": {
+                "compound_code": "MVGX+Q9 Solapur, Maharashtra",
+                "global_code": "7J9QMVGX+Q9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJSeIl3n_QxTsRmx5FUKdgDLA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38,
+            "vicinity": "Surana Market Rd, OLd Police Line, Murarji Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6391586,
+                    "lng": 75.90289380000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64063222989272,
+                        "lng": 75.90430412989272
+                    },
+                    "southwest": {
+                        "lat": 17.63793257010728,
+                        "lng": 75.90160447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electree",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJo-HMK9TbxTsRr9OO95SBJjM",
+            "plus_code": {
+                "compound_code": "JWQ3+M5 Solapur, Maharashtra",
+                "global_code": "7J9QJWQ3+M5"
+            },
+            "rating": 5,
+            "reference": "ChIJo-HMK9TbxTsRr9OO95SBJjM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "100, Vishal Nagar, Jule, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6738978,
+                    "lng": 75.8997418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67526617989272,
+                        "lng": 75.90113962989271
+                    },
+                    "southwest": {
+                        "lat": 17.67256652010727,
+                        "lng": 75.89843997010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electro King Showroom",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ6WEk1YHQxTsRnG7JknPZPsE",
+            "plus_code": {
+                "compound_code": "MVFX+HV Solapur, Maharashtra",
+                "global_code": "7J9QMVFX+HV"
+            },
+            "rating": 5,
+            "reference": "ChIJ6WEk1YHQxTsRnG7JknPZPsE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Murarji Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6629552,
+                    "lng": 75.92584219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66430952989272,
+                        "lng": 75.92717662989271
+                    },
+                    "southwest": {
+                        "lat": 17.66160987010728,
+                        "lng": 75.92447697010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Keshav Electronic & Mobile Shopee",
+            "place_id": "ChIJK3ZKchnbxTsR9iD5t990FMg",
+            "plus_code": {
+                "compound_code": "MW7G+58 Solapur, Maharashtra",
+                "global_code": "7J9QMW7G+58"
+            },
+            "rating": 0,
+            "reference": "ChIJK3ZKchnbxTsR9iD5t990FMg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, near R N Goli Tower, New Paccha peth, Saibaba Chowk, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6789088,
+                    "lng": 75.9430912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68033917989272,
+                        "lng": 75.94444497989271
+                    },
+                    "southwest": {
+                        "lat": 17.67763952010728,
+                        "lng": 75.94174532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DIPLAKSH ELECTRICAL AND ELECTRONICS",
+            "place_id": "ChIJL3wCnFXaxTsRAAAAMHco30w",
+            "rating": 0,
+            "reference": "ChIJL3wCnFXaxTsRAAAAMHco30w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MWHV+H68, Shop No Soniya Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6452636,
+                    "lng": 75.8995137
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64658962989272,
+                        "lng": 75.90093982989274
+                    },
+                    "southwest": {
+                        "lat": 17.64388997010728,
+                        "lng": 75.89824017010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jay Electronics",
+            "place_id": "ChIJry987ifRxTsRKn2ZV5MvugQ",
+            "plus_code": {
+                "compound_code": "JVWX+4R Solapur, Maharashtra",
+                "global_code": "7J9QJVWX+4R"
+            },
+            "rating": 0,
+            "reference": "ChIJry987ifRxTsRKn2ZV5MvugQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 08, Vijapur Rd, Netaji Subhash Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6742267,
+                    "lng": 75.9176585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67556602989272,
+                        "lng": 75.91903342989272
+                    },
+                    "southwest": {
+                        "lat": 17.67286637010728,
+                        "lng": 75.91633377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shahajad Electronic",
+            "place_id": "ChIJ5fP_Bc7bxTsRYzbClrlfLj0",
+            "plus_code": {
+                "compound_code": "MWF9+M3 Solapur, Maharashtra",
+                "global_code": "7J9QMWF9+M3"
+            },
+            "rating": 0,
+            "reference": "ChIJ5fP_Bc7bxTsRYzbClrlfLj0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2, Jodbasvnna Chowk, Bhadravathi Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.677646,
+                    "lng": 75.9016936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67900262989272,
+                        "lng": 75.90297992989272
+                    },
+                    "southwest": {
+                        "lat": 17.67630297010728,
+                        "lng": 75.90028027010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bajrang Eletronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJRSwV8K3bxTsRPnt-xSx3WXo",
+            "rating": 3,
+            "reference": "ChIJRSwV8K3bxTsRPnt-xSx3WXo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "MWH2+3M3, Navi Peth, Budhavar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6249851,
+                    "lng": 75.89571529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62631682989272,
+                        "lng": 75.89717747989272
+                    },
+                    "southwest": {
+                        "lat": 17.62361717010728,
+                        "lng": 75.89447782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ganga Electrical & Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101399873655004141285\">Deepak Chavan</a>"
+                    ],
+                    "photo_reference": "AcYSjRhmcz0GMfqrIhbA27CvGn2A86dmyFzGm_vU0bpRFOE3BnTu5YZFUvs8vC2bYZMQ_UnrmYMUIPMs9rXWe8NN8eXQzamoQyR9ZdGhJr4tx6VB1mwNEBdWOHr6_zxBYyy8IvRdm7QzTMZanUwLnrNF1BWdtMzNEeC6hhOX_AZeq1WaTv9B",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ6326I1TXxTsR6ggBmP1voTQ",
+            "rating": 2.5,
+            "reference": "ChIJ6326I1TXxTsR6ggBmP1voTQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JVFW+X7X, Vijapur Rd, Sipun, Near Housing Society, Safalya Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6769485,
+                    "lng": 75.90026449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67829367989272,
+                        "lng": 75.90156087989271
+                    },
+                    "southwest": {
+                        "lat": 17.67559402010728,
+                        "lng": 75.89886122010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Golden Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103821271846863270741\">Manoj Maniyal</a>"
+                    ],
+                    "photo_reference": "AcYSjRjkn30Y7zB_IAaFwcNm2RBjebhoazSwL-26lYG7q0c4mkbwImaB-bZDb5e2lgZqeuSZDLpmE4WvRXXn2iDMrGFcsgQt8pRnXpG1X7uVbAslKoz_wuvOb3SV573wRwNk1hc3-ltI3RFfjawuxvM2Y_eAQzEaiQP_UUN1Zqdmyvk6-qcA",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ5QPjXoraxTsR8m66Wn4akug",
+            "plus_code": {
+                "compound_code": "MWG2+Q4 Solapur, Maharashtra",
+                "global_code": "7J9QMWG2+Q4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ5QPjXoraxTsR8m66Wn4akug",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "1/A/12, Navi Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6739429,
+                    "lng": 75.91967989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67529297989272,
+                        "lng": 75.92102837989273
+                    },
+                    "southwest": {
+                        "lat": 17.67259332010728,
+                        "lng": 75.91832872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rameshwar electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ0bKfY7DbxTsRbLLyRvoui7w",
+            "plus_code": {
+                "compound_code": "MWF9+HW Solapur, Maharashtra",
+                "global_code": "7J9QMWF9+HW"
+            },
+            "rating": 5,
+            "reference": "ChIJ0bKfY7DbxTsRbLLyRvoui7w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "267/6, Raviwar Peth, Jodbasavanna Chowk, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6773514,
+                    "lng": 75.901983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67870787989272,
+                        "lng": 75.90328742989271
+                    },
+                    "southwest": {
+                        "lat": 17.67600822010728,
+                        "lng": 75.90058777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Latest Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJffk0d4DaxTsRhagqQjEXGcg",
+            "rating": 4.8,
+            "reference": "ChIJffk0d4DaxTsRhagqQjEXGcg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "MWG2+WQX, Navi Peth, Budhavar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6814226,
+                    "lng": 75.9239363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68275117989272,
+                        "lng": 75.92530832989272
+                    },
+                    "southwest": {
+                        "lat": 17.68005152010728,
+                        "lng": 75.92260867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MAHARASHTRA ELECTRONICS",
+            "place_id": "ChIJk2CMJ_XaxTsRTP2vynX1K9k",
+            "plus_code": {
+                "compound_code": "MWJF+HH Raviwar Peth, Bhadravathi Peth, Solapur, Maharashtra",
+                "global_code": "7J9QMWJF+HH"
+            },
+            "rating": 0,
+            "reference": "ChIJk2CMJ_XaxTsRTP2vynX1K9k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1ST FLLOR,SHOP NO, SUPER MARKET, 6, Raviwar Peth, PHALTAN"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6786513,
+                    "lng": 75.91066359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67996772989272,
+                        "lng": 75.91200437989272
+                    },
+                    "southwest": {
+                        "lat": 17.67726807010728,
+                        "lng": 75.90930472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ96olrsXbxTsRk5nGRE8zFmA",
+            "plus_code": {
+                "compound_code": "MWH6+C7 Solapur, Maharashtra",
+                "global_code": "7J9QMWH6+C7"
+            },
+            "rating": 5,
+            "reference": "ChIJ96olrsXbxTsRk5nGRE8zFmA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "690, East, near Gangji Showroom, Mangalwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6955363,
+                    "lng": 75.8769849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69688727989272,
+                        "lng": 75.87836517989271
+                    },
+                    "southwest": {
+                        "lat": 17.69418762010728,
+                        "lng": 75.87566552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sp Electronic And General Store",
+            "place_id": "ChIJZa3dvk7RxTsRnwExq0jqOu4",
+            "plus_code": {
+                "compound_code": "MVWG+6Q Bale, Maharashtra",
+                "global_code": "7J9QMVWG+6Q"
+            },
+            "rating": 0,
+            "reference": "ChIJZa3dvk7RxTsRnwExq0jqOu4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Barshi - Solapur Rd, Lokmangal Vihar, Bale"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6243899,
+                    "lng": 75.9029426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62574672989272,
+                        "lng": 75.90421267989272
+                    },
+                    "southwest": {
+                        "lat": 17.62304707010728,
+                        "lng": 75.90151302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pramod Electrical",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJG9MC3mXZxTsRPGA7O_JmAZ8",
+            "plus_code": {
+                "compound_code": "JWF3+Q5 Solapur, Maharashtra",
+                "global_code": "7J9QJWF3+Q5"
+            },
+            "rating": 5,
+            "reference": "ChIJG9MC3mXZxTsRPGA7O_JmAZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Unnamed Road, Bank Colony, Saiful, Rohini Nagar, Jule, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.677715,
+                    "lng": 75.9017961
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67908532989272,
+                        "lng": 75.90314982989273
+                    },
+                    "southwest": {
+                        "lat": 17.67638567010728,
+                        "lng": 75.90045017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Doordarshan Electronics Solapur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116444187929889419993\">Doordarshan Electronics Solapur</a>"
+                    ],
+                    "photo_reference": "AcYSjRhor2L4j9_xsay9GthRixGEOUgGN5Q4vZFT4yttE-_R_lQM0WmzfebDzMQ9bJLidZ_Wt5vyzoYH3ed9yt5zbdBgvo8N8t8j_7O71eIoJOiMoqn8h4jCdNQZsmSW5q07_P0vJxSxNLZa1901psmiLjNF2ng0TKtwmju1xBqbAiRwjwBB",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrdGJcHLaxTsRPk20Rb7BOVQ",
+            "plus_code": {
+                "compound_code": "MWH2+3P Solapur, Maharashtra",
+                "global_code": "7J9QMWH2+3P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJrdGJcHLaxTsRPk20Rb7BOVQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Chatti Galli, opp. Navbharat watch shop Chowpad mobile, Navi Peth, Mangalwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6453698,
+                    "lng": 75.8995535
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64669582989272,
+                        "lng": 75.90098012989273
+                    },
+                    "southwest": {
+                        "lat": 17.64399617010728,
+                        "lng": 75.89828047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kamal Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJofJVfbPRxTsRRLh7Gasd6Bw",
+            "plus_code": {
+                "compound_code": "JVWX+4R Solapur, Maharashtra",
+                "global_code": "7J9QJVWX+4R"
+            },
+            "rating": 0,
+            "reference": "ChIJofJVfbPRxTsRRLh7Gasd6Bw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.08 Vijapur Naka"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6476825,
+                    "lng": 75.923857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64905572989272,
+                        "lng": 75.92530937989272
+                    },
+                    "southwest": {
+                        "lat": 17.64635607010728,
+                        "lng": 75.92260972010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sn Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101260677229138269155\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi290bP-EuVOGr1sHjMR1pfSJ6fcY0NbEf3W0g023Q7RBkFmnTey4qCIhD1k7BNLlKvN8uJmVrf74uvC7mE_kB5Kwe2yoh_nWhMO2u1snc6dJumof5AyKq1SODMGtz5_Edd-EW6HqvCFkmLXfUCHjpD0mot6GNNPZdKvPwl8H_FNxwS",
+                    "width": 2252
+                }
+            ],
+            "place_id": "ChIJdfv1zXbbxTsRAfVqLc_TJTE",
+            "plus_code": {
+                "compound_code": "JWXF+3G Solapur, Maharashtra",
+                "global_code": "7J9QJWXF+3G"
+            },
+            "rating": 3.7,
+            "reference": "ChIJdfv1zXbbxTsRAfVqLc_TJTE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Near, Shop no 17,18, Sai Garden Complex, Majrewadi, Solapur"
+        }
+    ],
+    "status": "OK"
+}

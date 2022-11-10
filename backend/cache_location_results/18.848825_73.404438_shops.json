@@ -1,0 +1,810 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjSiwvakaNQ6szbeDHxvywIZ_TKJKhTNiPsha-2obXm3exlzj3PoEIunhHabg47lxhhcMiSxRAI2jfGFfjf84plXidudzVJHil96wk5SeXVjOgv7VC_G42yPomIUq0nX0-o1sEGpvVpq1-OttiU9UkN7HBNLI_bUy66z7uROZWDcYg7Zs5__H0WWaSNgvYPD2Q4FmUIZqLfCKoBeAJ6ijhljrW3jpbyPaZy_IrV9Me6KWdaaGe96NN-MNBAf9ehvZZPnI2czofwiHen00xOix9RwJBsm_5p3WmgjvbL3W2-x003523i-jfoVVEIZDi-9bd82xCviCuOmUOFKK5bP3kg3HvT9xt5qN2TLgYwWWRRYl_Os7cSUjip2QBAA8b7XNV4na_WFUf_8zqWHfMHNwraz4mwPGIt2Y_huwICqp5JqMw8ViZFug",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7781594,
+                    "lng": 73.4711731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.77951797989272,
+                        "lng": 73.4725284298927
+                    },
+                    "southwest": {
+                        "lat": 18.77681832010727,
+                        "lng": 73.46982877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arya Veni Shop",
+            "place_id": "ChIJVVy3KeurwjsRIycftcnOi0w",
+            "plus_code": {
+                "compound_code": "QFHC+7F Thergaon, Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMQFHC+7F"
+            },
+            "rating": 0,
+            "reference": "ChIJVVy3KeurwjsRIycftcnOi0w",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, near Ekvira Devi Temple, Aai ekvira area, Thergaon, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7824307,
+                    "lng": 73.3419085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78378422989272,
+                        "lng": 73.34322227989271
+                    },
+                    "southwest": {
+                        "lat": 18.78108457010728,
+                        "lng": 73.34052262010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Shop Market",
+            "place_id": "ChIJaY7b6LcH6DsRftnXNZ6YDuE",
+            "plus_code": {
+                "compound_code": "Q8JR+XQ Khopoli, Maharashtra",
+                "global_code": "7JCMQ8JR+XQ"
+            },
+            "rating": 0,
+            "reference": "ChIJaY7b6LcH6DsRftnXNZ6YDuE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Katran Road Kanti Nagar Khopoli, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7854908,
+                    "lng": 73.3433742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78685857989272,
+                        "lng": 73.34475162989273
+                    },
+                    "southwest": {
+                        "lat": 18.78415892010728,
+                        "lng": 73.34205197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sopan Deshmukh Shop",
+            "place_id": "ChIJpe94Q7gH6DsRw6bi02BWEfI",
+            "plus_code": {
+                "compound_code": "Q8PV+58 Khopoli, Maharashtra",
+                "global_code": "7JCMQ8PV+58"
+            },
+            "rating": 0,
+            "reference": "ChIJpe94Q7gH6DsRw6bi02BWEfI",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Bhaji Market, near Police Stetion, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7999211,
+                    "lng": 73.32533529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.80131732989272,
+                        "lng": 73.3267189298927
+                    },
+                    "southwest": {
+                        "lat": 18.79861767010727,
+                        "lng": 73.32401927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ARSHAD SHOP'S",
+            "place_id": "ChIJN7cHZFcH6DsRL_NtJ5-5brs",
+            "rating": 0,
+            "reference": "ChIJN7cHZFcH6DsRL_NtJ5-5brs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q8XG+X48, Navanath Colony, Yashwant Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9158118,
+                    "lng": 73.3277277
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91717957989272,
+                        "lng": 73.32907627989272
+                    },
+                    "southwest": {
+                        "lat": 18.91447992010728,
+                        "lng": 73.32637662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivsambo Store",
+            "place_id": "ChIJWylbVCj75zsRqCl5KDrtnkE",
+            "plus_code": {
+                "compound_code": "W88H+83 Karjat, Maharashtra",
+                "global_code": "7JCMW88H+83"
+            },
+            "rating": 0,
+            "reference": "ChIJWylbVCj75zsRqCl5KDrtnkE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 8, Swapnanagari, Mudre, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9109532,
+                    "lng": 73.3232608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91226862989272,
+                        "lng": 73.32463237989273
+                    },
+                    "southwest": {
+                        "lat": 18.90956897010728,
+                        "lng": 73.32193272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Stop And Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJDZVr03f75zsRAAAAML8bkkM",
+            "plus_code": {
+                "compound_code": "W86F+98 Karjat, Maharashtra",
+                "global_code": "7JCMW86F+98"
+            },
+            "rating": 0,
+            "reference": "ChIJDZVr03f75zsRAAAAML8bkkM",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Station Road, opp. Dns Bank, Aamrai, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7622927,
+                    "lng": 73.3939667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.76359427989272,
+                        "lng": 73.39531247989272
+                    },
+                    "southwest": {
+                        "lat": 18.76089462010728,
+                        "lng": 73.39261282010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Jay Malhar shop",
+            "place_id": "ChIJy-VDzlAB6DsRDI8zJM5_zsk",
+            "rating": 0,
+            "reference": "ChIJy-VDzlAB6DsRDI8zJM5_zsk",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q96V+WHG, Frichley Hill Rd, Arsiwalla Villa, Lonavla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9094454,
+                    "lng": 73.3219984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91077262989272,
+                        "lng": 73.32334667989271
+                    },
+                    "southwest": {
+                        "lat": 18.90807297010728,
+                        "lng": 73.32064702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Primium stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJKf6jlXf75zsRfUKREDzoeAo",
+            "plus_code": {
+                "compound_code": "W85C+QQ Karjat, Maharashtra",
+                "global_code": "7JCMW85C+QQ"
+            },
+            "rating": 0,
+            "reference": "ChIJKf6jlXf75zsRfUKREDzoeAo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Near, Station Road, Aamrai, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9168926,
+                    "lng": 73.326618
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91824017989272,
+                        "lng": 73.32798827989272
+                    },
+                    "southwest": {
+                        "lat": 18.91554052010728,
+                        "lng": 73.32528862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shambho Pan Shop",
+            "place_id": "ChIJB9qriAT75zsR6cvNHKaTfXE",
+            "plus_code": {
+                "compound_code": "W88G+QJ Karjat, Maharashtra",
+                "global_code": "7JCMW88G+QJ"
+            },
+            "rating": 0,
+            "reference": "ChIJB9qriAT75zsR6cvNHKaTfXE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Royal Garden, near by Karjat, Nana Master Nagar, Gurunagar, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9092341,
+                    "lng": 73.3279923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91052167989272,
+                        "lng": 73.32933577989272
+                    },
+                    "southwest": {
+                        "lat": 18.90782202010728,
+                        "lng": 73.32663612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sai Pan Shop",
+            "place_id": "ChIJzwahvNP75zsRqSqUHl-lUlc",
+            "plus_code": {
+                "compound_code": "W85H+M5 Karjat, Maharashtra",
+                "global_code": "7JCMW85H+M5"
+            },
+            "rating": 0,
+            "reference": "ChIJzwahvNP75zsRqSqUHl-lUlc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Staition Road, Aamrai, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9095332,
+                    "lng": 73.3227832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91087927989272,
+                        "lng": 73.32411632989272
+                    },
+                    "southwest": {
+                        "lat": 18.90817962010728,
+                        "lng": 73.32141667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Trendy store, karjat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109913844783803482815\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7crM_AHFBnzHaCr1VHEfTUaeBnwAC7cWMLFSg5pb9wBV-obMSt1DIs-69YCTVUjVjOhaCmAfjSy0pH194eNSnIrVDWfaDMrfVUg3iQXK7eJFIAcUU7Va8S-ClMXRnziosy3Gs8CbtzdDExwdW6lrK7RjX2cObDW9vuyHwQWY0Aj82",
+                    "width": 1172
+                }
+            ],
+            "place_id": "ChIJM5bm1bn75zsRHjopYHrLRg4",
+            "plus_code": {
+                "compound_code": "W85F+R4 Karjat, Maharashtra",
+                "global_code": "7JCMW85F+R4"
+            },
+            "rating": 5,
+            "reference": "ChIJM5bm1bn75zsRHjopYHrLRg4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Satbhavana Building gala no 4 Near kapaleshwar Side to mayura hotel Bajarpeth, near gurukrupa dagade wadapav, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9100535,
+                    "lng": 73.3211745
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91140322989272,
+                        "lng": 73.32252597989272
+                    },
+                    "southwest": {
+                        "lat": 18.90870357010728,
+                        "lng": 73.31982632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Gramdev Daapya Pan Shop",
+            "place_id": "ChIJOxw6Z-j75zsRDqO82-RdHE4",
+            "plus_code": {
+                "compound_code": "W86C+2F Aamrai, Karjat, Maharashtra",
+                "global_code": "7JCMW86C+2F"
+            },
+            "rating": 0,
+            "reference": "ChIJOxw6Z-j75zsRDqO82-RdHE4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 43, Kacheri Road Karjat, Aamrai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9309346,
+                    "lng": 73.3211516
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.93228057989272,
+                        "lng": 73.3225347798927
+                    },
+                    "southwest": {
+                        "lat": 18.92958092010728,
+                        "lng": 73.31983512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanjay Shop",
+            "place_id": "ChIJBydIioP75zsRxiIdY2-v99o",
+            "plus_code": {
+                "compound_code": "W8JC+9F Karjat, Maharashtra",
+                "global_code": "7JCMW8JC+9F"
+            },
+            "rating": 0,
+            "reference": "ChIJBydIioP75zsRxiIdY2-v99o",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 05, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7693287,
+                    "lng": 73.4043358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.77067852989272,
+                        "lng": 73.40568562989272
+                    },
+                    "southwest": {
+                        "lat": 18.76797887010727,
+                        "lng": 73.40298597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ma hi shop",
+            "place_id": "ChIJSRjFdK4B6DsRpKi5rZjVwlo",
+            "plus_code": {
+                "compound_code": "QC93+PP Lonavla, Maharashtra",
+                "global_code": "7JCMQC93+PP"
+            },
+            "rating": 0,
+            "reference": "ChIJSRjFdK4B6DsRpKi5rZjVwlo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gold Valley Sector D, Gold Valley, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.872184,
+                    "lng": 73.39371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.87351427989272,
+                        "lng": 73.39517802989272
+                    },
+                    "southwest": {
+                        "lat": 18.87081462010728,
+                        "lng": 73.39247837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Praveen Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103960447807473904926\">Praveen Store</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVW6aM314NiSRj5avaJQH6nhnUsQdcug588feqDGv7aPvm2WuWftcLik7223FWi1DY-XTD9-Rq-k2pB-j-DwzZNXJT_kr1vIXWWKXAuHBMVTNfuCsPLh0uncuq3GZ4-faiLsK63ICcMFX2sQLK0UjRX4Vr6tKtlHOjTa6Yzwx_iPWj",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ_f__L5P-5zsR2q1OwwzoiQI",
+            "plus_code": {
+                "compound_code": "V9CV+VF Karjat, Maharashtra",
+                "global_code": "7JCMV9CV+VF"
+            },
+            "rating": 0,
+            "reference": "ChIJ_f__L5P-5zsR2q1OwwzoiQI",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.4, Pratiksha Complex, Station Road, Bazar Peth, 410201, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.762085,
+                    "lng": 73.452308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.76338897989273,
+                        "lng": 73.45365187989273
+                    },
+                    "southwest": {
+                        "lat": 18.76068932010729,
+                        "lng": 73.45095222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivshankar Pushpa Shop",
+            "place_id": "ChIJo9TQnEkB6DsR54HSDIxnZxY",
+            "plus_code": {
+                "compound_code": "QF62+RW Lonavla, Maharashtra",
+                "global_code": "7JCMQF62+RW"
+            },
+            "rating": 0,
+            "reference": "ChIJo9TQnEkB6DsR54HSDIxnZxY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Road, near Waksai, Maval, Lonavla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7574771,
+                    "lng": 73.3736083
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.75886887989272,
+                        "lng": 73.37494847989271
+                    },
+                    "southwest": {
+                        "lat": 18.75616922010728,
+                        "lng": 73.37224882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The wadkar general shop",
+            "place_id": "ChIJS7HzXW4B6DsRSUNhMJL9uho",
+            "plus_code": {
+                "compound_code": "Q94F+XC Lonavla, Maharashtra",
+                "global_code": "7JCMQ94F+XC"
+            },
+            "rating": 0,
+            "reference": "ChIJS7HzXW4B6DsRSUNhMJL9uho",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mumbai - Pune Hwy, Khandala, Lonavla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9036709,
+                    "lng": 73.3230064
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90467412989272,
+                        "lng": 73.32417032989272
+                    },
+                    "southwest": {
+                        "lat": 18.90197447010728,
+                        "lng": 73.32147067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samiksha kirana store",
+            "place_id": "ChIJvfyr_1375zsRFroDdp7iGBY",
+            "plus_code": {
+                "compound_code": "W83F+F6 Karjat, Maharashtra",
+                "global_code": "7JCMW83F+F6"
+            },
+            "rating": 0,
+            "reference": "ChIJvfyr_1375zsRFroDdp7iGBY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 At, Budha Vihar East, Gundage, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9037522,
+                    "lng": 73.3189232
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90509707989272,
+                        "lng": 73.32033207989272
+                    },
+                    "southwest": {
+                        "lat": 18.90239742010728,
+                        "lng": 73.31763242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sara Kirana And General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ3Yzqa3n75zsRJQsh7U6RsuM",
+            "plus_code": {
+                "compound_code": "W839+GH Karjat, Maharashtra",
+                "global_code": "7JCMW839+GH"
+            },
+            "rating": 0,
+            "reference": "ChIJ3Yzqa3n75zsRJQsh7U6RsuM",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Karjat Khopoli Marg, Gundage, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.906454,
+                    "lng": 73.3339525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.90780572989272,
+                        "lng": 73.33526452989273
+                    },
+                    "southwest": {
+                        "lat": 18.90510607010728,
+                        "lng": 73.33256487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Panchsheel Kirana Store",
+            "place_id": "ChIJNRxNiw375zsRNux2KdXZhyA",
+            "plus_code": {
+                "compound_code": "W84M+HH Karjat, Maharashtra",
+                "global_code": "7JCMW84M+HH"
+            },
+            "rating": 0,
+            "reference": "ChIJNRxNiw375zsRNux2KdXZhyA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Ambedakar Nagar, Dahivali, Karjat"
+        }
+    ],
+    "status": "OK"
+}

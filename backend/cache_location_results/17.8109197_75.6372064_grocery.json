@@ -1,0 +1,789 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgeroeRGuFAYdN4Dk1VJHL7xbd-xwPAH3Ysk8oxX7SuaJndX6289B4R8AwHxbvslqVEbCLSU4zKNgFK4Rjtv40Qz1qIfIdx6uAfZNAcJU7_zRC3rISxi9B9Wi4270T2Wb-0awZcyam9Pqqz5HgjrVqov3bZgjeuGzeORFThm6y2gfWbXnqoOmhx-tPN9iPo8l5W4Atvd5nWCtXPaG_ENXpbmMZl-VZ3qT4BRM-CU7DIUa2gUDD7oYjf8ZmYO0jIJaavXM1V6ynJ7PV4W0-2v2djFFfq7O-e4Cg2zs720VcjhMlOlUVVks03b72pT6ASw0qY7Ud649RgqiJy6_FeRTeGuriScFHszHfAy1g1OeKYs2U5YR61TQiVebPUuXtqG_biSvTwqv0Oby7YWaathAi-yT_tzFgFPcgTcqZIW64yohvg8tADV6YN",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7826621,
+                    "lng": 75.7243847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78401942989272,
+                        "lng": 75.72573602989272
+                    },
+                    "southwest": {
+                        "lat": 17.78131977010728,
+                        "lng": 75.72303637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jayshri Kirana Store's",
+            "place_id": "ChIJWSw0uIrNxTsRV44BOSHbCwc",
+            "plus_code": {
+                "compound_code": "QPMF+3Q Lamboti, Maharashtra",
+                "global_code": "7J9QQPMF+3Q"
+            },
+            "rating": 0,
+            "reference": "ChIJWSw0uIrNxTsRV44BOSHbCwc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Z. P School, Chandan Nagar, Lamboti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8861036,
+                    "lng": 75.5784307
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.88752017989272,
+                        "lng": 75.57994017989273
+                    },
+                    "southwest": {
+                        "lat": 17.88482052010728,
+                        "lng": 75.57724052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ahilya Kirana",
+            "place_id": "ChIJb6HXOzxJxDsRtiFMDUcc29E",
+            "plus_code": {
+                "compound_code": "VHPH+C9 Kuranwadi, Maharashtra",
+                "global_code": "7J9QVHPH+C9"
+            },
+            "rating": 0,
+            "reference": "ChIJb6HXOzxJxDsRtiFMDUcc29E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 1, Angar-Wafale Rd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7735317,
+                    "lng": 75.68280779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.77467157989272,
+                        "lng": 75.6841308798927
+                    },
+                    "southwest": {
+                        "lat": 17.77197192010728,
+                        "lng": 75.68143122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Samarth kirana Stores",
+            "place_id": "ChIJEYQ570gzxDsReqZV27BVXZ4",
+            "plus_code": {
+                "compound_code": "QMFM+C4 Wadwal, Maharashtra",
+                "global_code": "7J9QQMFM+C4"
+            },
+            "rating": 0,
+            "reference": "ChIJEYQ570gzxDsReqZV27BVXZ4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Main Road Krishna Maindir, Wadwal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8845357,
+                    "lng": 75.5808004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.88619362989272,
+                        "lng": 75.58216747989273
+                    },
+                    "southwest": {
+                        "lat": 17.88349397010728,
+                        "lng": 75.57946782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Amruta Provision Store",
+            "place_id": "ChIJObQpO183xDsRieCoJSeNoKo",
+            "plus_code": {
+                "compound_code": "VHMJ+R8 Mohol, Maharashtra",
+                "global_code": "7J9QVHMJ+R8"
+            },
+            "rating": 0,
+            "reference": "ChIJObQpO183xDsRieCoJSeNoKo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12 Angar, Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7832888,
+                    "lng": 75.7231764
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78465807989272,
+                        "lng": 75.72446857989273
+                    },
+                    "southwest": {
+                        "lat": 17.78195842010728,
+                        "lng": 75.72176892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Samarth Kirana Stores",
+            "place_id": "ChIJoy9mTEDNxTsRi0DraMA1D7Q",
+            "plus_code": {
+                "compound_code": "QPMF+87 Mohol, Maharashtra",
+                "global_code": "7J9QQPMF+87"
+            },
+            "rating": 0,
+            "reference": "ChIJoy9mTEDNxTsRi0DraMA1D7Q",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Zp School, Chandan Nagar, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8116765,
+                    "lng": 75.6458614
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81303637989272,
+                        "lng": 75.64721047989272
+                    },
+                    "southwest": {
+                        "lat": 17.81033672010728,
+                        "lng": 75.64451082010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0938\u091a\u093f\u0928 \u0915\u094b\u0933\u0947\u0915\u0930",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJg4iiec41xDsR6Pxz4GgsVuo",
+            "rating": 0,
+            "reference": "ChIJg4iiec41xDsR6Pxz4GgsVuo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ6W+M9J, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8064786,
+                    "lng": 75.6463357
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80782247989272,
+                        "lng": 75.64770757989271
+                    },
+                    "southwest": {
+                        "lat": 17.80512282010728,
+                        "lng": 75.64500792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yash kirana and general store",
+            "place_id": "ChIJ_RNx4KM1xDsRSkwlbb67PYA",
+            "rating": 0,
+            "reference": "ChIJ_RNx4KM1xDsRSkwlbb67PYA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RJ4W+HGW, Silanganpand Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8709019,
+                    "lng": 75.5867335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.87234072989272,
+                        "lng": 75.58807272989272
+                    },
+                    "southwest": {
+                        "lat": 17.86964107010728,
+                        "lng": 75.58537307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Balraje Kirana Store",
+            "place_id": "ChIJbQ9YPmM3xDsRQzd4UM4LtpY",
+            "rating": 0,
+            "reference": "ChIJbQ9YPmM3xDsRQzd4UM4LtpY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "VHCP+8M, Kuranwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8088372,
+                    "lng": 75.7246536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81017297989272,
+                        "lng": 75.72598452989271
+                    },
+                    "southwest": {
+                        "lat": 17.80747332010728,
+                        "lng": 75.72328487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai Kirana and General Stores",
+            "place_id": "ChIJYdjAF7PLxTsRP3f4Zlra-fU",
+            "rating": 0,
+            "reference": "ChIJYdjAF7PLxTsRP3f4Zlra-fU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RP5F+GVM, Shirapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7815619,
+                    "lng": 75.680193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78288472989272,
+                        "lng": 75.68155987989273
+                    },
+                    "southwest": {
+                        "lat": 17.78018507010728,
+                        "lng": 75.67886022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ranjeet Kirana Shop",
+            "place_id": "ChIJWebSNOszxDsRrjMCtB09kjs",
+            "plus_code": {
+                "compound_code": "QMJJ+J3 Kolegaon, Maharashtra",
+                "global_code": "7J9QQMJJ+J3"
+            },
+            "rating": 0,
+            "reference": "ChIJWebSNOszxDsRrjMCtB09kjs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Nagnath Mandir, Vadval"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8060857,
+                    "lng": 75.5857548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80745767989272,
+                        "lng": 75.58654465000002
+                    },
+                    "southwest": {
+                        "lat": 17.80475802010728,
+                        "lng": 75.58338525
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Randive Kirana",
+            "place_id": "ChIJ_-x9l6Q3xDsRSuw7ladZAEI",
+            "plus_code": {
+                "compound_code": "RH4P+C8 Pokharapur, Maharashtra",
+                "global_code": "7J9QRH4P+C8"
+            },
+            "rating": 0,
+            "reference": "ChIJ_-x9l6Q3xDsRSuw7ladZAEI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "15 Pujul"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8101643,
+                    "lng": 75.6573567
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81124562989272,
+                        "lng": 75.6585093798927
+                    },
+                    "southwest": {
+                        "lat": 17.80854597010728,
+                        "lng": 75.65580972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "GOTE Kirana",
+            "place_id": "ChIJby9wNqU1xDsRgCbQvvV7PCk",
+            "plus_code": {
+                "compound_code": "RM64+3W Mohol, Maharashtra",
+                "global_code": "7J9QRM64+3W"
+            },
+            "rating": 0,
+            "reference": "ChIJby9wNqU1xDsRgCbQvvV7PCk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 GM Chowk, near Hanuman Mandir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8091984,
+                    "lng": 75.63824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81055737989272,
+                        "lng": 75.63960302989273
+                    },
+                    "southwest": {
+                        "lat": 17.80785772010728,
+                        "lng": 75.63690337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Swami Kirana",
+            "place_id": "ChIJj0WP9RE0xDsRAAAAcBPMu2Y",
+            "plus_code": {
+                "compound_code": "RJ5Q+M7 Mohol, Maharashtra",
+                "global_code": "7J9QRJ5Q+M7"
+            },
+            "rating": 0,
+            "reference": "ChIJj0WP9RE0xDsRAAAAcBPMu2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "08 G M Chowk, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.888131,
+                    "lng": 75.57798509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.88943747989272,
+                        "lng": 75.57934537989271
+                    },
+                    "southwest": {
+                        "lat": 17.88673782010728,
+                        "lng": 75.57664572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Kirana And General Store",
+            "place_id": "ChIJLSzl5ltJxDsR_n3r0UIiuLU",
+            "plus_code": {
+                "compound_code": "VHQH+75 Angar, Maharashtra",
+                "global_code": "7J9QVHQH+75"
+            },
+            "rating": 0,
+            "reference": "ChIJLSzl5ltJxDsR_n3r0UIiuLU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Main Road, Angar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7971594,
+                    "lng": 75.586944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.79844307989272,
+                        "lng": 75.58831507989272
+                    },
+                    "southwest": {
+                        "lat": 17.79574342010728,
+                        "lng": 75.58561542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Lengare Kirana & General stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlw0duo43xDsRvdCXLO8GVxA",
+            "rating": 5,
+            "reference": "ChIJlw0duo43xDsRvdCXLO8GVxA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "QHWP+VQF, Pokharapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8743205,
+                    "lng": 75.6769908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.87543287989272,
+                        "lng": 75.67832027989273
+                    },
+                    "southwest": {
+                        "lat": 17.87273322010727,
+                        "lng": 75.67562062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vittal General Store",
+            "place_id": "ChIJYUXmd501xDsRa-xTlzthFXU",
+            "plus_code": {
+                "compound_code": "VMFG+PQ Bhoire, Maharashtra",
+                "global_code": "7J9QVMFG+PQ"
+            },
+            "rating": 0,
+            "reference": "ChIJYUXmd501xDsRa-xTlzthFXU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bus Stand, Shop No 01, Bhoire"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7561866,
+                    "lng": 75.72959469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75749587989272,
+                        "lng": 75.73097237989272
+                    },
+                    "southwest": {
+                        "lat": 17.75479622010728,
+                        "lng": 75.72827272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Datta Kirana and general Store",
+            "place_id": "ChIJx_Qth5LNxTsRd1ou71OoDNs",
+            "rating": 5,
+            "reference": "ChIJx_Qth5LNxTsRd1ou71OoDNs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "QP4H+FRG, Arjunsoand"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7981402,
+                    "lng": 75.5948434
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.79948797989272,
+                        "lng": 75.59617402989272
+                    },
+                    "southwest": {
+                        "lat": 17.79678832010728,
+                        "lng": 75.59347437010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mane Kirana",
+            "place_id": "ChIJracI5bA3xDsRWwSp2n3emi4",
+            "plus_code": {
+                "compound_code": "QHXV+7W Mohol, Maharashtra",
+                "global_code": "7J9QQHXV+7W"
+            },
+            "rating": 0,
+            "reference": "ChIJracI5bA3xDsRWwSp2n3emi4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 12 Pokharapur, Main Road, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8400915,
+                    "lng": 75.5948775
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84140547989272,
+                        "lng": 75.59623317989272
+                    },
+                    "southwest": {
+                        "lat": 17.83870582010728,
+                        "lng": 75.59353352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yash Kirana Stores",
+            "place_id": "ChIJgalmhIs3xDsR-uA6zj0Aoiw",
+            "plus_code": {
+                "compound_code": "RHRV+2X Yawali, Maharashtra",
+                "global_code": "7J9QRHRV+2X"
+            },
+            "rating": 0,
+            "reference": "ChIJgalmhIs3xDsR-uA6zj0Aoiw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Siddheshwar Temple, Yawali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8973253,
+                    "lng": 75.5731289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.89867187989272,
+                        "lng": 75.57445362989273
+                    },
+                    "southwest": {
+                        "lat": 17.89597222010728,
+                        "lng": 75.57175397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shaurya Traders",
+            "place_id": "ChIJKz8DYsdJxDsR2SSboAVBMFs",
+            "plus_code": {
+                "compound_code": "VHWF+W7 Paslewadi, Maharashtra",
+                "global_code": "7J9QVHWF+W7"
+            },
+            "rating": 0,
+            "reference": "ChIJKz8DYsdJxDsR2SSboAVBMFs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Road, near Angar, Paslewadi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3045,
+                    "lng": 10.7408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30598697989272,
+                        "lng": 10.74201472989272
+                    },
+                    "southwest": {
+                        "lat": 10.30328732010728,
+                        "lng": 10.73931507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kadolli Dispensary",
+            "place_id": "ChIJZTXiKU36_xARYXT0ZlGQlx8",
+            "rating": 0,
+            "reference": "ChIJZTXiKU36_xARYXT0ZlGQlx8",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8P3R+R83, Bauchi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3444593,
+                    "lng": 10.8307977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.34590812989272,
+                        "lng": 10.83213177989272
+                    },
+                    "southwest": {
+                        "lat": 10.34320847010728,
+                        "lng": 10.82943212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Wurodole Dispensary",
+            "place_id": "ChIJg5MWoZ3k_xARLlRT_1-hDr8",
+            "rating": 0,
+            "reference": "ChIJg5MWoZ3k_xARLlRT_1-hDr8",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8RVJ+Q8M, Wuro Dole"
+        }
+    ],
+    "status": "OK"
+}
