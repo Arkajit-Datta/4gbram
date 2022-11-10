@@ -1,0 +1,834 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjbc7tKf10RBxCf-eIpNHw--7ApbMzDf7PWLpBPdZngBNrakr1MpNDMUPDZ1C5NFS_MUshXAfP3dR1jks5gXJDyYgyjUN19uZQM_0Gv66KO0R8iXRy7I8piqoKyycZfQCklVS378Wzr8fOldXJyeI-0sA0huBigTVjD1iCSQ291tobNAUfR9Cu7L-bn7mzyfFgDzVoIPTCduCyDAjDERr2knvLo34Nr9-S3NzZasqyhlGkEG96hinUJZ1ebV7DHU0YYO3jkCq3AC0HMHB8JSmnsW6uoxWEE2axkvH-dojoBGdoOrXOt7rZrk8VhkB7TOKM1dvK2k8RHqEEDgGLXx0w-IXYiLLqyVIErTqUu-h-tQNlVUYHiKF1-4Dm0A7bJdqFuDSYmyBZGDBX9vyWlss5LTt_y4ldDoOzmh1I5z6dcMZt5eaBwV7TN",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6527844,
+                    "lng": 75.93541379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65416282989273,
+                        "lng": 75.93668927989273
+                    },
+                    "southwest": {
+                        "lat": 17.65146317010728,
+                        "lng": 75.93398962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u092d\u093e\u0917\u094d\u092f\u0936\u094d\u0930\u0940 \u0915\u093f\u0930\u093e\u0928\u093e",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJU-EtWmDbxTsRVmQHUW0A9DY",
+            "plus_code": {
+                "compound_code": "MW3P+45 Solapur, Maharashtra",
+                "global_code": "7J9QMW3P+45"
+            },
+            "rating": 0,
+            "reference": "ChIJU-EtWmDbxTsRVmQHUW0A9DY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "\u0936\u0930\u0928\u092c\u0938\u0935\u0947\u0936\u0930 \u0928\u0917\u0930, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6875614,
+                    "lng": 75.8985575
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68890982989272,
+                        "lng": 75.89990402989271
+                    },
+                    "southwest": {
+                        "lat": 17.68621017010728,
+                        "lng": 75.89720437010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Suryaday kirana store",
+            "place_id": "ChIJqSbxQpzRxTsRHPCTBvsBXIc",
+            "plus_code": {
+                "compound_code": "MVQX+2C Solapur, Maharashtra",
+                "global_code": "7J9QMVQX+2C"
+            },
+            "rating": 3,
+            "reference": "ChIJqSbxQpzRxTsRHPCTBvsBXIc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Mane Wasti, New Budhwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6758631,
+                    "lng": 75.9175382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67721287989272,
+                        "lng": 75.91888907989272
+                    },
+                    "southwest": {
+                        "lat": 17.67451322010728,
+                        "lng": 75.91618942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sagari Kirana & General Stores",
+            "place_id": "ChIJLdPt-HnbxTsR90Cu2TZolo0",
+            "plus_code": {
+                "compound_code": "MWG9+82 Solapur, Maharashtra",
+                "global_code": "7J9QMWG9+82"
+            },
+            "rating": 0,
+            "reference": "ChIJLdPt-HnbxTsR90Cu2TZolo0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "117, near Jodbhavi Peth, Raviwar Peth, Shaniwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6788868,
+                    "lng": 75.91021680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68015602989272,
+                        "lng": 75.91153972989271
+                    },
+                    "southwest": {
+                        "lat": 17.67745637010728,
+                        "lng": 75.90884007010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sumit grocery stores",
+            "place_id": "ChIJQayq64faxTsRAAAAMKZv0Ds",
+            "plus_code": {
+                "compound_code": "MWH6+G3 Solapur, Maharashtra",
+                "global_code": "7J9QMWH6+G3"
+            },
+            "rating": 5,
+            "reference": "ChIJQayq64faxTsRAAAAMKZv0Ds",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "12, Bhoi Galli, Mangalwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6867273,
+                    "lng": 75.9130959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68807927989272,
+                        "lng": 75.91446922989272
+                    },
+                    "southwest": {
+                        "lat": 17.68537962010728,
+                        "lng": 75.91176957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Savgi Kirana Stores",
+            "place_id": "ChIJMzyXYz7bxTsRLko09XlWH0U",
+            "plus_code": {
+                "compound_code": "MWP7+M6 Solapur, Maharashtra",
+                "global_code": "7J9QMWP7+M6"
+            },
+            "rating": 0,
+            "reference": "ChIJMzyXYz7bxTsRLko09XlWH0U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plot No 72, Ghongade Wasti Bhaji Market, Bhavani Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6874504,
+                    "lng": 75.8996046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68880057989272,
+                        "lng": 75.90095232989272
+                    },
+                    "southwest": {
+                        "lat": 17.68610092010728,
+                        "lng": 75.89825267010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Yaseer grocery store",
+            "place_id": "ChIJZbHnQtfRxTsRpK2MJO7PE6w",
+            "rating": 0,
+            "reference": "ChIJZbHnQtfRxTsRpK2MJO7PE6w",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MVPX+XRQ, Javalkar Vasti Rd, Mane Wasti, New Budhwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6447364,
+                    "lng": 75.9337553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64611822989272,
+                        "lng": 75.93504957989272
+                    },
+                    "southwest": {
+                        "lat": 17.64341857010728,
+                        "lng": 75.93234992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ambika Kirana Store",
+            "place_id": "ChIJ1co-rD7bxTsR7a63JcaYqVo",
+            "plus_code": {
+                "compound_code": "JWVM+VG Solapur, Maharashtra",
+                "global_code": "7J9QJWVM+VG"
+            },
+            "rating": 0,
+            "reference": "ChIJ1co-rD7bxTsR7a63JcaYqVo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Swagat Nagar Rd, Nilam Sramjivi Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6537038,
+                    "lng": 75.9261867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65506432989272,
+                        "lng": 75.92750852989273
+                    },
+                    "southwest": {
+                        "lat": 17.65236467010728,
+                        "lng": 75.92480887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tirumala grocery store",
+            "place_id": "ChIJZcORxKHbxTsRPfHDR1_mcq8",
+            "plus_code": {
+                "compound_code": "MW3G+FF Solapur, Maharashtra",
+                "global_code": "7J9QMW3G+FF"
+            },
+            "rating": 0,
+            "reference": "ChIJZcORxKHbxTsRPfHDR1_mcq8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "92, Aadarsh Nagar, Madhav Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6696235,
+                    "lng": 75.9514323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67100597989272,
+                        "lng": 75.95279212989271
+                    },
+                    "southwest": {
+                        "lat": 17.66830632010728,
+                        "lng": 75.95009247010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Welcome Coldrinks And Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJKySCcx3bxTsRJKsCgzrNaq4",
+            "plus_code": {
+                "compound_code": "MX92+RH Solapur, Maharashtra",
+                "global_code": "7J9QMX92+RH"
+            },
+            "rating": 0,
+            "reference": "ChIJKySCcx3bxTsRJKsCgzrNaq4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Maillkarujn, Rangraj Nagar Rd, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6396632,
+                    "lng": 75.92928549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64104692989272,
+                        "lng": 75.93061307989271
+                    },
+                    "southwest": {
+                        "lat": 17.63834727010727,
+                        "lng": 75.92791342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ShreeGaneshstores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2_xTltDbxTsRZzTS2h2dDxI",
+            "rating": 0,
+            "reference": "ChIJ2_xTltDbxTsRZzTS2h2dDxI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JWQH+VP6, Shivaganga Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6742407,
+                    "lng": 75.9135268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67563967989272,
+                        "lng": 75.91488472989272
+                    },
+                    "southwest": {
+                        "lat": 17.67294002010728,
+                        "lng": 75.91218507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Renuka Kirana Shop",
+            "place_id": "ChIJiVMyRZbbxTsR8NRs36VGjso",
+            "plus_code": {
+                "compound_code": "MWF7+MC Solapur, Maharashtra",
+                "global_code": "7J9QMWF7+MC"
+            },
+            "rating": 0,
+            "reference": "ChIJiVMyRZbbxTsR8NRs36VGjso",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "168, Shaniwar Peth, near Bhartiya Chowk, Sakhar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6584969,
+                    "lng": 75.9185968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65994657989272,
+                        "lng": 75.92004657989271
+                    },
+                    "southwest": {
+                        "lat": 17.65724692010728,
+                        "lng": 75.91734692010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "virbhadreshwar kirana",
+            "place_id": "ChIJgQAAmWvaxTsRAAAAMKe2N3s",
+            "plus_code": {
+                "compound_code": "MW59+9C Solapur, Maharashtra",
+                "global_code": "7J9QMW59+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJgQAAmWvaxTsRAAAAMKe2N3s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "01, Shastri Nagar, Jawaharlal Housing Society, Keshav Nagra, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6361467,
+                    "lng": 75.92422839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63749562989272,
+                        "lng": 75.92557552989273
+                    },
+                    "southwest": {
+                        "lat": 17.63479597010728,
+                        "lng": 75.92287587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "City Kirana And General Store",
+            "place_id": "ChIJIWidH87bxTsRBJAGkJXh1lM",
+            "plus_code": {
+                "compound_code": "JWPF+FM Solapur, Maharashtra",
+                "global_code": "7J9QJWPF+FM"
+            },
+            "rating": 0,
+            "reference": "ChIJIWidH87bxTsRBJAGkJXh1lM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plot No 93, Nahi Zindagi, 1, Hotgi Rd, Sahara Nagar, Anand Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6635171,
+                    "lng": 75.9225531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66486337989272,
+                        "lng": 75.92394062989273
+                    },
+                    "southwest": {
+                        "lat": 17.66216372010728,
+                        "lng": 75.92124097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Madura Kirana Stores",
+            "place_id": "ChIJM8WTaiHbxTsR1xzu6hwBRMM",
+            "plus_code": {
+                "compound_code": "MW7F+C2 Solapur, Maharashtra",
+                "global_code": "7J9QMW7F+C2"
+            },
+            "rating": 0,
+            "reference": "ChIJM8WTaiHbxTsR1xzu6hwBRMM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "38, New Paccha peth, Sakhar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6406869,
+                    "lng": 75.922433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64203127989272,
+                        "lng": 75.92377407989274
+                    },
+                    "southwest": {
+                        "lat": 17.63933162010728,
+                        "lng": 75.92107442010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Milan Provision Stores",
+            "place_id": "ChIJs-Qcr1PbxTsRN6morwaRoq4",
+            "plus_code": {
+                "compound_code": "JWRC+7X Solapur, Maharashtra",
+                "global_code": "7J9QJWRC+7X"
+            },
+            "rating": 0,
+            "reference": "ChIJs-Qcr1PbxTsRN6morwaRoq4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Main Road, Lokmanya Nagar, Anand Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6749424,
+                    "lng": 75.91493489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67625987989272,
+                        "lng": 75.91627842989271
+                    },
+                    "southwest": {
+                        "lat": 17.67356022010728,
+                        "lng": 75.91357877010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Ganesh Kirana Marchent",
+            "place_id": "ChIJhfHiG2PbxTsRVqoBs-nZqvQ",
+            "plus_code": {
+                "compound_code": "MWF7+XX Solapur, Maharashtra",
+                "global_code": "7J9QMWF7+XX"
+            },
+            "rating": 0,
+            "reference": "ChIJhfHiG2PbxTsRVqoBs-nZqvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "368, Sakhar Peth Rd, near P F Office, Shaniwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6566521,
+                    "lng": 75.9065414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65799222989272,
+                        "lng": 75.90796967989272
+                    },
+                    "southwest": {
+                        "lat": 17.65529257010727,
+                        "lng": 75.90527002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112219915196192156766\">Abrar shaikh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjmgU-6O7F39uBqQU-g8Zk-QbIUtxmUaX8O0eE_nAwos-kcGS8jPNY9o6Whs-V0dEmf7-5LE1Ydx7b6fMl0mGlkDlltKwF64QIZ510dZyCCphzgfl0sRu67KA9DkuJwX9bd8m1McZoZOAxA-12ZEkPp4_PICXzJ9-BSivENdrFYO_Rd",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJN_RpcXPaxTsRn7aFl0ydzFc",
+            "plus_code": {
+                "compound_code": "MW44+MJ Solapur, Maharashtra",
+                "global_code": "7J9QMW44+MJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJN_RpcXPaxTsRn7aFl0ydzFc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1200,
+            "vicinity": "Saat Rasta, opp. IOC petrol pump, Navi Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.643284,
+                    "lng": 75.9481031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64463427989272,
+                        "lng": 75.94945677989271
+                    },
+                    "southwest": {
+                        "lat": 17.64193462010728,
+                        "lng": 75.94675712010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Govind Kirana shop",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100834594975038617405\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj0sDGlbA2vw2W0ZSXEMk0uRgZcfctNt1ZArvTgWUXjMDva-DKX5EVbpwiRpTg49d8uwgt4As5tS0MjmdeE6PAkuOpZFCyGCTO9b4UhjZy4DQNljhf6XTxsTf7Tzh3pU0o9sl1kFCq0urj2sBwrvwZjQkFUN61RZNON4F8TgrfcoktH",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJwzKMn9zbxTsRcG2nRbiqlbY",
+            "plus_code": {
+                "compound_code": "JWVX+86 Solapur, Maharashtra",
+                "global_code": "7J9QJWVX+86"
+            },
+            "rating": 5,
+            "reference": "ChIJwzKMn9zbxTsRcG2nRbiqlbY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "413006"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6532403,
+                    "lng": 75.92399360000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65458462989272,
+                        "lng": 75.92538407989272
+                    },
+                    "southwest": {
+                        "lat": 17.65188497010728,
+                        "lng": 75.92268442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Devarshi Kirana Shop.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAZbXBwvbxTsR4sdwVf8u_64",
+            "plus_code": {
+                "compound_code": "MW3F+7H Solapur, Maharashtra",
+                "global_code": "7J9QMW3F+7H"
+            },
+            "rating": 0,
+            "reference": "ChIJAZbXBwvbxTsR4sdwVf8u_64",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "273,SHIVGANGA NAGAR PART 5, Kumta Naka, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6664319,
+                    "lng": 75.85992180000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66781952989272,
+                        "lng": 75.86128697989272
+                    },
+                    "southwest": {
+                        "lat": 17.66511987010728,
+                        "lng": 75.85858732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SG General Store",
+            "place_id": "ChIJ3TnSQcDRxTsRL8T8RrY5bX8",
+            "plus_code": {
+                "compound_code": "MV85+HX Solapur, Maharashtra",
+                "global_code": "7J9QMV85+HX"
+            },
+            "rating": 0,
+            "reference": "ChIJ3TnSQcDRxTsRL8T8RrY5bX8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10, Degaon Rd, Malganweda Road, Solapur"
+        }
+    ],
+    "status": "OK"
+}

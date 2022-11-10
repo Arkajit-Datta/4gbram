@@ -1,0 +1,827 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiDQlx59o5lqzA30-3Hc2gD-ENhoNHLiVnDYEGYz43RShUOCw7uD3PfG6MiCwcfEAY7_Ebn8pv9zER_r1a_stMNY9meR-WwOrsPA2ee0sZF1OGik-UqOCG5ESfsE3torRF8Nk7D53zLkqkVxjB7ge6T0EKxhLPf4Hwe7Q8rkvwSoTFPr9A4S_o0aWSDJ_CVU2gK5SPYV2LhaVW7tqwP1Cq0M1KOt7Y9wJL06yXKf7XrpAHWrPSHFpXDNC6Nb2Fb3xl7mwHsgiUz-Y6p6JL_fWXrjdGBKq7P12ZNhThgtlTFKVZMN0q2ckhSlH0aMW-6BfeqODLyuDad96czVGvqGv297mldeR3iigXCov7B1ggeQBAMEBrp0b7moVzzGQFNbU8RGoL54HpUMuFPiVzkO8CI9FZYnjvva-XYG5I8W5BmRqw2bhRNWg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2618727,
+                    "lng": 74.4226015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.26322142989272,
+                        "lng": 74.42392822989272
+                    },
+                    "southwest": {
+                        "lat": 18.26052177010728,
+                        "lng": 74.42122857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shrushti kirana stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118263265490884471789\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgSQGrXaemf1RYTi16bLmbJBc8mxTzDTdAmo_DJwTcd4SNVA0gj9cSrHXvwGaZEPYW4I1Y3aIjxK2Lysvd_DCEOCVtlQ15xRs2S-jzpPszqcLuILF9IRORC-JLK3m1fcy5GqUD7aaXDvW7tyLXUEq8b_JnnNPsESfwo36FRSwHnUbxZ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJcSngJfoPwzsRZr5pNl7E_T4",
+            "rating": 4.7,
+            "reference": "ChIJcSngJfoPwzsRZr5pNl7E_T4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "7C6F+R43, Karhati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2915098,
+                    "lng": 74.5190459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.29287232989272,
+                        "lng": 74.52046077989273
+                    },
+                    "southwest": {
+                        "lat": 18.29017267010728,
+                        "lng": 74.51776112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vrindavan shop",
+            "place_id": "ChIJ46MNe6kNwzsR5E0nezHrims",
+            "plus_code": {
+                "compound_code": "7GR9+JJ Undavadisupe, Maharashtra",
+                "global_code": "7JCP7GR9+JJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ46MNe6kNwzsR5E0nezHrims",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no 1, Undawadi, Near, Patas Rd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3476168,
+                    "lng": 74.4935915
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.34908952989272,
+                        "lng": 74.49514117989273
+                    },
+                    "southwest": {
+                        "lat": 18.34638987010728,
+                        "lng": 74.49244152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivshmbho Kirana And General Stores",
+            "place_id": "ChIJa2IupWYPwzsRpun2gEbgQUM",
+            "plus_code": {
+                "compound_code": "8FXV+2C Vasunde, Maharashtra",
+                "global_code": "7JCP8FXV+2C"
+            },
+            "rating": 5,
+            "reference": "ChIJa2IupWYPwzsRpun2gEbgQUM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 2, Main Chowk, Vasunde"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2657838,
+                    "lng": 74.4659949
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.26713662989273,
+                        "lng": 74.46731177989273
+                    },
+                    "southwest": {
+                        "lat": 18.26443697010728,
+                        "lng": 74.46461212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NISHA KIRANA STORES AND LEADIES SHOPE",
+            "place_id": "ChIJh6gGXkcPwzsRExAeqolMGoY",
+            "plus_code": {
+                "compound_code": "7F88+89 Deulgaon Rasal, Maharashtra",
+                "global_code": "7JCP7F88+89"
+            },
+            "rating": 0,
+            "reference": "ChIJh6gGXkcPwzsRExAeqolMGoY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.5 Supe Road, Deulgaon Rasal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3358419,
+                    "lng": 74.50206519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.33717342989272,
+                        "lng": 74.5033873298927
+                    },
+                    "southwest": {
+                        "lat": 18.33447377010728,
+                        "lng": 74.50068767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bholenath Pan Shop",
+            "place_id": "ChIJvaGk8j8NwzsR6zEqCeccnag",
+            "plus_code": {
+                "compound_code": "8GP2+8R Vasunde, Maharashtra",
+                "global_code": "7JCP8GP2+8R"
+            },
+            "rating": 0,
+            "reference": "ChIJvaGk8j8NwzsR6zEqCeccnag",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.2, Patas Rd, Undwadi Undawadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3737354,
+                    "lng": 74.5316275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.37513692989272,
+                        "lng": 74.53289182989272
+                    },
+                    "southwest": {
+                        "lat": 18.37243727010728,
+                        "lng": 74.53019217010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jivansathi snacks & a to z shop",
+            "photos": [
+                {
+                    "height": 5664,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117782723267752461746\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5x-igej73rsxZ0GHJOUf0WmNXrB2y4EwdxLDE2WuhNAs7nBlTONioHn1VE-B7vKc7nF7rT2DP3ndhIgAU9A1BeNRDWn-bXmnygJr0tl1jA4Mr4X7opppzmKeHjPJ2ZkTE5v1uAWd6cLYfncwPt2UHNdBp6KLsCAKO8uHEqG-G56uv",
+                    "width": 4248
+                }
+            ],
+            "place_id": "ChIJs0jTvfcTwzsRQamWYARVKT4",
+            "plus_code": {
+                "compound_code": "9GFJ+FM Jiregaon, Maharashtra",
+                "global_code": "7JCP9GFJ+FM"
+            },
+            "rating": 5,
+            "reference": "ChIJs0jTvfcTwzsRQamWYARVKT4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Baramati Daund Rd, near Jiregoan, Jiregaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3152604,
+                    "lng": 74.580433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31662057989272,
+                        "lng": 74.58178497989272
+                    },
+                    "southwest": {
+                        "lat": 18.31392092010728,
+                        "lng": 74.57908532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OMKAR PAAN SHOP AND GENERAL STORES",
+            "place_id": "ChIJCRff2WQNwzsRxjGXw-G8WsY",
+            "plus_code": {
+                "compound_code": "8H8J+45 Baramati, Maharashtra",
+                "global_code": "7JCP8H8J+45"
+            },
+            "rating": 0,
+            "reference": "ChIJCRff2WQNwzsRxjGXw-G8WsY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 4, Datta Hotel, opposite Shirsuphal, Baramati"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3568396,
+                    "lng": 74.4705754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.35819377989272,
+                        "lng": 74.47190377989271
+                    },
+                    "southwest": {
+                        "lat": 18.35549412010728,
+                        "lng": 74.46920412010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u091c\u092f \u092d\u0935\u093e\u0928\u0940 \u0915\u093f\u0930\u093e\u0923\u093e \u0938\u094d\u091f\u094b\u0905\u0930\u094d\u0938",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJKQptcmIRwzsR1XcRt4CV_Js",
+            "rating": 5,
+            "reference": "ChIJKQptcmIRwzsR1XcRt4CV_Js",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9F4C+M5X, Hinganigada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3171676,
+                    "lng": 74.51085549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31845452989272,
+                        "lng": 74.51203262989272
+                    },
+                    "southwest": {
+                        "lat": 18.31575487010728,
+                        "lng": 74.50933297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "NISHA KIRANA STORES AND LEADIES SHOPE",
+            "place_id": "ChIJk_Lwy00NwzsR6b_7k38ZH6E",
+            "plus_code": {
+                "compound_code": "8G86+V8 Deulgaon Rasal, Maharashtra",
+                "global_code": "7JCP8G86+V8"
+            },
+            "rating": 0,
+            "reference": "ChIJk_Lwy00NwzsR6b_7k38ZH6E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.8 Bhairavnath Tempal, Deulgaon Rasal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2230799,
+                    "lng": 74.5382783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.22441777989272,
+                        "lng": 74.53953157989272
+                    },
+                    "southwest": {
+                        "lat": 18.22171812010728,
+                        "lng": 74.53683192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Jai bhavani pan shop",
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100351286528266761258\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2FX5vIf_yckAJuywqRdQbscPBB73KIByTOpmDVCzwOuGQAV2RQN4SjkK1JmQ5gAxs650m8cZ_IUqiOBpPc_OAn688Y7_SPiiNAjPpjEUl0_OZKCztDLrp9fbJ-9TgM3ozGhLUQ2RenAg6yfobv6jTypipeuwMgjgN0SJSTOs2D3oe",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJwzQZuSsLwzsRkKTDBwvs8j8",
+            "rating": 3,
+            "reference": "ChIJwzQZuSsLwzsRkKTDBwvs8j8",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6GFQ+68J, MH SH 10, Barhanpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3160514,
+                    "lng": 74.57464379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31741227989272,
+                        "lng": 74.57600342989272
+                    },
+                    "southwest": {
+                        "lat": 18.31471262010728,
+                        "lng": 74.57330377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHIRSAI KIRANA",
+            "place_id": "ChIJ297MywMNwzsRMUxr03GCWVw",
+            "plus_code": {
+                "compound_code": "8H8F+CV Kurkumbh, Maharashtra",
+                "global_code": "7JCP8H8F+CV"
+            },
+            "rating": 0,
+            "reference": "ChIJ297MywMNwzsRMUxr03GCWVw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Shirsufal Dam, Patas Rd, Khandobanagar, Kurkumbh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3149399,
+                    "lng": 74.5717755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31587962989272,
+                        "lng": 74.57314757989272
+                    },
+                    "southwest": {
+                        "lat": 18.31317997010727,
+                        "lng": 74.57044792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Riyaj Chikanshop",
+            "place_id": "ChIJN7KfsfQNwzsRrJUnv2rixAE",
+            "plus_code": {
+                "compound_code": "8H7C+XP Shirsuphal, Maharashtra",
+                "global_code": "7JCP8H7C+XP"
+            },
+            "rating": 0,
+            "reference": "ChIJN7KfsfQNwzsRrJUnv2rixAE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Shirsuphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2931304,
+                    "lng": 74.5190466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.29443467989272,
+                        "lng": 74.52024202989273
+                    },
+                    "southwest": {
+                        "lat": 18.29173502010728,
+                        "lng": 74.51754237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "HARI OM PAN SHOP",
+            "place_id": "ChIJlaqIhQ4NwzsRA6VFoMM60lY",
+            "plus_code": {
+                "compound_code": "7GV9+7J Undavadisupe, Maharashtra",
+                "global_code": "7JCP7GV9+7J"
+            },
+            "rating": 0,
+            "reference": "ChIJlaqIhQ4NwzsRA6VFoMM60lY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.8, Undavdi, Patas Rd, Undavadisupe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2612451,
+                    "lng": 74.5404454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.26265627989272,
+                        "lng": 74.54198457989273
+                    },
+                    "southwest": {
+                        "lat": 18.25995662010728,
+                        "lng": 74.53928492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dhanwantari Shop Daund",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 906,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108463721158658431528\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhKRU35W-k79QJGCTJB3fwada-jnO34M9chsykOj2zeHhtvj9chPSEiKPAuKyiWJhDB2lreLoU8wF4QYm7dFT6nc4_vrQG7KzomehEQY40jnhQEWaAXJzcbHGQwno33Utr4JTqFdHqq5CaVZJL9vBq9scCeDbazdO5AgPc34bDy8cug",
+                    "width": 719
+                }
+            ],
+            "place_id": "ChIJxcYgbLULwzsReHbf0DBgJLM",
+            "plus_code": {
+                "compound_code": "7G6R+F5 Daund, Maharashtra",
+                "global_code": "7JCP7G6R+F5"
+            },
+            "rating": 5,
+            "reference": "ChIJxcYgbLULwzsReHbf0DBgJLM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Navgire vasti, Patas Rd, near reliance petrol pump, Daund"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3768211,
+                    "lng": 74.5329988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.37806727989273,
+                        "lng": 74.53451137989272
+                    },
+                    "southwest": {
+                        "lat": 18.37536762010728,
+                        "lng": 74.53181172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHREE RAM MEANS PARLOUR",
+            "place_id": "ChIJZ4Ium_wTwzsRChAhLrQ245w",
+            "plus_code": {
+                "compound_code": "9GGM+P5 Jiregaon, Maharashtra",
+                "global_code": "7JCP9GGM+P5"
+            },
+            "rating": 0,
+            "reference": "ChIJZ4Ium_wTwzsRChAhLrQ245w",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 1, Mayra Petrol Pump, Jeregaon, opposite Jiregaon, Jiregaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2276866,
+                    "lng": 74.46123759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.22900157989272,
+                        "lng": 74.46255712989272
+                    },
+                    "southwest": {
+                        "lat": 18.22630192010728,
+                        "lng": 74.45985747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Samarth Kirana",
+            "place_id": "ChIJfwT4zlkJwzsRHWVqgool59g",
+            "plus_code": {
+                "compound_code": "6FH6+3F Jalgaon Supe, Maharashtra",
+                "global_code": "7JCP6FH6+3F"
+            },
+            "rating": 0,
+            "reference": "ChIJfwT4zlkJwzsRHWVqgool59g",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, Jalgaon Supe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3175279,
+                    "lng": 74.5812095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31888067989272,
+                        "lng": 74.58256122989272
+                    },
+                    "southwest": {
+                        "lat": 18.31618102010728,
+                        "lng": 74.57986157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shinde Enterprises",
+            "place_id": "ChIJp91hPzwNwzsROkDgSPbY1e8",
+            "plus_code": {
+                "compound_code": "8H9J+2F Shirsuphal, Maharashtra",
+                "global_code": "7JCP8H9J+2F"
+            },
+            "rating": 0,
+            "reference": "ChIJp91hPzwNwzsROkDgSPbY1e8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 8 Nalnda Nagar, Shirsuphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2838479,
+                    "lng": 74.52139590000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.28514582989272,
+                        "lng": 74.52263317989274
+                    },
+                    "southwest": {
+                        "lat": 18.28244617010728,
+                        "lng": 74.51993352010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RAJGRUHA PAN SHOP",
+            "place_id": "ChIJaUxdowMNwzsREVR53MKwJs4",
+            "plus_code": {
+                "compound_code": "7GMC+GH Undavadisupe, Maharashtra",
+                "global_code": "7JCP7GMC+GH"
+            },
+            "rating": 0,
+            "reference": "ChIJaUxdowMNwzsREVR53MKwJs4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.5, Undavdi, Baramati - Kashti Rd, Undavadisupe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.316785,
+                    "lng": 74.5738113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31812637989272,
+                        "lng": 74.57515317989272
+                    },
+                    "southwest": {
+                        "lat": 18.31542672010728,
+                        "lng": 74.57245352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arush Pan Shop",
+            "opening_hours": {},
+            "place_id": "ChIJh5xdA2INwzsREVFEsR9E0II",
+            "plus_code": {
+                "compound_code": "8H8F+PG Kurkumbh, Maharashtra",
+                "global_code": "7JCP8H8F+PG"
+            },
+            "rating": 0,
+            "reference": "ChIJh5xdA2INwzsREVFEsR9E0II",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 7, Shirsufal Dam, Patas Rd, Khandobanagar, Kurkumbh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.2822504,
+                    "lng": 74.5208772
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.28377842989272,
+                        "lng": 74.52266467989271
+                    },
+                    "southwest": {
+                        "lat": 18.28107877010728,
+                        "lng": 74.51996502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TEJAS PAAN SHOP",
+            "place_id": "ChIJe5-px3oNwzsRRjBnDdHldSA",
+            "plus_code": {
+                "compound_code": "7GJC+W9 Undavadisupe, Maharashtra",
+                "global_code": "7JCP7GJC+W9"
+            },
+            "rating": 0,
+            "reference": "ChIJe5-px3oNwzsRRjBnDdHldSA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no. 1, undawadi, Patas Rd, Undavadisupe"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,270 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6807278,
+                    "lng": 77.3145412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68199517989272,
+                        "lng": 77.31585727989273
+                    },
+                    "southwest": {
+                        "lat": 17.67929552010728,
+                        "lng": 77.31315762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SB Electronic & Home Appliaces",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112102305361060600338\">tirupati Pitgond</a>"
+                    ],
+                    "photo_reference": "AcYSjRh46YI9-k64-mxMhQO3WUZD2GGtQx7NToDKtwsXjf75H_4L7ot_GnGVvdMkEZiOFlO-YiEAyZ6V7KqJkEepeDrolc3xozTuYbJWRXzqc-QqXMafE7At4KUVw0-LOdsKgNiUIREbVP7WMOtB_z8XwccmAu2gytX-wXq0wBTsswgOCLQ4",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJbcd4GgrTzjsRDKPfhgKo5xI",
+            "plus_code": {
+                "compound_code": "M8J7+7R Nirna, Karnataka",
+                "global_code": "7J9VM8J7+7R"
+            },
+            "rating": 4,
+            "reference": "ChIJbcd4GgrTzjsRDKPfhgKo5xI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Unnamed Road, 585227, Nirna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7264061,
+                    "lng": 77.3678637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72769757989272,
+                        "lng": 77.36916697989273
+                    },
+                    "southwest": {
+                        "lat": 17.72499792010728,
+                        "lng": 77.36646732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SUPER ELECTRONICS \u0cb8\u0cc2\u0caa\u0cb0\u0ccd \u0c8e\u0cb2\u0cc6\u0c95\u0ccd\u0c9f\u0ccd\u0cb0\u0cbe\u0ca8\u0cbf\u0c95\u0ccd\u0cb8\u0ccd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108320180461897673158\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhs_5_qRMjUH0dUwrFHnBjDaAdR4XqP1UT7rcN5MEr3Lkxh8K6U_u64dRDMM1rVLtH29sa2oI7WFPslLHAQwMBdbUjL52J9rid0nWGha1HIWf2rJsZULRFlX3ZeyZULi8Vlz0APgZaFh3pTwJKTkdL50R1RVov__XCmPGtSrrc_uc1o",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJhzuF2UvTzjsROvfLC5zi27g",
+            "plus_code": {
+                "compound_code": "P9G9+H4 Mannaekhelli, Karnataka",
+                "global_code": "7J9VP9G9+H4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJhzuF2UvTzjsROvfLC5zi27g",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Main road, Mannaekhelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7231345,
+                    "lng": 77.3775677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72456797989272,
+                        "lng": 77.37895932989274
+                    },
+                    "southwest": {
+                        "lat": 17.72186832010728,
+                        "lng": 77.37625967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "LUQMAN MOBILE AND ELECTRONICS",
+            "place_id": "ChIJO5nQYtjTzjsR7PZDpxU5_34",
+            "plus_code": {
+                "compound_code": "P9FH+72 Mannaekhelli, Karnataka",
+                "global_code": "7J9VP9FH+72"
+            },
+            "rating": 4.7,
+            "reference": "ChIJO5nQYtjTzjsR7PZDpxU5_34",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "close Mannaekkeli, Nh65 road Bridge, intry road, Mannaekhelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7053397,
+                    "lng": 77.4185273
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70673557989272,
+                        "lng": 77.41989372989272
+                    },
+                    "southwest": {
+                        "lat": 17.70403592010728,
+                        "lng": 77.41719407010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sajeed punchur Shop",
+            "place_id": "ChIJt30uE7TNzjsRkUL8sJtdUG8",
+            "rating": 3.2,
+            "reference": "ChIJt30uE7TNzjsRkUL8sJtdUG8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "PC49+4CJ, Mumbai Hwy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7512584,
+                    "lng": 77.3997969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75264762989272,
+                        "lng": 77.40106942989273
+                    },
+                    "southwest": {
+                        "lat": 17.74994797010728,
+                        "lng": 77.39836977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JYOTHI TENT HOUSE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103362549146766775891\">Pradeep Halembur</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8ronC1CrUBKJkbIepXsST5ce551zRb5mC0pE_iJZltGRiW4WZSCoyy7iblQT5EH5_xUAkHQy654FWRzbS3MHuAhyGOkEo2m7PWbjvD2xv3nipz7hLMuD01GeYn8kPz9E1jN3ldv5R5aBjMJ3lzZEtFaTyAaYqCmrOtolncJl5eSuy",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJHbXImBTOzjsR6zfz1KAP6K4",
+            "rating": 4.6,
+            "reference": "ChIJHbXImBTOzjsR6zfz1KAP6K4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Q92X+GW3, Bagdal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7287587,
+                    "lng": 77.367155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73011872989272,
+                        "lng": 77.36851002989272
+                    },
+                    "southwest": {
+                        "lat": 17.72741907010728,
+                        "lng": 77.36581037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "amazon and flipkart linq store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJvYXrx-3TzjsREciT6Jc8wF0",
+            "rating": 3,
+            "reference": "ChIJvYXrx-3TzjsREciT6Jc8wF0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "P9H8+GVM, Mannaekhelli"
+        }
+    ],
+    "status": "OK"
+}

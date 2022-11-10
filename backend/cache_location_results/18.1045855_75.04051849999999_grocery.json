@@ -1,0 +1,815 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRirqClJdMdHG0UkFhbcxioSQpoHoRG8cOArYVwcn_XXFqCuxpMk8GxR50e-3Um1jqApA7P7tf7VyUAxC19jHdpHSiAD2FtHxvqK3XLVMshGm6dJcm9w401htB8D-CE6tkX9bOxAJqXBqnb_12DU6H43PZMlnwDyaGEiLh7GnMSDK2Qqtbk53s30jJwn4rF613SpJ6ZAtH5oRJmid5qKWlxiCmY-MLUp7i9fNQr8XesbpsiawzqV3NWNYEcxnLp6dypEy5vgh9qScxx0FpS0J0J59VAybFChlk7ccSR6MZCvyH-Dgf01qSC79DMYtteEl5o5MZnYDbOrrs-_ZcqWM846wCulFRGT1VdgYvp8FPS7D5RkVNfcWdtBz1pU0eJDamkLYUmVMwUO6CjZkby7sfe2rwpTiP41j1D3sYOQRq94MjqLw25TsYK2",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1125952,
+                    "lng": 75.0294144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11393437989272,
+                        "lng": 75.03069337989271
+                    },
+                    "southwest": {
+                        "lat": 18.11123472010728,
+                        "lng": 75.02799372010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJYb6bczF5xDsRAAAA0PEXlxY",
+            "rating": 3,
+            "reference": "ChIJYb6bczF5xDsRAAAA0PEXlxY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "427H+2QM, Mahatma Phule Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0532368,
+                    "lng": 74.9490122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.05470442989272,
+                        "lng": 74.95032312989271
+                    },
+                    "southwest": {
+                        "lat": 18.05200477010728,
+                        "lng": 74.94762347010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u0947\u0902\u0921\u0947 \u0915\u093f\u0930\u093e\u0923\u093e \u0938\u094d\u091f\u094b\u0905\u0930",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ-zaIBemHwzsR-1-1OGMIZK4",
+            "rating": 0,
+            "reference": "ChIJ-zaIBemHwzsR-1-1OGMIZK4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3W3X+7JR, Varkute Khurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1153492,
+                    "lng": 75.0272788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11669647989272,
+                        "lng": 75.02866397989273
+                    },
+                    "southwest": {
+                        "lat": 18.11399682010727,
+                        "lng": 75.02596432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sai kirana store",
+            "place_id": "ChIJTdZvNOJ5xDsRZ2_4_pthAv8",
+            "rating": 0,
+            "reference": "ChIJTdZvNOJ5xDsRZ2_4_pthAv8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "428G+4WJ, Main Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1749639,
+                    "lng": 75.0780893
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.17636907989272,
+                        "lng": 75.07943692989272
+                    },
+                    "southwest": {
+                        "lat": 18.17366942010728,
+                        "lng": 75.07673727010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Suraj Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQykM62N9xDsRs9Bai5qW6O4",
+            "rating": 5,
+            "reference": "ChIJQykM62N9xDsRs9Bai5qW6O4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "53FG+XR9, Aajoti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1483248,
+                    "lng": 74.9835264
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.14971827989272,
+                        "lng": 74.98474352989273
+                    },
+                    "southwest": {
+                        "lat": 18.14701862010728,
+                        "lng": 74.98204387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mauli Kirana Store",
+            "place_id": "ChIJ4YQCXW5_xDsRAAAAMDUhXC8",
+            "rating": 0,
+            "reference": "ChIJ4YQCXW5_xDsRAAAAMDUhXC8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4XXM+8CC, Wangali, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1202374,
+                    "lng": 75.04036359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12159542989272,
+                        "lng": 75.04167602989274
+                    },
+                    "southwest": {
+                        "lat": 18.11889577010728,
+                        "lng": 75.03897637010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nandini General Store",
+            "place_id": "ChIJC9GoeRZ5xDsR5Ok9U-vnR0o",
+            "plus_code": {
+                "compound_code": "42CR+34 Malwadi, Maharashtra",
+                "global_code": "7JCQ42CR+34"
+            },
+            "rating": 0,
+            "reference": "ChIJC9GoeRZ5xDsR5Ok9U-vnR0o",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Road, near Indapur, Malwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1522278,
+                    "lng": 74.9740284
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15383147989272,
+                        "lng": 74.97553752989272
+                    },
+                    "southwest": {
+                        "lat": 18.15113182010728,
+                        "lng": 74.97283787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "KALIKA GENERAL STORES",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJqw1T14R_xDsRU-ytGQKii-k",
+            "plus_code": {
+                "compound_code": "5X2F+VJ Bijwadi, Maharashtra",
+                "global_code": "7JCP5X2F+VJ"
+            },
+            "rating": 0,
+            "reference": "ChIJqw1T14R_xDsRU-ytGQKii-k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Bijwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0827158,
+                    "lng": 75.0817804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08391762989272,
+                        "lng": 75.08366432989273
+                    },
+                    "southwest": {
+                        "lat": 18.08121797010728,
+                        "lng": 75.08096467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Komal kirana stores",
+            "place_id": "ChIJI_V2XnZ7xDsRS2v_gHU9xdU",
+            "plus_code": {
+                "compound_code": "33MJ+3P Bavada, Maharashtra",
+                "global_code": "7JCQ33MJ+3P"
+            },
+            "rating": 0,
+            "reference": "ChIJI_V2XnZ7xDsRS2v_gHU9xdU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Near z p school, aalegaon bk, Bavada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0789718,
+                    "lng": 75.0930528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.08036297989272,
+                        "lng": 75.09420677989272
+                    },
+                    "southwest": {
+                        "lat": 18.07766332010728,
+                        "lng": 75.09150712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Bhairavnath Kirana And General Stores",
+            "place_id": "ChIJPTtxGUp7xDsRX_7lLQuri7E",
+            "plus_code": {
+                "compound_code": "33HV+H6 Hingangaon, Maharashtra",
+                "global_code": "7JCQ33HV+H6"
+            },
+            "rating": 0,
+            "reference": "ChIJPTtxGUp7xDsRX_7lLQuri7E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near Bhairavnath Sugar Factory, Ambegaon BK, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1573163,
+                    "lng": 74.9681037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.15868602989272,
+                        "lng": 74.96947557989273
+                    },
+                    "southwest": {
+                        "lat": 18.15598637010728,
+                        "lng": 74.96677592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jamadar Traders",
+            "place_id": "ChIJNTOu0ft_xDsRLBTNVv_enOs",
+            "plus_code": {
+                "compound_code": "5X49+W6 Rajwadi, Maharashtra",
+                "global_code": "7JCP5X49+W6"
+            },
+            "rating": 0,
+            "reference": "ChIJNTOu0ft_xDsRLBTNVv_enOs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Tungat, Near, Suste Road, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1198452,
+                    "lng": 75.0251624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.12118032989272,
+                        "lng": 75.02647807989271
+                    },
+                    "southwest": {
+                        "lat": 18.11848067010728,
+                        "lng": 75.02377842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dhan Gurukrupa Kirana",
+            "place_id": "ChIJnwmkjxx_xDsRqRPla92oEmw",
+            "plus_code": {
+                "compound_code": "429G+W3 Indapur, Maharashtra",
+                "global_code": "7JCQ429G+W3"
+            },
+            "rating": 0,
+            "reference": "ChIJnwmkjxx_xDsRqRPla92oEmw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near, Kalthan Number 2 Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1006577,
+                    "lng": 75.0615155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.10201387989272,
+                        "lng": 75.06285717989272
+                    },
+                    "southwest": {
+                        "lat": 18.09931422010728,
+                        "lng": 75.06015752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "\u0936\u093f\u0935\u093e\u0902\u0936 \u0915\u093f\u0930\u093e\u0923\u093e and \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0905\u0930",
+            "place_id": "ChIJIRvZQ157xDsRva-LDqQNhhY",
+            "rating": 0,
+            "reference": "ChIJIRvZQ157xDsRva-LDqQNhhY",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4326+7J3, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1288068,
+                    "lng": 75.02723519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.13014747989272,
+                        "lng": 75.02867977989273
+                    },
+                    "southwest": {
+                        "lat": 18.12744782010728,
+                        "lng": 75.02598012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Padule Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110693969854762454228\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5n2sIZGNC5ovSl9RhlQy92gUHZAoREA_wKCIH-01UpYKp2Yt0VlpazUVgYwRgZdff5yRX39_LjrQfNl7N9RubegXnzneoXJD6Apfb9v81uwVwhHtUXC_jwz96FIKAyXaS66xmU39s-5bAB31EzIbnrBNmtzTpgTmlauP022QAMcv_",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ-64QOqZ5xDsRGLlxOhhaTmA",
+            "plus_code": {
+                "compound_code": "42HG+GV Indapur, Maharashtra",
+                "global_code": "7JCQ42HG+GV"
+            },
+            "rating": 5,
+            "reference": "ChIJ-64QOqZ5xDsRGLlxOhhaTmA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Padashtal Road, Indapur, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1129191,
+                    "lng": 75.0320878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11423352989272,
+                        "lng": 75.03343707989272
+                    },
+                    "southwest": {
+                        "lat": 18.11153387010728,
+                        "lng": 75.03073742010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "V G Kothari Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJObShZhh5xDsRSjmCQuCbXu4",
+            "plus_code": {
+                "compound_code": "427J+4R Indapur, Maharashtra",
+                "global_code": "7JCQ427J+4R"
+            },
+            "rating": 5,
+            "reference": "ChIJObShZhh5xDsRSjmCQuCbXu4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "near Union Bank, Ambika Nagar, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0840739,
+                    "lng": 74.9562712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.084879,
+                        "lng": 74.95800475
+                    },
+                    "southwest": {
+                        "lat": 18.0816586,
+                        "lng": 74.95144135000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SHRI HARI ENTERPRISES",
+            "place_id": "ChIJmxT6mMSHwzsRbwkX5BpPJec",
+            "plus_code": {
+                "compound_code": "3XM4+JG Indapur, Maharashtra",
+                "global_code": "7JCP3XM4+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJmxT6mMSHwzsRbwkX5BpPJec",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4 Zagadewadi, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1293291,
+                    "lng": 75.073049
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.13066792989272,
+                        "lng": 75.07439827989273
+                    },
+                    "southwest": {
+                        "lat": 18.12796827010728,
+                        "lng": 75.07169862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shrinath Kirana",
+            "place_id": "ChIJTfW8Rth9xDsR0J_8VWUiglg",
+            "plus_code": {
+                "compound_code": "43HF+P6 Indapur, Maharashtra",
+                "global_code": "7JCQ43HF+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJTfW8Rth9xDsR0J_8VWUiglg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near Z P School Shingade Vasti, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0570048,
+                    "lng": 75.1256514
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.05833742989272,
+                        "lng": 75.12700042989272
+                    },
+                    "southwest": {
+                        "lat": 18.05563777010728,
+                        "lng": 75.12430077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sandip Kirana Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEe9hppR6xDsRF_eujnt4Fr4",
+            "rating": 5,
+            "reference": "ChIJEe9hppR6xDsRF_eujnt4Fr4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "344G+Q7C, Tembhurni Bypass, Tembhurni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1041578,
+                    "lng": 75.0125587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.10550802989272,
+                        "lng": 75.01390577989274
+                    },
+                    "southwest": {
+                        "lat": 18.10280837010728,
+                        "lng": 75.01120612010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Ram Kirana",
+            "place_id": "ChIJZ4hqm4d5xDsRzwgUyFI8Xv4",
+            "plus_code": {
+                "compound_code": "4237+M2 Indapur, Maharashtra",
+                "global_code": "7JCQ4237+M2"
+            },
+            "rating": 0,
+            "reference": "ChIJZ4hqm4d5xDsRzwgUyFI8Xv4",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.2 Bas Stop RD, near Nilkant Hospital, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.1157719,
+                    "lng": 75.0279065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.11714257989272,
+                        "lng": 75.02925742989272
+                    },
+                    "southwest": {
+                        "lat": 18.11444292010728,
+                        "lng": 75.02655777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "YOGESH TARDING COMPANY",
+            "place_id": "ChIJl85pQzJ5xDsRAAAAcKbqVkA",
+            "plus_code": {
+                "compound_code": "428H+85 Indapur, Maharashtra",
+                "global_code": "7JCQ428H+85"
+            },
+            "rating": 0,
+            "reference": "ChIJl85pQzJ5xDsRAAAAcKbqVkA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Kadakpur, Nagarpalika Rd, Indapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0610601,
+                    "lng": 74.99226019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.06240092989272,
+                        "lng": 74.99349967989272
+                    },
+                    "southwest": {
+                        "lat": 18.05970127010728,
+                        "lng": 74.99080002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivkrupa Kirana Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJE6yJbV14xDsRn6WFzvvMjVw",
+            "plus_code": {
+                "compound_code": "3X6R+CV Vadapuri, Maharashtra",
+                "global_code": "7JCP3X6R+CV"
+            },
+            "rating": 5,
+            "reference": "ChIJE6yJbV14xDsRn6WFzvvMjVw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "MH MSH 71, Vadapuri"
+        }
+    ],
+    "status": "OK"
+}

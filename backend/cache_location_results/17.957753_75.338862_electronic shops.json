@@ -1,0 +1,316 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9096188,
+                    "lng": 75.4008831
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91101557989272,
+                        "lng": 75.40219952989271
+                    },
+                    "southwest": {
+                        "lat": 17.90831592010727,
+                        "lng": 75.39949987010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mulik Electronics & Mobile shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105067825326581686849\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi32w4wRSiqADEIUefJEobLHw1Cy38w4wdbcV1M12KoDx8IlR3h2jK_7B0CXdiGj3L2Y8GchDPmFWmMliZJZ6nunzX8i8RE7qDK3ljFHqv9bf4SRWYI-cG2ZfuubiC9G-QJnMERtk9E7t1zcGAq8Y5vGFq7a7SLxrGlbZ6Yoym4kCkk",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJb8BKxeRAxDsRYIezJ_NNcj8",
+            "plus_code": {
+                "compound_code": "WC52+R9 Modanimb, Maharashtra",
+                "global_code": "7J9QWC52+R9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJb8BKxeRAxDsRYIezJ_NNcj8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Sambhaji Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9523357,
+                    "lng": 75.2681511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.95367867989272,
+                        "lng": 75.26949597989272
+                    },
+                    "southwest": {
+                        "lat": 17.95097902010728,
+                        "lng": 75.26679632010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sir light house electrical & electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1350,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108533817637002467169\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhxW77ZaV1i0m3dTTCKBEIczYz57s_W29o4szGlQjfO6oLswLWgsZgSTOqh4wjyblrWLCUPUpu7u7WKVZRPYyLW6HN9ABPdvuJObiBNVOY63yQ904FXRHxETaFrfEslZKH6C4SFPS1ygw0qsYTok6ngbTrAaewl3wJeL_lT9IAxZzDK",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJDdcTwt9rxDsRnKsg_059Z9o",
+            "plus_code": {
+                "compound_code": "X729+W7 Parite, Maharashtra",
+                "global_code": "7J9QX729+W7"
+            },
+            "rating": 5,
+            "reference": "ChIJDdcTwt9rxDsRnKsg_059Z9o",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "Parite"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0441619,
+                    "lng": 75.28690019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.04547832989272,
+                        "lng": 75.28824542989271
+                    },
+                    "southwest": {
+                        "lat": 18.04277867010728,
+                        "lng": 75.28554577010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Trimurti Electronic & Mobile Shopee",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105496823744153043519\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgW5FuUEwHdq7aK9AS8MHEmi-17vz90LGprlpkAqET0Cg9Rh5m7OJXs3uFBZegSHRFgk1LhIpBoMcQkgkyCr0bOCcIkZNh1cpHXNsedIUtK19vuQrYMEYOm2pUESh6lDh2pOgMXkRa8jPaosGs2NousKLinOInspsONxxtPxZSVnj00",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJX5mIlCppxDsRPWQ8gkOr7vY",
+            "plus_code": {
+                "compound_code": "27VP+MQ Pimpalner, Maharashtra",
+                "global_code": "7JCQ27VP+MQ"
+            },
+            "rating": 4,
+            "reference": "ChIJX5mIlCppxDsRPWQ8gkOr7vY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Arihant Futilizer, near Pimpalner"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9582071,
+                    "lng": 75.3290059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.95974512989272,
+                        "lng": 75.33054807989272
+                    },
+                    "southwest": {
+                        "lat": 17.95704547010728,
+                        "lng": 75.32784842010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0917\u0941\u0930\u0941\u0915\u0943\u092a\u093e \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u0949\u0928\u093f\u0915",
+            "place_id": "ChIJU7BXkCtpxDsR54HsC_iUg6s",
+            "rating": 0,
+            "reference": "ChIJU7BXkCtpxDsR54HsC_iUg6s",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X85H+7JC, Mumbai Hwy, Warawade"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 18.0430677,
+                    "lng": 75.2872241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.04442272989272,
+                        "lng": 75.28854372989271
+                    },
+                    "southwest": {
+                        "lat": 18.04172307010727,
+                        "lng": 75.28584407010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mathoshri Electronic",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102522093339102544502\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjn9BpfRM_KmOhKhEUjslx5Zy7S_EakCDqq14rkenTvPf2hmMjaNMca8crqPWibtRzraPNPZtdhYnfgbfh-BXMjuKLfUITdxsZx96i5fNviyt2_-aSo6jzFWBs6VfBuV1lsD13Pq1Wgemi2JJKlKXwrxQjAdb6Ohvyfmt7FtmHr82ye",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ_yaVv4NoxDsRFVzXdgx6UP0",
+            "rating": 3.3,
+            "reference": "ChIJ_yaVv4NoxDsRFVzXdgx6UP0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "27VP+6VG, Unnamed Road, Pimpalner"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.9122012,
+                    "lng": 75.4003415
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91357897989272,
+                        "lng": 75.40167902989272
+                    },
+                    "southwest": {
+                        "lat": 17.91087932010728,
+                        "lng": 75.39897937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Riyaj electrical modnimb",
+            "permanently_closed": true,
+            "place_id": "ChIJq3GEWaZBxDsRderRsiX8Z6E",
+            "plus_code": {
+                "compound_code": "WC62+V4 Modanimb, Maharashtra",
+                "global_code": "7J9QWC62+V4"
+            },
+            "rating": 0,
+            "reference": "ChIJq3GEWaZBxDsRderRsiX8Z6E",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Data chowk, Modanimb"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8666543,
+                    "lng": 75.2960408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.86804582989272,
+                        "lng": 75.29738872989272
+                    },
+                    "southwest": {
+                        "lat": 17.86534617010728,
+                        "lng": 75.29468907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Datt Electronic and Electrical",
+            "permanently_closed": true,
+            "place_id": "ChIJIRH7NAprxDsR5MKFpl1v6Yc",
+            "rating": 0,
+            "reference": "ChIJIRH7NAprxDsR5MKFpl1v6Yc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V78W+MC7, Karkamb"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,789 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjierUArWgmKok8oqTnxMG8SMPQ8a_amIizv-rADFr02gk4j0zgK71NjHX_cxBLLDmhpbZE9ED8qI-8htQ-nizEVBFdmRsyAY19k1jnR2rNLdj0l0UedhhozqPnWbU07iAAzyZmQRgz4IOADiFy7F0sUVETB2GyjZHJJLEQGEYi_F3oy1pqkCSLQDJHc_EqYm0Dl_FwvskIG0JGkYMSDdp0xHMsMa779mEWpsOERsp2U2JPA23z1cBDXw6zvgLtI6EBjDkTo4Kn_ZjsyLbFo4AeXEhShQr8hgKWxvHfEknYVGwjyvhY6y8WT-rlP6j1H30xqe1LhKLGoqLhUP8g6ZJrBYsGrbc5Doh8lZ6Tko_-gcFPaVM9A9swgAC2K5noobrYPNiW8KkzZDFboaIowJ2GLPju3_0DViWlevGcDXZe0KR_WbQhFg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1186354,
+                    "lng": 11.0259275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.11998522989272,
+                        "lng": 11.02727732989272
+                    },
+                    "southwest": {
+                        "lat": 10.11728557010728,
+                        "lng": 11.02457767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NATURELINKS",
+            "place_id": "ChIJq2MHPubB_xARflRe8MYCfm8",
+            "plus_code": {
+                "compound_code": "429G+F9 Wuro Mobido, Nigeria",
+                "global_code": "7F2H429G+F9"
+            },
+            "rating": 0,
+            "reference": "ChIJq2MHPubB_xARflRe8MYCfm8",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NO 23, behind MATRIX FUELLING STATION TUMFURE"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0542257,
+                    "lng": 11.198431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05556902989272,
+                        "lng": 11.19978042989272
+                    },
+                    "southwest": {
+                        "lat": 10.05286937010728,
+                        "lng": 11.19708077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Awwal Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113697716949733930204\">ahmed gidado</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLGoNI6WgaktcMANlWKrZDW6jKUFDwckMPTSI8ieZzKl1mNE03fhfYJdWAv6sDrC_AdlwfJGA_5yOgoti7ib1NkYUvL1IdS2-RQ-F3zKtEZSGdTKzM3Pud3jXRg01Tk2r-VBzdXAiW5cPDqBZBfAbnG2JXAuzbLRT-aIvZbF5-ue5O",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJO5ojHc-3_xARVyr3ONTNtac",
+            "plus_code": {
+                "compound_code": "353X+M9 Kumo, Nigeria",
+                "global_code": "7F2H353X+M9"
+            },
+            "rating": 3.7,
+            "reference": "ChIJO5ojHc-3_xARVyr3ONTNtac",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39,
+            "vicinity": "Kumo West, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1186354,
+                    "lng": 11.0259275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.11998522989272,
+                        "lng": 11.02727732989272
+                    },
+                    "southwest": {
+                        "lat": 10.11728557010728,
+                        "lng": 11.02457767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Big Boy Communication",
+            "place_id": "ChIJfeIYqqTB_xARmNtHeqaPwOE",
+            "plus_code": {
+                "compound_code": "429G+F9 Wuro Mobido, Nigeria",
+                "global_code": "7F2H429G+F9"
+            },
+            "rating": 0,
+            "reference": "ChIJfeIYqqTB_xARmNtHeqaPwOE",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pindiga Town, Lga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.054234,
+                    "lng": 11.1984645
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05558787989272,
+                        "lng": 11.19985332989272
+                    },
+                    "southwest": {
+                        "lat": 10.05288822010728,
+                        "lng": 11.19715367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "I Kumo Garden House",
+            "place_id": "ChIJi_3Pbra3_xARO0PJw5E3grw",
+            "plus_code": {
+                "compound_code": "353X+M9 Kumo, Nigeria",
+                "global_code": "7F2H353X+M9"
+            },
+            "rating": 0,
+            "reference": "ChIJi_3Pbra3_xARO0PJw5E3grw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Off Gidan Ruwa St, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1186354,
+                    "lng": 11.0259275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.11998522989272,
+                        "lng": 11.02727732989272
+                    },
+                    "southwest": {
+                        "lat": 10.11728557010728,
+                        "lng": 11.02457767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "P&BSymphony",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJKxHqc03B_xARAUZvDc18ik4",
+            "plus_code": {
+                "compound_code": "429G+F9 Wuro Mobido, Nigeria",
+                "global_code": "7F2H429G+F9"
+            },
+            "rating": 0,
+            "reference": "ChIJKxHqc03B_xARAUZvDc18ik4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Behind Kasuwan Gwari Tunfure Quarters Akko LGA"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1766464,
+                    "lng": 11.1638935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.17796652989272,
+                        "lng": 11.16523767989272
+                    },
+                    "southwest": {
+                        "lat": 10.17526687010728,
+                        "lng": 11.16253802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Baffason Textile and Tailoring services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJXfZa3T3P_xAROORXlksPrdw",
+            "plus_code": {
+                "compound_code": "55G7+MH Garko, Nigeria",
+                "global_code": "7F2H55G7+MH"
+            },
+            "rating": 0,
+            "reference": "ChIJXfZa3T3P_xAROORXlksPrdw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jauro Jatau, Garko Ward, Gona District, Lga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0494615,
+                    "lng": 11.2005158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05087212989272,
+                        "lng": 11.20187432989272
+                    },
+                    "southwest": {
+                        "lat": 10.04817247010728,
+                        "lng": 11.19917467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kembu Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJm1GQXk63_xARAQfTgawB5vM",
+            "rating": 3,
+            "reference": "ChIJm1GQXk63_xARAQfTgawB5vM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "26X2+Q6J, Emir's Palace St, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0496349,
+                    "lng": 11.1996859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05099732989272,
+                        "lng": 11.20105132989272
+                    },
+                    "southwest": {
+                        "lat": 10.04829767010728,
+                        "lng": 11.19835167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sba Luxury Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJR6JV6IW3_xARFySH6yL5DKI",
+            "plus_code": {
+                "compound_code": "25XX+VV Kumo, Nigeria",
+                "global_code": "7F2H25XX+VV"
+            },
+            "rating": 0,
+            "reference": "ChIJR6JV6IW3_xARFySH6yL5DKI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Anguwan Tike 2, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0733989,
+                    "lng": 11.1850649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.07473532989272,
+                        "lng": 11.18645607989272
+                    },
+                    "southwest": {
+                        "lat": 10.07203567010728,
+                        "lng": 11.18375642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Shabbal Dispensary",
+            "place_id": "ChIJDz126CHI_xAR2CuhUCFBaQw",
+            "rating": 0,
+            "reference": "ChIJDz126CHI_xAR2CuhUCFBaQw",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "35FP+924"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1766464,
+                    "lng": 11.1638935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.17796652989272,
+                        "lng": 11.16523767989272
+                    },
+                    "southwest": {
+                        "lat": 10.17526687010728,
+                        "lng": 11.16253802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Al Fuad Islamic Herbal Medicine",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJwXPozoPP_xARZ8Rcz92D0W8",
+            "plus_code": {
+                "compound_code": "55G7+MH Garko, Nigeria",
+                "global_code": "7F2H55G7+MH"
+            },
+            "rating": 0,
+            "reference": "ChIJwXPozoPP_xARZ8Rcz92D0W8",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jauro Jatau, Garko Ward, Gona District"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0225997,
+                    "lng": 11.1568987
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.02397267989272,
+                        "lng": 11.15809217989272
+                    },
+                    "southwest": {
+                        "lat": 10.02127302010728,
+                        "lng": 11.15539252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kobuwa Dispensary",
+            "place_id": "ChIJpRqJb9S5_xARxu1o1U7thEk",
+            "rating": 0,
+            "reference": "ChIJpRqJb9S5_xARxu1o1U7thEk",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "25F4+2QJ"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0856512,
+                    "lng": 11.1427359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.08715032989272,
+                        "lng": 11.14420427989272
+                    },
+                    "southwest": {
+                        "lat": 10.08445067010728,
+                        "lng": 11.14150462010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gadawo Dispensary",
+            "place_id": "ChIJtzvcQuzH_xARZxuveEQ4k_Q",
+            "rating": 0,
+            "reference": "ChIJtzvcQuzH_xARZxuveEQ4k_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "34PV+63Q, Gadao"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0510305,
+                    "lng": 11.1987718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05241752989272,
+                        "lng": 11.20010962989272
+                    },
+                    "southwest": {
+                        "lat": 10.04971787010728,
+                        "lng": 11.19740997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "J. T. Soft Drinks",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAQXc9o23_xARVc1YXnGRiqw",
+            "plus_code": {
+                "compound_code": "352X+CG Kumo, Nigeria",
+                "global_code": "7F2H352X+CG"
+            },
+            "rating": 0,
+            "reference": "ChIJAQXc9o23_xARVc1YXnGRiqw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "352X+CG6, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1766605,
+                    "lng": 11.1623771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.17796357989272,
+                        "lng": 11.16373432989272
+                    },
+                    "southwest": {
+                        "lat": 10.17526392010728,
+                        "lng": 11.16103467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BML General Enterprise",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJWzAaSsfP_xARBj8x6S6JOew",
+            "plus_code": {
+                "compound_code": "55G6+MX Garko, Nigeria",
+                "global_code": "7F2H55G6+MX"
+            },
+            "rating": 0,
+            "reference": "ChIJWzAaSsfP_xARBj8x6S6JOew",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jauro Jatau, Garko Ward, Gona, Lga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.1367929,
+                    "lng": 11.1615736
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.13818412989272,
+                        "lng": 11.16286877989272
+                    },
+                    "southwest": {
+                        "lat": 10.13548447010728,
+                        "lng": 11.16016912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Lembi Dispensary",
+            "place_id": "ChIJh2Qx4x_G_xAR2DgVgPfKSuE",
+            "rating": 0,
+            "reference": "ChIJh2Qx4x_G_xAR2DgVgPfKSuE",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "45P6+PJ8, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0429645,
+                    "lng": 11.1290191
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.04431432989272,
+                        "lng": 11.13036892989272
+                    },
+                    "southwest": {
+                        "lat": 10.04161467010728,
+                        "lng": 11.12766927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Bappah Ibrahim Dispensary",
+            "place_id": "ChIJRyRgokS4_xARpwDcEY1XX8k",
+            "rating": 0,
+            "reference": "ChIJRyRgokS4_xARpwDcEY1XX8k",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "24VH+5JJ"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0496349,
+                    "lng": 11.1996859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05099732989272,
+                        "lng": 11.20105132989272
+                    },
+                    "southwest": {
+                        "lat": 10.04829767010728,
+                        "lng": 11.19835167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Masters Gran Mealing",
+            "place_id": "ChIJkUQSsLm3_xARjMs6KZk84T8",
+            "rating": 0,
+            "reference": "ChIJkUQSsLm3_xARjMs6KZk84T8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "25XX+VV3, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0498189,
+                    "lng": 11.1990518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05116872989272,
+                        "lng": 11.20040162989272
+                    },
+                    "southwest": {
+                        "lat": 10.04846907010728,
+                        "lng": 11.19770197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Abba Plaza Kumo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJcWQRYxe3_xARiLJWxUdWffI",
+            "rating": 0,
+            "reference": "ChIJcWQRYxe3_xARiLJWxUdWffI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "25XX+WPJ, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0496707,
+                    "lng": 11.2012606
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05093387989272,
+                        "lng": 11.20259807989272
+                    },
+                    "southwest": {
+                        "lat": 10.04823422010728,
+                        "lng": 11.19989842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Inusa Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJp-HPtAO3_xARpf4vZmDSWzo",
+            "rating": 0,
+            "reference": "ChIJp-HPtAO3_xARpf4vZmDSWzo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "26X2+VG6, Emir's Palace St, Kumo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.049258,
+                    "lng": 11.2003452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.05053582989272,
+                        "lng": 11.20162167989272
+                    },
+                    "southwest": {
+                        "lat": 10.04783617010728,
+                        "lng": 11.19892202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Akko Local Government Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJbFRiWq3_xARkTm_mf7tQhQ",
+            "rating": 0,
+            "reference": "ChIJJbFRiWq3_xARkTm_mf7tQhQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "26X2+P45, A345, Kumo"
+        }
+    ],
+    "status": "OK"
+}

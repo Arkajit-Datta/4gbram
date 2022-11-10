@@ -1,0 +1,558 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9820355,
+                    "lng": 10.9522854
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.983391279892722,
+                        "lng": 10.95357787989272
+                    },
+                    "southwest": {
+                        "lat": 9.980691620107278,
+                        "lng": 10.95087822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Baffa manu house",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101698396128531409055\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgb45OhQ7_P1qvjD9nSVFzx5LSw1SY4cjpJ2tKwfFUwv-8LLHX3Tl9tiQZUKAbfMvxs1n2P_iyUwt29N8n15ZYcHItknE-Ac-KQjTDpWEgJdoaH0sE2Q_b3FNMKb6tOFlepqFAwTPCi82FZ8Z-jZQwSDlEIklW5Ays2yvfths5QyQ9C",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJKVZR1oOX_xARIQ9RgHIFXGw",
+            "plus_code": {
+                "compound_code": "XXJ2+RW Pindiga, Nigeria",
+                "global_code": "6FXGXXJ2+RW"
+            },
+            "rating": 0,
+            "reference": "ChIJKVZR1oOX_xARIQ9RgHIFXGw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Abbayo quarters, Pindiga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9871558,
+                    "lng": 10.9521281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.98858117989272,
+                        "lng": 10.95348827989272
+                    },
+                    "southwest": {
+                        "lat": 9.985881520107275,
+                        "lng": 10.95078862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AMA NEPA HOUSE",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105076181792393854172\">el ama</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzpryhQvo9WKHxmJJcx-HG2Y4h58iqZbxWrewMulJdd9r65M0v0iYJS_WgfH7jEiM4GJ5RLB4mryuuKS5ZrVVV-4ruDMGC1srly-LUaHrrr8Kd1zhkFAWGwE-z9GOd0xWf14rPehoDClpjWAEXpdLypHYSWe46JGD0oRWF7wE-2cRo",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJvUeX3eWX_xARDQpPCZv8RcI",
+            "rating": 1,
+            "reference": "ChIJvUeX3eWX_xARDQpPCZv8RcI",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "XXP2+VV6, Pindiga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9847096,
+                    "lng": 10.9510314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985971129892722,
+                        "lng": 10.95238802989272
+                    },
+                    "southwest": {
+                        "lat": 9.983271470107278,
+                        "lng": 10.94968837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Baffason Textile and Tailoring services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJadEzhgmX_xARgtD_KQ45EHI",
+            "plus_code": {
+                "compound_code": "XXM2+VC Kashere, Nigeria",
+                "global_code": "6FXGXXM2+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJadEzhgmX_xARgtD_KQ45EHI",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kashere"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9834461,
+                    "lng": 10.9501248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.984802529892722,
+                        "lng": 10.95147452989272
+                    },
+                    "southwest": {
+                        "lat": 9.982102870107278,
+                        "lng": 10.94877487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "baffah rental house",
+            "place_id": "ChIJ-R1wWZSX_xARRfro7cHXBHE",
+            "rating": 0,
+            "reference": "ChIJ-R1wWZSX_xARRfro7cHXBHE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "XXM2+93C, Pindiga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9847096,
+                    "lng": 10.9510314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985971129892722,
+                        "lng": 10.95238802989272
+                    },
+                    "southwest": {
+                        "lat": 9.983271470107278,
+                        "lng": 10.94968837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Al Fuad Islamic Herbal Medicine",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJeWlZQXyX_xARonad8-i7u5M",
+            "plus_code": {
+                "compound_code": "XXM2+VC Pindiga, Nigeria",
+                "global_code": "6FXGXXM2+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJeWlZQXyX_xARonad8-i7u5M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kashere, Kashere, Gombe State Gombe State NG, Road, Pindiga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9845586,
+                    "lng": 11.0649542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.98594832989272,
+                        "lng": 11.06630997989272
+                    },
+                    "southwest": {
+                        "lat": 9.983248670107276,
+                        "lng": 11.06361032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Badawaire Dispensary",
+            "place_id": "ChIJrXSWBAK8_xARhQBP_CdODGA",
+            "rating": 0,
+            "reference": "ChIJrXSWBAK8_xARhQBP_CdODGA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X3M7+RXH"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9847096,
+                    "lng": 10.9510314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985971129892722,
+                        "lng": 10.95238802989272
+                    },
+                    "southwest": {
+                        "lat": 9.983271470107278,
+                        "lng": 10.94968837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "IGHO GLOBAL",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJWX27RY2X_xARdz3KmE86y6w",
+            "plus_code": {
+                "compound_code": "XXM2+VC Pindiga, Nigeria",
+                "global_code": "6FXGXXM2+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJWX27RY2X_xARdz3KmE86y6w",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CMPC BGP CAMP, Pindiga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9843596,
+                    "lng": 11.0642642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985700829892721,
+                        "lng": 11.06566877989272
+                    },
+                    "southwest": {
+                        "lat": 9.983001170107277,
+                        "lng": 11.06296912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Jabba Dispensary",
+            "place_id": "ChIJR5B8EgK8_xARxqHk5scJZKo",
+            "rating": 0,
+            "reference": "ChIJR5B8EgK8_xARxqHk5scJZKo",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X3M7+PPR"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.984328,
+                    "lng": 11.0833919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985842079892722,
+                        "lng": 11.08466217989272
+                    },
+                    "southwest": {
+                        "lat": 9.983142420107278,
+                        "lng": 11.08196252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Zabinkami Dispensary",
+            "place_id": "ChIJwy_8puK7_xARfwoGtm4MKng",
+            "rating": 0,
+            "reference": "ChIJwy_8puK7_xARfwoGtm4MKng",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X3MM+P9C"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.948843799999999,
+                    "lng": 10.9839042
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.950194529892721,
+                        "lng": 10.98524042989272
+                    },
+                    "southwest": {
+                        "lat": 9.947494870107278,
+                        "lng": 10.98254077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Garin Rigiya Dispensary",
+            "place_id": "ChIJw_urLoG9_xARVMvwgXZcfWA",
+            "rating": 0,
+            "reference": "ChIJw_urLoG9_xARVMvwgXZcfWA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WXXM+HH2"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.0167,
+                    "lng": 11.0167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.01804982989272,
+                        "lng": 11.01804982989272
+                    },
+                    "southwest": {
+                        "lat": 10.01535017010728,
+                        "lng": 11.01535017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Kilawa Dispensary",
+            "place_id": "ChIJt2qwHFu-_xARCvDCea0mJKM",
+            "rating": 0,
+            "reference": "ChIJt2qwHFu-_xARCvDCea0mJKM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2288+MMP"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9847096,
+                    "lng": 10.9510314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985971129892722,
+                        "lng": 10.95238802989272
+                    },
+                    "southwest": {
+                        "lat": 9.983271470107278,
+                        "lng": 10.94968837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Abdul-Hass Global Resources Ltd",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJT06R3syX_xAROBjAwYQ-ZyI",
+            "plus_code": {
+                "compound_code": "XXM2+VC Kashere, Nigeria",
+                "global_code": "6FXGXXM2+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJT06R3syX_xAROBjAwYQ-ZyI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kashere"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9842684,
+                    "lng": 11.0650203
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.985620329892722,
+                        "lng": 11.06643647989272
+                    },
+                    "southwest": {
+                        "lat": 9.982920670107278,
+                        "lng": 11.06373682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Sambo Daji Dispensary",
+            "place_id": "ChIJSc3sGgK8_xARjhyjE2R_-5o",
+            "rating": 0,
+            "reference": "ChIJSc3sGgK8_xARjhyjE2R_-5o",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X3M7+PX5"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 9.9873358,
+                    "lng": 10.9526464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 9.988679379892721,
+                        "lng": 10.95394092989272
+                    },
+                    "southwest": {
+                        "lat": 9.985979720107277,
+                        "lng": 10.95124127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Guest House pindiga",
+            "place_id": "ChIJ5UG6u8mX_xAR--KmK6Pzcn8",
+            "plus_code": {
+                "compound_code": "XXP3+W3 Pindiga, Nigeria",
+                "global_code": "6FXGXXP3+W3"
+            },
+            "rating": 0,
+            "reference": "ChIJ5UG6u8mX_xAR--KmK6Pzcn8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Yoliya Tumu Road Yoliya Tumu Road, LGA, Pindiga"
+        }
+    ],
+    "status": "OK"
+}

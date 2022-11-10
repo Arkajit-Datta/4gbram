@@ -1,0 +1,960 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjHaEzjoqM8H9ErBLr1yjMzNCX-6ChWx2KtEeWUjcLrm2lHaeNUJYvUlfxlQlIMpsBJUIJb-rW6X98l6d025M1i_gcVHEB9kMVC_fd1oRXvfETDcCkEwZbjOfxzu50a_6TA99C8JBUzZ2fY0XT3gYKBcgiLX60NTVqaH9JM9WqGdin5lnTFzkoWgoLPbuKQXXwy-kUoKTpiRf0JLiVxaUsX4JTukaN-o6nTBFOubKHQ_tGvztwYuRDSRnYZYwI-DQtr-CHxHyomDyntlKawa9uTMwW5aODs9MAEvnGV8IRcm4LslHpcmt6P6hFS4DPbFi-4YaezxSKOIMVQDmUI8SfHXBLo5DzGa5X11NAfkajjjfAQkBpHQlF2B44h15lGHJJauRZmF2uV5GtYgDYHZWUNbu4yVnYTUS3S7L4tMrcsDeU3O2PCRx7z",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1196761,
+                    "lng": 72.9080845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.12109992989273,
+                        "lng": 72.90946107989274
+                    },
+                    "southwest": {
+                        "lat": 19.11840027010728,
+                        "lng": 72.90676142010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nature\u2019s Basket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100837295695943069690\">Soar High</a>"
+                    ],
+                    "photo_reference": "AcYSjRiifh2iLX9JVHD76pN-UYrr2Ijy9pPT8g3KoD8HEbPSiceZp16vCTOTX5Suw6waDVuix6MeTT0cS3sG5o_NnADw10Qh47r8NH25CzrBBe7M6MNfmy0h09IOSlODmz-EwJEg6Au3F3TYjFGTxrJvsSW5oJKunQBN7KzYngrH9qbAzEwt",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJHUj5AOXH5zsRhBWtxnzif5U",
+            "plus_code": {
+                "compound_code": "4W95+V6 Mumbai, Maharashtra",
+                "global_code": "7JFJ4W95+V6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJHUj5AOXH5zsRhBWtxnzif5U",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2272,
+            "vicinity": "Hiranandani Gardens, Shop No 4, BG - India, Powai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1172037,
+                    "lng": 72.8828588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11852377989272,
+                        "lng": 72.88422707989271
+                    },
+                    "southwest": {
+                        "lat": 19.11582412010727,
+                        "lng": 72.88152742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Poorti Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115920856729373315939\">Ramesh Paliya</a>"
+                    ],
+                    "photo_reference": "AcYSjRjye76bsjIgozPvU6KqqNhcHcZUNCB3qx_xioDTVOuthwDaw7brWeeACsbk4qAdI9jX8O3v8ARgDYDp0PvjJCsEHxO_QCMxF5ELjNAJ-PJUmkXj7cerBe3HHX9pP-USlNWYnrX55xly39hUqUZJQgjD9ABZpQ0JgBTJ2iXpFE3MlhOC",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJxY2f4RDI5zsRpN4HAI3KMPo",
+            "plus_code": {
+                "compound_code": "4V8M+V4 Mumbai, Maharashtra",
+                "global_code": "7JFJ4V8M+V4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJxY2f4RDI5zsRpN4HAI3KMPo",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 793,
+            "vicinity": "Military Rd, Sankara Nagar, Bhavani Nagar, Marol, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1385316,
+                    "lng": 72.826798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.13987827989272,
+                        "lng": 72.82814837989274
+                    },
+                    "southwest": {
+                        "lat": 19.13717862010728,
+                        "lng": 72.82544872010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Groceteria Super Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMS3f7Re25zsRYAotx9x--DA",
+            "plus_code": {
+                "compound_code": "4RQG+CP Mumbai, Maharashtra",
+                "global_code": "7JFJ4RQG+CP"
+            },
+            "rating": 0,
+            "reference": "ChIJMS3f7Re25zsRYAotx9x--DA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Shastri Nagar, Andheri West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0831355,
+                    "lng": 72.8530583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08451027989272,
+                        "lng": 72.85443567989273
+                    },
+                    "southwest": {
+                        "lat": 19.08181062010728,
+                        "lng": 72.85173602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shree Mart Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114048254569626901595\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi3pSdI8sRtkNPSIRUg4SOLWT4aFzYESk-rb0TrwH_jOjcMn4pcOyvXbEMrFDNj6v3CTQZ5JD2Ksk3ryzCXJeoXjBW9wIebyXBLLyDRMnM16OrVfvbnXIDAtjABQTYbhGWRLeeNWKfFZCC0j35fJjml-pihl_CcM5LdkUcSEx-Obhn6",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJG0VeKC_J5zsRL2S52sgYbsE",
+            "plus_code": {
+                "compound_code": "3VM3+76 Mumbai, Maharashtra",
+                "global_code": "7JFJ3VM3+76"
+            },
+            "rating": 4.6,
+            "reference": "ChIJG0VeKC_J5zsRL2S52sgYbsE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Shankar Seth Wadi, Datta Mandir Rd, Santacruz East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1160268,
+                    "lng": 72.82862329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11737942989272,
+                        "lng": 72.83004507989273
+                    },
+                    "southwest": {
+                        "lat": 19.11467977010728,
+                        "lng": 72.82734542010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJtVXPXN3J5zsRAAAA0AVKfgY",
+            "rating": 5,
+            "reference": "ChIJtVXPXN3J5zsRAAAA0AVKfgY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "4R8H+CF6, Circle West, Juhu Tara Rd, Juhu, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1061477,
+                    "lng": 72.866202
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10756322989272,
+                        "lng": 72.86757847989271
+                    },
+                    "southwest": {
+                        "lat": 19.10486357010728,
+                        "lng": 72.86487882010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhakti SuperMart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJt3L8nRLJ5zsRix3N27THPJU",
+            "plus_code": {
+                "compound_code": "4V48+FF Mumbai, Maharashtra",
+                "global_code": "7JFJ4V48+FF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJt3L8nRLJ5zsRix3N27THPJU",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Shop No.19, Om Nagar, A1 Vidyadani CHS, Marol Pipeline Rd, Kanti Nagar, J B Nagar, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0691888,
+                    "lng": 72.89579119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07047287989273,
+                        "lng": 72.8972318798927
+                    },
+                    "southwest": {
+                        "lat": 19.06777322010728,
+                        "lng": 72.89453222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SUBHASH Grocery Store",
+            "place_id": "ChIJP6oZK3XJ5zsRlkUUb3f6K-E",
+            "plus_code": {
+                "compound_code": "3V9W+M8 Mumbai, Maharashtra",
+                "global_code": "7JFJ3V9W+M8"
+            },
+            "rating": 0,
+            "reference": "ChIJP6oZK3XJ5zsRlkUUb3f6K-E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 75, Chembur West, Shivaji Nagar, Govandi, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0723869,
+                    "lng": 72.8783009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07371097989272,
+                        "lng": 72.87972452989273
+                    },
+                    "southwest": {
+                        "lat": 19.07101132010727,
+                        "lng": 72.87702487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Santosh Groceries",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJiXn8YJLI5zsRICrqYAVSwkA",
+            "plus_code": {
+                "compound_code": "3VCH+X8 Mumbai, Maharashtra",
+                "global_code": "7JFJ3VCH+X8"
+            },
+            "rating": 0,
+            "reference": "ChIJiXn8YJLI5zsRICrqYAVSwkA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 168, Nenshi Chawl, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1126592,
+                    "lng": 72.8305845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11395947989272,
+                        "lng": 72.83190462989272
+                    },
+                    "southwest": {
+                        "lat": 19.11125982010728,
+                        "lng": 72.82920497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivraj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113892205354559066034\">Amit Pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRicGodCvHtlGWKjF8NqLVTtaufSsTveDkaodsmeEbV2zCFHIdnBRJCImXnoeC_Gr3MVi7F8WFCNAoi6WIBMdXe8XQcqqsaXk68ZwpJm9EBV0Py3Cu6CFRsUhEhb3wPGU3EUF9JwKx-s27VVyO59Y5FF08wpuRcsjcLvKdZP4jWZN2l5",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ5xsVkWTJ5zsRRU-BCkmHFXY",
+            "plus_code": {
+                "compound_code": "4R7J+36 Mumbai, Maharashtra",
+                "global_code": "7JFJ4R7J+36"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5xsVkWTJ5zsRRU-BCkmHFXY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 477,
+            "vicinity": "V.G.V.V. Sahakari Society Ltd Near Sukmani Society, Vidyanidhi Marg, JVPD Scheme, Juhu, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1032598,
+                    "lng": 72.8519122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10453932989272,
+                        "lng": 72.85328027989272
+                    },
+                    "southwest": {
+                        "lat": 19.10183967010728,
+                        "lng": 72.85058062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nature's Basket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112773474834740905587\">siddhant khandelwal</a>"
+                    ],
+                    "photo_reference": "AcYSjRhbJVHno-BluQkfwwQSgaldzLrsmuavirtUOJxQDYVMynUNqeFT7HvB7hUGnCJ3gnv6GOxjHYTwBf-r6x3vnjVFj8VsWxNGBC9Sto1wGpwLNESMYraQSATaSXAwoWcqv0-hP2dUfNPp5AhduqLIgwbDN5MFNjJLOzfdfj0r0HonGhkh",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ62rB_4_J5zsRqGHbefvvCyY",
+            "plus_code": {
+                "compound_code": "4V32+8Q Mumbai, Maharashtra",
+                "global_code": "7JFJ4V32+8Q"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ62rB_4_J5zsRqGHbefvvCyY",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 721,
+            "vicinity": "Prarthana Cooperative Housing Society Limited, B Wing, Prarthana Samaj Rd, Vile Parle East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0766866,
+                    "lng": 72.8669608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07802292989272,
+                        "lng": 72.86839702989273
+                    },
+                    "southwest": {
+                        "lat": 19.07532327010728,
+                        "lng": 72.86569737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "The Grocery Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116223360377979546953\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiuqKgOI0BfcXDB7xdQcytHWk6Z-stEJhg0g_ZG3nWyCWYP0xKOA_x5wXOprijPppVuYv1jlgj9apqfUIM6xSDGRnqEV91aJOV14VXxPBulTwem-AxM2NPLxuD6VO1aCxZB2cgMdRkY4v68Ox6nNqIl2hfHrR017UKgq-AbkEg6BWf",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJpYcglrjJ5zsRxwwwhGxfAdQ",
+            "plus_code": {
+                "compound_code": "3VG8+MQ Mumbai, Maharashtra",
+                "global_code": "7JFJ3VG8+MQ"
+            },
+            "rating": 5,
+            "reference": "ChIJpYcglrjJ5zsRxwwwhGxfAdQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Kolivery Rd, near St. Roque Grotto, Jamlipada, Kunchi Kurve Nagar, Kalina, Santacruz East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1213238,
+                    "lng": 72.8798408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.12267657989272,
+                        "lng": 72.88124792989271
+                    },
+                    "southwest": {
+                        "lat": 19.11997692010728,
+                        "lng": 72.87854827010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Real Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114572695220907008593\">Shivam Gour</a>"
+                    ],
+                    "photo_reference": "AcYSjRhop9nnRuBGcu4KnpL46OS4FQVW-UoMdFp1g01npuLLTR0fZAyiPpMLnUM1yMBzyGxttzbvo83NAgbfrro8ggMBXPXa3QFKbXeC1VTz7j_1XuNgThGWJ2nQKni9rGxNW71hRs0XLgudIgVNH-LDoXQI7nxCQRlch1ZpYkbFPlQ1qtPe",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJoaK9lBnI5zsRGuuLGsEIVNU",
+            "plus_code": {
+                "compound_code": "4VCH+GW Mumbai, Maharashtra",
+                "global_code": "7JFJ4VCH+GW"
+            },
+            "rating": 4.2,
+            "reference": "ChIJoaK9lBnI5zsRGuuLGsEIVNU",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 178,
+            "vicinity": "Shop No. 5, Vijay Tower, Marol Maroshi Rd, Vijay Nagar, MIDC, Marol, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0695213,
+                    "lng": 72.8428129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07081942989273,
+                        "lng": 72.84421647989272
+                    },
+                    "southwest": {
+                        "lat": 19.06811977010728,
+                        "lng": 72.84151682010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gokul Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJoZB7v7_J5zsRh6ltlLuRXso",
+            "plus_code": {
+                "compound_code": "3R9V+Q4 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R9V+Q4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJoZB7v7_J5zsRh6ltlLuRXso",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 204,
+            "vicinity": "Satyavati Shivlal Crawl, Golibar Rd, Jawahar Nagar, Khar East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.047821,
+                    "lng": 72.8573925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04916627989272,
+                        "lng": 72.85875282989272
+                    },
+                    "southwest": {
+                        "lat": 19.04646662010727,
+                        "lng": 72.85605317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Small Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJU7cNTdfI5zsRJu2lOJAKePE",
+            "plus_code": {
+                "compound_code": "2VX4+4W Mumbai, Maharashtra",
+                "global_code": "7JFJ2VX4+4W"
+            },
+            "rating": 0,
+            "reference": "ChIJU7cNTdfI5zsRJu2lOJAKePE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4, Dharavi, Sion, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.056164,
+                    "lng": 72.8480149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05756322989272,
+                        "lng": 72.84918777989272
+                    },
+                    "southwest": {
+                        "lat": 19.05486357010728,
+                        "lng": 72.84648812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nature's Basket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102154378990903981509\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9XlabonodvE79aS5wrlHgXqhanFnIuVxi2KA9LnnebxL9JvrPplsN2eHPd0A7w0rboQouOxuH1spqNICTugdfgwUtUIdQws_i1eCdc-rtrOEzsNcGSgCGLYHaFprfSMiYCKsEQaU7e2SJQDNe5-kNpeAaRj4cVYAu44WSkYwNyMuw",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJdwPbhKvJ5zsRXGeUHeRAIic",
+            "plus_code": {
+                "compound_code": "3R4X+F6 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R4X+F6"
+            },
+            "rating": 4,
+            "reference": "ChIJdwPbhKvJ5zsRXGeUHeRAIic",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 129,
+            "vicinity": "Shop No. 1 & 2, C Wing, Kalpataru Sparkle Complex Nanasaheb Dharmadhikari Road, MIG Colony, Gandhi Nagar, Bandra East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0370461,
+                    "lng": 72.8397025
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03842162989272,
+                        "lng": 72.84105172989273
+                    },
+                    "southwest": {
+                        "lat": 19.03572197010728,
+                        "lng": 72.83835207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sagar grocery",
+            "place_id": "ChIJxcRbUPrJ5zsR6V-l3KVkN6E",
+            "plus_code": {
+                "compound_code": "2RPQ+RV Mumbai, Maharashtra",
+                "global_code": "7JFJ2RPQ+RV"
+            },
+            "rating": 0,
+            "reference": "ChIJxcRbUPrJ5zsR6V-l3KVkN6E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no1, Kapad Bazar, Mahim West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1126486,
+                    "lng": 72.8438795
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11403292989272,
+                        "lng": 72.84513862989272
+                    },
+                    "southwest": {
+                        "lat": 19.11133327010728,
+                        "lng": 72.84243897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Savita's Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 535,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107249796025133482240\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6vBpcsLdF-I2mdEdsDxAKtzOIAZ7TMcE5aesAvPQ04a6ya95Dbc6hsEXRTIMWHdO_Lu7LxfdSAFJtsDCraib7mL_z6Eqnn1Z9kFhwYCFq6BdwppzYqxvPMg2trv7RK3l9C19kDhDjxVga5UqY4h9ET7J8d-bKUTWWIOozw_x0Ce8a",
+                    "width": 482
+                }
+            ],
+            "place_id": "ChIJ36v-ut_J5zsRTq3tLV3jEFw",
+            "plus_code": {
+                "compound_code": "4R7V+3H Mumbai, Maharashtra",
+                "global_code": "7JFJ4R7V+3H"
+            },
+            "rating": 5,
+            "reference": "ChIJ36v-ut_J5zsRTq3tLV3jEFw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Bharucha Baug, T E Colony, Andheri West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1466564,
+                    "lng": 72.823416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.14812612989272,
+                        "lng": 72.82488942989272
+                    },
+                    "southwest": {
+                        "lat": 19.14542647010728,
+                        "lng": 72.82218977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hiral Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJxRNw5fC35zsRhbHp2HWt-ro",
+            "plus_code": {
+                "compound_code": "4RWF+M9 Mumbai, Maharashtra",
+                "global_code": "7JFJ4RWF+M9"
+            },
+            "rating": 4.2,
+            "reference": "ChIJxRNw5fC35zsRhbHp2HWt-ro",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38,
+            "vicinity": "A-103, Maharana Pratap Rd, Swami Samarth Nagar, Lokhandwala Complex, Andheri West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0464509,
+                    "lng": 72.8401587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04784627989272,
+                        "lng": 72.84154307989273
+                    },
+                    "southwest": {
+                        "lat": 19.04514662010727,
+                        "lng": 72.83884342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MATOSHRI GROCERY STORE",
+            "place_id": "ChIJt7Ea0q7J5zsRlABn0vUBJ2s",
+            "plus_code": {
+                "compound_code": "2RWR+H3 Navi Mumbai, Maharashtra",
+                "global_code": "7JFJ2RWR+H3"
+            },
+            "rating": 4,
+            "reference": "ChIJt7Ea0q7J5zsRlABn0vUBJ2s",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Building Number-11, sector 4, Kopar Khairane, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1135555,
+                    "lng": 72.89280769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11485352989272,
+                        "lng": 72.89399777989271
+                    },
+                    "southwest": {
+                        "lat": 19.11215387010727,
+                        "lng": 72.89129812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Finchstaples - Buy Groceries Online in India",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4501,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104171075136080627596\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7jcW1t8I2qWDiRvBbu_0ViD1YN_tzXAYQBmGDFZGcIIQFp5HGnHsfKguG-5z4B4aMsmjPz2roHCdhV6d-0RDGEv5067JqW2aqLNMx3qy0oW_OSecyuhOHZtSsj6DYZSOitdRJuB_5CNtXMxRHAi1zK1OIjlZLYmWPzjwfqsau0pqm",
+                    "width": 4501
+                }
+            ],
+            "place_id": "ChIJW9JB66jJ5zsRulMv_K3afNI",
+            "plus_code": {
+                "compound_code": "4V7V+C4 Mumbai, Maharashtra",
+                "global_code": "7JFJ4V7V+C4"
+            },
+            "rating": 0,
+            "reference": "ChIJW9JB66jJ5zsRulMv_K3afNI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SOUTH-WING, Office 304, B2 wing, Chandivali, Andheri East, Mumbai"
+        }
+    ],
+    "status": "OK"
+}

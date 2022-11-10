@@ -1,0 +1,783 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRg83ejZsqmdzT-4_E83YzXi1EnAKLgtXc4-9EZPD3n6ge49NgrEwg3JDIea_EiB3aUMUXVPko6DEFJHSe0pzPSZZVDMIZf_zR1yAJX3XYm96b3ye_l9GF4RpH8T-oIyKU-TmPx64jxi355XBJudNEMMNzp0jRfEUGDSunOgDeU6k05mFkUhnsDpPwbd-5Du-uJbSuzEa8EgoAmzjtqUaSeNRFRihauoYN8vAsjMVRlNqIN51BbJ5s5sZKyRibIuEc7hOMcFYK4xmAzfrFAZoqd7W5pIFwaKRlNcZ3sjhHESdqTttONJwgjHfZ3ooDaz40gbLc7WG0lk6z3ew5BLym9hGPmh7Il4OeFlBHZBGZDWYB2LAjWUW0J7rRMG2BOHGfsw4zCa8HyJY4b0Y3IzmNr2rT5ITjaYJnuMvzVk6vphx2nzlQrZsw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5693062,
+                    "lng": 77.0559067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57048142989272,
+                        "lng": 77.05714762989271
+                    },
+                    "southwest": {
+                        "lat": 17.56778177010727,
+                        "lng": 77.05444797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Manikeshwari Kiran Shop",
+            "place_id": "ChIJkW6aMpfTyDsRYHCxZX1UHeg",
+            "plus_code": {
+                "compound_code": "H394+P9 Kalmud, Karnataka",
+                "global_code": "7J9VH394+P9"
+            },
+            "rating": 0,
+            "reference": "ChIJkW6aMpfTyDsRYHCxZX1UHeg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 9, Kalmud"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6141217,
+                    "lng": 77.109803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61550352989272,
+                        "lng": 77.11110672989271
+                    },
+                    "southwest": {
+                        "lat": 17.61280387010728,
+                        "lng": 77.10840707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pan shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106958800934386685136\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjNsMr2HIhm1zwXHzd-eyn7q-IPM79uUs_3JbpbBpR_H4cLmAiGt3saBVD3naweAricOBrzVNdqitB30PiKX6A0Zi1vk0mJOGipz38_e9K4CfCXJTEc_wPZWcm35R7zieX5RLlymleqi1d1VM2eZE3sldhm06T9vNVEtMDPIj3df9A8",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJj__bMWLVyDsR6qCp-Wk7PPY",
+            "rating": 0,
+            "reference": "ChIJj__bMWLVyDsR6qCp-Wk7PPY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J475+JWV, Sonth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6237225,
+                    "lng": 77.1130804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62481022989272,
+                        "lng": 77.11509972989273
+                    },
+                    "southwest": {
+                        "lat": 17.62211057010727,
+                        "lng": 77.11240007010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri Veerbhadreshwar General Store And Panchar Shop",
+            "place_id": "ChIJ7-ItMsgrzzsR8fMa-S9P7WU",
+            "plus_code": {
+                "compound_code": "J4F7+F6 Sonth, Karnataka",
+                "global_code": "7J9VJ4F7+F6"
+            },
+            "rating": 0,
+            "reference": "ChIJ7-ItMsgrzzsR8fMa-S9P7WU",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5583892,
+                    "lng": 77.1161763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.55974492989272,
+                        "lng": 77.11746492989272
+                    },
+                    "southwest": {
+                        "lat": 17.55704527010728,
+                        "lng": 77.11476527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sangameshwar kirana shop",
+            "place_id": "ChIJww5NYTXVyDsR6znvwkk1rbk",
+            "rating": 5,
+            "reference": "ChIJww5NYTXVyDsR6znvwkk1rbk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H458+9G2, SH 125, Chengta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5690434,
+                    "lng": 77.11139899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57043087989272,
+                        "lng": 77.11242862989272
+                    },
+                    "southwest": {
+                        "lat": 17.56773122010728,
+                        "lng": 77.10972897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sangameshwar Kiran Store",
+            "place_id": "ChIJqx1STlPVyDsRScHbYKi75FA",
+            "plus_code": {
+                "compound_code": "H496+JH Chengta, Karnataka",
+                "global_code": "7J9VH496+JH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJqx1STlPVyDsRScHbYKi75FA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No 8"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6603794,
+                    "lng": 77.03102179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66174977989273,
+                        "lng": 77.03236322989272
+                    },
+                    "southwest": {
+                        "lat": 17.65905012010728,
+                        "lng": 77.02966357010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sangameshwara kiranashop",
+            "place_id": "ChIJgVJ0JuAtzzsREkTuodiEY7k",
+            "rating": 0,
+            "reference": "ChIJgVJ0JuAtzzsREkTuodiEY7k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M26J+4CR, Dongeragaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6624859,
+                    "lng": 77.0582349
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66386072989272,
+                        "lng": 77.05955632989271
+                    },
+                    "southwest": {
+                        "lat": 17.66116107010728,
+                        "lng": 77.05685667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vishwakarma pan shop",
+            "opening_hours": {},
+            "place_id": "ChIJzSEf7kItzzsROD6ShSA0QTs",
+            "rating": 0,
+            "reference": "ChIJzSEf7kItzzsROD6ShSA0QTs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M365+X7X, Kinni Sadak"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.679092,
+                    "lng": 77.100281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68044102989272,
+                        "lng": 77.10162707989272
+                    },
+                    "southwest": {
+                        "lat": 17.67774137010728,
+                        "lng": 77.09892742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Revanasiddeshwara kirana shop",
+            "place_id": "ChIJ-1A0rz4tzzsRpro3TPZV44s",
+            "rating": 5,
+            "reference": "ChIJ-1A0rz4tzzsRpro3TPZV44s",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "M4H2+J4J, Chittakota"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5791132,
+                    "lng": 77.1399962
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58046397989272,
+                        "lng": 77.14135732989273
+                    },
+                    "southwest": {
+                        "lat": 17.57776432010728,
+                        "lng": 77.13865767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shetty general shop",
+            "place_id": "ChIJ0w57er_VyDsRb7WIyOEUK54",
+            "rating": 0,
+            "reference": "ChIJ0w57er_VyDsRb7WIyOEUK54",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H4HQ+JXX"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5760864,
+                    "lng": 77.124886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57743487989272,
+                        "lng": 77.12624252989272
+                    },
+                    "southwest": {
+                        "lat": 17.57473522010728,
+                        "lng": 77.12354287010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ADASRH KIRANA SHOP",
+            "place_id": "ChIJAaHxhHHVyDsRJSTt-P24GLY",
+            "rating": 0,
+            "reference": "ChIJAaHxhHHVyDsRJSTt-P24GLY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H4GF+CXJ, Kinni Sarfosh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6124977,
+                    "lng": 77.1112646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61389952989272,
+                        "lng": 77.11262392989272
+                    },
+                    "southwest": {
+                        "lat": 17.61119987010728,
+                        "lng": 77.10992427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Guru krupa shop provisionl store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNRfnMI7VyDsR3n1qEav8oj4",
+            "rating": 0,
+            "reference": "ChIJNRfnMI7VyDsR3n1qEav8oj4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J466+XGP, Sonth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5826524,
+                    "lng": 76.9917711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58401087989272,
+                        "lng": 76.99318657989272
+                    },
+                    "southwest": {
+                        "lat": 17.58131122010728,
+                        "lng": 76.99048692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Akash kirana shop",
+            "place_id": "ChIJpT8G8K_NyDsRyEH0v9uXsT8",
+            "rating": 0,
+            "reference": "ChIJpT8G8K_NyDsRyEH0v9uXsT8",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXMR+3P6, Unnamed Road, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6426176,
+                    "lng": 77.13278919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64399622989272,
+                        "lng": 77.13413787989272
+                    },
+                    "southwest": {
+                        "lat": 17.64129657010728,
+                        "lng": 77.13143822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "JAI SEVALAL KIRANA STORE",
+            "photos": [
+                {
+                    "height": 598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115430790503641192217\">Ml Cvn Banjara tv</a>"
+                    ],
+                    "photo_reference": "AcYSjRgmh8RW9abNrUnYP30bmyq7Tt_ZpCTAg_ARB1DB0tXXzV6IVCzmG5Zjjk8zrHUl7jlX5lEn6kdvFxTX2NCo755NF0tWlQBZ2Lw2Ej-zvYpBir-v-GUuLBWPgaiHNcs7t8yjjlShQK24RPV2CUh-1eG58xEeIHNPmM_UlbqC--HhkU2U",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJe9GfAYkrzzsRI61LLo3c25U",
+            "plus_code": {
+                "compound_code": "J4VM+24 Patwada Tanda, Karnataka",
+                "global_code": "7J9VJ4VM+24"
+            },
+            "rating": 0,
+            "reference": "ChIJe9GfAYkrzzsRI61LLo3c25U",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Patwada tanda, post: patwada tq:, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6440265,
+                    "lng": 77.13251699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64518737989272,
+                        "lng": 77.13371912989271
+                    },
+                    "southwest": {
+                        "lat": 17.64248772010728,
+                        "lng": 77.13101947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RAHUL KIRANA SHOP",
+            "place_id": "ChIJGZlSTB8rzzsRxzSAjB-g254",
+            "plus_code": {
+                "compound_code": "J4VM+J2 Kamalapur, Karnataka",
+                "global_code": "7J9VJ4VM+J2"
+            },
+            "rating": 0,
+            "reference": "ChIJGZlSTB8rzzsRxzSAjB-g254",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Patawada Tanda, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.670982,
+                    "lng": 77.1595003
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.6718379,
+                        "lng": 77.16020962989272
+                    },
+                    "southwest": {
+                        "lat": 17.6684143,
+                        "lng": 77.15750997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mastan Kirana Shop",
+            "place_id": "ChIJ6Zztqf8rzzsRCgEQzTj0PPg",
+            "plus_code": {
+                "compound_code": "M5C5+9R Humnabad, Karnataka",
+                "global_code": "7J9VM5C5+9R"
+            },
+            "rating": 0,
+            "reference": "ChIJ6Zztqf8rzzsRCgEQzTj0PPg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "01, Main Road, Humnabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6931135,
+                    "lng": 77.0337669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69443727989272,
+                        "lng": 77.03523922989272
+                    },
+                    "southwest": {
+                        "lat": 17.69173762010728,
+                        "lng": 77.03253957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pandargera thanda General store 1",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJtz__DWEtzzsR6sz3tustRR0",
+            "rating": 5,
+            "reference": "ChIJtz__DWEtzzsR6sz3tustRR0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "M2VM+6FX, Pandargera Thanda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5803004,
+                    "lng": 76.98828019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58166322989272,
+                        "lng": 76.98961792989272
+                    },
+                    "southwest": {
+                        "lat": 17.57896357010728,
+                        "lng": 76.98691827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhavani Xerox and general store",
+            "place_id": "ChIJdU7QU0vNyDsR5BHAkyJakFU",
+            "rating": 0,
+            "reference": "ChIJdU7QU0vNyDsR5BHAkyJakFU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXJQ+482, SH 125, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6138409,
+                    "lng": 77.109337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61517757989272,
+                        "lng": 77.11070157989272
+                    },
+                    "southwest": {
+                        "lat": 17.61247792010727,
+                        "lng": 77.10800192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ramalingeshwar general store and fruits all seasons available shop (RontyPatil)sonth",
+            "place_id": "ChIJpY89u8XVyDsRQMUciaN2MeQ",
+            "rating": 0,
+            "reference": "ChIJpY89u8XVyDsRQMUciaN2MeQ",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J475+GPP, Sonth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6141118,
+                    "lng": 77.1097961
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61549677989272,
+                        "lng": 77.11110197989272
+                    },
+                    "southwest": {
+                        "lat": 17.61279712010728,
+                        "lng": 77.10840232010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Degalamadi Pan shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100579064504208949177\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi1_cku-EFHfktKyYpUzBk1-40PQrMIEjNBnHs1PitP2D7B-daI89ZFBQbQZYMRno6Ua7iZ6lzcNlRC3IMV6AreMfz9U39kDyAi_esDxRNbWQW1uvWy6JQrXVt2ml9MLjkKKoXaJcHaFhsTo6m9drJyJiUeV4bc4y9bkj0m61TPzFCD",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJnQUhoLjVyDsR15bJbnFZI-0",
+            "plus_code": {
+                "compound_code": "J475+JW Sonth, Karnataka",
+                "global_code": "7J9VJ475+JW"
+            },
+            "rating": 5,
+            "reference": "ChIJnQUhoLjVyDsR15bJbnFZI-0",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sonth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6486225,
+                    "lng": 77.0375561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64995772989272,
+                        "lng": 77.03974265000001
+                    },
+                    "southwest": {
+                        "lat": 17.64725807010728,
+                        "lng": 77.03099644999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "khendi kiran and genaral store",
+            "place_id": "ChIJSYCaS_EtzzsR7HYmT41rUR4",
+            "plus_code": {
+                "compound_code": "J2XQ+C2 Dongeragaon, Karnataka",
+                "global_code": "7J9VJ2XQ+C2"
+            },
+            "rating": 0,
+            "reference": "ChIJSYCaS_EtzzsR7HYmT41rUR4",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no 1, kalaburagi"
+        }
+    ],
+    "status": "OK"
+}

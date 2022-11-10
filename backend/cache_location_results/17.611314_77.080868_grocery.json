@@ -1,0 +1,557 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5583892,
+                    "lng": 77.1161763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.55974492989272,
+                        "lng": 77.11746492989272
+                    },
+                    "southwest": {
+                        "lat": 17.55704527010728,
+                        "lng": 77.11476527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sangameshwar kirana shop",
+            "place_id": "ChIJww5NYTXVyDsR6znvwkk1rbk",
+            "rating": 5,
+            "reference": "ChIJww5NYTXVyDsR6znvwkk1rbk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H458+9G2, SH 125, Chengta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6603794,
+                    "lng": 77.03102179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66174977989273,
+                        "lng": 77.03236322989272
+                    },
+                    "southwest": {
+                        "lat": 17.65905012010728,
+                        "lng": 77.02966357010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sangameshwara kiranashop",
+            "place_id": "ChIJgVJ0JuAtzzsREkTuodiEY7k",
+            "rating": 0,
+            "reference": "ChIJgVJ0JuAtzzsREkTuodiEY7k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M26J+4CR, Dongeragaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5396875,
+                    "lng": 77.0156875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54104417989272,
+                        "lng": 77.01700432989271
+                    },
+                    "southwest": {
+                        "lat": 17.53834452010728,
+                        "lng": 77.01430467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Patel brothers kirana and general store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110728470207481786365\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRibojMIWQSynQRpQfRUo-gsXgDssm1gWGxEQyj882WFtYoFkj64BPLgucAhz41Gjsh_Xhn82UyBxQ2ozeimw7wsi_Cd2bh3NHKsZOe22uDqk7JdAfKbdS2ngplmJ44_mFzm_yxElGhE3p4Yahu_DJphqwwtxJ_hGhd14unNi9Dh17mh",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJo2h1buzTyDsRjj6wXfjBRvY",
+            "plus_code": {
+                "compound_code": "G2Q8+V7 Belura, Karnataka",
+                "global_code": "7J9VG2Q8+V7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJo2h1buzTyDsRjj6wXfjBRvY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Belura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5760864,
+                    "lng": 77.124886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57743487989272,
+                        "lng": 77.12624252989272
+                    },
+                    "southwest": {
+                        "lat": 17.57473522010728,
+                        "lng": 77.12354287010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ADASRH KIRANA SHOP",
+            "place_id": "ChIJAaHxhHHVyDsRJSTt-P24GLY",
+            "rating": 0,
+            "reference": "ChIJAaHxhHHVyDsRJSTt-P24GLY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H4GF+CXJ, Kinni Sarfosh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5598273,
+                    "lng": 77.11625409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56118772989272,
+                        "lng": 77.11760482989273
+                    },
+                    "southwest": {
+                        "lat": 17.55848807010727,
+                        "lng": 77.11490517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rahul kirana store",
+            "place_id": "ChIJV1EwNjHVyDsRKxsGUm3RoGs",
+            "rating": 4,
+            "reference": "ChIJV1EwNjHVyDsRKxsGUm3RoGs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H468+4CR, Chengta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5803852,
+                    "lng": 76.9881587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58172442989272,
+                        "lng": 76.98950877989273
+                    },
+                    "southwest": {
+                        "lat": 17.57902477010727,
+                        "lng": 76.98680912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Guru bhai gudagi kirana store",
+            "place_id": "ChIJF7qVFdjNyDsRIhPm0O3fdYU",
+            "rating": 4,
+            "reference": "ChIJF7qVFdjNyDsRIhPm0O3fdYU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "HXJQ+47V, SH 125, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6624859,
+                    "lng": 77.0582349
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66386072989272,
+                        "lng": 77.05955632989271
+                    },
+                    "southwest": {
+                        "lat": 17.66116107010728,
+                        "lng": 77.05685667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vishwakarma pan shop",
+            "opening_hours": {},
+            "place_id": "ChIJzSEf7kItzzsROD6ShSA0QTs",
+            "rating": 0,
+            "reference": "ChIJzSEf7kItzzsROD6ShSA0QTs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M365+X7X, Kinni Sadak"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5704341,
+                    "lng": 77.0530857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57176547989272,
+                        "lng": 77.05442592989273
+                    },
+                    "southwest": {
+                        "lat": 17.56906582010727,
+                        "lng": 77.05172627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ambedkar Chowk kalmud market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJldxM0XjTyDsRfBbveW6lYiU",
+            "rating": 4.3,
+            "reference": "ChIJldxM0XjTyDsRfBbveW6lYiU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "H3C3+56G, SH 125, Kalmud"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5803004,
+                    "lng": 76.98828019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58166322989272,
+                        "lng": 76.98961792989272
+                    },
+                    "southwest": {
+                        "lat": 17.57896357010728,
+                        "lng": 76.98691827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhavani Xerox and general store",
+            "place_id": "ChIJdU7QU0vNyDsR5BHAkyJakFU",
+            "rating": 0,
+            "reference": "ChIJdU7QU0vNyDsR5BHAkyJakFU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXJQ+482, SH 125, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5786684,
+                    "lng": 76.9908897
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57999932989272,
+                        "lng": 76.99223477989271
+                    },
+                    "southwest": {
+                        "lat": 17.57729967010728,
+                        "lng": 76.98953512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hanamanth oladoddi",
+            "place_id": "ChIJTX3G0dnNyDsRcEVQrmI36zo",
+            "rating": 0,
+            "reference": "ChIJTX3G0dnNyDsRcEVQrmI36zo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXHR+F96, Unnamed Road, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6623353,
+                    "lng": 77.0583613
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66366647989272,
+                        "lng": 77.05972527989272
+                    },
+                    "southwest": {
+                        "lat": 17.66096682010728,
+                        "lng": 77.05702562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tanushree General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJPU-R23YtzzsRVh8f42_LWjI",
+            "rating": 5,
+            "reference": "ChIJPU-R23YtzzsRVh8f42_LWjI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M365+W8Q, Kinni Sadak"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5814532,
+                    "lng": 76.9865928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58283177989272,
+                        "lng": 76.98797932989272
+                    },
+                    "southwest": {
+                        "lat": 17.58013212010728,
+                        "lng": 76.98527967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Veerbhadreshwar Ayurvedic and Herbal India",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105296012395308084043\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiRzTMClD1VlNHsrxvYu_6JLlbGvOQWCHFJjv4k-izGyUuTxjHLWuoNvNkLUk5wQvb5EHhFiCaOlCUuoVK-izG_86ybeaHDVoTsUWznTkBYc_-HIQws-fmxf0ObNLYwNrB9SaA-FIAbSOIYYt2fF-9PKhf_pH5z1GO6pwUmd9L43yJ-",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJTWrjd2_NyDsRbAgtagh9o_k",
+            "plus_code": {
+                "compound_code": "HXJP+HJ Kamalapur, Karnataka",
+                "global_code": "7J9RHXJP+HJ"
+            },
+            "rating": 0,
+            "reference": "ChIJTWrjd2_NyDsRbAgtagh9o_k",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kamalapur - Warnal Rd, Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5800721,
+                    "lng": 76.9859077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58121657989272,
+                        "lng": 76.98749037989272
+                    },
+                    "southwest": {
+                        "lat": 17.57851692010728,
+                        "lng": 76.98479072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "V Mart super Bazar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJw3vegmbNyDsR-RgJYWZWEcg",
+            "rating": 0,
+            "reference": "ChIJw3vegmbNyDsR-RgJYWZWEcg",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXJP+29F, Kamalapur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.5800721,
+                    "lng": 76.9859077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58121657989272,
+                        "lng": 76.98749037989272
+                    },
+                    "southwest": {
+                        "lat": 17.57851692010728,
+                        "lng": 76.98479072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Sai General Store",
+            "permanently_closed": true,
+            "place_id": "ChIJ91ak8aXNyDsRtnpwgrOfio4",
+            "rating": 0,
+            "reference": "ChIJ91ak8aXNyDsRtnpwgrOfio4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXJP+29F, Okli Cross, Kamalapur"
+        }
+    ],
+    "status": "OK"
+}

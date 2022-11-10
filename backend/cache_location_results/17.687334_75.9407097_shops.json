@@ -1,0 +1,799 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi2TiTXnANjdhwVOuHaDkbOtgt1QktWVBANjaUiWhxW44ljbLqr_K-dgJdX1KlCL7TpU-YdazkpE52dOXk8FLfV8F--aJXZVqJN1Rdu1WfS6hD4mhQfk_fxkbad151VUdQbosQ72ms3Qqc44IF0IfDANf5QH-bPIIfVpjOoaQUOORH6A-mTGMxnaJH2B1UVlp5yldJ2N6xdzUE3ppqHu41fsjrDBb4l86mM4jsazdtz4UGwny7HpXzF9ul_SlnLapvbfdYBdv1qt1wNbr50d18bAUBN7w1bQkmqARqogeGtKBfwt0AUL_dds3v4X5N5quPndBdA-3tJopq7HsVcvog0krKUz6Pa9FzRwpcbBJ2qub_rOUSghG4GscJGAZqWNcxRY9U4n2GYMB2UgSLtxxb-ndxA5eXprkRq7XCsZhssxnCidXOQHg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6702477,
+                    "lng": 75.8967942
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67155407989272,
+                        "lng": 75.89814722989271
+                    },
+                    "southwest": {
+                        "lat": 17.66885442010728,
+                        "lng": 75.89544757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gajanan Glossary Shop and General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114539791817540824366\">Prem Thengil</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZEiizTGF73Q9WV984U_NNc_v8q-Z6mHA4_-VDwRXY2R4AHjg1PbIzYe6c3aR2QGWiBOPim4UBi-qOyJ4dGp5CS-GdtdA_1aqUoSQ8MFJUXN-pTJKc5DV721L2DUK148qH-KDz8IdbSgnqxGQvEUakeIASanUe84mDpcmoH2X0t-v8",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJs1bd0oPQxTsR2yOTNu3vr4Y",
+            "plus_code": {
+                "compound_code": "MVCW+4P Solapur, Maharashtra",
+                "global_code": "7J9QMVCW+4P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJs1bd0oPQxTsR2yOTNu3vr4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Murarji Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6739196,
+                    "lng": 75.9180209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67527267989272,
+                        "lng": 75.91937062989273
+                    },
+                    "southwest": {
+                        "lat": 17.67257302010728,
+                        "lng": 75.91667097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shubham Kirana Shop",
+            "place_id": "ChIJgxXk4cvbxTsRW78go60LVjE",
+            "plus_code": {
+                "compound_code": "MWF9+H6 Solapur, Maharashtra",
+                "global_code": "7J9QMWF9+H6"
+            },
+            "rating": 0,
+            "reference": "ChIJgxXk4cvbxTsRW78go60LVjE",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1, Jodbasvvna Chowk, Bhadravathi Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7039408,
+                    "lng": 75.9131791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70521307989272,
+                        "lng": 75.91513592989273
+                    },
+                    "southwest": {
+                        "lat": 17.70251342010728,
+                        "lng": 75.91243627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Royal Pan Shop",
+            "place_id": "ChIJZWHvUXLbxTsReeoF9B7xC0U",
+            "plus_code": {
+                "compound_code": "PW37+H7 Solapur, Maharashtra",
+                "global_code": "7J9QPW37+H7"
+            },
+            "rating": 0,
+            "reference": "ChIJZWHvUXLbxTsReeoF9B7xC0U",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Hipparga Near Shelagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6464012,
+                    "lng": 75.93906199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64773192989272,
+                        "lng": 75.94040972989272
+                    },
+                    "southwest": {
+                        "lat": 17.64503227010728,
+                        "lng": 75.93771007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping",
+            "place_id": "ChIJzRkJLdzbxTsROnpm6MES9dQ",
+            "plus_code": {
+                "compound_code": "JWWQ+HJ Solapur, Maharashtra",
+                "global_code": "7J9QJWWQ+HJ"
+            },
+            "rating": 0,
+            "reference": "ChIJzRkJLdzbxTsROnpm6MES9dQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "779 Bharat chowk, Nilam Sramjivi Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.688999,
+                    "lng": 75.9211692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69037057989273,
+                        "lng": 75.92250987989273
+                    },
+                    "southwest": {
+                        "lat": 17.68767092010728,
+                        "lng": 75.91981022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gajdhane Shop",
+            "place_id": "ChIJ8T1b5TXbxTsR_lL4BaAN3gc",
+            "plus_code": {
+                "compound_code": "MWQC+HF Solapur, Maharashtra",
+                "global_code": "7J9QMWQC+HF"
+            },
+            "rating": 0,
+            "reference": "ChIJ8T1b5TXbxTsR_lL4BaAN3gc",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01 Mean Market, Shelgi Rd, opp. Bus Stand, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6769673,
+                    "lng": 75.9015629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67828812989272,
+                        "lng": 75.90291567989271
+                    },
+                    "southwest": {
+                        "lat": 17.67558847010728,
+                        "lng": 75.90021602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Candy Shop",
+            "place_id": "ChIJObmJdYDaxTsRAAAAsDR47F0",
+            "plus_code": {
+                "compound_code": "MWG2+QJ Solapur, Maharashtra",
+                "global_code": "7J9QMWG2+QJ"
+            },
+            "rating": 0,
+            "reference": "ChIJObmJdYDaxTsRAAAAsDR47F0",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11, Bhagwaandas Complex, opp. Goel Glass Centre, Navi Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6604051,
+                    "lng": 75.91019519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66168472989272,
+                        "lng": 75.91151027989274
+                    },
+                    "southwest": {
+                        "lat": 17.65898507010728,
+                        "lng": 75.90881062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Swapnil Shop",
+            "place_id": "ChIJRVvmgTPbxTsR2rTQl7--fl8",
+            "plus_code": {
+                "compound_code": "MW66+53 Solapur, Maharashtra",
+                "global_code": "7J9QMW66+53"
+            },
+            "rating": 0,
+            "reference": "ChIJRVvmgTPbxTsR2rTQl7--fl8",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "01, Solapur Rd, South Sadar Bazar, Jawaharlal Housing Society, Keshav Nagra, Mangalwedha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6566229,
+                    "lng": 75.940879
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65797682989272,
+                        "lng": 75.9422299298927
+                    },
+                    "southwest": {
+                        "lat": 17.65527717010727,
+                        "lng": 75.93953027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ram Pan Shop",
+            "place_id": "ChIJJ4cX9VzbxTsRDDegrEX0JjM",
+            "plus_code": {
+                "compound_code": "MW4R+J9 Solapur, Maharashtra",
+                "global_code": "7J9QMW4R+J9"
+            },
+            "rating": 0,
+            "reference": "ChIJJ4cX9VzbxTsRDDegrEX0JjM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Sunil Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.657389,
+                    "lng": 75.8809502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65873742989272,
+                        "lng": 75.88229887989272
+                    },
+                    "southwest": {
+                        "lat": 17.65603777010728,
+                        "lng": 75.87959922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Khandekar Shop",
+            "place_id": "ChIJzyYry2PRxTsRwbt_VkBuyWk",
+            "plus_code": {
+                "compound_code": "MV4J+X9 Solapur, Maharashtra",
+                "global_code": "7J9QMV4J+X9"
+            },
+            "rating": 0,
+            "reference": "ChIJzyYry2PRxTsRwbt_VkBuyWk",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.08, Salgar Vasti, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6393925,
+                    "lng": 75.9252243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64071722989272,
+                        "lng": 75.92647657989272
+                    },
+                    "southwest": {
+                        "lat": 17.63801757010728,
+                        "lng": 75.92377692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Moin Pan Shop",
+            "place_id": "ChIJo4zLrJ7bxTsRMwLIiHqbCRg",
+            "plus_code": {
+                "compound_code": "JWQG+Q3 Solapur, Maharashtra",
+                "global_code": "7J9QJWQG+Q3"
+            },
+            "rating": 5,
+            "reference": "ChIJo4zLrJ7bxTsRMwLIiHqbCRg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No.08, Anand Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6631724,
+                    "lng": 75.9005935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66451307989272,
+                        "lng": 75.90197862989272
+                    },
+                    "southwest": {
+                        "lat": 17.66181342010728,
+                        "lng": 75.89927897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TAMBOLI PAN SHOP",
+            "place_id": "ChIJn7U0acLbxTsRB3QYjNffzjI",
+            "plus_code": {
+                "compound_code": "MW72+76 Solapur, Maharashtra",
+                "global_code": "7J9QMW72+76"
+            },
+            "rating": 0,
+            "reference": "ChIJn7U0acLbxTsRB3QYjNffzjI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Employment Chowk"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6624798,
+                    "lng": 75.89638839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66386222989272,
+                        "lng": 75.89770542989272
+                    },
+                    "southwest": {
+                        "lat": 17.66116257010728,
+                        "lng": 75.89500577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rama Shop",
+            "place_id": "ChIJeXRafETRxTsRf__V6LLWLbQ",
+            "plus_code": {
+                "compound_code": "MV6W+XH Solapur, Maharashtra",
+                "global_code": "7J9QMV6W+XH"
+            },
+            "rating": 0,
+            "reference": "ChIJeXRafETRxTsRf__V6LLWLbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop 11, Railway lines, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6256266,
+                    "lng": 75.8961051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62697962989272,
+                        "lng": 75.89744192989272
+                    },
+                    "southwest": {
+                        "lat": 17.62427997010727,
+                        "lng": 75.89474227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vaishnavi Paan Shop",
+            "place_id": "ChIJHXdTzGLXxTsRzAgt2nOhTrY",
+            "plus_code": {
+                "compound_code": "JVGW+7C Solapur, Maharashtra",
+                "global_code": "7J9QJVGW+7C"
+            },
+            "rating": 0,
+            "reference": "ChIJHXdTzGLXxTsRzAgt2nOhTrY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Saiful, Rohini Nagar, South, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6449718,
+                    "lng": 75.89607579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64625582989272,
+                        "lng": 75.89740567989273
+                    },
+                    "southwest": {
+                        "lat": 17.64355617010727,
+                        "lng": 75.89470602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yadgar Mtan Shop",
+            "place_id": "ChIJZVDvf8vRxTsROrld_AGP3o8",
+            "plus_code": {
+                "compound_code": "JVVW+XC Solapur, Maharashtra",
+                "global_code": "7J9QJVVW+XC"
+            },
+            "rating": 0,
+            "reference": "ChIJZVDvf8vRxTsROrld_AGP3o8",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 08, Indira Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.643135,
+                    "lng": 75.9724986
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64451172989272,
+                        "lng": 75.97384822989272
+                    },
+                    "southwest": {
+                        "lat": 17.64181207010728,
+                        "lng": 75.97114857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shaikh Shop",
+            "place_id": "ChIJIyFIhD_bxTsRRQ1F1Xl0bxQ",
+            "plus_code": {
+                "compound_code": "JXVC+7X New vidi garkul, Maharashtra",
+                "global_code": "7J9QJXVC+7X"
+            },
+            "rating": 0,
+            "reference": "ChIJIyFIhD_bxTsRRQ1F1Xl0bxQ",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop Mo 01ain Road New Gharkum B Jamadar Shop"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6372992,
+                    "lng": 75.9257228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63864152989272,
+                        "lng": 75.92704637989273
+                    },
+                    "southwest": {
+                        "lat": 17.63594187010728,
+                        "lng": 75.92434672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lucky Pan Shop",
+            "place_id": "ChIJyw9bsw_bxTsReZrXHbgomI8",
+            "plus_code": {
+                "compound_code": "JWPG+W7 Solapur, Maharashtra",
+                "global_code": "7J9QJWPG+W7"
+            },
+            "rating": 0,
+            "reference": "ChIJyw9bsw_bxTsReZrXHbgomI8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Main Road, Sahara Nagar, Siddheshwar Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6512452,
+                    "lng": 75.9383084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65261572989272,
+                        "lng": 75.93966707989273
+                    },
+                    "southwest": {
+                        "lat": 17.64991607010728,
+                        "lng": 75.93696742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ambadas Pan Shop",
+            "place_id": "ChIJ70eD5r_bxTsRUIrEGqBITRs",
+            "plus_code": {
+                "compound_code": "MW2Q+F8 Solapur, Maharashtra",
+                "global_code": "7J9QMW2Q+F8"
+            },
+            "rating": 0,
+            "reference": "ChIJ70eD5r_bxTsRUIrEGqBITRs",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Nilam Sramjivi Nagar, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6745231,
+                    "lng": 75.909263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67587167989272,
+                        "lng": 75.91062207989272
+                    },
+                    "southwest": {
+                        "lat": 17.67317202010728,
+                        "lng": 75.90792242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A N Pan Shop",
+            "place_id": "ChIJzX6IhqzbxTsREYb8dzSYf4I",
+            "plus_code": {
+                "compound_code": "MWF5+RP Solapur, Maharashtra",
+                "global_code": "7J9QMWF5+RP"
+            },
+            "rating": 0,
+            "reference": "ChIJzX6IhqzbxTsREYb8dzSYf4I",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.4, Solapur Rd, Shaniwar Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6836935,
+                    "lng": 75.9076326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68504132989272,
+                        "lng": 75.90899587989273
+                    },
+                    "southwest": {
+                        "lat": 17.68234167010728,
+                        "lng": 75.90629622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "shubham vardekar shops",
+            "place_id": "ChIJ3yJe483bxTsRl3FpcI-sfO0",
+            "plus_code": {
+                "compound_code": "MWM5+F2 Solapur, Maharashtra",
+                "global_code": "7J9QMWM5+F2"
+            },
+            "rating": 0,
+            "reference": "ChIJ3yJe483bxTsRl3FpcI-sfO0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "115 Maratha, Javalkar Vasti Rd, Bhavani Peth, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6755687,
+                    "lng": 75.9144017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67699162989272,
+                        "lng": 75.91577482989273
+                    },
+                    "southwest": {
+                        "lat": 17.67429197010728,
+                        "lng": 75.91307517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prerna General And Gift Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJGTj2V2LaxTsRo-_iche91sw",
+            "plus_code": {
+                "compound_code": "MWG7+7Q Solapur, Maharashtra",
+                "global_code": "7J9QMWG7+7Q"
+            },
+            "rating": 1,
+            "reference": "ChIJGTj2V2LaxTsRo-_iche91sw",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "106, Sakhar Peth Rd, beside Swastik Sweets, Sakhar Peth, Shaniwar Peth, Solapur"
+        }
+    ],
+    "status": "OK"
+}

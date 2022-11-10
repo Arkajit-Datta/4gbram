@@ -1,0 +1,225 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3940046,
+                    "lng": 74.54272259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.39534977989272,
+                        "lng": 74.54408327989272
+                    },
+                    "southwest": {
+                        "lat": 18.39265012010728,
+                        "lng": 74.54138362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shravani Electrical & Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJuZKyQ2QTwzsRnIC0lK7y208",
+            "rating": 4.7,
+            "reference": "ChIJuZKyQ2QTwzsRnIC0lK7y208",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "9GVV+J35, Pandharewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3978027,
+                    "lng": 74.5244979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.39910162989272,
+                        "lng": 74.52582932989272
+                    },
+                    "southwest": {
+                        "lat": 18.39640197010728,
+                        "lng": 74.52312967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Electrical And Electronic",
+            "place_id": "ChIJ37-ev-kTwzsR6YDPyg7sNb8",
+            "plus_code": {
+                "compound_code": "9GXF+4Q Pandharewadi, Maharashtra",
+                "global_code": "7JCP9GXF+4Q"
+            },
+            "rating": 0,
+            "reference": "ChIJ37-ev-kTwzsR6YDPyg7sNb8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Kurkumbh, MIDC, Pandharewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3938743,
+                    "lng": 74.5384412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.39516752989272,
+                        "lng": 74.54011297989273
+                    },
+                    "southwest": {
+                        "lat": 18.39246787010728,
+                        "lng": 74.53741332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ankleswar electrical and instrumentation",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100075955739494631991\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9zorJa_EMULI0jTd7aVBhcJDZKJRf1hi3NHeUdwq0grfXA1YYTg5I34aBAKHUz-sBlmaDGFzh3Pqp8zoQxxJ4Oh7TaQMbl5rkbST-KwSsqpEijAsjJPxPH7SsSq0ekMy0reqeAun-Np-Cf6w_1LDsLQ5wR_XtXagbX5p2l44QgE22",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ85yrDEoTwzsRqmEFpr2H6ik",
+            "plus_code": {
+                "compound_code": "9GVQ+H9 Kurkumbh, Maharashtra",
+                "global_code": "7JCP9GVQ+H9"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ85yrDEoTwzsRqmEFpr2H6ik",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "Shop No. 7, 8, 9, Solapur - Pune Hwy, behind Anand Garden, Hadapsar, Kurkumbh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3950081,
+                    "lng": 74.5392109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.39633567989273,
+                        "lng": 74.54064962989271
+                    },
+                    "southwest": {
+                        "lat": 18.39363602010728,
+                        "lng": 74.53794997010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "I Con Mobile Center And Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111007423813693723657\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_kGSAzQGeH4PyE098GBfYsPIIG27LwiHMuda8lSzjvSLcnxgx2iFhdtLJfoSlypNoZ5Ma0L5RPN_QNb-lsK7xDH8KG_haZeEczjdPeZ2VjBbuE3Pvqb5MkWL_MImzuBHIt2wzucTeKz6lyXQvTd8c950k1jWGFM6C2dJIygqFfNhf",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ85qWmtUTwzsR6B4_xzCD7Vg",
+            "plus_code": {
+                "compound_code": "9GWQ+2M Kurkumbh, Maharashtra",
+                "global_code": "7JCP9GWQ+2M"
+            },
+            "rating": 0,
+            "reference": "ChIJ85qWmtUTwzsR6B4_xzCD7Vg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nr Ambedkar Chowk, Kurkumbh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.3171701,
+                    "lng": 74.44564989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.31852372989272,
+                        "lng": 74.4469559798927
+                    },
+                    "southwest": {
+                        "lat": 18.31582407010728,
+                        "lng": 74.44425632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0915\u093e\u0915\u0921\u0947 \u092c\u094b\u0930\u0935\u0947\u0932 \u0926\u0941\u0930\u0941\u0938\u094d\u0924\u0940",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJCf60__sPwzsRBlNgX-jxpNI",
+            "rating": 5,
+            "reference": "ChIJCf60__sPwzsRBlNgX-jxpNI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "8C8W+V77, Kololi"
+        }
+    ],
+    "status": "OK"
+}

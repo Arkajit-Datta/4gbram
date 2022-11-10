@@ -1,0 +1,915 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhCjoKj4NCRXKlkBSxf7gKU5TOizeEF9t2sAmiRUTvjxHLO6E07CvohlmJTLGp_PVK0w9NCdbWKMoYD6SRib505jRU3C9XxDnnHzv7vsbH_I1GOVbEcA6H43U1BWn0Ajb9XcXaVpSxAHfX_MUsfL1WuIOkQRm1_EhcTzJb_Q35Q60xv3GwLdZaFvXC_pEW9r9IY2-yDYGSlBBhQmJ98HcnUVHqUe_TOI9RgVNqFz8-OY4Uii8ImQSYj1-QOopG23oYeO3RlVLzSwoLsyNYIJ8I614ksf4pJmczEmeigJf6tRhLjaB8-H22NuvywVDxm3hehWG_FudwlfKnLrVdvoOl5A8So8nIhHEqceJe1swqoYRBDGAceTde5qn45ZcwF3ToL6WRhdIfJQv07V4jFwG3RDtxv0DY1kECp5cv6JkDkyjd3lCNfGiT1wISuLKN53Gu9",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8121901,
+                    "lng": 73.3336628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.81358322989272,
+                        "lng": 73.33501372989271
+                    },
+                    "southwest": {
+                        "lat": 18.81088357010728,
+                        "lng": 73.33231407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pathak Electronic and Mobile shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116408828169615827601\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgbFLoRro12IVfsYg_6BlkDmODHMtiVGInG9R-xwre-2ZPV05LmY1EJ8HSe447OnhfLJx_qxRpb7LMqnZBBWHk0WByNRVNJgmSJTj9V-g4eq0DMq_gSO9-JnnC0Zd3aBVBAMKhn--N7NQSYZ1yvIj_WHJLAmmxgvKjKDCz8EN89_uc7",
+                    "width": 9280
+                }
+            ],
+            "place_id": "ChIJk7_tjTD95zsRVK2AbyiYIlQ",
+            "plus_code": {
+                "compound_code": "R86M+VF Khopoli, Maharashtra",
+                "global_code": "7JCMR86M+VF"
+            },
+            "rating": 4.9,
+            "reference": "ChIJk7_tjTD95zsRVK2AbyiYIlQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Shop no 4 kalpak hills 2 chinchavali shekin Station road lowjee, near iti school, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7837289,
+                    "lng": 73.34267109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78508672989272,
+                        "lng": 73.34403692989272
+                    },
+                    "southwest": {
+                        "lat": 18.78238707010728,
+                        "lng": 73.34133727010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Decent Electrical",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114282307774170129278\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg7aCnDM5b-co8FIK1Cn0NUJ5AXPNB4pZnHZFNGz0EbkA-WDnFEhZyldwoya0dow8exchMC2UTSnyAE5ydABFPGtA42EOnszpEyP0RI_H7XQ0_25vM2C6qzRIDRiShW8kaeTeFKdn2vS-DJGrCcbZE4ECl_QCDNJfRS8A-g-uNrCLDp",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ27_MV_YH6DsRSGZCeYi38F0",
+            "plus_code": {
+                "compound_code": "Q8MV+F2 Khopoli, Maharashtra",
+                "global_code": "7JCMQ8MV+F2"
+            },
+            "rating": 5,
+            "reference": "ChIJ27_MV_YH6DsRSGZCeYi38F0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 2, near Kejriwal Hospital, Kranti Nagar, East, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8005991,
+                    "lng": 73.3244995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.80195337989272,
+                        "lng": 73.32583702989271
+                    },
+                    "southwest": {
+                        "lat": 18.79925372010728,
+                        "lng": 73.32313737010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raviraj Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJixuVaH8H6DsR6W7sXa6sCg8",
+            "plus_code": {
+                "compound_code": "R82F+6Q Khopoli, Maharashtra",
+                "global_code": "7JCMR82F+6Q"
+            },
+            "rating": 5,
+            "reference": "ChIJixuVaH8H6DsR6W7sXa6sCg8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bus Stop, Shop No-106, Shil Phata, Madras Bombay Trunk Rd, Navanath Colony, Yashwant Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7885499,
+                    "lng": 73.3450271
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78988717989272,
+                        "lng": 73.34639657989271
+                    },
+                    "southwest": {
+                        "lat": 18.78718752010728,
+                        "lng": 73.34369692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raj Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113978951229341084482\">Raj Pingale</a>"
+                    ],
+                    "photo_reference": "AcYSjRhu4ahglbacLXA1Buuv3NaFr5XEf4dUWgwjiAHcYL1QWG-1sjUIEOEknlLd25XxfFEZgq6WPpc7vE1dtD-C5kJaoxCVe8yiAdaPDV81iUeIeGSE3R-USnMgSjeGLSiEw28FHGZveYAquTq_qS2zXJCKZ_31q1xxzdZOkEF704Tt8Eec",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJT7gRMGoH6DsRliy1gYz5q6w",
+            "plus_code": {
+                "compound_code": "Q8QW+C2 Khopoli, Maharashtra",
+                "global_code": "7JCMQ8QW+C2"
+            },
+            "rating": 3.8,
+            "reference": "ChIJT7gRMGoH6DsRliy1gYz5q6w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Arihant Tower,B-1,Bazar Peth,Station Road,Khopoli, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7889974,
+                    "lng": 73.3413948
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79033237989272,
+                        "lng": 73.34280612989272
+                    },
+                    "southwest": {
+                        "lat": 18.78763272010728,
+                        "lng": 73.34010647010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shradha Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJsag0W2kH6DsRs5Tp-ITSI4E",
+            "rating": 4.3,
+            "reference": "ChIJsag0W2kH6DsRs5Tp-ITSI4E",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Q8QR+HHR, Bazzar Pate Khopoli) (Bick Of Ambika Jewerls, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7882487,
+                    "lng": 73.3406924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78963677989272,
+                        "lng": 73.34205782989271
+                    },
+                    "southwest": {
+                        "lat": 18.78693712010728,
+                        "lng": 73.33935817010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Phoenix",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJM6tRBWwH6DsRTKJxfYrTGe8",
+            "rating": 5,
+            "reference": "ChIJM6tRBWwH6DsRTKJxfYrTGe8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Q8QR+77W, Indira Nagar, Laxminagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8305762,
+                    "lng": 73.2847299
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.83190447989272,
+                        "lng": 73.28600397989273
+                    },
+                    "southwest": {
+                        "lat": 18.82920482010728,
+                        "lng": 73.28330432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Zankar Electronics",
+            "place_id": "ChIJx6Zvn9795zsR1XU_GyA8sIQ",
+            "plus_code": {
+                "compound_code": "R7JM+6V Vavoshi, Maharashtra",
+                "global_code": "7JCMR7JM+6V"
+            },
+            "rating": 0,
+            "reference": "ChIJx6Zvn9795zsR1XU_GyA8sIQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 At Vavoshi Phata Khalapur Near Shivaji Putala, Vavoshi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9097605,
+                    "lng": 73.3242346
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91109857989272,
+                        "lng": 73.32551962989271
+                    },
+                    "southwest": {
+                        "lat": 18.90839892010727,
+                        "lng": 73.32281997010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHREE SAMARTH ELECTRICALS AND ELECTRONICS",
+            "place_id": "ChIJT4aNzmH75zsR_NK71d9VzMo",
+            "plus_code": {
+                "compound_code": "W85F+WM Karjat, Maharashtra",
+                "global_code": "7JCMW85F+WM"
+            },
+            "rating": 0,
+            "reference": "ChIJT4aNzmH75zsR_NK71d9VzMo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SHOP NO 1, AMBEDKAR, Karjat - Chowk Rd, Aamrai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7977087,
+                    "lng": 73.3278763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79908282989272,
+                        "lng": 73.32925587989271
+                    },
+                    "southwest": {
+                        "lat": 18.79638317010728,
+                        "lng": 73.32655622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Snehanjali Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJ9iC3yUH6DsRXI6yNTvx5CE",
+            "rating": 5,
+            "reference": "ChIJJ9iC3yUH6DsRXI6yNTvx5CE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Q8XH+35J, Lakhani ,Orchid Woods, behind Samsung galary, Navanath Colony, DC Nagar Area, Yashwant Nagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7870647,
+                    "lng": 73.34644589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78839857989272,
+                        "lng": 73.34778622989272
+                    },
+                    "southwest": {
+                        "lat": 18.78569892010728,
+                        "lng": 73.34508657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vireshwar Sales",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106698671529809976971\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRinMXviWWfAiaQnVEqdfv7KBU8yvCdlSrDxxsFKuuQUYKqgmhPqPWNFknvNouzhxO2E4C1bZhX57-CjWce3wKFBydlvkF6WfJPABmnJdBPBuAPtewdqFDz9m9BwdOhtX9Ct5TrxCTW_TsX5EixIs1MKPTS3CxVkk-A07k7m_ZcDer9Y",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJL2YnZWoH6DsRa_CA_DV8Nko",
+            "plus_code": {
+                "compound_code": "Q8PW+VH Khopoli, Maharashtra",
+                "global_code": "7JCMQ8PW+VH"
+            },
+            "rating": 3.5,
+            "reference": "ChIJL2YnZWoH6DsRa_CA_DV8Nko",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Central Bank Building, near, Harshadrai Mehta Marg, Fatehgunj, Vadodara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9097016,
+                    "lng": 73.3219065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91105107989272,
+                        "lng": 73.32326367989272
+                    },
+                    "southwest": {
+                        "lat": 18.90835142010728,
+                        "lng": 73.32056402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prathamesh electonic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106962815633657277644\">Dipak Mhase</a>"
+                    ],
+                    "photo_reference": "AcYSjRhGcisEMXKjRCWTxWXJCw_v0YUsi1NxXmlOa6gk_euMtHhramUsmLJtxfu_DSZubiHKe9xmWEpqAe-07Xrb8eMZPJR9VCjcN1oYHcVrSOMX0yBh2vKa9vZWjOjB_7J1EzkaIzrpVTUvavzvMgDKX3BGfbxd5b1WIB3a8RAYvKxneHLE",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJRb-Dvnf75zsRJhgR9asJB1c",
+            "plus_code": {
+                "compound_code": "W85C+VQ Karjat, Maharashtra",
+                "global_code": "7JCMW85C+VQ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJRb-Dvnf75zsRJhgR9asJB1c",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Aamrai, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9094342,
+                    "lng": 73.3221475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91076142989272,
+                        "lng": 73.32349607989272
+                    },
+                    "southwest": {
+                        "lat": 18.90806177010727,
+                        "lng": 73.32079642010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Durgawati mobile&Eletronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQVcSlXf75zsRW1cLUBkG5TQ",
+            "plus_code": {
+                "compound_code": "W85C+QV Karjat, Maharashtra",
+                "global_code": "7JCMW85C+QV"
+            },
+            "rating": 4,
+            "reference": "ChIJQVcSlXf75zsRW1cLUBkG5TQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Station Rd, Bazarpeth, Aamrai, Karjat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7886108,
+                    "lng": 73.3449181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78993167989272,
+                        "lng": 73.34631377989271
+                    },
+                    "southwest": {
+                        "lat": 18.78723202010728,
+                        "lng": 73.34361412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Chamunda Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 774,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109694164538100379798\">Chamunda Electronics</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9_jcCXcvZADeEjJhVqVQoqSRqYfEqoSuHWG25wZ2oOe7V_efYsUBzmMmuLRT-n7zj5QrahNo2Nw2FyXVL_-75qIwnCW8Xvr4FF6yhK8lCrjDRzH3hzvQa0c4UorTr2BL9h99wvGObesTaQ1e3lMHDfYtay_vtUdRY1b5hvCngBPgM",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJryYJL2oH6DsRhG0N4d-1xLk",
+            "plus_code": {
+                "compound_code": "Q8QV+CX Khopoli, Maharashtra",
+                "global_code": "7JCMQ8QV+CX"
+            },
+            "rating": 5,
+            "reference": "ChIJryYJL2oH6DsRhG0N4d-1xLk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Near Railway Station,Opp.Bank Of India,Khopoli, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7884126,
+                    "lng": 73.3442716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78974807989272,
+                        "lng": 73.34560677989272
+                    },
+                    "southwest": {
+                        "lat": 18.78704842010727,
+                        "lng": 73.34290712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Noor Electricals And Suppliers.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1856,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114836553551481249078\">Noor Electricals And Suppliers.</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpuK9DYxpW_zSdiw5vIV2gFJ9zwAPVuV-K8AVWenO0Ng0lugV2NkHT2aDK3mL33voAV5IoAYf32XQOCKs-Z5ylHI0tePx6to1LcWE7o_4noFsAnM0EA7vAs2r5sTITskc-0VTtVrDkyELFMjKsbZZXPFMTLx4LA8BqX9a0kVGfB0dl",
+                    "width": 2239
+                }
+            ],
+            "place_id": "ChIJaSUEzWsH6DsRjW4cWOgSuxs",
+            "plus_code": {
+                "compound_code": "Q8QV+9P Khopoli, Maharashtra",
+                "global_code": "7JCMQ8QV+9P"
+            },
+            "rating": 5,
+            "reference": "ChIJaSUEzWsH6DsRjW4cWOgSuxs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Block no 3, R.D.COMPLEX, Bazaar peth, Laxminagar, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8321934,
+                    "lng": 73.31777439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.83349037989272,
+                        "lng": 73.31917882989272
+                    },
+                    "southwest": {
+                        "lat": 18.83079072010728,
+                        "lng": 73.31647917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hari Om Electronic And Hadwear",
+            "place_id": "ChIJsdHeUqH95zsR90MmflDBbcg",
+            "plus_code": {
+                "compound_code": "R8J9+V4 Kandroli Tarf Boreti, Maharashtra",
+                "global_code": "7JCMR8J9+V4"
+            },
+            "rating": 0,
+            "reference": "ChIJsdHeUqH95zsR90MmflDBbcg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3 Dolavli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8100902,
+                    "lng": 73.31551449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.81135667989272,
+                        "lng": 73.31679822989273
+                    },
+                    "southwest": {
+                        "lat": 18.80865702010728,
+                        "lng": 73.31409857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NOOR ELECTRONIC & ELECTRICALS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112267097479782242412\">Ankur Patel</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLb6xnGHyRlE3QEvi6YtwEnfaISQC_gqeGzjfOYJph3_bqWuIzcbG_tMeYIUN4k2nJ09btznDP229y-0fQPtDfsC-9RXRUJI_h5Oj_Y3qILQtFRyUVLXyvP4W6q7d_AdZEOBT1-XWbDEzZSC-5nqh0F1FL8z38iWQTOtBmYLcgPkpG",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJ_yiucdv95zsRXOE5-eQbvAk",
+            "rating": 4,
+            "reference": "ChIJ_yiucdv95zsRXOE5-eQbvAk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "R868+26J, NH 48, Millat Nagar, Hal Kh."
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7882803,
+                    "lng": 73.3445984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.78958777989272,
+                        "lng": 73.34591342989273
+                    },
+                    "southwest": {
+                        "lat": 18.78688812010727,
+                        "lng": 73.34321377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Chandan Electrical",
+            "place_id": "ChIJr9WUM2oH6DsRUTn_easRWKI",
+            "plus_code": {
+                "compound_code": "Q8QV+8R Khopoli, Maharashtra",
+                "global_code": "7JCMQ8QV+8R"
+            },
+            "rating": 4.7,
+            "reference": "ChIJr9WUM2oH6DsRUTn_easRWKI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "basement - 3, arihant society, bazar peth, MG road, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7899274,
+                    "lng": 73.3415541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.79129332989272,
+                        "lng": 73.34286542989273
+                    },
+                    "southwest": {
+                        "lat": 18.78859367010728,
+                        "lng": 73.34016577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DIGI1 khopoli",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107093277952988624153\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJByBDgR08Tvc4FvI40lcFr2VtrnC0Mqf0LfzP1pLVtabcUNZWDVpxCVo3z_HMbTpX3AdfNTa574L9_OeQE9MwennQCikYOjNq4fpD2_AObjlQmed65V_d49hMuZcVbDh3XzI0Rb7kaSnNKXEX63ix2ulZB5s8mxTWCMIgYR8jztsz",
+                    "width": 4320
+                }
+            ],
+            "place_id": "ChIJHUR7v7UH6DsRHy9GQSVvCpA",
+            "plus_code": {
+                "compound_code": "Q8QR+XJ Khopoli, Maharashtra",
+                "global_code": "7JCMQ8QR+XJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJHUR7v7UH6DsRHy9GQSVvCpA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52,
+            "vicinity": "Parshawa Plaza, Bazar Peth, opp. Rajratan Collection, Khopoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8301458,
+                    "lng": 73.2850742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.83149412989272,
+                        "lng": 73.28646312989271
+                    },
+                    "southwest": {
+                        "lat": 18.82879447010728,
+                        "lng": 73.28376347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "HARI OM ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 676,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117638523727797577971\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLsI1Zib495FtM7kYcZNbXn4PpDslK_9JPT_TAaX3V0NdeXHM_1S7P--Zjx3V-Uml4ZQaz1igYt6MBzswYZzIAmwFwQO9psdWq7XMC7YEF0CNxe3X2p7psTomoYiczrxTS_-L9A9wVIz8yFJu1-8rTnmDDGc695xCx0VT6gwThA7w0",
+                    "width": 785
+                }
+            ],
+            "place_id": "ChIJVVVVJTH95zsRgKgsIrNf-YY",
+            "plus_code": {
+                "compound_code": "R7JP+32 Khalapur, Maharashtra",
+                "global_code": "7JCMR7JP+32"
+            },
+            "rating": 4.5,
+            "reference": "ChIJVVVVJTH95zsRgKgsIrNf-YY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 130,
+            "vicinity": "TAHASIL, CH SHIVAJI MAHARAJ CHOWK, BAZARPET , KHALAPUR, DIST, Khalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9091833,
+                    "lng": 73.32799179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91049087989272,
+                        "lng": 73.32933082989274
+                    },
+                    "southwest": {
+                        "lat": 18.90779122010728,
+                        "lng": 73.32663117010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Sadguru Krupa Electronics",
+            "place_id": "ChIJd7WtyZz75zsRAAAA0IXkqQQ",
+            "plus_code": {
+                "compound_code": "W85H+M5 Karjat, Maharashtra",
+                "global_code": "7JCMW85H+M5"
+            },
+            "rating": 0,
+            "reference": "ChIJd7WtyZz75zsRAAAA0IXkqQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9/10 Manas Apt, West, opp. Raj Nava Cinema, Aamrai, Karjat"
+        }
+    ],
+    "status": "OK"
+}

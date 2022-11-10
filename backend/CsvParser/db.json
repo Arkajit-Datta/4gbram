@@ -1,8 +1,1 @@
-{
-    "blinker": 50,
-    "gear": 40,
-    "half_clutch": 80,
-    "mileage": 13.2,
-    "engine_speed": 100,
-    "idling":90
-}
+{"blinker": 0.16455696202531644, "gear": 0.5922886801779536, "half_clutch": 0.03213049925852694, "mileage": 14.2, "engine_speed": 0, "idling": NaN}

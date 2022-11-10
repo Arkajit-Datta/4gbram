@@ -1,0 +1,939 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjMHV-7sw9ezQypDL__dNmb3VU-Bz5NYdyH0uuzGnHXQS3FBOXaFNeedxwp2v-FlUYUQ4Qgokb27zZd7tp6jyWVXFb6rNm8WCITXvA1B2wjS5636O6WS9Etd0k1jPyak_qWH0IHdQczqpXZuM_I2gpI0fNqIj3w2Z3foy8e486neWXC0Rbe66lT-iUZg_uaART5y7LA3gxBk0ltm8UqhFchREmJ63n1u5vzp6O7AH0AcSyDtHf5HJdXv6vijEelgZv8PVyFkvESad-w53TtVpgWm4tjRuDls3s8ih15AbD6JoCbWphoxWZ0rqtsnK32DMshN_pY822Cpd1b3vxORW_J1k2hOtsvFuec3yg62tqX4EpKj41_KPxIQNzs_VI4olmIkNZUPuO96EJumse0I0Thk1opSdqIb0OrmKSPdZV11pbT2oNsPhpDG992X9pbfZCm",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4049656,
+                    "lng": 78.5151733
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40629007989272,
+                        "lng": 78.51658307989273
+                    },
+                    "southwest": {
+                        "lat": 17.40359042010728,
+                        "lng": 78.51388342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116614357340652758757\">Ramakrishna Padmanabhan</a>"
+                    ],
+                    "photo_reference": "AcYSjRjcHaZx070fmck4h6A36wiMIXxE8sO2UWR8Qi_a9TPZ6dd-LamNzDfoBxKG55EtqHXO8Qw_ObVTlgbQ7fhqrLoua4F7goUPl2MohyulK5UCeiE_WVANU4LW6EUMgZvRBgNGWikkP8rsomwF7wU6awjDRPtsusHLSZ6breVGkiU0nsgD",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJSbGXH6KZyzsR_T43Xc6hbLA",
+            "plus_code": {
+                "compound_code": "CG38+X3 Hyderabad, Telangana",
+                "global_code": "7J9WCG38+X3"
+            },
+            "rating": 4,
+            "reference": "ChIJSbGXH6KZyzsR_T43Xc6hbLA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1667,
+            "vicinity": "Municipal No. 2-2-3,Sreshta Orgin, Adikmet, Vidyanagar Shivam Road, Street Number 1, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3682261,
+                    "lng": 78.52849169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36966982989273,
+                        "lng": 78.52984082989272
+                    },
+                    "southwest": {
+                        "lat": 17.36697017010728,
+                        "lng": 78.52714117010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 945,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103447523036858257639\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjEuw_copdFB10qq9duzVuxC6ZnGuF3b02vFwQslc4wPg0pu378szjttYi3MhGtmOARUTnvLJr0TqepqUOrWVL5vuaYIJu641W3a0hQSKIuD0YIRZmSu4zYH52wuFJPmvSLadMDAf1sLJNCH05CXgeZeDEPUrElx2q55PqQEtEcoj4P",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJOxuoALCZyzsRpQvRpdQp-zQ",
+            "plus_code": {
+                "compound_code": "9G9H+79 Hyderabad, Telangana",
+                "global_code": "7J9W9G9H+79"
+            },
+            "rating": 4.8,
+            "reference": "ChIJOxuoALCZyzsRpQvRpdQp-zQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1647,
+            "vicinity": "Croma, Dilsukh Nagar Main Rd, near Sai Baba Temple, Dilsukhnagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3603274,
+                    "lng": 78.5439825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36168657989272,
+                        "lng": 78.54537142989271
+                    },
+                    "southwest": {
+                        "lat": 17.35898692010728,
+                        "lng": 78.54267177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VIJAY SALES - KOTHAPET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113121616037262712124\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiyKtA6UNlqO3evp0hdYsSxbnRhvIRd_Vg_uJZ9qo6fSRBInNLZcFjmXl4TI4dphig3rc2rWGmITLbRZMwyiKJ4xp84a7WIL_cL424Oy6O9oiyMSmiZFd1NTdy9c_XquUny6heMScvKEFcWQ8jlHLjA13GV-utyUy2srJBAsf0Oabnl",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJacTmJlSZyzsRl2wNE0sRxXI",
+            "plus_code": {
+                "compound_code": "9G6V+4H Hyderabad, Telangana",
+                "global_code": "7J9W9G6V+4H"
+            },
+            "rating": 4.1,
+            "reference": "ChIJacTmJlSZyzsRl2wNE0sRxXI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 334,
+            "vicinity": "Ground & 1st Floor, Survey no 7 & 8 Plot no V 15, Vaishnavi Onyx 2, Opp: Metro pillar no A, 1632, Kothapet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3674937,
+                    "lng": 78.5248088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36885082989273,
+                        "lng": 78.52623402989273
+                    },
+                    "southwest": {
+                        "lat": 17.36615117010728,
+                        "lng": 78.52353437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Neveen Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ1-rIFCaZyzsRFrzTm13g0tU",
+            "plus_code": {
+                "compound_code": "9G8F+XW Hyderabad, Telangana",
+                "global_code": "7J9W9G8F+XW"
+            },
+            "rating": 5,
+            "reference": "ChIJ1-rIFCaZyzsRFrzTm13g0tU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7-22 Beside Konark Theater Bulding 1St Floor Madupuri Colony, Dilsukhnagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.438692,
+                    "lng": 78.42885249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44005992989272,
+                        "lng": 78.43009892989271
+                    },
+                    "southwest": {
+                        "lat": 17.43736027010728,
+                        "lng": 78.42739927010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Keerthi Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJq6qq2p--yzsRErlrfgoavYs",
+            "plus_code": {
+                "compound_code": "CCQH+FG Hyderabad, Telangana",
+                "global_code": "7J9WCCQH+FG"
+            },
+            "rating": 3.8,
+            "reference": "ChIJq6qq2p--yzsRErlrfgoavYs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "B-30, Madhura Nagar Colony, Ameerpet, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4222252,
+                    "lng": 78.4552696
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42353887989272,
+                        "lng": 78.45655337989271
+                    },
+                    "southwest": {
+                        "lat": 17.42083922010728,
+                        "lng": 78.45385372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116974258954165393005\">Pranay Jain</a>"
+                    ],
+                    "photo_reference": "AcYSjRhbPQewCEsqMP5jlQMliruIkKqgin_6JdcrcEAQONFX7_qBuLQt9yKBj8OCv8iSexc-ahLwF4s-1Rnwqwir2lY_1mOM4vH-0VBXHbLTgDH4CS1J0Dh_XnU-0F-Gzo3tGdJLGFoMrMiAo1G7NiHsbm9SN69UGizwuT0ElKbRbFqoxsi1",
+                    "width": 3480
+                }
+            ],
+            "place_id": "ChIJoQJSs0uXyzsR43UQZz9nei4",
+            "plus_code": {
+                "compound_code": "CFC4+V4 Hyderabad, Telangana",
+                "global_code": "7J9WCFC4+V4"
+            },
+            "rating": 4,
+            "reference": "ChIJoQJSs0uXyzsR43UQZz9nei4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4690,
+            "vicinity": "Grnd Flr , Panjagutta Main Road Prestige Towers Somajiguda 6-3-664, NH65, Punjagutta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3689895,
+                    "lng": 78.5217919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37029382989272,
+                        "lng": 78.52314192989272
+                    },
+                    "southwest": {
+                        "lat": 17.36759417010728,
+                        "lng": 78.52044227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2w3UQZeZyzsRPasFgR3yeP0",
+            "plus_code": {
+                "compound_code": "9G9C+HP Hyderabad, Telangana",
+                "global_code": "7J9W9G9C+HP"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ2w3UQZeZyzsRPasFgR3yeP0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 271,
+            "vicinity": "Ground floor to Third Floor, H N 0 16-11-447/6, Moosarambagh Rd, Dilsukhnagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3436506,
+                    "lng": 78.534967
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.34509777989272,
+                        "lng": 78.53633362989271
+                    },
+                    "southwest": {
+                        "lat": 17.34239812010728,
+                        "lng": 78.53363397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Croma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106327084473566832090\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhG9Zxx9o8zBWHXvYSelICr9fjw9cm4IUCcISPYL2NDkmMTSw3D23OLx3LhykPevlmLlZPBEqYsev6VqN4G04RNPzaZ0gdrHwOmiLhi1JRTrY8MflGD6JVE-41I0jpJdH0-6XTFChmLDBzHPwkZzJKN6g4wLXNgmHRdLfyrk_iqODk",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJPzBI2RyZyzsRnfvor3SkyUw",
+            "plus_code": {
+                "compound_code": "8GVM+FX Kharmanghat, Telangana",
+                "global_code": "7J9W8GVM+FX"
+            },
+            "rating": 4.8,
+            "reference": "ChIJPzBI2RyZyzsRnfvor3SkyUw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4617,
+            "vicinity": "Ground floor, Shubham Palace, Karmanghat Rd, Srinidhi Colony, Kharmanghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3852227,
+                    "lng": 78.4822034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38662767989272,
+                        "lng": 78.48356922989272
+                    },
+                    "southwest": {
+                        "lat": 17.38392802010728,
+                        "lng": 78.48086957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Adeeb Electronics And Home Appliances",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2320,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108760468390270364993\">afsar baig</a>"
+                    ],
+                    "photo_reference": "AcYSjRhWwJ9koxF5F-PrsrpqiFTA2wf4GkdQHPbiA3q8ro3AUXlBDOBNrwnyzQivdqe15g8mTZn6SqiHIBoDq3F6p58a8KEFAI4ZL2ufH-3ThRGdOfNJ-n5fjTrVQZeGkNcDb-zhyVEbFjrzLJx0MmTBe59YF0e-0kYVZz3rh-ioQgyn19j1",
+                    "width": 3088
+                }
+            ],
+            "place_id": "ChIJO3Tbu9OZyzsRzsPjgCxvKGw",
+            "rating": 4.4,
+            "reference": "ChIJO3Tbu9OZyzsRzsPjgCxvKGw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "9FPJ+3VW, Bank St, Troop Bazaar, Koti, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4343448,
+                    "lng": 78.4459306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43559637989272,
+                        "lng": 78.44727612989271
+                    },
+                    "southwest": {
+                        "lat": 17.43289672010728,
+                        "lng": 78.44457647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Adith Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117407300750364217377\">Lokesh Durbha</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9ILeuzyD-4zgo3gIH-tS_aQQDiHHfujTT5ZUfDfgmXnv-VULycHAMa4FEKUJISKZNZJP74OKe4EIm0kUNGAeRZ-NnAQeA9q-2F0v4UvpilVVorng8XChrt00l8u5oebnqCNb89YIV2aPZX94bwbnf5bRIubexcdvfv1Lgay_5nilO",
+                    "width": 4752
+                }
+            ],
+            "place_id": "ChIJBbboJ8-QyzsRxF-nI472FGc",
+            "plus_code": {
+                "compound_code": "CCMW+P9 Hyderabad, Telangana",
+                "global_code": "7J9WCCMW+P9"
+            },
+            "rating": 3.7,
+            "reference": "ChIJBbboJ8-QyzsRxF-nI472FGc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "Rahmat Complex, Door No 7-1-616, 1st Floor, above Imroze Hotel, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4425536,
+                    "lng": 78.43022909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44386807989272,
+                        "lng": 78.43157637989272
+                    },
+                    "southwest": {
+                        "lat": 17.44116842010727,
+                        "lng": 78.42887672010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electronics Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ65uysq6RyzsRFcYUKrF-5vs",
+            "plus_code": {
+                "compound_code": "CCVJ+23 Hyderabad, Telangana",
+                "global_code": "7J9WCCVJ+23"
+            },
+            "rating": 0,
+            "reference": "ChIJ65uysq6RyzsRFcYUKrF-5vs",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "krishnakanth park, BJR Nagar, Jawahar Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4360302,
+                    "lng": 78.5006014
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43734372989272,
+                        "lng": 78.50195987989271
+                    },
+                    "southwest": {
+                        "lat": 17.43464407010728,
+                        "lng": 78.49926022010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Atlantic Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJVVVV5SOayzsRFgyEvYv31OI",
+            "plus_code": {
+                "compound_code": "CGP2+C6 Secunderabad, Telangana",
+                "global_code": "7J9WCGP2+C6"
+            },
+            "rating": 0,
+            "reference": "ChIJVVVV5SOayzsRFgyEvYv31OI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9-4-115/6, Regimental Bazaar, Adj Gurudwara, Regimental Bazaar, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4329627,
+                    "lng": 78.4465986
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43430037989272,
+                        "lng": 78.44793272989271
+                    },
+                    "southwest": {
+                        "lat": 17.43160072010728,
+                        "lng": 78.44523307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mahamood Electronic",
+            "place_id": "ChIJ4wnPD8WRyzsRhlYbpM5gy5k",
+            "plus_code": {
+                "compound_code": "CCMW+5J Hyderabad, Telangana",
+                "global_code": "7J9WCCMW+5J"
+            },
+            "rating": 0,
+            "reference": "ChIJ4wnPD8WRyzsRhlYbpM5gy5k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Piller No 1071, near VRK Silk, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4013792,
+                    "lng": 78.48592800000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40271172989272,
+                        "lng": 78.4872701798927
+                    },
+                    "southwest": {
+                        "lat": 17.40001207010728,
+                        "lng": 78.48457052010725
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reliance Digital",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109408616399184853492\">Sameer Mallik</a>"
+                    ],
+                    "photo_reference": "AcYSjRj8IBQ3F-E1_Q_iJIG3P266outEJ7ygApRr38H8AmOnLMHVBlU3iJ9ANOIbAqOYsOeYyahnAeqHatu3JBLuPlwibipAqFTs8ESWsYMMqhnINWKkpU4NCcIwdEMSXCkKGQs1Vpu5BzVfa5YCXWsIw7-ZgT6ZD1F-eVYT4eZ5KWS6ceBb",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJSyHG4c6ZyzsRkuCPqOjZkoU",
+            "plus_code": {
+                "compound_code": "CF2P+H9 Hyderabad, Telangana",
+                "global_code": "7J9WCF2P+H9"
+            },
+            "rating": 3.9,
+            "reference": "ChIJSyHG4c6ZyzsRkuCPqOjZkoU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1028,
+            "vicinity": "3-6-553 to 558 & 558/1, Himayat Nagar Rd, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3851977,
+                    "lng": 78.4838846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38647677989272,
+                        "lng": 78.48522257989272
+                    },
+                    "southwest": {
+                        "lat": 17.38377712010728,
+                        "lng": 78.48252292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "National Electronics Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJYz-9EtSZyzsRal0257JtaS0",
+            "plus_code": {
+                "compound_code": "9FPM+3H Hyderabad, Telangana",
+                "global_code": "7J9W9FPM+3H"
+            },
+            "rating": 5,
+            "reference": "ChIJYz-9EtSZyzsRal0257JtaS0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "5-1-753/4, Bank St, Haridas Market, Inder Bagh, Koti, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4501912,
+                    "lng": 78.5352928
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45152362989272,
+                        "lng": 78.53664052989272
+                    },
+                    "southwest": {
+                        "lat": 17.44882397010728,
+                        "lng": 78.53394087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yash Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101271900231638728078\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgqrwUsBFxw6d-rIkByR6jyi_9kUgAyjVMaYF5HWLf9cotPtZE8580zP4WNBa-O6OMMjfL-7j7lBjSMomorFnjLlLekDfVEGRjDZLE7DyjV4t3rPo3g7JVqAdu7Ee3QbAgEEyhlLU4V9LQsqn6HF_9RiX_QoA6VqIsWDGIy0vif54-E",
+                    "width": 799
+                }
+            ],
+            "place_id": "ChIJUc7JdcmbyzsRgIyA9Vl5nYQ",
+            "plus_code": {
+                "compound_code": "FG2P+34 Hyderabad, Telangana",
+                "global_code": "7J9WFG2P+34"
+            },
+            "rating": 4.7,
+            "reference": "ChIJUc7JdcmbyzsRgIyA9Vl5nYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "Shop No-5-16, Deva Sadan Complex, Malkajgiri Road, Malkajgiri Rd, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3938272,
+                    "lng": 78.4887729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39517232989272,
+                        "lng": 78.49012167989272
+                    },
+                    "southwest": {
+                        "lat": 17.39247267010728,
+                        "lng": 78.48742202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ganapathi Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAQAAcMWZyzsRCZQ_UV9CDtI",
+            "rating": 5,
+            "reference": "ChIJAQAAcMWZyzsRCZQ_UV9CDtI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3-5-141/E/7, Geetanjali Complex, Eden Bagh, Ramkoti, Ramkoti, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3992959,
+                    "lng": 78.5060062
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40060302989273,
+                        "lng": 78.50743137989272
+                    },
+                    "southwest": {
+                        "lat": 17.39790337010728,
+                        "lng": 78.50473172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "chitra electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ33wGT-uZyzsRy4nPKEXXzuc",
+            "plus_code": {
+                "compound_code": "9GX4+PC Hyderabad, Telangana",
+                "global_code": "7J9W9GX4+PC"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ33wGT-uZyzsRy4nPKEXXzuc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "shop no: 16, 2-1-327, 17,18, Osmania University Rd, Sumitra Sapandana Enclave, Padma Colony, New Nallakunta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4568292,
+                    "lng": 78.43334999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45821672989272,
+                        "lng": 78.43479442989272
+                    },
+                    "southwest": {
+                        "lat": 17.45551707010728,
+                        "lng": 78.43209477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R.S. Electronics & Mobiles",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108947659441885204707\">Junaid Uddin</a>"
+                    ],
+                    "photo_reference": "AcYSjRheyPDN3oGOS_Ck1p-QnTMUJht3-tR-9fALK1AjpUy18UVyWYed4vkWJolnJ0eCUYSfJ8McCGvRvWiL6bTiXT0arsDiXrt8yOHxynELLiRyx9qWgDbufXaG4aXl8F2Bj_dD1ryPPaI5olVpBdkOzsEZ3cvo3J-TYzbMIfspnfG--HsF",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ00PHp-OQyzsRMaO8xcdRss8",
+            "plus_code": {
+                "compound_code": "FC4M+P8 Hyderabad, Telangana",
+                "global_code": "7J9WFC4M+P8"
+            },
+            "rating": 5,
+            "reference": "ChIJ00PHp-OQyzsRMaO8xcdRss8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shop No. 8-4-393/15/4/4, NH 9, Erragadda, beside Limra Function Hall, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4370273,
+                    "lng": 78.4944975
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43839467989272,
+                        "lng": 78.49584957989272
+                    },
+                    "southwest": {
+                        "lat": 17.43569502010728,
+                        "lng": 78.49314992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Renu Electronic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ565NBhmayzsRbKnoWEaZ9c4",
+            "plus_code": {
+                "compound_code": "CFPV+RQ Secunderabad, Telangana",
+                "global_code": "7J9WCFPV+RQ"
+            },
+            "rating": 0,
+            "reference": "ChIJ565NBhmayzsRbKnoWEaZ9c4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "81-210, Nala Bazar, Maruthi Veedhi, Shivaji Nagar, Secunderabad"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,894 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjsopvEqziSw2p6UOWNXzrMinZApGHOU0iWqmGYRXPFRCdCTxsOJJZ7L7KQfRG8J13HbP1otvWW01MwjEdG2Gg9U4V8af5jrpt7bGzdy8RzjGqWY4w8FQ6ePtRFfDOYSVgy8Foi47kYTrBOE-6l4v8emHgJcYkCvaQW6abNFoxr4spXmuyrH8JWiR5h0aOi315--BVSDCKpVmClLT41-g6SXtpBEErhJaTLJRdHf0Kix5PFcOH-_87lGUH28Qvi1xl--_CiiCpPuKjLlYVBy5k6Q4TNIuVpLjdLBJwU86Y16EXGNovg5P9wdAMYJSYyHYoYmS92d-12rTPEfE5vuq7p7NgEmEVeEDorR6PE9VU-_BnUnpRYGRvOlavXuPt7pV_9Eh6PvRiWeDcsKC3kWWEdzgQjNn9cE9xl7AiNY39vRu8e2gZ3DVKRQoyCD7HayRlJ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6133304,
+                    "lng": 78.0817519
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61467582989272,
+                        "lng": 78.08307997989272
+                    },
+                    "southwest": {
+                        "lat": 17.61197617010727,
+                        "lng": 78.08038032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vaishnavi electrical and electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJC-XFyqX5yzsRdBUIJh5Yjhk",
+            "plus_code": {
+                "compound_code": "J37J+8P Sangareddy, Telangana",
+                "global_code": "7J9WJ37J+8P"
+            },
+            "rating": 5,
+            "reference": "ChIJC-XFyqX5yzsRdBUIJh5Yjhk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Degloor - Hyderabad Rd, Shanthi Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6079541,
+                    "lng": 78.08321699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60928212989273,
+                        "lng": 78.08451767989273
+                    },
+                    "southwest": {
+                        "lat": 17.60658247010728,
+                        "lng": 78.08181802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SREE BHAVANI ELECTRONICS",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1656,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117384684728285653723\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgmh-ncJNySjQjEuYEoxsyT3MOl6ILB0EmCERchn-rOlKtBpaWis6fytDal_zL4aXL33yklRojAzxbAUhz6OsuF4gKWtzYwF0FsfWdYGai3yn_lcnFq39b5j8eZqU1QulcjuMW8X7tdeg0OYCI7npcUYzLHrmkbAFy6gAwXRXqSgi58",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ53RjCJT5yzsRmMgBi1D9BWE",
+            "plus_code": {
+                "compound_code": "J35M+57 Sangareddy, Telangana",
+                "global_code": "7J9WJ35M+57"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ53RjCJT5yzsRmMgBi1D9BWE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "Degloor - Hyderabad Rd, ShantiNagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6063452,
+                    "lng": 78.0839785
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60766327989272,
+                        "lng": 78.08532342989271
+                    },
+                    "southwest": {
+                        "lat": 17.60496362010728,
+                        "lng": 78.08262377010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RISHIKA ELECTRONICS.",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJBdtAvpP5yzsRU-jjF2z_Gf0",
+            "plus_code": {
+                "compound_code": "J34M+GH Sangareddy, Telangana",
+                "global_code": "7J9WJ34M+GH"
+            },
+            "rating": 4,
+            "reference": "ChIJBdtAvpP5yzsRU-jjF2z_Gf0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "ShantiNagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5890667,
+                    "lng": 78.0800802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59038067989272,
+                        "lng": 78.08143532989271
+                    },
+                    "southwest": {
+                        "lat": 17.58768102010728,
+                        "lng": 78.07873567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sweekaar electronics",
+            "place_id": "ChIJq_t4mQz7yzsRx0_7SocsK8A",
+            "rating": 5,
+            "reference": "ChIJq_t4mQz7yzsRx0_7SocsK8A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "H3QJ+J2P, Mumbai Hwy, Vidya Nagar Colony, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6263361,
+                    "lng": 78.0842814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62760812989272,
+                        "lng": 78.08563937989271
+                    },
+                    "southwest": {
+                        "lat": 17.62490847010728,
+                        "lng": 78.08293972010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Modern Electronic",
+            "place_id": "ChIJ40U5hr75yzsR4pGotPsxMLM",
+            "plus_code": {
+                "compound_code": "J3GM+GP Sangareddy, Telangana",
+                "global_code": "7J9WJ3GM+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJ40U5hr75yzsR4pGotPsxMLM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Upper Bazer Oldbustand, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6200294,
+                    "lng": 78.0825267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62141082989272,
+                        "lng": 78.08387587989273
+                    },
+                    "southwest": {
+                        "lat": 17.61871117010728,
+                        "lng": 78.08117622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "E MAX ELECTRONICS",
+            "place_id": "ChIJJdYwfpL5yzsR52455hPaFCo",
+            "rating": 5,
+            "reference": "ChIJJdYwfpL5yzsR52455hPaFCo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J3CM+226, Sitara Theatre Rd, Veerabhadra Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5916397,
+                    "lng": 78.0841081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59300477989272,
+                        "lng": 78.0855494798927
+                    },
+                    "southwest": {
+                        "lat": 17.59030512010728,
+                        "lng": 78.08284982010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bajaj Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108269825703996240870\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgY1aCIX753wOOBbnbeYHza_2-mFVrqWM9O8uKwQReq7ynp0WREitxSdjv6U4CUmF7i6NLKhlckmd29mGZ9PD_RRr7fDILuBAxvConuy8S3LFHzkK2nfK1hMS8MseKTqNlNYGulFDMhy8kjqzL7QbxgDNODyKgJ6iAZenUeuPximy5V",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJvcBUHV_5yzsRl7V6LoH43mU",
+            "plus_code": {
+                "compound_code": "H3RM+MJ Sangareddy, Telangana",
+                "global_code": "7J9WH3RM+MJ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJvcBUHV_5yzsRl7V6LoH43mU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 221,
+            "vicinity": "Plot No.93 Pothireddy Pally, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5964324,
+                    "lng": 78.0775331
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59779002989272,
+                        "lng": 78.07881727989272
+                    },
+                    "southwest": {
+                        "lat": 17.59509037010728,
+                        "lng": 78.07611762010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jai Hanuman Electricals & Hardware",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107653274004450746611\">Akash Sirvi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLpdzv9pmmKPhLDZaNkYS1MnGOcTDrmB3-O_SgyU9wClpEge--FIiOzu-ZIDeH8DWxWkqJ6I_gcGi1cBR0FwvlYx6LmQb82RtN1HAm43GUXgWyE-Dij5ZGtHh454YhTKfH2muuGhu7eG48lJEIN5I2k5cGNSZEW7unVkLfRXV5_Azr",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ0XYQT4_5yzsRzCMmbJjioc0",
+            "plus_code": {
+                "compound_code": "H3WH+H2 Sangareddy, Telangana",
+                "global_code": "7J9WH3WH+H2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ0XYQT4_5yzsRzCMmbJjioc0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "24/3, 502001, 4-7-24/3, Sangareddy Bypass Rd, Marepally, Prashanth Nagar Colony, Balaji Nagar, Ahmed Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6111832,
+                    "lng": 78.0822599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61255552989272,
+                        "lng": 78.08361052989272
+                    },
+                    "southwest": {
+                        "lat": 17.60985587010728,
+                        "lng": 78.08091087010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MS Technologies",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJiUKPeJb5yzsRveNisc3U14M",
+            "plus_code": {
+                "compound_code": "J36J+FW Sangareddy, Telangana",
+                "global_code": "7J9WJ36J+FW"
+            },
+            "rating": 5,
+            "reference": "ChIJiUKPeJb5yzsRveNisc3U14M",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shanthi Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6165084,
+                    "lng": 77.9540574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61786072989272,
+                        "lng": 77.95543692989273
+                    },
+                    "southwest": {
+                        "lat": 17.61516107010728,
+                        "lng": 77.95273727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "HR.Mobiles & Electronics",
+            "place_id": "ChIJZaDm3PL_yzsRLZL-dXA1s0o",
+            "rating": 5,
+            "reference": "ChIJZaDm3PL_yzsRLZL-dXA1s0o",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JX83+JJ3, Sidhapur x road, NH65, Sadashivpet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5960977,
+                    "lng": 78.0879568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59739997989272,
+                        "lng": 78.08933877989273
+                    },
+                    "southwest": {
+                        "lat": 17.59470032010728,
+                        "lng": 78.08663912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deepthi Screens & Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJjRJOKyr5yzsRLeQkEyExcsw",
+            "plus_code": {
+                "compound_code": "H3WQ+C5 Pothreddipalle, Telangana",
+                "global_code": "7J9WH3WQ+C5"
+            },
+            "rating": 5,
+            "reference": "ChIJjRJOKyr5yzsRLeQkEyExcsw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "RTC Colony, near saibaba Temple, Pothreddipalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6270478,
+                    "lng": 78.08651669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62842577989272,
+                        "lng": 78.08786832989273
+                    },
+                    "southwest": {
+                        "lat": 17.62572612010728,
+                        "lng": 78.08516867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RF Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB5JU0BP5yzsR51x1io53GE8",
+            "plus_code": {
+                "compound_code": "J3GP+RJ Sangareddy, Telangana",
+                "global_code": "7J9WJ3GP+RJ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJB5JU0BP5yzsR51x1io53GE8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Municipal complex, Ram Nagar, Tadlapalle, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6192188,
+                    "lng": 78.0807918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62057392989272,
+                        "lng": 78.08211072989272
+                    },
+                    "southwest": {
+                        "lat": 17.61787427010728,
+                        "lng": 78.07941107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Digital Xpress Mini - Court District, Sangareddy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100788992681484557476\">Vinod Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHd2QpWL9x2BNjmUV-to8N_GtT6INPb0gV8lhZKCmgEVKqV4ddI_KvXvI6_dsluUxvNtlRuefkFdKVDejho3RnW87efqeLKW-JsaSrZy9k9cUzkvinB0HiACHfT-Pyqf4ElGNCcEhcWIXgnoHbxGC4bChv6YzgPl3xrIoIbaeHlIDt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJlR03dbz5yzsRu68Hph2JbwU",
+            "plus_code": {
+                "compound_code": "J39J+M8 Sangareddy, Telangana",
+                "global_code": "7J9WJ39J+M8"
+            },
+            "rating": 3.7,
+            "reference": "ChIJlR03dbz5yzsRu68Hph2JbwU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "5-2-32, beside Court District, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.610756,
+                    "lng": 78.08542159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61211252989272,
+                        "lng": 78.08674002989272
+                    },
+                    "southwest": {
+                        "lat": 17.60941287010727,
+                        "lng": 78.08404037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R.R. ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJpw3xJe3yyzsRjl39In1iTHk",
+            "plus_code": {
+                "compound_code": "J36P+85 Sangareddy, Telangana",
+                "global_code": "7J9WJ36P+85"
+            },
+            "rating": 1.9,
+            "reference": "ChIJpw3xJe3yyzsRjl39In1iTHk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Shop No. 6, 7,8, Patancheru, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6194148,
+                    "lng": 78.0823304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62076497989273,
+                        "lng": 78.08368097989273
+                    },
+                    "southwest": {
+                        "lat": 17.61806532010728,
+                        "lng": 78.08098132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R K Electronic Tv Repair Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAQAAALz5yzsRzbf25p8NM2s",
+            "rating": 0,
+            "reference": "ChIJAQAAALz5yzsRzbf25p8NM2s",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "DOULTHABAD, HATHNOORA MANDAL, DIST, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5914249,
+                    "lng": 78.0796275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59278612989272,
+                        "lng": 78.08098272989271
+                    },
+                    "southwest": {
+                        "lat": 17.59008647010728,
+                        "lng": 78.07828307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MS ELECTRICAL SALES & SERVICE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100364690599276917079\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8eq3l9YNxiRsBqPZfiyyUNbtCuVKmG7HldFqXmPF1RjAoht3u1oL8Dfg0jqJneA58a5XgV-60XGm3wu4Weyn8aD0vK2IWEb_APA15UU-MceV9_W_oWr6uuk-IJ9RtFlG2fTjur8njJomkaIyPM4BXBBr8AG7gPy-H6Apl_n_fWxIu",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJdfmvZt_5yzsRuHS_pGJ-FOo",
+            "plus_code": {
+                "compound_code": "H3RH+HV Sangareddy, Telangana",
+                "global_code": "7J9WH3RH+HV"
+            },
+            "rating": 5,
+            "reference": "ChIJdfmvZt_5yzsRuHS_pGJ-FOo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "H3RH JV8 Vidyanagar Colony Road No-3 Beside Zphs School Pathareddypally, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6265253,
+                    "lng": 78.0859953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62790977989272,
+                        "lng": 78.08733772989271
+                    },
+                    "southwest": {
+                        "lat": 17.62521012010728,
+                        "lng": 78.08463807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "A To Z ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113832906701002583571\">SOHAIL S</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCceuMSpFX-lBntEZ0RUcDxZ2o8d5U-917_qodrY13AOFARdTYP3U3rbIxGKR3PWZYM1T_ti25sdJqgUW8bJaV_TZy9EgmpMe6ICQ8zEdYfA9iE3RBFCtJtmsokpdzI5tDK31vF4TEJa1X56dvcEbe8P6sSrY2kDJVnPAzfBcZXBCW",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJV3rQkLf5yzsRDvnz5oPXAj8",
+            "rating": 4.5,
+            "reference": "ChIJV3rQkLf5yzsRDvnz5oPXAj8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J3GP+J95, SH 17, Shivaji Nagar, Sangareddy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.617987,
+                    "lng": 77.953909
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61934172989272,
+                        "lng": 77.95532692989272
+                    },
+                    "southwest": {
+                        "lat": 17.61664207010728,
+                        "lng": 77.95262727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KIRAN ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104026668774635686101\">Pillodi mallanna</a>"
+                    ],
+                    "photo_reference": "AcYSjRhnNs9bbueEPbAHi4q6g71o1vrpFH1KSdj8iH2ez5BM4AnduJAefbmlgu3wwgz_Q6TFwK6_Lk_Fmp0Ip-1bYmUHQvraF6yVVrSSu8KgIiwaMw7-_BCDuy4yFXTAoM1JGTtUYZRKHYTgcFjGwELzDZIq2OtrMsNZa0Jl7-EJljp_t5LV",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJoYiOh0j-yzsRBokGaJtx1xU",
+            "plus_code": {
+                "compound_code": "JX93+5H Sadashivpet, Telangana",
+                "global_code": "7J9VJX93+5H"
+            },
+            "rating": 4.1,
+            "reference": "ChIJoYiOh0j-yzsRBokGaJtx1xU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "2-4-82/a, Shaastri Rd, Lopalikota, Ravindra Nagar, Sadashivpet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6183837,
+                    "lng": 77.952579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61973647989272,
+                        "lng": 77.95398437989272
+                    },
+                    "southwest": {
+                        "lat": 17.61703682010728,
+                        "lng": 77.95128472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SRI SAIRAM ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJCZSoO1T_yzsRq_YzPk7jDRU",
+            "plus_code": {
+                "compound_code": "JX93+92 Sadashivpet, Telangana",
+                "global_code": "7J9VJX93+92"
+            },
+            "rating": 0,
+            "reference": "ChIJCZSoO1T_yzsRq_YzPk7jDRU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "No. 3, 2-45, Subhash Rd, Lopalikota, Ravindra Nagar, Sadashivpet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6068699,
+                    "lng": 78.0797554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60823517989272,
+                        "lng": 78.08105137989271
+                    },
+                    "southwest": {
+                        "lat": 17.60553552010728,
+                        "lng": 78.07835172010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "L.E.D & L.C.D service center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100715676286956398272\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-_oRy2dEAfYr7HMBPJ5beYPr3jQ0DzGnxDM05jcl9UN81qcTdKbTe_rIj3OJHRVmbHScUywgE5qcbSCIwnXFhT1gfEkh01tVDugwMeJqQ3sTpO0Bi7EQWowRDb9mgObu2cH0xvXQLuiSnRiAFu6xSxDMwmYub1VBe1GMtM5XfoeBC",
+                    "width": 576
+                }
+            ],
+            "place_id": "ChIJf5aVYYr5yzsRxSQfB7CID88",
+            "plus_code": {
+                "compound_code": "J34H+PW Sangareddy, Telangana",
+                "global_code": "7J9WJ34H+PW"
+            },
+            "rating": 5,
+            "reference": "ChIJf5aVYYr5yzsRxSQfB7CID88",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Marepally, Balaji Nagar, Sangareddy"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,140 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5816545,
+                    "lng": 76.9864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58302537989272,
+                        "lng": 76.98777722989271
+                    },
+                    "southwest": {
+                        "lat": 17.58032572010728,
+                        "lng": 76.98507757010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "King Electronics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109116653888469294372\">Kashinath Dasamayya</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8tJiLJ8UmcaVoBKL93w5nc5QlDZEjiWp6k1ULnRbGFiCUp8Ak3tjGGlmOvbf9wpwoj0Bs5AVMagnAk4fDxzvQfENxIBw2rfWF1UatU-v4ai_fvi3Vsw8rkeS4LYszOU34K3jAPQL6xrS1Wfe_7Vx0WHXygtQ5_wu-cL9RGCrf2yD2",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJf-5qJxPNyDsROjvtgk5ZEvM",
+            "plus_code": {
+                "compound_code": "HXJP+MG Kamalapur, Karnataka",
+                "global_code": "7J9RHXJP+MG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJf-5qJxPNyDsROjvtgk5ZEvM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Kamalapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5799307,
+                    "lng": 76.9895325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58127882989272,
+                        "lng": 76.99089892989272
+                    },
+                    "southwest": {
+                        "lat": 17.57857917010728,
+                        "lng": 76.98819927010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Electronics Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101100236541292947672\">Jagadish Manthal</a>"
+                    ],
+                    "photo_reference": "AcYSjRgUtFTOajfuZb8bsxzqGG37mmWEGRuJwokn9ECEtZhjLGPcQ36OOGPKIYRw9tkHzDRzlfQW3b8z_KBNXgocPocIoeCUlrkkliKYWwQ4HK0ErDUVYo4YPUO5uhr6ol0u4fM88uNWcIBsirly8ZJA_ZmUBonMoiGPD02qKdBtf9UwXQHE",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJlWBAzGHNyDsR2hsudriNUlI",
+            "rating": 0,
+            "reference": "ChIJlWBAzGHNyDsR2hsudriNUlI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXHQ+XRC, Kamalapur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.5833235,
+                    "lng": 76.9848055
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58468097989272,
+                        "lng": 76.98615707989272
+                    },
+                    "southwest": {
+                        "lat": 17.58198132010727,
+                        "lng": 76.98345742010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Electrical Shop",
+            "permanently_closed": true,
+            "place_id": "ChIJUzkG8yvNyDsRbIZceL-m1CY",
+            "rating": 0,
+            "reference": "ChIJUzkG8yvNyDsRbIZceL-m1CY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HXMM+8W6, Kamalapur - Warnal Rd, Kamalapur"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,884 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgCgaPfiC_uG2-LW99zIGNez2VCy9aULJw29lI9mKlLwtXkdZ6WgyKy1WMezQhR08OVt6sN-9pH_ClAReWrlyPm0iizkl10cwULwT1QY7o-rKE4egYpSN-oTYuCe0qdJhEzZ4XjAAyJ65bQaTLqeIhKPSIAqSTLDtWLUPWzvQI7KUBWsQSeBoNodQBM7S7XM5nm6xRK-wjwfyiR9SOvR4Hi1pTD_5-VtFE_d9c3JKAJ_XU3mJ9J_ZX4thNtr8H3DKpmIrsEt52g6wkS_1TsfngTrQoYxsRua7iMNATBWo1MmB-_GWDW6ysAYq--vBgW5vzElywvK5k0gyBzn0f56dkULnQTuyE6qECMs8pwBekLBTq7xLQsG0AElzfeJ0LLM6KPnFS9Khf2nrPJnagB1V2yyOOIq7h-EMwmZ1VMCnFJrzZq_uDLhR5KAGifN5tnZnSc",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8363765,
+                    "lng": 76.6318047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83762547989272,
+                        "lng": 76.63312812989273
+                    },
+                    "southwest": {
+                        "lat": 17.83492582010727,
+                        "lng": 76.63042847010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ADITYA ELECTRONICS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100241622697036291577\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXY-Y8uIcLNXCAJV57Ti8cGBhGanCuZHBxxww3io2AK5k3yCe9lABHISWX529RzUdgL3ltawoCIiD9OYyALKGFKfO2fEFqsURNuThbl1gxl2Uu0t5sCwwRjrVziP0rTBCQ4a2hcK4EnCvK08N2iuSBbzEDrYAAssuKxR9IadVGysCi",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJfwAw22NbzzsRrdY5wL-wejc",
+            "plus_code": {
+                "compound_code": "RJPJ+HP Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+HP"
+            },
+            "rating": 5,
+            "reference": "ChIJfwAw22NbzzsRrdY5wL-wejc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Umarga rural"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.835963,
+                    "lng": 76.63659659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83731512989272,
+                        "lng": 76.63794687989272
+                    },
+                    "southwest": {
+                        "lat": 17.83461547010728,
+                        "lng": 76.63524722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Ganesh Electronic",
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106214920979678867388\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi2hR0R2_dI-wnV_L0CJbblbuMV7ofQPiHy_3GNV07PTd_-CUlSC41vTU-35eklAr8m9S7_gEI2ug8ITQIpy049uWSoAk4JrRBs4eV7M8xsqfxQPTU_zuCng1oXJWuLz8kys73cM2ecj7_mumNWY3oIZ0h-6Pd-TFBMogopsiCR_mjs",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJHaUTSxFbzzsRquL0ifJPSHU",
+            "plus_code": {
+                "compound_code": "RJPP+9J Omerga, Maharashtra",
+                "global_code": "7J9RRJPP+9J"
+            },
+            "rating": 0,
+            "reference": "ChIJHaUTSxFbzzsRquL0ifJPSHU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.05, Balaji Nagar, New Balaji Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8376878,
+                    "lng": 76.6212573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83905137989272,
+                        "lng": 76.62255907989272
+                    },
+                    "southwest": {
+                        "lat": 17.83635172010728,
+                        "lng": 76.61985942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ASHWINI ELECTRONICS",
+            "place_id": "ChIJy7-pt6JbzzsRLMgCLUtbdV8",
+            "plus_code": {
+                "compound_code": "RJQC+3G Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+3G"
+            },
+            "rating": 0,
+            "reference": "ChIJy7-pt6JbzzsRLMgCLUtbdV8",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Shivpuri Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8355588,
+                    "lng": 76.63227959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83690377989272,
+                        "lng": 76.63365342989272
+                    },
+                    "southwest": {
+                        "lat": 17.83420412010728,
+                        "lng": 76.63095377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deenesh Electronic Services",
+            "place_id": "ChIJD_ijXr1bzzsRW6jIcVyQswY",
+            "plus_code": {
+                "compound_code": "RJPJ+6W Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+6W"
+            },
+            "rating": 0,
+            "reference": "ChIJD_ijXr1bzzsRW6jIcVyQswY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 01, Diggi Rd, near A Mart, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8137006,
+                    "lng": 76.59901479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81506612989272,
+                        "lng": 76.60038752989273
+                    },
+                    "southwest": {
+                        "lat": 17.81236647010728,
+                        "lng": 76.59768787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "N D HARDWARE AND ELECTRONIC",
+            "place_id": "ChIJeRnHY4JbzzsRonvlzbXx3tk",
+            "plus_code": {
+                "compound_code": "RH7X+GJ Omerga, Maharashtra",
+                "global_code": "7J9RRH7X+GJ"
+            },
+            "rating": 0,
+            "reference": "ChIJeRnHY4JbzzsRonvlzbXx3tk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Gunjoti Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8381415,
+                    "lng": 76.6238985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83941402989272,
+                        "lng": 76.62523032989272
+                    },
+                    "southwest": {
+                        "lat": 17.83671437010727,
+                        "lng": 76.62253067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NEW JAVED ELECTRONICS",
+            "place_id": "ChIJc_602Z1bzzsRkssl5sg-L4A",
+            "plus_code": {
+                "compound_code": "RJQF+7H Omerga, Maharashtra",
+                "global_code": "7J9RRJQF+7H"
+            },
+            "rating": 0,
+            "reference": "ChIJc_602Z1bzzsRkssl5sg-L4A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.05 Main Road Omerga, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8380037,
+                    "lng": 76.6244997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83928482989272,
+                        "lng": 76.62583352989273
+                    },
+                    "southwest": {
+                        "lat": 17.83658517010727,
+                        "lng": 76.62313387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ravi Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJu11i-ztbzzsRRb7pCoggb7A",
+            "plus_code": {
+                "compound_code": "RJQF+6Q Omerga, Maharashtra",
+                "global_code": "7J9RRJQF+6Q"
+            },
+            "rating": 4,
+            "reference": "ChIJu11i-ztbzzsRRb7pCoggb7A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Road, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8358193,
+                    "lng": 76.63203759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83726092989272,
+                        "lng": 76.63341142989272
+                    },
+                    "southwest": {
+                        "lat": 17.83456127010728,
+                        "lng": 76.63071177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dinesh Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106959991021872754925\">arun survase</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXXYFmSyuZrRRvSZpoyveL1HlcJ6R5mPvfEYqZ_cyQuZWQ2lOSGdLa99VgxHAjfddb7dpYPUaTs5Q_AwOkEyeEMyp05DjWw2uxpzKgS_6b3RewtMq38BbsyZG7kliM6FHPXTM8-KvIcOFMam-G62_e_ovn-43c9-j4n0P1gDthosKG",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJo5BZRz5bzzsRoyNGQKjaBqQ",
+            "plus_code": {
+                "compound_code": "RJPJ+8R Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+8R"
+            },
+            "rating": 4.1,
+            "reference": "ChIJo5BZRz5bzzsRoyNGQKjaBqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8268989,
+                    "lng": 76.6889382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82824897989272,
+                        "lng": 76.69028772989273
+                    },
+                    "southwest": {
+                        "lat": 17.82554932010728,
+                        "lng": 76.68758807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivshankar Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102631189229719144670\">Basavraj Swami</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9dTLEH3VjblYfcC4oVDJg6KF8ngDhssrJouzcsV6PrOkCYAIXy0MvjI0HMv5zkEVHg7Hpn_7_scSHiN3YBRskCgtwh7Xn5vDKBzaSKYMHXTA02eSyKUr1G2Dh9ccN8ofXE3guSdvwQ0agmrVlr6yLYaWucO-4ba9XZLMt0KVAKeE3",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJwVBBAFVEzzsRQaSGzFYTggY",
+            "plus_code": {
+                "compound_code": "RMGQ+QH Turori, Maharashtra",
+                "global_code": "7J9RRMGQ+QH"
+            },
+            "rating": 4,
+            "reference": "ChIJwVBBAFVEzzsRQaSGzFYTggY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "road, near police chowki, Turori"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8362346,
+                    "lng": 76.6224773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83758822989272,
+                        "lng": 76.62380382989271
+                    },
+                    "southwest": {
+                        "lat": 17.83488857010728,
+                        "lng": 76.62110417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sidhanath Electrical",
+            "place_id": "ChIJf0-GbLhbzzsRwtqcEM1Cs_I",
+            "plus_code": {
+                "compound_code": "RJPC+FX Omerga, Maharashtra",
+                "global_code": "7J9RRJPC+FX"
+            },
+            "rating": 0,
+            "reference": "ChIJf0-GbLhbzzsRwtqcEM1Cs_I",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 22, Patange Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8348893,
+                    "lng": 76.63296729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83623782989272,
+                        "lng": 76.63432752989273
+                    },
+                    "southwest": {
+                        "lat": 17.83353817010728,
+                        "lng": 76.63162787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nisha electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB2ccmgxbzzsRaeSNy5vXa-w",
+            "plus_code": {
+                "compound_code": "RJMM+X5 Omerga, Maharashtra",
+                "global_code": "7J9RRJMM+X5"
+            },
+            "rating": 5,
+            "reference": "ChIJB2ccmgxbzzsRaeSNy5vXa-w",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shastri Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8397834,
+                    "lng": 76.6222219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84104772989272,
+                        "lng": 76.62356322989271
+                    },
+                    "southwest": {
+                        "lat": 17.83834807010728,
+                        "lng": 76.62086357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "RAVI ELECTRONICS",
+            "place_id": "ChIJmRqmsSVbzzsRWxjdOOWXGr4",
+            "plus_code": {
+                "compound_code": "RJQC+WV Omerga, Maharashtra",
+                "global_code": "7J9RRJQC+WV"
+            },
+            "rating": 0,
+            "reference": "ChIJmRqmsSVbzzsRWxjdOOWXGr4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02, near Police Corter, Balaji Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8353141,
+                    "lng": 76.622413
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83667212989272,
+                        "lng": 76.62371872989272
+                    },
+                    "southwest": {
+                        "lat": 17.83397247010728,
+                        "lng": 76.62101907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Electrical",
+            "place_id": "ChIJq5oGKk9bzzsRBfBLr2mS99Q",
+            "plus_code": {
+                "compound_code": "RJPC+4X Omerga, Maharashtra",
+                "global_code": "7J9RRJPC+4X"
+            },
+            "rating": 0,
+            "reference": "ChIJq5oGKk9bzzsRBfBLr2mS99Q",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 1, Patange Rd, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8428143,
+                    "lng": 76.6176237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84444497989272,
+                        "lng": 76.61918442989273
+                    },
+                    "southwest": {
+                        "lat": 17.84174532010728,
+                        "lng": 76.61648477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "May Tuljai Electronics",
+            "place_id": "ChIJ0SJaKZhbzzsRO89VeQjmOPc",
+            "plus_code": {
+                "compound_code": "RJV9+42 Omerga, Maharashtra",
+                "global_code": "7J9RRJV9+42"
+            },
+            "rating": 0,
+            "reference": "ChIJ0SJaKZhbzzsRO89VeQjmOPc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop 04 Indra Chowk Road, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8385887,
+                    "lng": 76.6196032
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84006417989272,
+                        "lng": 76.6210049298927
+                    },
+                    "southwest": {
+                        "lat": 17.83736452010728,
+                        "lng": 76.61830527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PARAS ELECTRONICS",
+            "place_id": "ChIJVwC_xhlbzzsRUUItzdweEx0",
+            "plus_code": {
+                "compound_code": "RJQ9+CR Omerga, Maharashtra",
+                "global_code": "7J9RRJQ9+CR"
+            },
+            "rating": 5,
+            "reference": "ChIJVwC_xhlbzzsRUUItzdweEx0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No. 01, Bhart Vidyale Complex, Aarogya Nagar, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8361054,
+                    "lng": 76.632348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83742132989272,
+                        "lng": 76.63368897989271
+                    },
+                    "southwest": {
+                        "lat": 17.83472167010728,
+                        "lng": 76.63098932010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deenesh Electronics",
+            "place_id": "ChIJlUIFSndbzzsR_TmdN-Pt4To",
+            "plus_code": {
+                "compound_code": "RJPJ+CW Omerga, Maharashtra",
+                "global_code": "7J9RRJPJ+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJlUIFSndbzzsR_TmdN-Pt4To",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02 Samarth Complex, near A Mart, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8281154,
+                    "lng": 76.6900502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82950067989272,
+                        "lng": 76.69140077989272
+                    },
+                    "southwest": {
+                        "lat": 17.82680102010728,
+                        "lng": 76.68870112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tushar Electronics Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 554,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113076534681139241208\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6ecuaBblvFDPEDGYpeT9upoyvXYtius6aPPPqghTOn7dnT5geYycbP5uN6WzG9mFK9nxS_PbwAvP2Qq8g5PYVeNUsqOzDWRb4vh-J8i8_skz8mnwCz76m2LCBUmUfSw95DIXmT6Jd0J64rlTZtyXHqVHCz7sQAVzfIpkpBAwMd8Er",
+                    "width": 554
+                }
+            ],
+            "place_id": "ChIJhdIpB1VEzzsRO1xR-K-SKZg",
+            "plus_code": {
+                "compound_code": "RMHR+72 Omerga, Maharashtra",
+                "global_code": "7J9RRMHR+72"
+            },
+            "rating": 5,
+            "reference": "ChIJhdIpB1VEzzsRO1xR-K-SKZg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 01 Turori, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8361711,
+                    "lng": 76.6225884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83753107989272,
+                        "lng": 76.62387602989271
+                    },
+                    "southwest": {
+                        "lat": 17.83483142010727,
+                        "lng": 76.62117637010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Venkatesh Electronics, Omerga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ0SU-aDxbzzsRJlbla3CqX2Y",
+            "plus_code": {
+                "compound_code": "RJPF+F2 Omerga, Maharashtra",
+                "global_code": "7J9RRJPF+F2"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ0SU-aDxbzzsRJlbla3CqX2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8374906,
+                    "lng": 76.6269166
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83875837989272,
+                        "lng": 76.62824522989273
+                    },
+                    "southwest": {
+                        "lat": 17.83605872010728,
+                        "lng": 76.62554557010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Azeem Electronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115365424490099149580\">azeem sayyad</a>"
+                    ],
+                    "photo_reference": "AcYSjRjoksfVla7gXnI4UiJK_69ZwXFPOruvkmdMch4OA1AnQvbOans4xDdpI7fNmreROvT7mxeOw3kHDPgalG2XBKMlKdmdj7kyDM_QQxcWze9kG9PrGkDppC2TLFeVcLZ1f-5-tsfzahevC2Z-y3qWVQHX6CA1RpnCWuYq309_aVLWde3U",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJY_JeNjpbzzsRVXc-WlUqJBk",
+            "plus_code": {
+                "compound_code": "RJPG+XQ Omerga, Maharashtra",
+                "global_code": "7J9RRJPG+XQ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJY_JeNjpbzzsRVXc-WlUqJBk",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Mumbai Hwy, Omerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8378972,
+                    "lng": 76.6185883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83924677989272,
+                        "lng": 76.61995772989272
+                    },
+                    "southwest": {
+                        "lat": 17.83654712010728,
+                        "lng": 76.61725807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Morya Electricals Omerga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 584,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109769691840915763706\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgsopugtd0RcwAH3yonIF3PkOrDvJL8prdhY3XQxl-ZPUF8XzSTfwytPYfHHJ47B9HxrPcDL5QdGSc-nSOiKH0GyseYOfbCtVx1dY5VgbNDuRyhYcPMBjN7w-PJ88_THaoAesvjn0eOc0xlfHqt2Dz9oBLk3P5_OzdEEPYny7j9Ujwo",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJsXtTC6lbzzsRUnqZq-n4paE",
+            "plus_code": {
+                "compound_code": "RJQ9+5C Omerga, Maharashtra",
+                "global_code": "7J9RRJQ9+5C"
+            },
+            "rating": 5,
+            "reference": "ChIJsXtTC6lbzzsRUnqZq-n4paE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No. 01 New, Aarogya Nagar, Omerga"
+        }
+    ],
+    "status": "OK"
+}

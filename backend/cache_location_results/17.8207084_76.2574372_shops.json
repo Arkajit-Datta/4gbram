@@ -1,0 +1,785 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgzyBhCuy5w3pzcpej59mr10F6iRiF9spAXXMp15KY0EOImj_fog4Slf2FOtjKh9fjrthG9gcPXIWE56b_3f493xccky4Gum7h8oKbv6D5qEbJPLmQqQI4NMtB0V2TrdacwXqeQwtwB9yU8UODXxBnb8LePg1EDywsK6y7oXE2wJ18MJhK6y-zL5w0CQenNi-pKs2PbGawIulJ50l5Ht7zvwGGxAN7KN22_WRk6ns1L6t4DH1jK9GLpqx-Yl03S3-fpJ_uED4Xx3GMnUgEFB0A4xJF3itiNVFXrtIgTW1v7dQ2xGCCI_9H87hMWzbuSibo7oeOoyVgrQp15bRON5hQHevfspoOQAHlqBMzvbHMY85vThvtTC9N0ATR6LuwGXTg0T4m44z7rolwqowwQtheDJCLPFnH1pU17RJMfoLvNQ6T6__yt3g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8135133,
+                    "lng": 76.2765045
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81490417989273,
+                        "lng": 76.27789167989272
+                    },
+                    "southwest": {
+                        "lat": 17.81220452010728,
+                        "lng": 76.27519202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Pakiza Pan Shop & Ganral Stores",
+            "place_id": "ChIJhQT-sU_xxTsRXA0qxX3DsrQ",
+            "plus_code": {
+                "compound_code": "R77G+CJ Naldurg, Maharashtra",
+                "global_code": "7J9RR77G+CJ"
+            },
+            "rating": 0,
+            "reference": "ChIJhQT-sU_xxTsRXA0qxX3DsrQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Main Rood, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7400339,
+                    "lng": 76.1716716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74135122989272,
+                        "lng": 76.17307397989272
+                    },
+                    "southwest": {
+                        "lat": 17.73865157010728,
+                        "lng": 76.17037432010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BASWESHWAR PAN SHOP AND GENERAL STORE",
+            "place_id": "ChIJpyqQLkDnxTsRfmS3qL9DCow",
+            "plus_code": {
+                "compound_code": "P5RC+2M Keshegaon, Maharashtra",
+                "global_code": "7J9RP5RC+2M"
+            },
+            "rating": 0,
+            "reference": "ChIJpyqQLkDnxTsRfmS3qL9DCow",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01, Main Road, Keshegaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8158924,
+                    "lng": 76.283531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81724267989272,
+                        "lng": 76.28501607989273
+                    },
+                    "southwest": {
+                        "lat": 17.81454302010728,
+                        "lng": 76.28231642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PAKIZA PAN SHOP",
+            "place_id": "ChIJSWovkEfxxTsRChmztJwENa0",
+            "plus_code": {
+                "compound_code": "R78M+9C Naldurg, Maharashtra",
+                "global_code": "7J9RR78M+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJSWovkEfxxTsRChmztJwENa0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Get, Killa Gate Rd, near Police Station, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7596306,
+                    "lng": 76.299216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76097722989272,
+                        "lng": 76.30056642989271
+                    },
+                    "southwest": {
+                        "lat": 17.75827757010728,
+                        "lng": 76.29786677010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "pratik pan shop",
+            "place_id": "ChIJO_M6UzrxxTsRX4-s2pqoWbc",
+            "plus_code": {
+                "compound_code": "Q75X+VM Lohagaon, Maharashtra",
+                "global_code": "7J9RQ75X+VM"
+            },
+            "rating": 0,
+            "reference": "ChIJO_M6UzrxxTsRX4-s2pqoWbc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no.01 main road lohgaon, Lohagaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7354528,
+                    "lng": 76.2327476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73680232989273,
+                        "lng": 76.23409912989273
+                    },
+                    "southwest": {
+                        "lat": 17.73410267010728,
+                        "lng": 76.23139947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Swami samarth grocery shop",
+            "place_id": "ChIJ19QNVlvlxTsR1W7fqVTJBBw",
+            "plus_code": {
+                "compound_code": "P6PM+54 Shahapur, Maharashtra",
+                "global_code": "7J9RP6PM+54"
+            },
+            "rating": 0,
+            "reference": "ChIJ19QNVlvlxTsR1W7fqVTJBBw",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bus Stop, SH154, Shahapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7823725,
+                    "lng": 76.23973029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78359922989272,
+                        "lng": 76.24107467989272
+                    },
+                    "southwest": {
+                        "lat": 17.78089957010727,
+                        "lng": 76.23837502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MAULI PAN SHOP",
+            "place_id": "ChIJsQo4gfvvxTsRZnuS1JLe1WQ",
+            "plus_code": {
+                "compound_code": "Q6JQ+WV Khudawadi, Maharashtra",
+                "global_code": "7J9RQ6JQ+WV"
+            },
+            "rating": 0,
+            "reference": "ChIJsQo4gfvvxTsRZnuS1JLe1WQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 07, Main Road, Khudawadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7581969,
+                    "lng": 76.2977896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75953182989272,
+                        "lng": 76.29910472989273
+                    },
+                    "southwest": {
+                        "lat": 17.75683217010728,
+                        "lng": 76.29640507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aditay Kirana and Pan Shop",
+            "place_id": "ChIJf8wG_CjxxTsRSzdX10W2Tn0",
+            "plus_code": {
+                "compound_code": "Q75X+74 Lohagaon, Maharashtra",
+                "global_code": "7J9RQ75X+74"
+            },
+            "rating": 0,
+            "reference": "ChIJf8wG_CjxxTsRSzdX10W2Tn0",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop N 0 Mani Road, Lhogaon Lohgain"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.845408,
+                    "lng": 76.247731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.84725677989272,
+                        "lng": 76.24904877989272
+                    },
+                    "southwest": {
+                        "lat": 17.84455712010728,
+                        "lng": 76.24634912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhausaheb Paan Shop",
+            "place_id": "ChIJ9dUZDS7txTsRgLXBXc3AArQ",
+            "plus_code": {
+                "compound_code": "R6WX+53 Salgara Maddi, Maharashtra",
+                "global_code": "7J9RR6WX+53"
+            },
+            "rating": 0,
+            "reference": "ChIJ9dUZDS7txTsRgLXBXc3AArQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5 Main Road, Salgara Maddi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8262542,
+                    "lng": 76.3335027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82755447989272,
+                        "lng": 76.33485017989274
+                    },
+                    "southwest": {
+                        "lat": 17.82485482010728,
+                        "lng": 76.33215052010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Malge kirana shop",
+            "place_id": "ChIJ50-jq4fxxTsRWpK1xHeWCL4",
+            "rating": 1,
+            "reference": "ChIJ50-jq4fxxTsRWpK1xHeWCL4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "R8GM+FC, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7365852,
+                    "lng": 76.23429329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73790467989272,
+                        "lng": 76.23562637989271
+                    },
+                    "southwest": {
+                        "lat": 17.73520502010728,
+                        "lng": 76.23292672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dosti Pan Shop",
+            "place_id": "ChIJGQ5nUtHlxTsRSEaDXRXcrsU",
+            "plus_code": {
+                "compound_code": "P6PM+JP Shahapur, Maharashtra",
+                "global_code": "7J9RP6PM+JP"
+            },
+            "rating": 0,
+            "reference": "ChIJGQ5nUtHlxTsRSEaDXRXcrsU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02 Main Road Shahapur, Shahapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8141924,
+                    "lng": 76.27564269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81559632989272,
+                        "lng": 76.27705307989272
+                    },
+                    "southwest": {
+                        "lat": 17.81289667010728,
+                        "lng": 76.27435342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHIVRAJ PAN SHOP",
+            "place_id": "ChIJaQJ9W37xxTsRYp6BFxpOovc",
+            "plus_code": {
+                "compound_code": "R77G+M7 Naldurg, Maharashtra",
+                "global_code": "7J9RR77G+M7"
+            },
+            "rating": 0,
+            "reference": "ChIJaQJ9W37xxTsRYp6BFxpOovc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03, Naldurg, Solapur Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7462534,
+                    "lng": 76.16732410000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74778037989272,
+                        "lng": 76.16896617989272
+                    },
+                    "southwest": {
+                        "lat": 17.74508072010728,
+                        "lng": 76.16626652010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MURNAL PAAN SHOP",
+            "place_id": "ChIJt21zA67pxTsRfdaN1BpoKrQ",
+            "plus_code": {
+                "compound_code": "P5W8+GW Keshegaon, Maharashtra",
+                "global_code": "7J9RP5W8+GW"
+            },
+            "rating": 0,
+            "reference": "ChIJt21zA67pxTsRfdaN1BpoKrQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01 Main Road Kasegaon Kasegaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7441676,
+                    "lng": 76.2397648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74548172989272,
+                        "lng": 76.24116897989272
+                    },
+                    "southwest": {
+                        "lat": 17.74278207010728,
+                        "lng": 76.23846932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MAULI PAN SHOP",
+            "place_id": "ChIJQ8dgoPzlxTsRNdzXd1UVg0o",
+            "plus_code": {
+                "compound_code": "P6VQ+MW Shahapur, Maharashtra",
+                "global_code": "7J9RP6VQ+MW"
+            },
+            "rating": 0,
+            "reference": "ChIJQ8dgoPzlxTsRNdzXd1UVg0o",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03 Main Road Shahpur, Shahapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8138674,
+                    "lng": 76.277931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81516662989273,
+                        "lng": 76.27929542989273
+                    },
+                    "southwest": {
+                        "lat": 17.81246697010728,
+                        "lng": 76.27659577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Qureshi Pan Shop & Ganral Stores",
+            "place_id": "ChIJn-fXLNrxxTsR6jsitaIyWqU",
+            "plus_code": {
+                "compound_code": "R77H+G5 Naldurg, Maharashtra",
+                "global_code": "7J9RR77H+G5"
+            },
+            "rating": 0,
+            "reference": "ChIJn-fXLNrxxTsR6jsitaIyWqU",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Bazar Lain Naldurge Naldurug"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8134695,
+                    "lng": 76.2765776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81486342989272,
+                        "lng": 76.27795337989271
+                    },
+                    "southwest": {
+                        "lat": 17.81216377010728,
+                        "lng": 76.27525372010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Zahed Paan Shop",
+            "place_id": "ChIJx6_VmxfxxTsR5sf-m4Axk_4",
+            "plus_code": {
+                "compound_code": "R77G+9J Naldurg, Maharashtra",
+                "global_code": "7J9RR77G+9J"
+            },
+            "rating": 0,
+            "reference": "ChIJx6_VmxfxxTsR5sf-m4Axk_4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 10, Main Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8190671,
+                    "lng": 76.2694542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82041737989272,
+                        "lng": 76.27082412989272
+                    },
+                    "southwest": {
+                        "lat": 17.81771772010728,
+                        "lng": 76.26812447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "S.M Traders",
+            "place_id": "ChIJxyCOw1vvxTsRcCUW1ND2jyo",
+            "plus_code": {
+                "compound_code": "R799+JQ Naldurg, Maharashtra",
+                "global_code": "7J9RR799+JQ"
+            },
+            "rating": 0,
+            "reference": "ChIJxyCOw1vvxTsRcCUW1ND2jyo",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 03, Main Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.782399,
+                    "lng": 76.2404334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78374682989272,
+                        "lng": 76.24181922989273
+                    },
+                    "southwest": {
+                        "lat": 17.78104717010728,
+                        "lng": 76.23911957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KIRAN PAN SHOP",
+            "place_id": "ChIJXxOFY0HvxTsRq9cs4pj1_Xg",
+            "plus_code": {
+                "compound_code": "Q6JR+X5 Khudawadi, Maharashtra",
+                "global_code": "7J9RQ6JR+X5"
+            },
+            "rating": 0,
+            "reference": "ChIJXxOFY0HvxTsRq9cs4pj1_Xg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.04, Main Road, Khudawadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8203611,
+                    "lng": 76.2696046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82169707989272,
+                        "lng": 76.27099257989272
+                    },
+                    "southwest": {
+                        "lat": 17.81899742010728,
+                        "lng": 76.26829292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gayatri Kirana & General Stores",
+            "place_id": "ChIJyVeCxcDvxTsR9hf-m7Lcx1A",
+            "plus_code": {
+                "compound_code": "R7C9+4R Naldurg, Maharashtra",
+                "global_code": "7J9RR7C9+4R"
+            },
+            "rating": 0,
+            "reference": "ChIJyVeCxcDvxTsR9hf-m7Lcx1A",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Main Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.824647,
+                    "lng": 76.3337224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82597007989272,
+                        "lng": 76.33513127989272
+                    },
+                    "southwest": {
+                        "lat": 17.82327042010728,
+                        "lng": 76.33243162010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TIRUPATI PAN SHOP",
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106671094709159234322\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-4tH73O8uS16jlwnnIZ9u9wqFxKkbdH2oteq-xyqwMRAiq9b0CRZYQ6QCXt43h_fXXVr0CLQ1nznJcOzJRtSvmYVyqeYpyeXfUEjTc1H5Jk_dKOGFWbS-nXgmLkFVB4tzHTvNnUyRfn63wBKrKbb2fHGXyqK8qJLxbHJ2BEBBJYKj",
+                    "width": 1728
+                }
+            ],
+            "place_id": "ChIJ4Yl_i1_xxTsRFWqRzkW3g0E",
+            "plus_code": {
+                "compound_code": "R8FM+VF Jalkot, Maharashtra",
+                "global_code": "7J9RR8FM+VF"
+            },
+            "rating": 0,
+            "reference": "ChIJ4Yl_i1_xxTsRFWqRzkW3g0E",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03, Main Road, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7460063,
+                    "lng": 76.3197701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74736597989272,
+                        "lng": 76.32112352989272
+                    },
+                    "southwest": {
+                        "lat": 17.74466632010728,
+                        "lng": 76.31842387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHIVBASVA PAN SHOP",
+            "place_id": "ChIJvS5hDXL7xTsRQA0wuseof-o",
+            "plus_code": {
+                "compound_code": "P8W9+CW Nandgaon, Maharashtra",
+                "global_code": "7J9RP8W9+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJvS5hDXL7xTsRQA0wuseof-o",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 06 Main Road Nandgaon, Nandgaon"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,922 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjVWLP6owZE7NEsKW3lR2L9EOhsq5N4zPMXYseEF_M2Ho-pcuJTp3BMMF-YDs_Ouwrg2N0bu-CnljPiUkTKzTFL4bUbppH2E5dpjeUbFzwoH9NDxGlZogDJmD81qgdCEgFM8FuvVnzrI7-aq3b_Bl5f9RHpt-mbI-vLIM3Tt--WmwQvlTxQbGgJCszoURKf4QP7NQgKQdxKT6fFqehwEiXMzcEoFi0H1iJad_8U3r2WhoBsJ3hiLJIuLy4ykIoU9VmYq1caXRoiX_ql4024vzX_Xfs8w-CLxE41Z5mIYm3N2wsCY6gkXfDlHtJrMisUGjFAjZre7iWnUyMiWRRrn0weMNAxFSLnXWREWPt_nd18IiKOB9mly7dSv3Nu8uUUqddwiuO3vnAptkxchBvDF-AaVRGUSRnp8hnvlHwq0GwuTPbFdSDD4tUo",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6346524,
+                    "lng": 73.7696205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63600247989272,
+                        "lng": 73.77096797989272
+                    },
+                    "southwest": {
+                        "lat": 18.63330282010728,
+                        "lng": 73.76826832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jay Malhar Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJywSr1em5wjsRt79AzhtU64Y",
+            "plus_code": {
+                "compound_code": "JQM9+VR Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQM9+VR"
+            },
+            "rating": 2,
+            "reference": "ChIJywSr1em5wjsRt79AzhtU64Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hiwale appt S/No 37 2 opposite shree swami shaktipeeth, sairam colony, Chinchwad, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6380612,
+                    "lng": 73.76058789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63938162989272,
+                        "lng": 73.76193417989272
+                    },
+                    "southwest": {
+                        "lat": 18.63668197010728,
+                        "lng": 73.75923452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Asmita mini market",
+            "place_id": "ChIJ1e8B32S5wjsRMbReM5nQzVU",
+            "rating": 5,
+            "reference": "ChIJ1e8B32S5wjsRMbReM5nQzVU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JQQ6+67H, Wallekar Nagar, Sector No. 32, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6523792,
+                    "lng": 73.76091629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65373417989272,
+                        "lng": 73.76225977989273
+                    },
+                    "southwest": {
+                        "lat": 18.65103452010728,
+                        "lng": 73.75956012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "JANTA SUPER MARKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104109972668050303236\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj-HgUmIJviiqwAQnsjX7QENONW-abAiNtGHC09f_h000OIfw0g9b90gqTI1kpiiOVPUdthxjMjJDrK8q9hw-MgLfV_t_7VTlIY18XkqNexmkKSRinG9ouWTHBu5ikT3Pn28BZwursyQ_IV5hyBW1RxARblNX08y48dFdCkgP9u8SGf",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJmZjZwOS5wjsRvgpOBJUtKHk",
+            "plus_code": {
+                "compound_code": "MQ26+X9 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMQ26+X9"
+            },
+            "rating": 4,
+            "reference": "ChIJmZjZwOS5wjsRvgpOBJUtKHk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "SHOP NO6/7, PIMPRI CINCHAVAD ROAD, NIGADI, PIMPRI CHINCHWAD, COLLEGE, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6554544,
+                    "lng": 73.7594092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65678842989272,
+                        "lng": 73.76079952989272
+                    },
+                    "southwest": {
+                        "lat": 18.65408877010728,
+                        "lng": 73.75809987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Hanuman Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJz2ChNOO5wjsRubIA7GdP8iQ",
+            "plus_code": {
+                "compound_code": "MQ45+5Q Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMQ45+5Q"
+            },
+            "rating": 2.3,
+            "reference": "ChIJz2ChNOO5wjsRubIA7GdP8iQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Shubham Park, Swapnapurti Phase 1, Sector No. 26, Pradhikaran, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6160245,
+                    "lng": 73.76429449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61743872989272,
+                        "lng": 73.76573102989272
+                    },
+                    "southwest": {
+                        "lat": 18.61473907010728,
+                        "lng": 73.76303137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ganesh Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJoTFIxJ25wjsR36ZdHComUL8",
+            "plus_code": {
+                "compound_code": "JQ87+CP Pune, Maharashtra",
+                "global_code": "7JCMJQ87+CP"
+            },
+            "rating": 2.7,
+            "reference": "ChIJoTFIxJ25wjsR36ZdHComUL8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop no. 1, Sonigara Park, Thathawade Road, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6741657,
+                    "lng": 73.7378195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.67549822989272,
+                        "lng": 73.73916712989272
+                    },
+                    "southwest": {
+                        "lat": 18.67279857010728,
+                        "lng": 73.73646747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sharon General store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ7dRMrnexwjsRrFHPJqlaUlg",
+            "rating": 4.5,
+            "reference": "ChIJ7dRMrnexwjsRrFHPJqlaUlg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "MPFQ+M48, Unnamed Road, Bapdev Nagar, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6382866,
+                    "lng": 73.7478739
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63962857989272,
+                        "lng": 73.74926842989272
+                    },
+                    "southwest": {
+                        "lat": 18.63692892010728,
+                        "lng": 73.74656877010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhavani Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJJbTp97y5wjsRL2fhc7EdUfU",
+            "rating": 3,
+            "reference": "ChIJJbTp97y5wjsRL2fhc7EdUfU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JPQX+849, Punawale High St, Buddha Vihar, Sai Sagar Nagar, Vishnu Dev Nagar, Punawale, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6748528,
+                    "lng": 73.7308084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.67623612989272,
+                        "lng": 73.73216697989272
+                    },
+                    "southwest": {
+                        "lat": 18.67353647010728,
+                        "lng": 73.72946732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Neelam Kirana & General store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2698,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112778613803124674596\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiJ4ILTUcJ97xd3CY1fmSqne7VeLN08yZxCjT5oEl6Xpcbq1i0shJp-G0dSmbkCwEK4BTt4fIblDOKa8jDUSEPqVpzq6dJqlyLnbcG-YDKMP3e2T9I3Bvv0VesghJJW1WOARPM8X1yH8Ob-yUbZqFj9kbv2UpFyGEXLICDbCPxgstZA",
+                    "width": 2074
+                }
+            ],
+            "place_id": "ChIJA7igWsmxwjsRG2ApJAaVIB4",
+            "plus_code": {
+                "compound_code": "MPFJ+W8 Dehu Road, Maharashtra",
+                "global_code": "7JCMMPFJ+W8"
+            },
+            "rating": 0,
+            "reference": "ChIJA7igWsmxwjsRG2ApJAaVIB4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop no 2, Sankalp Nagari,Shree Apartment, Kiwale, Ravet, Dehu Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6145758,
+                    "lng": 73.7153457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61591727989272,
+                        "lng": 73.71669522989272
+                    },
+                    "southwest": {
+                        "lat": 18.61321762010728,
+                        "lng": 73.71399557010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aashapura Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlxVDzU26wjsRjzBgey77fIU",
+            "plus_code": {
+                "compound_code": "JP78+R4 Pune, Maharashtra",
+                "global_code": "7JCMJP78+R4"
+            },
+            "rating": 0,
+            "reference": "ChIJlxVDzU26wjsRjzBgey77fIU",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Marunji Village, Hinjawadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6650992,
+                    "lng": 73.7161279
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66648917989272,
+                        "lng": 73.71748902989272
+                    },
+                    "southwest": {
+                        "lat": 18.66378952010728,
+                        "lng": 73.71478937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhavani Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ1TuepJmxwjsRhCKsElPmrmY",
+            "rating": 4.2,
+            "reference": "ChIJ1TuepJmxwjsRhCKsElPmrmY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80,
+            "vicinity": "MP88+2CQ, St Tukaram Nagar, Mamurdi, Dehu Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6554645,
+                    "lng": 73.756012
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65681977989272,
+                        "lng": 73.75736332989273
+                    },
+                    "southwest": {
+                        "lat": 18.65412012010728,
+                        "lng": 73.75466367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jai Mata Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101994961566842876148\">Ashish Pednekar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhpd1lp2-jl2zPTszGV6rtYvVn4Dpbn61uvEtDtiuRyCLyHivHmv8Fp7CRBcyEY0fF5FtAAR-2BCDbfjluEVOuzkRBXZAya03Bbh-ZRnLpptzzjKiDdXF6aY6rxQMjU7teTruPCS-gnqYl2TavGeDhqJroNNrWR4FENkc9jVrI3yg7h",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJ3Y4aW_y5wjsRAWvRlOZ1thI",
+            "plus_code": {
+                "compound_code": "MQ44+5C Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMQ44+5C"
+            },
+            "rating": 4,
+            "reference": "ChIJ3Y4aW_y5wjsRAWvRlOZ1thI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "179/2, 179/2, ravet, Ganesh Nagar, Ravet, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7328189,
+                    "lng": 73.6374496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.73414982989272,
+                        "lng": 73.63887697989271
+                    },
+                    "southwest": {
+                        "lat": 18.73145017010728,
+                        "lng": 73.63617732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jai ganesh kirana stores",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109830655035035510447\">Ashok Rathod</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1yJyILwSZD5ekx8DDClCpfSB8vZLOE5Hz32KnbA5mI12XYxxfmcHHT9gHMjzT2k0nTH0Jj6cbq-GIbYxvlRZ9jfLyMA-DSXCrulfLw-VzeJ7kefhMqbUE6oRtNjyvgBevLpOi1ECF6mlNaj3oMlRZCmXNzdzaJE_7KDNCL3rc6902",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJQ0aHKaOvwjsR7ul_UA_yqEU",
+            "plus_code": {
+                "compound_code": "PJMP+4X Vadgaon, Maharashtra",
+                "global_code": "7JCMPJMP+4X"
+            },
+            "rating": 3,
+            "reference": "ChIJQ0aHKaOvwjsR7ul_UA_yqEU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SAHWAS SOCIETY, Deccan Hills, Vadgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6180182,
+                    "lng": 73.7587813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61934997989272,
+                        "lng": 73.76012597989272
+                    },
+                    "southwest": {
+                        "lat": 18.61665032010728,
+                        "lng": 73.75742632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SANGITA SUPER MARKET",
+            "place_id": "ChIJq54iRoO5wjsRlEfNtrjgJ_w",
+            "rating": 0,
+            "reference": "ChIJq54iRoO5wjsRlEfNtrjgJ_w",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQ95+6G2, Morya Colony Rd, Nimbalkar Nagar, Thergaon, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6659759,
+                    "lng": 73.764419
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66733437989272,
+                        "lng": 73.76577112989273
+                    },
+                    "southwest": {
+                        "lat": 18.66463472010728,
+                        "lng": 73.76307147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vinayak Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107869965007856654058\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjqcVtLzm-HMIaYqb1n63_3DUnB1R8du-W99m-aqWIVCDydkxtu0amYorwvJ1bEH6YVO8l3692CrdeSYAO7sXaiafQw_LKwb7YSoGohyZ2-RQysnb54EBaJ2-o6SiKWwzRXgRj6BO_sRgwjXzrNCjB-9cFQt1Z7NA3QSiNnRlxv3b6U",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJYzOd8b-3wjsRWAiljcVIWdY",
+            "rating": 5,
+            "reference": "ChIJYzOd8b-3wjsRWAiljcVIWdY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MQ87+9RM, Sidhivinayaka Nagri Rd, Block B6, Sidhivinayak Nagari, Transport Nagar, Nigdi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.641639,
+                    "lng": 73.7572485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.64293457989272,
+                        "lng": 73.75862722989271
+                    },
+                    "southwest": {
+                        "lat": 18.64023492010728,
+                        "lng": 73.75592757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "AK's Mart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJd_B8lD23wjsRtUjMbsZ5FB4",
+            "plus_code": {
+                "compound_code": "JQR4+MV Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMJQR4+MV"
+            },
+            "rating": 5,
+            "reference": "ChIJd_B8lD23wjsRtUjMbsZ5FB4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "C09, Harmony Society, Opposite Royal vision society, near prathamesh wines, Ravet, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7334296,
+                    "lng": 73.6666243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.73478512989272,
+                        "lng": 73.66787597989271
+                    },
+                    "southwest": {
+                        "lat": 18.73208547010728,
+                        "lng": 73.66517632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Needs - The Super Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112290722511348383775\">mrutyunjaya swain</a>"
+                    ],
+                    "photo_reference": "AcYSjRhlC7G2YnveXN7gHaeau2FaD_0GWBhiEGfpMQ8OT8pvnCGgAZg4hWRGYBlITyPTygaYuIdgDnyYN-lmvKUbcD2_iP2xCptU0637wIr8HHnwP9JrRehZUNs5k2vTmgXu3ZIM_Y_k3AcKrulzLNSv7jWQp46zlsinm1CMa1iT5x1bVkLT",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJJ6XSFPCxwjsRCsp4wY0gq6E",
+            "plus_code": {
+                "compound_code": "PMM8+9J Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPMM8+9J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJJ6XSFPCxwjsRCsp4wY0gq6E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 174,
+            "vicinity": "7, Talegaon-Chakan Rd, Harneshwer society, Rajgurav Colony, Talegaon Dabhade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6634836,
+                    "lng": 73.7355628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66480717989272,
+                        "lng": 73.73690182989272
+                    },
+                    "southwest": {
+                        "lat": 18.66210752010728,
+                        "lng": 73.73420217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Super Mart | Grocery and Fresh Vegetable | Fruits and Dry Fruits.",
+            "place_id": "ChIJj2maRf-xwjsRb8w3LIoHXrg",
+            "plus_code": {
+                "compound_code": "MP7P+96 Kiwale, Ravet, Dehu Road, Maharashtra",
+                "global_code": "7JCMMP7P+96"
+            },
+            "rating": 0,
+            "reference": "ChIJj2maRf-xwjsRb8w3LIoHXrg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "madawale nagar ,mukai chouk, Kiwale"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.702764,
+                    "lng": 73.687788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.70410362989272,
+                        "lng": 73.68912617989272
+                    },
+                    "southwest": {
+                        "lat": 18.70140397010728,
+                        "lng": 73.68642652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Saikrupa Provision Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116639780974708046683\">Saikrupa Provision Stores</a>"
+                    ],
+                    "photo_reference": "AcYSjRiynLaCjgH7NpO0j1Q_rkbaBZXLpr8uwNsMEyFP6biBvaclEx9WIsu_JqPh8ua-Gepbc0h1-sWr2i0R5XPSY_0gA3S8ghQ56vy4XYpv3ekCOf3yGJ3kL23STgjw6ul4YjJqrPZTYUwcPwyr7DMcHPlFEjZRDXPrpalXUD5tF_koDfXG",
+                    "width": 2400
+                }
+            ],
+            "place_id": "ChIJk1u7h7KxwjsROyIbGfafSFU",
+            "plus_code": {
+                "compound_code": "PM3Q+44 Somatne Phata, Talegaon Dabhade, Maharashtra",
+                "global_code": "7JCMPM3Q+44"
+            },
+            "rating": 4.3,
+            "reference": "ChIJk1u7h7KxwjsROyIbGfafSFU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Somatane Phata, Tal-, Old Mumbai Pune Highway, Maval, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.675741,
+                    "lng": 73.73282979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.67708832989272,
+                        "lng": 73.73419852989272
+                    },
+                    "southwest": {
+                        "lat": 18.67438867010728,
+                        "lng": 73.73149887010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "durga provision store (grocery shop)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107071156318056727864\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhefTZoz2JsDtJDM91B1WlkECEb9joTAlRpPjoJKAHZSJUL0iLqlub8WJ8GiDPBXNr0ZOXU_fN1bMA4PQJuaCJ8WWSXR44aGh_fYhNvZZYuvdBiglQ4LyjpYZupcFTEk8j1ucoUsSEh_sMaAwdnckwrx7rVYLZ3uBRHg2FdB2eQgPwX",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJF8Dl_GSxwjsRCeesnr9c-L0",
+            "plus_code": {
+                "compound_code": "MPGM+74 Dehu Road, Maharashtra",
+                "global_code": "7JCMMPGM+74"
+            },
+            "rating": 3,
+            "reference": "ChIJF8Dl_GSxwjsRCeesnr9c-L0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Dehuroad, near BSNL exchange office"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.653457,
+                    "lng": 73.7479443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.65481627989272,
+                        "lng": 73.74925397989271
+                    },
+                    "southwest": {
+                        "lat": 18.65211662010728,
+                        "lng": 73.74655432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aarohi General Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102180097474278628842\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXzkzHkOGVtEea9__-NkcDrJm23FbKwjNcTw8pgMJzqmmgc19zY-cKY_8-2GonluEDwscP-X5KpV2DKuSxGT7_XNC1sZyfClhxNGU1te2TcXNMDM8kLRhfc2M5KkPqW6AVR1ET8pm4RVzc40ALvpDVb3u_uQ1TOPtsdFPuI2afRDCA",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJL4huvbO5wjsRfTBIS7BIblI",
+            "plus_code": {
+                "compound_code": "MP3X+95 Pimpri-Chinchwad, Maharashtra",
+                "global_code": "7JCMMP3X+95"
+            },
+            "rating": 5,
+            "reference": "ChIJL4huvbO5wjsRfTBIS7BIblI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "near S. B. Patil Public School Laxminagar, Ravet, Pimpri-Chinchwad"
+        }
+    ],
+    "status": "OK"
+}

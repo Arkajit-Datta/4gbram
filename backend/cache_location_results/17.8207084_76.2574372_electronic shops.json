@@ -1,0 +1,851 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.746006,
+                    "lng": 76.3197701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74736597989272,
+                        "lng": 76.32112362989272
+                    },
+                    "southwest": {
+                        "lat": 17.74466632010728,
+                        "lng": 76.31842397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ANVEER ELECTRONIC",
+            "place_id": "ChIJg3BKho37xTsRZEZo_z2q21k",
+            "plus_code": {
+                "compound_code": "P8W9+CW Nandgaon, Maharashtra",
+                "global_code": "7J9RP8W9+CW"
+            },
+            "rating": 0,
+            "reference": "ChIJg3BKho37xTsRZEZo_z2q21k",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.07 Main Road Nandgaon, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8136365,
+                    "lng": 76.2776956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81501567989272,
+                        "lng": 76.27903922989272
+                    },
+                    "southwest": {
+                        "lat": 17.81231602010727,
+                        "lng": 76.27633957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "APSARA MOBILE SHOPEE AND ELECTRONICS",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116037412860563170589\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRghEg_WQliMqUQVk2h8juKb4xJ-Iwu0qSbaawDNO4aW6daezZFfp3UbSyoISW0lZQla-HPnIkNG4PZ6Guuqame6BKiCgPlZ5YwcKkfsj6AIQRNgMdAcIYbNJYLalgKqBGKps8JudSJYVJZtnKHkhYC2VQoCF5uWQ1jPCulJHf8_kqvb",
+                    "width": 2080
+                }
+            ],
+            "place_id": "ChIJR-7X50nxxTsRWcGx_pk_s4U",
+            "plus_code": {
+                "compound_code": "R77H+F3 Naldurg, Maharashtra",
+                "global_code": "7J9RR77H+F3"
+            },
+            "rating": 0,
+            "reference": "ChIJR-7X50nxxTsRWcGx_pk_s4U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.01, Main Road, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8256005,
+                    "lng": 76.33382030000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82694887989272,
+                        "lng": 76.33515817989272
+                    },
+                    "southwest": {
+                        "lat": 17.82424922010727,
+                        "lng": 76.33245852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "AMBIKA ELECTRONICS AND MOBILE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100827481712350098116\">Akash Sontakke</a>"
+                    ],
+                    "photo_reference": "AcYSjRgtdorYIrSgERwmVyr6tE1yEsAtFMrFJ83SSlfV4kZYkqbcRWLeQtZpXz2zb6mzwY28tdji3JFPVhVKIFyWv9SPkjiz1f8-USqEqukhHLjzquqeH6i3BW6BrEO9tqHFN76NEYyW6HtIxMAmgYN2J1inCx7Xc0kN2hADX7CtnDQoSKa7",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJrbA6l2zxxTsR_GEiyc4_ZAU",
+            "plus_code": {
+                "compound_code": "R8GM+6G Jalkot, Maharashtra",
+                "global_code": "7J9RR8GM+6G"
+            },
+            "rating": 3.2,
+            "reference": "ChIJrbA6l2zxxTsR_GEiyc4_ZAU",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Shop No. 07, Nagar Jalkot, Sambhaji Marg, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7648207,
+                    "lng": 76.2654718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76616387989273,
+                        "lng": 76.26683817989273
+                    },
+                    "southwest": {
+                        "lat": 17.76346422010728,
+                        "lng": 76.26413852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Swara Eilectricales",
+            "place_id": "ChIJ1XyZLf_vxTsRymJH_NXAhFc",
+            "plus_code": {
+                "compound_code": "Q778+W5 Wagdari, Maharashtra",
+                "global_code": "7J9RQ778+W5"
+            },
+            "rating": 0,
+            "reference": "ChIJ1XyZLf_vxTsRymJH_NXAhFc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 02, Wakdari, Main Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8270559,
+                    "lng": 76.32824959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82827197989272,
+                        "lng": 76.32958062989272
+                    },
+                    "southwest": {
+                        "lat": 17.82557232010727,
+                        "lng": 76.32688097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TAJODDIN ELECTRONICS AND FURNITURE",
+            "place_id": "ChIJY1AyzbfxxTsRAIZ5wJsH6LM",
+            "plus_code": {
+                "compound_code": "R8GH+R7 Jalkot, Maharashtra",
+                "global_code": "7J9RR8GH+R7"
+            },
+            "rating": 0,
+            "reference": "ChIJY1AyzbfxxTsRAIZ5wJsH6LM",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Main Road Naldurg, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8253978,
+                    "lng": 76.3326621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82668922989272,
+                        "lng": 76.33400077989272
+                    },
+                    "southwest": {
+                        "lat": 17.82398957010728,
+                        "lng": 76.33130112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SOHEL ELECTRONICS",
+            "place_id": "ChIJe7zakX7xxTsRYxaPBTY0Es0",
+            "plus_code": {
+                "compound_code": "R8GM+53 Jalkot, Maharashtra",
+                "global_code": "7J9RR8GM+53"
+            },
+            "rating": 5,
+            "reference": "ChIJe7zakX7xxTsRYxaPBTY0Es0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.09, Main Road, near Bas Stand, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.816383,
+                    "lng": 76.2368681
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81812847989272,
+                        "lng": 76.23824072989272
+                    },
+                    "southwest": {
+                        "lat": 17.81542882010728,
+                        "lng": 76.23554107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DIKSHA ELCTRONICS",
+            "place_id": "ChIJdSepv6vvxTsRM8vMd6VV4LE",
+            "plus_code": {
+                "compound_code": "R68P+HP Anadur, Maharashtra",
+                "global_code": "7J9RR68P+HP"
+            },
+            "rating": 0,
+            "reference": "ChIJdSepv6vvxTsRM8vMd6VV4LE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no.03, main road, Anadur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.814069,
+                    "lng": 76.24158090000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81544447989272,
+                        "lng": 76.24290662989273
+                    },
+                    "southwest": {
+                        "lat": 17.81274482010728,
+                        "lng": 76.24020697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHRI ELECTRICAL",
+            "place_id": "ChIJ1_ZyQKrvxTsR3VeXt0uuH0o",
+            "plus_code": {
+                "compound_code": "R67R+JJ Anadur, Maharashtra",
+                "global_code": "7J9RR67R+JJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ1_ZyQKrvxTsR3VeXt0uuH0o",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 02 Anna Chowk Andur Andur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8157583,
+                    "lng": 76.24289929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81726702989272,
+                        "lng": 76.24437962989272
+                    },
+                    "southwest": {
+                        "lat": 17.81456737010728,
+                        "lng": 76.24167997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pavan Electronics Andur",
+            "photos": [
+                {
+                    "height": 1746,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118143841841756707475\">Sachin Chavan</a>"
+                    ],
+                    "photo_reference": "AcYSjRg71tbdwRoeJqs1-QF21GvUowZfCdQk-V6KT4SxXSW9l9iGVFzpQJ7Nvfze5k2qjwGluXGQ07OPpehZ83rBXu71MElAr0bnlZrOBHYoyBUrAfTdCAenNlVQBdd78sdB-vaMwx-V76vPbJO_P4kJZey6gcPFAiJ1wIwUmKwP7yZBQX5i",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJrcp5vjLvxTsRt_9VYqSSX5U",
+            "plus_code": {
+                "compound_code": "R68V+85 Anadur, Maharashtra",
+                "global_code": "7J9RR68V+85"
+            },
+            "rating": 4.6,
+            "reference": "ChIJrcp5vjLvxTsRt_9VYqSSX5U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Shop No 2 Main Road Andur ANDUR"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8139245,
+                    "lng": 76.27643549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81522847989272,
+                        "lng": 76.27772467989271
+                    },
+                    "southwest": {
+                        "lat": 17.81252882010727,
+                        "lng": 76.27502502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "M.M.automobailes Naldurg",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJZYUxU9nxxTsR9iSVY6VF5JE",
+            "rating": 0,
+            "reference": "ChIJZYUxU9nxxTsR9iSVY6VF5JE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R77G+HH7, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.816254,
+                    "lng": 76.2441063
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81766297989272,
+                        "lng": 76.24538332989272
+                    },
+                    "southwest": {
+                        "lat": 17.81496332010728,
+                        "lng": 76.24268367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ghuge mobile shop andur",
+            "place_id": "ChIJDbeiVE7vxTsR87TgkC7vw8s",
+            "rating": 4.7,
+            "reference": "ChIJDbeiVE7vxTsR87TgkC7vw8s",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "R68V+GJ5, Anadur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7670625,
+                    "lng": 76.1888125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76840947989272,
+                        "lng": 76.19015747989272
+                    },
+                    "southwest": {
+                        "lat": 17.76570982010728,
+                        "lng": 76.18745782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Areez Enterprises & CSC Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112285251084351281588\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgt3viDLff5vnhkmwwLNQFF4zzg_AwZYjVfPazli1OgMU3iJnqqooW1xf3wdm75fVCsj5EBEWzq0a3HMy_r65cYNKcl3R_f2hEYpxnaXpe4dTMwpt3t6qpXh9Lnq8-nCAegd0tWmaNUtYIbXq_ep1x6N3EFj3_Y9KG0HjHmNSL8v6V5",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJeYw9IN3vxTsRC_Zs2tSHmUI",
+            "plus_code": {
+                "compound_code": "Q58Q+RG Sarati, Maharashtra",
+                "global_code": "7J9RQ58Q+RG"
+            },
+            "rating": 5,
+            "reference": "ChIJeYw9IN3vxTsRC_Zs2tSHmUI",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Sarati"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.8314235,
+                    "lng": 76.2616625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83276882989272,
+                        "lng": 76.26299032989272
+                    },
+                    "southwest": {
+                        "lat": 17.83006917010728,
+                        "lng": 76.26029067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mayur Electronic vasantnagar",
+            "permanently_closed": true,
+            "place_id": "ChIJqZJV2nLvxTsRCnZLH4-bfr0",
+            "rating": 5,
+            "reference": "ChIJqZJV2nLvxTsRCnZLH4-bfr0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "R7J6+HMG, Murta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8258418,
+                    "lng": 76.3304228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.82731822989272,
+                        "lng": 76.33182622989271
+                    },
+                    "southwest": {
+                        "lat": 17.82461857010728,
+                        "lng": 76.32912657010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arvind Steel furniture Electronic Bhandi",
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110417254053853217720\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLFExyBcwtbWwHMXE9Wgwdwg6ZClRBB-fX8LSTokGwmywJlFB4lR6p7GexWb8fH1dxk04wIrBYD1IlF4MmkpUBhKHOWqlNVKcaSrANIdPVNOa2eqF5doXDvIRJAuCxQ52JLYqq3BvNzlvfExwM3aes7C4DuyaTkxGhQcAqE6re_j7Y",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJI7zZ1BHxxTsRoGlNDC6pRQ0",
+            "plus_code": {
+                "compound_code": "R8GJ+85 Jalkot, Maharashtra",
+                "global_code": "7J9RR8GJ+85"
+            },
+            "rating": 5,
+            "reference": "ChIJI7zZ1BHxxTsRoGlNDC6pRQ0",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shivaji Chowk, Jalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8150519,
+                    "lng": 76.2753474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81635237989272,
+                        "lng": 76.27664537989271
+                    },
+                    "southwest": {
+                        "lat": 17.81365272010727,
+                        "lng": 76.27394572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NEW BALAJI ELECTRONIC AND MOBILE SHOPEE",
+            "place_id": "ChIJB4M8sPPxxTsRnYThensJCmU",
+            "plus_code": {
+                "compound_code": "R78G+24 Naldurg, Maharashtra",
+                "global_code": "7J9RR78G+24"
+            },
+            "rating": 0,
+            "reference": "ChIJB4M8sPPxxTsRnYThensJCmU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.19 Lokmanay Complex, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8138553,
+                    "lng": 76.2779326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81516467989272,
+                        "lng": 76.27929502989272
+                    },
+                    "southwest": {
+                        "lat": 17.81246502010728,
+                        "lng": 76.27659537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MM.Marketing&Eletronics",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117028720417718373139\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiZYjoTkVDCMatsFnmkmTUoB9-MZRY0fwwxn6QzJeSGnf4yB7z6MvKix00dwLazh3OigK9PV47U8RQlYUkhgdhAw0sS-5OghZNluepUB-B4f5mrC89hoW5R6OXUtlKAkeNXnlr2XhPTaq4_XhaXsR1F8B9EkJgwG_KBxZA3sgriYNe1",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJJ9fV9dvxxTsRSw0su6GHJ4k",
+            "plus_code": {
+                "compound_code": "R77H+G5 Naldurg, Maharashtra",
+                "global_code": "7J9RR77H+G5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJ9fV9dvxxTsRSw0su6GHJ4k",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "M M Marketing, Navi Peth, Naldurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8164777,
+                    "lng": 76.24400349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81782367989272,
+                        "lng": 76.24535807989271
+                    },
+                    "southwest": {
+                        "lat": 17.81512402010728,
+                        "lng": 76.24265842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mahalaxmielectronics",
+            "place_id": "ChIJ_V2bqCzvxTsRokxR3kJErMo",
+            "plus_code": {
+                "compound_code": "R68V+HJ Anadur, Maharashtra",
+                "global_code": "7J9RR68V+HJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ_V2bqCzvxTsRokxR3kJErMo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01, Main Road, Anadur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8167444,
+                    "lng": 76.27167879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81810247989272,
+                        "lng": 76.27302157989273
+                    },
+                    "southwest": {
+                        "lat": 17.81540282010728,
+                        "lng": 76.27032192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mudake Enterprises Solar & Water Purifier Naldurg",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101699076619039292390\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgjU-H9aqzojDXhwomh-M6JzzIqe3DQ2YWMDnp637C6rLyPC9vG1twY4-enPM4uo8mM8B_sk_4hqAASfgbJJcIecARMwMGiEJZvNbvBBZ5F9zSQQFFWOL86zepMnXlfrPWAln5fymH1lTkAQh2YoIHnnxZ0a63tbkUZUASJtPV7ZPTt",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ9XZZkE_vxTsRsv-Hb4UySeA",
+            "plus_code": {
+                "compound_code": "R78C+PJ Anadur, Maharashtra",
+                "global_code": "7J9RR78C+PJ"
+            },
+            "rating": 5,
+            "reference": "ChIJ9XZZkE_vxTsRsv-Hb4UySeA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Mumbai Hwy, Anadur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8136286,
+                    "lng": 76.27765409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81500807989272,
+                        "lng": 76.27899767989273
+                    },
+                    "southwest": {
+                        "lat": 17.81230842010727,
+                        "lng": 76.27629802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kiran Electronics",
+            "place_id": "ChIJodSxZIPxxTsRXmo0e9WdYl0",
+            "plus_code": {
+                "compound_code": "R77H+F3 Naldurg, Maharashtra",
+                "global_code": "7J9RR77H+F3"
+            },
+            "rating": 0,
+            "reference": "ChIJodSxZIPxxTsRXmo0e9WdYl0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Main Road, Naldurg"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.816021,
+                    "lng": 76.2438383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81736862989272,
+                        "lng": 76.24517927989271
+                    },
+                    "southwest": {
+                        "lat": 17.81466897010728,
+                        "lng": 76.24247962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree electronics andur",
+            "permanently_closed": true,
+            "place_id": "ChIJLfG0S5_vxTsRQt4sGmxAOGA",
+            "rating": 0,
+            "reference": "ChIJLfG0S5_vxTsRQt4sGmxAOGA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R68V+CG4, Mumbai Hwy, Anadur"
+        }
+    ],
+    "status": "OK"
+}

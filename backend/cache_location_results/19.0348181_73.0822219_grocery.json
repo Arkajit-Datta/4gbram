@@ -1,0 +1,854 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgcrnzCd9qCtzH7TjuCUvga2_weCCQqa-aDBXmsnMPpLogk6_Jvh68KdFJE3X_cmytUJyQ-q-w1sQqnKcqaw48J5IqmTt67J2tUep-Mi5mxKAKHc8jdDxSeTLae8pJLu0cfdoTq6CgI6JgASQyST5kbgAytlkgrR9nKuMhNkmT90ywd11hFUrjV5CyEljrtgsmm9fc47-IrxoTwEtrCOBrfrfchSDMFqQXZvBQFitD1MWCyKaC5VKfzDsfzZa3IseUmKvphwZPDhDNpZTgvKoHOIiW0HhHpijCeeTTWM9DpjDlzadGZbqXvQ38MKbEZQdYLRMiN-XcbeSwMRETtwCH8cQ_GeBTZG8XGtbixXklC2gCvjs4UeUe3WlIfiUkqwYnMxqRXpabvynoaRipapGFiMW0Xwy2kcW5WoZCnQXwkbOt3lVBS-xHU",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0218527,
+                    "lng": 73.0185355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02278287989272,
+                        "lng": 73.01949697989272
+                    },
+                    "southwest": {
+                        "lat": 19.02008322010727,
+                        "lng": 73.01679732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Balbir Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJwc_KpjTD5zsRUR-J1_NlNpc",
+            "plus_code": {
+                "compound_code": "22C9+PC Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22C9+PC"
+            },
+            "rating": 0,
+            "reference": "ChIJwc_KpjTD5zsRUR-J1_NlNpc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 15, Mall, near Seawoods, Nerul East, Sector 40, Seawoods, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0187003,
+                    "lng": 73.0105339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02006002989272,
+                        "lng": 73.01188377989273
+                    },
+                    "southwest": {
+                        "lat": 19.01736037010728,
+                        "lng": 73.00918412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "MOIN GROCERY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJS7db80TD5zsRJyDe3JC92ZE",
+            "plus_code": {
+                "compound_code": "2296+F6 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM2296+F6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJS7db80TD5zsRJyDe3JC92ZE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Shop No 8, near Gaondevi Mandir, Seawoods West, Sarsole Gaon, Nerul West, Sector 6, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0413233,
+                    "lng": 73.0128312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04266742989272,
+                        "lng": 73.01418022989272
+                    },
+                    "southwest": {
+                        "lat": 19.03996777010728,
+                        "lng": 73.01148057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ramesh Grocery",
+            "place_id": "ChIJozYN5FPD5zsRUwEWi_EZs64",
+            "plus_code": {
+                "compound_code": "22R7+G4 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22R7+G4"
+            },
+            "rating": 0,
+            "reference": "ChIJozYN5FPD5zsRUwEWi_EZs64",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 6, near Gaondevi Mandir, Sarsole Gaon, Nerul West, Sector 6, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0397901,
+                    "lng": 73.0202071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04112627989272,
+                        "lng": 73.02156942989271
+                    },
+                    "southwest": {
+                        "lat": 19.03842662010728,
+                        "lng": 73.01886977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ali Grocery",
+            "place_id": "ChIJfWJ0197D5zsRHbSw-vl54q8",
+            "plus_code": {
+                "compound_code": "22QC+W3 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22QC+W3"
+            },
+            "rating": 0,
+            "reference": "ChIJfWJ0197D5zsRHbSw-vl54q8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop Number 10, Bus Depot, near Nerul, Nerul East, Sector 10, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0300029,
+                    "lng": 73.02462969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03128182989272,
+                        "lng": 73.02597777989273
+                    },
+                    "southwest": {
+                        "lat": 19.02858217010728,
+                        "lng": 73.02327812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Anil Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2SxjNLrD5zsRj1I26fdLm08",
+            "plus_code": {
+                "compound_code": "22JF+2V Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22JF+2V"
+            },
+            "rating": 0,
+            "reference": "ChIJ2SxjNLrD5zsRj1I26fdLm08",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 12, Nerul East, Nerul West, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0157347,
+                    "lng": 73.0228182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01699202989272,
+                        "lng": 73.02418852989273
+                    },
+                    "southwest": {
+                        "lat": 19.01429237010728,
+                        "lng": 73.02148887010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rohit Grocery",
+            "place_id": "ChIJKWdTjiLD5zsRfAOE7BJaSkA",
+            "plus_code": {
+                "compound_code": "228F+74 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM228F+74"
+            },
+            "rating": 0,
+            "reference": "ChIJKWdTjiLD5zsRfAOE7BJaSkA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01, Umaira Tower, New Sector-50, Sector 50, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0451595,
+                    "lng": 73.0096908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04650982989272,
+                        "lng": 73.01111702989272
+                    },
+                    "southwest": {
+                        "lat": 19.04381017010727,
+                        "lng": 73.00841737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery Basket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJOxbGrgvD5zsR2WVugoMGJrE",
+            "plus_code": {
+                "compound_code": "22W5+3V Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22W5+3V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJOxbGrgvD5zsR2WVugoMGJrE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "SHOP NO. 4 TO 7, WADHWA PBR, Sector 4, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.046826,
+                    "lng": 73.0241715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04819347989272,
+                        "lng": 73.02554427989271
+                    },
+                    "southwest": {
+                        "lat": 19.04549382010727,
+                        "lng": 73.02284462010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Omkar Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJf_oKa1fD5zsRYqb9Ev6rIys",
+            "plus_code": {
+                "compound_code": "22WF+PM Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22WF+PM"
+            },
+            "rating": 5,
+            "reference": "ChIJf_oKa1fD5zsRYqb9Ev6rIys",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1 Sec 1 Lp, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0385598,
+                    "lng": 73.01619889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03992257989272,
+                        "lng": 73.01749677989271
+                    },
+                    "southwest": {
+                        "lat": 19.03722292010728,
+                        "lng": 73.01479712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivam Grocery",
+            "place_id": "ChIJP4TaslTD5zsRVFXwPu4X0Oc",
+            "plus_code": {
+                "compound_code": "22Q8+CF Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22Q8+CF"
+            },
+            "rating": 0,
+            "reference": "ChIJP4TaslTD5zsRVFXwPu4X0Oc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Nerul Gaon, near Ganesh Mandir, Nerul West, Sector 10, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0601824,
+                    "lng": 73.0107367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06153677989272,
+                        "lng": 73.01218102989272
+                    },
+                    "southwest": {
+                        "lat": 19.05883712010728,
+                        "lng": 73.00948137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Daily Bazar Grocery Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJZRPFPWLB5zsRq4wt3P_f9MY",
+            "plus_code": {
+                "compound_code": "3266+37 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM3266+37"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZRPFPWLB5zsRq4wt3P_f9MY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Sector 8, Sanpada, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0771211,
+                    "lng": 73.0106283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07831347989272,
+                        "lng": 73.01196462989272
+                    },
+                    "southwest": {
+                        "lat": 19.07561382010728,
+                        "lng": 73.00926497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Guddu Grocery",
+            "place_id": "ChIJMWeUtVHB5zsRlMkVi8y1dJg",
+            "plus_code": {
+                "compound_code": "32G6+R7 Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32G6+R7"
+            },
+            "rating": 0,
+            "reference": "ChIJMWeUtVHB5zsRlMkVi8y1dJg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Sanpada Sanpada Sector 5, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0342326,
+                    "lng": 73.0164195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03561702989272,
+                        "lng": 73.01776187989273
+                    },
+                    "southwest": {
+                        "lat": 19.03291737010728,
+                        "lng": 73.01506222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shivmurat Grocery",
+            "place_id": "ChIJNZmT6XPD5zsRPtBlxhb8Y6k",
+            "plus_code": {
+                "compound_code": "22M8+MH Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22M8+MH"
+            },
+            "rating": 0,
+            "reference": "ChIJNZmT6XPD5zsRPtBlxhb8Y6k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 10 Om Sai Apartment, Gaon, Sector 20, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0364806,
+                    "lng": 73.0594399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03781367989272,
+                        "lng": 73.06078667989273
+                    },
+                    "southwest": {
+                        "lat": 19.03511402010728,
+                        "lng": 73.05808702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Krishana Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJe3TURGLD5zsRNLmITreg3h8",
+            "plus_code": {
+                "compound_code": "23P5+HQ Navi Mumbai, Maharashtra",
+                "global_code": "7JFM23P5+HQ"
+            },
+            "rating": 5,
+            "reference": "ChIJe3TURGLD5zsRNLmITreg3h8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop Number 19, A, Sector-5, Kharghar, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0694106,
+                    "lng": 73.00173509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07074817989272,
+                        "lng": 73.00325097989271
+                    },
+                    "southwest": {
+                        "lat": 19.06804852010728,
+                        "lng": 73.00055132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mukhtar Grocery Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ5-vwdirB5zsR9IEZKpdFMz0",
+            "plus_code": {
+                "compound_code": "3292+QM Navi Mumbai, Maharashtra",
+                "global_code": "7JFM3292+QM"
+            },
+            "rating": 0,
+            "reference": "ChIJ5-vwdirB5zsR9IEZKpdFMz0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 91, Nerul East, Sector 17, Vashi, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0659798,
+                    "lng": 73.0017998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06732867989272,
+                        "lng": 73.00315802989272
+                    },
+                    "southwest": {
+                        "lat": 19.06462902010728,
+                        "lng": 73.00045837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Aksar Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJuSGTgaPB5zsRfAwvCcqg1gI",
+            "plus_code": {
+                "compound_code": "3282+9P Navi Mumbai, Maharashtra",
+                "global_code": "7JFM3282+9P"
+            },
+            "rating": 0,
+            "reference": "ChIJuSGTgaPB5zsRfAwvCcqg1gI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 11, Near, Palm Beach Rd, West Sector 6, Nerul, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.021129,
+                    "lng": 73.01915699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02238737989272,
+                        "lng": 73.02089582989271
+                    },
+                    "southwest": {
+                        "lat": 19.01968772010727,
+                        "lng": 73.01819617010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Salikram Grocery",
+            "place_id": "ChIJwSEyUaDD5zsRrD1Kcnj_GM0",
+            "plus_code": {
+                "compound_code": "22C9+FM Navi Mumbai, Maharashtra",
+                "global_code": "7JFM22C9+FM"
+            },
+            "rating": 0,
+            "reference": "ChIJwSEyUaDD5zsRrD1Kcnj_GM0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ship No 9, Nerul East, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0157787,
+                    "lng": 73.0137359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01708987989272,
+                        "lng": 73.01504652989271
+                    },
+                    "southwest": {
+                        "lat": 19.01439022010727,
+                        "lng": 73.01234687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Golden Grocery Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 714,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108389353027154451616\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjxgi6HBSTC1uSys1m1l-tbcs5K2peBzERvaHJxJFfhD-oJaQLQ019Mp_0B3GiKqa0q-FnCHeC9JIZfBl8aa0kaAt19o3Mzidy8KDHv-BaHUc_-CrlVRI_82TJRMrESrHlwMcS7pmedIzmlwJF5zWX1mfjbWNibQoo9aLIHGtRJBWuj",
+                    "width": 1271
+                }
+            ],
+            "place_id": "ChIJFcIwvZjD5zsRTzJ3gxkpJFM",
+            "plus_code": {
+                "compound_code": "2287+8F Navi Mumbai, Maharashtra",
+                "global_code": "7JFM2287+8F"
+            },
+            "rating": 5,
+            "reference": "ChIJFcIwvZjD5zsRTzJ3gxkpJFM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shree Bhagwan Apartment PN 72, Shop No. 6, Sector 44 A, near HP Petrol Pump, Seawoods, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.079104,
+                    "lng": 73.0070336
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08044292989272,
+                        "lng": 73.00838252989273
+                    },
+                    "southwest": {
+                        "lat": 19.07774327010728,
+                        "lng": 73.00568287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGy9AkTnB5zsRAAAAsAhr0W4",
+            "plus_code": {
+                "compound_code": "32H4+JR Navi Mumbai, Maharashtra",
+                "global_code": "7JFM32H4+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJGy9AkTnB5zsRAAAAsAhr0W4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop 2,3,4,5,6 Sector 19c Jalaram Mkt, Navi Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0715234,
+                    "lng": 73.01228739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07289837989272,
+                        "lng": 73.01363937989272
+                    },
+                    "southwest": {
+                        "lat": 19.07019872010728,
+                        "lng": 73.01093972010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Ninaae Super Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJBwDNI0HB5zsRUgZfWvjeOqQ",
+            "plus_code": {
+                "compound_code": "32C6+JW Mumbai, Maharashtra",
+                "global_code": "7JFM32C6+JW"
+            },
+            "rating": 0,
+            "reference": "ChIJBwDNI0HB5zsRUgZfWvjeOqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1 Plot 144 Shop, A, 3, Sector 21, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0596591,
+                    "lng": 73.0035717
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06107272989273,
+                        "lng": 73.00484122989273
+                    },
+                    "southwest": {
+                        "lat": 19.05837307010728,
+                        "lng": 73.00214157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rahul Grocery",
+            "place_id": "ChIJ9Z-nMDfB5zsRGSe1YX0GPrM",
+            "plus_code": {
+                "compound_code": "3253+VC Navi Mumbai, Maharashtra",
+                "global_code": "7JFM3253+VC"
+            },
+            "rating": 0,
+            "reference": "ChIJ9Z-nMDfB5zsRGSe1YX0GPrM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop Number 14, Near, Palm Beach Rd, Sector 10, Nerul, Navi Mumbai"
+        }
+    ],
+    "status": "OK"
+}

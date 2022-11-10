@@ -1,0 +1,42 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.262046,
+                    "lng": 10.585611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26339582989272,
+                        "lng": 10.58696082989272
+                    },
+                    "southwest": {
+                        "lat": 10.26069617010728,
+                        "lng": 10.58426117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Garin Muazu Dispensary",
+            "place_id": "ChIJOTsenChYVRAR4WOa7ePfwD4",
+            "rating": 0,
+            "reference": "ChIJOTsenChYVRAR4WOa7ePfwD4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7H6P+R69, Bauchi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,840 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhe1WxJcnN1oQ0biCWb9TC216x13SloxiDVOPmR9JcBfEQwgQ7gr9soA26NBd7KsomUJ4zlttvbcpEU33aAFc9Ps85zbn5tgmmbT1qcl8vSkD5h1i5mkraonTCBDNBP_9K3M2uV7e81nMrN1XiseHKoKE0dZ8y5LhZlTarvpBPEigXYegkIFtBfQnrqm8zUJxgL9s0ow2pmv2OP97JrEmUMtJRqA53mdiRVLRqj_lxYy9v2b9NmqTpcOSKcZmjmlVEZwbSkBdhvqvyWRwbT3E3H_DclPFgzudmZNM6-L_vA8pAoCZSD1rTLIZwDJ3k3LBxd2Dc36H8w5uc0Z5UBgCen4GgbXHPcLu3D198eWQIvlH-kHxS_VfSMIGHgJFF8PjfxtBrekS1gxGsxFBVSBvok800MHOKoNCZKKHdOj1O4sLg3GdJWMw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.258344,
+                    "lng": 11.2057263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.25969762989272,
+                        "lng": 11.20710232989272
+                    },
+                    "southwest": {
+                        "lat": 10.25699797010728,
+                        "lng": 11.20440267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ALH BALA SHOPS",
+            "place_id": "ChIJMQp7c5bR_xAR-lIoNkoI734",
+            "plus_code": {
+                "compound_code": "7654+87 Wuro Galadima, Nigeria",
+                "global_code": "7F2H7654+87"
+            },
+            "rating": 4,
+            "reference": "ChIJMQp7c5bR_xAR-lIoNkoI734",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "By Pass Rd, Wuro Galadima"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2858526,
+                    "lng": 11.161802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28727847989272,
+                        "lng": 11.16314472989272
+                    },
+                    "southwest": {
+                        "lat": 10.28457882010728,
+                        "lng": 11.16044507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "Provision Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112823824188805831860\">muhammad bello</a>"
+                    ],
+                    "photo_reference": "AcYSjRjARMgNwq5l2n5Y1PnpRph9Zxi2QHAEe-LKqyjrka7n_5tP4DOiVoZXQSpLG04zitTkmsdYus-ksXGCMP7kaPA-opLFh5vpiMDR-TlTY4fN6KfhUxOH-3h6EngNnbjH7G_S-4k5erVYIpMDWrfkjcuwI0mFg4I0uM99eMoymNrC60rS",
+                    "width": 856
+                }
+            ],
+            "place_id": "ChIJEcBaWH_Q_xARYsDLv3SUkOI",
+            "rating": 3.3,
+            "reference": "ChIJEcBaWH_Q_xARYsDLv3SUkOI",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "75P6+8PV, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2935213,
+                    "lng": 11.1280752
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29487237989272,
+                        "lng": 11.12941262989272
+                    },
+                    "southwest": {
+                        "lat": 10.29217272010728,
+                        "lng": 11.12671297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop",
+            "place_id": "ChIJCx5J_e_b_xARpRFjfa2kMBA",
+            "rating": 0,
+            "reference": "ChIJCx5J_e_b_xARpRFjfa2kMBA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "74VH+C65, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2976437,
+                    "lng": 11.1776101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29902217989272,
+                        "lng": 11.17895977989272
+                    },
+                    "southwest": {
+                        "lat": 10.29632252010728,
+                        "lng": 11.17626012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Babawuro Shopping Complex",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJa9DvjY7Q_xARj0Y-V7Lg23c",
+            "rating": 3.5,
+            "reference": "ChIJa9DvjY7Q_xARj0Y-V7Lg23c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "75XH+325, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2791567,
+                    "lng": 11.1730628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28050877989272,
+                        "lng": 11.17440482989272
+                    },
+                    "southwest": {
+                        "lat": 10.27780912010728,
+                        "lng": 11.17170517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "ALHAJI YUNUSA MUHAMMED&SONS",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJWZxocJrR_xAR8lhS9v7Jp6c",
+            "plus_code": {
+                "compound_code": "75HF+M6 Gombe, Nigeria",
+                "global_code": "7F2H75HF+M6"
+            },
+            "rating": 0,
+            "reference": "ChIJWZxocJrR_xAR8lhS9v7Jp6c",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HEAD OFFICE; MAIN MARKET ROAD, opp. FCMB BRANCH, BEFORE DALHA HARUNA HOUSE, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2895289,
+                    "lng": 11.112431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29086567989272,
+                        "lng": 11.11371412989272
+                    },
+                    "southwest": {
+                        "lat": 10.28816602010728,
+                        "lng": 11.11101447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "QD_BARBERS SHOP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJXVLNsx3b_xARgDI3QIaHnII",
+            "rating": 2,
+            "reference": "ChIJXVLNsx3b_xARgDI3QIaHnII",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "74Q6+RX8, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.269632,
+                    "lng": 11.1744524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27098597989272,
+                        "lng": 11.17582782989272
+                    },
+                    "southwest": {
+                        "lat": 10.26828632010728,
+                        "lng": 11.17312817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Abdullahi Yelo Shopping Complex",
+            "place_id": "ChIJ-zKUDnLR_xARJlOqQaLXSnM",
+            "rating": 5,
+            "reference": "ChIJ-zKUDnLR_xARJlOqQaLXSnM",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "759F+VQ4, Tudun Wada-Kabong, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2949188,
+                    "lng": 11.1046833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29627457989272,
+                        "lng": 11.10601947989272
+                    },
+                    "southwest": {
+                        "lat": 10.29357492010728,
+                        "lng": 11.10331982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shanu shop",
+            "place_id": "ChIJSVaNNOzb_xAR4PFi-VJoGNw",
+            "rating": 4,
+            "reference": "ChIJSVaNNOzb_xAR4PFi-VJoGNw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "74V3+XV8, near balogun transformer, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2791567,
+                    "lng": 11.1730628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28050877989272,
+                        "lng": 11.17440482989272
+                    },
+                    "southwest": {
+                        "lat": 10.27780912010728,
+                        "lng": 11.17170517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+            "name": "SAGIRU MUHAMMED&SONS",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJHxSpmGbR_xARI47tTS_Hz3Q",
+            "plus_code": {
+                "compound_code": "75HF+M6 Gombe, Nigeria",
+                "global_code": "7F2H75HF+M6"
+            },
+            "rating": 0,
+            "reference": "ChIJHxSpmGbR_xARI47tTS_Hz3Q",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NO G7, NEW MARKET ROAD, MAIN STREET, near BOREHOLE, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2874942,
+                    "lng": 11.1761579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28887627989272,
+                        "lng": 11.17750397989272
+                    },
+                    "southwest": {
+                        "lat": 10.28617662010728,
+                        "lng": 11.17480432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Longrich Stockist Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 936,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110008044637210214037\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh0RadOyWOMlfxs8FOy6d-GSH6-zTZO8vFibTfIyhtXjUZLGt8R66zExYvo32mBpQJg6UEInHD4KYfFcE3fd66n8NklrrcrIOfrcqKgwWmNfhmR0rfzu8t2Rdfzkc2YY0XeX2A2yuA0533nloc3lOOHZtBht0B83_c-5DG3znkOVYl-",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJQx5dwKDR_xAR8CVQOicaUlc",
+            "plus_code": {
+                "compound_code": "75PG+XF Gombe, Nigeria",
+                "global_code": "7F2H75PG+XF"
+            },
+            "rating": 0,
+            "reference": "ChIJQx5dwKDR_xAR8CVQOicaUlc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop f18 modibbo plaza, Herwagana New market Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2820563,
+                    "lng": 11.1584433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28334322989272,
+                        "lng": 11.15978312989272
+                    },
+                    "southwest": {
+                        "lat": 10.28064357010728,
+                        "lng": 11.15708347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ZAMEENAT STORE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106534187801433582324\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4fp-WWf2tpuenJh0wi-nhnbA9M7J3Bon47-jXmny8uDwt8pS4xYvp1WhpktC2rs1FUKz-OOt4ptuS27SNEDlJiVSnxZuCXWPPc5o7PQi53EkjHK9AQlrGfLsFg6qBwayfHCFJQKS-OeWUnWZ-9291Gg4b16rqtqzx0pbfCCD5Pf0H",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJqbYgy_Lb_xAR9KroEUdk-44",
+            "plus_code": {
+                "compound_code": "75J5+R9 Gombe, Nigeria",
+                "global_code": "7F2H75J5+R9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJqbYgy_Lb_xAR9KroEUdk-44",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Gra Drive, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2764678,
+                    "lng": 11.1718441
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27782362989272,
+                        "lng": 11.17315902989272
+                    },
+                    "southwest": {
+                        "lat": 10.27512397010728,
+                        "lng": 11.17045937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Al-Khamis Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115123518737025971084\">Sadisu Dahiru Haske</a>"
+                    ],
+                    "photo_reference": "AcYSjRi1TsYqPKCGhMvYNGRl0l48KdTtqLEnWnrgzpJRCXRtWewdyiWS86TYblvyaB0_eOdaxvxtPt7FP4mJzxsECRWoE4zV2O5rJZrKEF5pWYuHtQKuZS_DKNcl-ovUeco6KaZjzD-IhnAB5Q8KkQ7dLyrB0H3i762VXtJ7H0OAiuxuCHgR",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ1f7ZNHDQ_xARcS0504eo68M",
+            "plus_code": {
+                "compound_code": "75GC+HP Gombe, Nigeria",
+                "global_code": "7F2H75GC+HP"
+            },
+            "rating": 5,
+            "reference": "ChIJ1f7ZNHDQ_xARcS0504eo68M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2798449,
+                    "lng": 11.1665131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28114792989272,
+                        "lng": 11.16785272989272
+                    },
+                    "southwest": {
+                        "lat": 10.27844827010728,
+                        "lng": 11.16515307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Provision Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108443801838395777791\">Abdulwahab Daudu Abdussalam</a>"
+                    ],
+                    "photo_reference": "AcYSjRijsZ5oAu4PljaKPLLXRD8Im8irA6tQamai_EjgkaTUkpYLbEvaLP2SDThi17oPIeziicGu7hLUpPczIhrUq5tOmIMhg4Evdo59Zj_g8SsEgcT5gVLyzikd4lDdODnZpc-ToQhvvU5mTvbebKecG-_0266v2HVuXQsBHWlkWmQw8f--",
+                    "width": 3584
+                }
+            ],
+            "place_id": "ChIJj1rtAnrQ_xAR68b5vLuMpkw",
+            "rating": 4,
+            "reference": "ChIJj1rtAnrQ_xAR68b5vLuMpkw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "75H8+WJR, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2885768,
+                    "lng": 11.1765295
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28995697989272,
+                        "lng": 11.17789407989272
+                    },
+                    "southwest": {
+                        "lat": 10.28725732010728,
+                        "lng": 11.17519442010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shamsuddin Tailoring Shop",
+            "place_id": "ChIJf_Zp4rrR_xARHwoqvEVDLFg",
+            "rating": 3,
+            "reference": "ChIJf_Zp4rrR_xARHwoqvEVDLFg",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "75QG+CJC, Main Market Road, near Lorry Park, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.308423,
+                    "lng": 11.1492162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30962602989272,
+                        "lng": 11.15045192989272
+                    },
+                    "southwest": {
+                        "lat": 10.30692637010728,
+                        "lng": 11.14775227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "trader",
+            "place_id": "ChIJLxAs8sDb_xARWVc268MFqlg",
+            "plus_code": {
+                "compound_code": "845X+9M Gombe, Nigeria",
+                "global_code": "7F2H845X+9M"
+            },
+            "rating": 0,
+            "reference": "ChIJLxAs8sDb_xARWVc268MFqlg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "local government, sharkin gishri, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2855685,
+                    "lng": 11.167509
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28686737989272,
+                        "lng": 11.16884767989272
+                    },
+                    "southwest": {
+                        "lat": 10.28416772010728,
+                        "lng": 11.16614802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110924368962442258028\">VICTOR MOSES</a>"
+                    ],
+                    "photo_reference": "AcYSjRhYl-F_jJv3D-DmAkuf4KVnH0QIVDmXbuCB3KAJOYKLukep2eZHIB8pmJbBVf57loSG8dPdWuf5aV3JwYcSUnIFiPW6CuRnBIhqgaUaKKqmT-KqGCZHacGD94nZ69Pr3JZ4I0XwGgrHy6ADMwQn3wYSEuNO_ITc2-_WYNRQUB6HsnFb",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJP2DZHHzQ_xAR418O8dpRzpE",
+            "rating": 3.9,
+            "reference": "ChIJP2DZHHzQ_xAR418O8dpRzpE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80,
+            "vicinity": "75P9+62C, A 345, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2957987,
+                    "lng": 11.1528576
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29717922989272,
+                        "lng": 11.15420682989272
+                    },
+                    "southwest": {
+                        "lat": 10.29447957010728,
+                        "lng": 11.15150717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DENNYS KIDS SHOP AND BOUTIQUE",
+            "place_id": "ChIJMw7nhXza_xARp08QKlKdZ9Q",
+            "plus_code": {
+                "compound_code": "75W3+84 Gombe, Nigeria",
+                "global_code": "7F2H75W3+84"
+            },
+            "rating": 0,
+            "reference": "ChIJMw7nhXza_xARp08QKlKdZ9Q",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2769324,
+                    "lng": 11.1922931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.27829187989272,
+                        "lng": 11.19366627989272
+                    },
+                    "southwest": {
+                        "lat": 10.27559222010728,
+                        "lng": 11.19096662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Al-Ameen Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGU6y50TQ_xARecleWHXSFAA",
+            "rating": 3.3,
+            "reference": "ChIJGU6y50TQ_xARecleWHXSFAA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "75GR+QWF, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2810406,
+                    "lng": 11.1697599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28239002989272,
+                        "lng": 11.17114682989272
+                    },
+                    "southwest": {
+                        "lat": 10.27969037010728,
+                        "lng": 11.16844717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jamilu shopping shop",
+            "place_id": "ChIJEwPgh1jR_xARy1vjwvqMaaA",
+            "rating": 4,
+            "reference": "ChIJEwPgh1jR_xARy1vjwvqMaaA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "75J9+CW6, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2594981,
+                    "lng": 11.1831732
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.26076447989272,
+                        "lng": 11.18461247989272
+                    },
+                    "southwest": {
+                        "lat": 10.25806482010728,
+                        "lng": 11.18191282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Albadarain Shopping complex",
+            "place_id": "ChIJDdy_A5nR_xARL8rzAmb3qXY",
+            "rating": 0,
+            "reference": "ChIJDdy_A5nR_xARL8rzAmb3qXY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "755M+R86, Along Barunde, Gombe"
+        }
+    ],
+    "status": "OK"
+}

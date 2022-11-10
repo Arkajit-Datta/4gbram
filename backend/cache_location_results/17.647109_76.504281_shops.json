@@ -1,0 +1,777 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhg7BaHylc95TSfBbwlu7i2hSxkWU470oqM6evSX0IUqO23QGB7mn5i_s51CEZJab4ICbEeQlQc_LoarqvE6IvUkrGfu7Rw_J7aApOD_YTSfX5haiqAR3gNyhAjaOFKrtege5Ji1L6o3YVuHVtJmJh_ZHDaeECAt7hcXqJhxPG0o3hqcfbMiizQLz4x1GaNYF97mK4DUwX5UVMxCgmuVhOBOixiUa-3TzYRZvM-rG0Dj8o5iY_AIT5fE6FxsaW4lFrGQV7QojnC01A_xiUnkQmoa-UVlQLmDfF0HMgyDz74_DeZFax9cMDhb8_jIgkmVpaT3kkE9aeKVyQ741cIrWdJpWHKG2BkKdticLGa8PED__MKvCP1vYleLL6eauYWx3jmFX_i5WfJbabC8222XIgyDUONic1OIbTnZWSBJryTdyGHElUhSg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5629608,
+                    "lng": 76.5672506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56431127989272,
+                        "lng": 76.56859712989272
+                    },
+                    "southwest": {
+                        "lat": 17.56161162010728,
+                        "lng": 76.56589747010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nafeesa Kirana Shop",
+            "place_id": "ChIJC3tw2x-tyDsRU8NgwXZj5OI",
+            "plus_code": {
+                "compound_code": "HH78+5V Kalaburagi, Karnataka",
+                "global_code": "7J9RHH78+5V"
+            },
+            "rating": 0,
+            "reference": "ChIJC3tw2x-tyDsRU8NgwXZj5OI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Sri Ram Market, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7369171,
+                    "lng": 76.4780251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73847772989272,
+                        "lng": 76.47938527989271
+                    },
+                    "southwest": {
+                        "lat": 17.73577807010728,
+                        "lng": 76.47668562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHAHID PAN SHOP",
+            "place_id": "ChIJM4S74-pXzzsR9AEQ4s-0PnA",
+            "plus_code": {
+                "compound_code": "PFPH+P6 Belamb, Maharashtra",
+                "global_code": "7J9RPFPH+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJM4S74-pXzzsR9AEQ4s-0PnA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.02 Main Road Belam Omerga, Belamb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6953951,
+                    "lng": 76.4199714
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69712142989272,
+                        "lng": 76.42115177989272
+                    },
+                    "southwest": {
+                        "lat": 17.69442177010728,
+                        "lng": 76.41845212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Mahatma Tea Shop",
+            "place_id": "ChIJK0etxTT5xTsRkFtM-HKS1T8",
+            "plus_code": {
+                "compound_code": "MCW9+5X Alur, Maharashtra",
+                "global_code": "7J9RMCW9+5X"
+            },
+            "rating": 0,
+            "reference": "ChIJK0etxTT5xTsRkFtM-HKS1T8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 13, Main Road, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6320252,
+                    "lng": 76.4155675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63336197989272,
+                        "lng": 76.41693927989272
+                    },
+                    "southwest": {
+                        "lat": 17.63066232010728,
+                        "lng": 76.41423962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Samarth Kirana Stores",
+            "place_id": "ChIJ8_GuP_7_xTsRRFA5_4xuhhU",
+            "plus_code": {
+                "compound_code": "JCJ8+R6 Khairat, Maharashtra",
+                "global_code": "7J9RJCJ8+R6"
+            },
+            "rating": 0,
+            "reference": "ChIJ8_GuP_7_xTsRRFA5_4xuhhU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Main Road Khairat Akkalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6878754,
+                    "lng": 76.5678867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68926552989272,
+                        "lng": 76.5692183298927
+                    },
+                    "southwest": {
+                        "lat": 17.68656587010728,
+                        "lng": 76.56651867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ekbote shop",
+            "place_id": "ChIJaVxOs7VRzzsRVmhi-nDdOF0",
+            "rating": 0,
+            "reference": "ChIJaVxOs7VRzzsRVmhi-nDdOF0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MHQ9+45, Khajuri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6391662,
+                    "lng": 76.58620900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64053427989272,
+                        "lng": 76.58747107989271
+                    },
+                    "southwest": {
+                        "lat": 17.63783462010728,
+                        "lng": 76.58477142010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0c85\u0caa\u0ccd\u0caa\u0cc1 \u0ca8\u0c97\u0cb0\u0ccd \u0c9a\u0cbf\u0ca4\u0cb2\u0cbf",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111280294612668980563\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-hDUNyTs-Up06Qg-09VS95HhbUv9PCH4fzu3BBKaDmlPti_A2uqv2JyoQ4dXlxUdNlGJV1tTt7KJvFkqRyH6ETeU-YfGRi00StrkUk7ZeG2kThu4cpYVOy8UijEOvy6pcoJQvkc0H4mzt8J3fMI5_pcHZRjxiE_WNpKF2m4blIg48",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJtZuZEiRTzzsRhLMj0xWgQZk",
+            "rating": 5,
+            "reference": "ChIJtZuZEiRTzzsRhLMj0xWgQZk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JHQP+MF8, Chitali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7369171,
+                    "lng": 76.4780253
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73847512989272,
+                        "lng": 76.47938542989272
+                    },
+                    "southwest": {
+                        "lat": 17.73577547010728,
+                        "lng": 76.47668577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "M S PAN SHOP",
+            "place_id": "ChIJP8vKxFpXzzsRffQJU0vhevY",
+            "plus_code": {
+                "compound_code": "PFPH+P6 Belamb, Maharashtra",
+                "global_code": "7J9RPFPH+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJP8vKxFpXzzsRffQJU0vhevY",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No. 01 Man Road Belam Omerga, Belamb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5634868,
+                    "lng": 76.5704769
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56483287989272,
+                        "lng": 76.5718444798927
+                    },
+                    "southwest": {
+                        "lat": 17.56213322010727,
+                        "lng": 76.56914482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sanvi general stores & gift center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJO-lxJxutyDsRkCXn81iDmwA",
+            "rating": 0,
+            "reference": "ChIJO-lxJxutyDsRkCXn81iDmwA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH7C+95X, near Hanuman Temple, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5634374,
+                    "lng": 76.5673456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56479387989272,
+                        "lng": 76.56869572989272
+                    },
+                    "southwest": {
+                        "lat": 17.56209422010728,
+                        "lng": 76.56599607010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ankita Beauty Shop",
+            "place_id": "ChIJHxZsYJStyDsR90eEa_iXiok",
+            "rating": 5,
+            "reference": "ChIJHxZsYJStyDsR90eEa_iXiok",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HH78+9WQ, Sri Ram Market, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.699084,
+                    "lng": 76.4238348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70043292989272,
+                        "lng": 76.42518632989271
+                    },
+                    "southwest": {
+                        "lat": 17.69773327010728,
+                        "lng": 76.42248667010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VAISHNAVI KIRANA",
+            "place_id": "ChIJBcRSoHz5xTsRD9nwKIiJ4f8",
+            "plus_code": {
+                "compound_code": "MCXF+JG Murum Rural, Maharashtra",
+                "global_code": "7J9RMCXF+JG"
+            },
+            "rating": 5,
+            "reference": "ChIJBcRSoHz5xTsRD9nwKIiJ4f8",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SHOP NO 1, MEN ROAD, Aloor Rd, near by BUS Stop, Murum Rural"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6993296,
+                    "lng": 76.42443829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70078982989272,
+                        "lng": 76.42564222989273
+                    },
+                    "southwest": {
+                        "lat": 17.69809017010728,
+                        "lng": 76.42294257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHIVA PAAN STALL",
+            "place_id": "ChIJdRX2Fw35xTsRWqXxT4YHwnw",
+            "plus_code": {
+                "compound_code": "MCXF+PQ Murum Rural, Maharashtra",
+                "global_code": "7J9RMCXF+PQ"
+            },
+            "rating": 0,
+            "reference": "ChIJdRX2Fw35xTsRWqXxT4YHwnw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, near by Bqasveshwar Chick Alur, Murum Rural"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7019126,
+                    "lng": 76.4984714
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70321797989272,
+                        "lng": 76.49981722989271
+                    },
+                    "southwest": {
+                        "lat": 17.70051832010728,
+                        "lng": 76.49711757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mailari kirana & pumcher Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 460,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116855595049621586759\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZQU4R8lGsJhmbPAe18K5gqocS6kWFFI5p1qOxJIkm1MWnMWubDbgLDUOWJmGO6eHmNZuvvtNGtIPgypEACnOfP40e_Q1w-SnZ0FtDZNdYa9jNNXJ03ILNmt_-nG_H2DNeR70DDEbWC2GR86rmYDa-2xsGrvAZdZmO3PK1OM7yk2CU",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJdVV89D9XzzsRTinW9MHxM58",
+            "plus_code": {
+                "compound_code": "PF2X+Q9 Jamga Khandala, Karnataka",
+                "global_code": "7J9RPF2X+Q9"
+            },
+            "rating": 5,
+            "reference": "ChIJdVV89D9XzzsRTinW9MHxM58",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Jamga Khandala"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5710133,
+                    "lng": 76.5670631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57241732989272,
+                        "lng": 76.56841137989272
+                    },
+                    "southwest": {
+                        "lat": 17.56971767010728,
+                        "lng": 76.56571172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Akash kirana shop",
+            "place_id": "ChIJlyrutHGtyDsRlqHlQrCctfg",
+            "rating": 0,
+            "reference": "ChIJlyrutHGtyDsRlqHlQrCctfg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HHC8+8QX, Aland"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6970742,
+                    "lng": 76.422797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69839662989272,
+                        "lng": 76.42414747989271
+                    },
+                    "southwest": {
+                        "lat": 17.69569697010728,
+                        "lng": 76.42144782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Siddhivinayak Pan Shop",
+            "place_id": "ChIJ3ehd0Pb5xTsRV164uhgLUR0",
+            "plus_code": {
+                "compound_code": "MCWF+R4 Alur, Maharashtra",
+                "global_code": "7J9RMCWF+R4"
+            },
+            "rating": 0,
+            "reference": "ChIJ3ehd0Pb5xTsRV164uhgLUR0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03 Main Road Aloor, Alur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6320207,
+                    "lng": 76.4151323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63336562989272,
+                        "lng": 76.41647467989272
+                    },
+                    "southwest": {
+                        "lat": 17.63066597010728,
+                        "lng": 76.41377502010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "New Frindship Pan Shop",
+            "place_id": "ChIJ2YO9j7n_xTsRwDX6hBo3LeA",
+            "plus_code": {
+                "compound_code": "JCJ8+R3 Khairat, Maharashtra",
+                "global_code": "7J9RJCJ8+R3"
+            },
+            "rating": 0,
+            "reference": "ChIJ2YO9j7n_xTsRwDX6hBo3LeA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01main Road Khirat Akkalkot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6983338,
+                    "lng": 76.4664511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69958032989273,
+                        "lng": 76.46771107989272
+                    },
+                    "southwest": {
+                        "lat": 17.69688067010728,
+                        "lng": 76.46501142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHAIKH PAN SHOP",
+            "place_id": "ChIJu2tPuEhXzzsRNd3BLKxRmqU",
+            "plus_code": {
+                "compound_code": "MFX8+8H Kesar Jawalga, Maharashtra",
+                "global_code": "7J9RMFX8+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJu2tPuEhXzzsRNd3BLKxRmqU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.03 Main Road, Kesar Jawalga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6983335,
+                    "lng": 76.46643569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69958032989273,
+                        "lng": 76.46771107989272
+                    },
+                    "southwest": {
+                        "lat": 17.69688067010728,
+                        "lng": 76.46501142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "SWAMI KIRANA STORE",
+            "place_id": "ChIJ67-X0CBXzzsRZxBCnlVz5S8",
+            "plus_code": {
+                "compound_code": "MFX8+8H Kesar Jawalga, Maharashtra",
+                "global_code": "7J9RMFX8+8H"
+            },
+            "rating": 5,
+            "reference": "ChIJ67-X0CBXzzsRZxBCnlVz5S8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No.01 Main Road, Kesar Jawalga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.65799,
+                    "lng": 76.5928935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65932997989272,
+                        "lng": 76.59418377989272
+                    },
+                    "southwest": {
+                        "lat": 17.65663032010728,
+                        "lng": 76.59148412010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kambale general kirana Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ79hf1INTzzsRmHrLLGm_P20",
+            "rating": 0,
+            "reference": "ChIJ79hf1INTzzsRmHrLLGm_P20",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MH5V+55V, Bangerga"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5707799,
+                    "lng": 76.5660741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57215422989272,
+                        "lng": 76.56743217989272
+                    },
+                    "southwest": {
+                        "lat": 17.56945457010728,
+                        "lng": 76.56473252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Prajwal Kirana shop",
+            "place_id": "ChIJ-yQ2jUqtyDsRkUbVedwLFrU",
+            "rating": 0,
+            "reference": "ChIJ-yQ2jUqtyDsRkUbVedwLFrU",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HHC8+8C8, J.P. Nagar, Karatagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5683764,
+                    "lng": 76.5647269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56976327989272,
+                        "lng": 76.56609252989271
+                    },
+                    "southwest": {
+                        "lat": 17.56706362010728,
+                        "lng": 76.56339287010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "YADGIRI KIRANA SHOP",
+            "place_id": "ChIJM3Ds2w-tyDsRVKlqMoUjnIw",
+            "rating": 0,
+            "reference": "ChIJM3Ds2w-tyDsRVKlqMoUjnIw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HH97+9V, Aland"
+        }
+    ],
+    "status": "OK"
+}

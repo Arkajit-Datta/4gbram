@@ -1,0 +1,819 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgyJXSZ4EajVx__MHwuDzoUwd1ilOrI1dccOAPT0HxIZF-9HA8TCeBMl2yZ7BJEMY3ZArEzy27IVuJBQP7-G72mLA7TizlQ-qiiRZAZlg2yGGkzzNmObIS9GOss5oSQ6HxQfndpC9PzX8ZKKE0NC3Cb9lYl6XxmKI5Ls27-aDeepSwzxflWPPndzmk90-jxzfS4wQ-zdGBcY_9C82GXgXWfY00qWAEnD9j4_Wzu6-snx5Be-ou8br2Grd-EQXAdTSWF92giuvSUFtzZWx-FpRwhvaDsJ5iQZ5bKbOj0Is6NSkd9brRxFeUxhZAuDhXBuS6J2-n-S9PzfeypSGVkd5PZcW2d5ti1--YYv-BsDNb91WrNoKf1bBPnyB6OV55j1TtvI43nqrxV9J1aQpp9ScSoFK2RmfSaEJQBvvAk4JqCgQB9GQxQ9WZU",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9843466,
+                    "lng": 75.2850141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.98569407989272,
+                        "lng": 75.28641992989273
+                    },
+                    "southwest": {
+                        "lat": 17.98299442010727,
+                        "lng": 75.28372027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiv krupa kirana store",
+            "place_id": "ChIJQcxrX6hpxDsRaxmxD-d0eT0",
+            "plus_code": {
+                "compound_code": "X7MP+P2 Ahergaon, Maharashtra",
+                "global_code": "7J9QX7MP+P2"
+            },
+            "rating": 0,
+            "reference": "ChIJQcxrX6hpxDsRaxmxD-d0eT0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Solapur - Pune Hwy, Ahergaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9085228,
+                    "lng": 75.39945089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90987442989271,
+                        "lng": 75.40080262989274
+                    },
+                    "southwest": {
+                        "lat": 17.90717477010727,
+                        "lng": 75.39810297010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "vighanhar provision stores",
+            "place_id": "ChIJi0j6yyRBxDsR6NqbNxAOF7E",
+            "plus_code": {
+                "compound_code": "W95X+CQ Modanimb, Maharashtra",
+                "global_code": "7J9QW95X+CQ"
+            },
+            "rating": 0,
+            "reference": "ChIJi0j6yyRBxDsR6NqbNxAOF7E",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "shop no 5, main road, Datta Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9854367,
+                    "lng": 75.29577809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.98683887989273,
+                        "lng": 75.29715702989272
+                    },
+                    "southwest": {
+                        "lat": 17.98413922010728,
+                        "lng": 75.29445737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jyotirling Kirana Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJS4sEiHdpxDsRvWKOVxfKifM",
+            "plus_code": {
+                "compound_code": "X7PW+58 Tembhurni, Maharashtra",
+                "global_code": "7J9QX7PW+58"
+            },
+            "rating": 4,
+            "reference": "ChIJS4sEiHdpxDsRvWKOVxfKifM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Pune Solapur Highway, Akumbe, Tembhurni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9168257,
+                    "lng": 75.3980514
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91816777989273,
+                        "lng": 75.39945077989273
+                    },
+                    "southwest": {
+                        "lat": 17.91546812010728,
+                        "lng": 75.39675112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shri Swami Samarth Kirana & General Store",
+            "place_id": "ChIJpfkPpklBxDsR71OWpLjxZPE",
+            "plus_code": {
+                "compound_code": "W98X+P6 Modanimb, Maharashtra",
+                "global_code": "7J9QW98X+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJpfkPpklBxDsR71OWpLjxZPE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Adarsh Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9111874,
+                    "lng": 75.403089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91255822989272,
+                        "lng": 75.40447847989272
+                    },
+                    "southwest": {
+                        "lat": 17.90985857010728,
+                        "lng": 75.40177882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "swami samarth treaders",
+            "place_id": "ChIJZ0yNVABBxDsRDwDEGMOwzeQ",
+            "plus_code": {
+                "compound_code": "WC63+F6 Modanimb, Maharashtra",
+                "global_code": "7J9QWC63+F6"
+            },
+            "rating": 0,
+            "reference": "ChIJZ0yNVABBxDsRDwDEGMOwzeQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "plot number 221, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.904925,
+                    "lng": 75.4022407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90642687989272,
+                        "lng": 75.40335072989272
+                    },
+                    "southwest": {
+                        "lat": 17.90372722010728,
+                        "lng": 75.40065107010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Chougule Kirana Stores",
+            "place_id": "ChIJgfpVKrRBxDsRdm2AcBye_bw",
+            "plus_code": {
+                "compound_code": "WC32+XV Modanimb, Maharashtra",
+                "global_code": "7J9QWC32+XV"
+            },
+            "rating": 0,
+            "reference": "ChIJgfpVKrRBxDsRdm2AcBye_bw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "12 Mean Market, Station Rd, Sambhaji Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9701508,
+                    "lng": 75.3151269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.97153087989272,
+                        "lng": 75.31650542989271
+                    },
+                    "southwest": {
+                        "lat": 17.96883122010728,
+                        "lng": 75.31380577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Shiddeshwar Kirana",
+            "place_id": "ChIJ05SpvuFpxDsR3bIl4tGR-lo",
+            "plus_code": {
+                "compound_code": "X8C8+32 Warawade, Maharashtra",
+                "global_code": "7J9QX8C8+32"
+            },
+            "rating": 0,
+            "reference": "ChIJ05SpvuFpxDsR3bIl4tGR-lo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "04 Mean Market, near Bus Stand, Warwade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9081573,
+                    "lng": 75.3973753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90957722989273,
+                        "lng": 75.39868542989272
+                    },
+                    "southwest": {
+                        "lat": 17.90687757010728,
+                        "lng": 75.39598577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Bhange Kirana",
+            "place_id": "ChIJ5bdGuzVBxDsRr4cDZDrHN9U",
+            "plus_code": {
+                "compound_code": "W95W+7W Modanimb, Maharashtra",
+                "global_code": "7J9QW95W+7W"
+            },
+            "rating": 0,
+            "reference": "ChIJ5bdGuzVBxDsRr4cDZDrHN9U",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 3, Main Road, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9152886,
+                    "lng": 75.3979985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91660872989273,
+                        "lng": 75.39934337989271
+                    },
+                    "southwest": {
+                        "lat": 17.91390907010728,
+                        "lng": 75.39664372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Tamboli Kirana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ99KMs7VBxDsRSto5qcfVJNg",
+            "plus_code": {
+                "compound_code": "W98X+45 Modanimb, Maharashtra",
+                "global_code": "7J9QW98X+45"
+            },
+            "rating": 5,
+            "reference": "ChIJ99KMs7VBxDsRSto5qcfVJNg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "10 Mean Market Market Aadarsh Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9111094,
+                    "lng": 75.4034637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91242417989272,
+                        "lng": 75.40482257989272
+                    },
+                    "southwest": {
+                        "lat": 17.90972452010728,
+                        "lng": 75.40212292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mandhardevi Kirana",
+            "place_id": "ChIJCz5Zor9BxDsRdsGu_PPzHm4",
+            "plus_code": {
+                "compound_code": "WC63+C9 Modanimb, Maharashtra",
+                "global_code": "7J9QWC63+C9"
+            },
+            "rating": 0,
+            "reference": "ChIJCz5Zor9BxDsRdsGu_PPzHm4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5, Shivajinagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9115977,
+                    "lng": 75.402074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91290242989272,
+                        "lng": 75.40348442989271
+                    },
+                    "southwest": {
+                        "lat": 17.91020277010728,
+                        "lng": 75.40078477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Gokul Pasukhadya Bhandar",
+            "place_id": "ChIJ5-QDk2tBxDsRkwtuCnwpjfo",
+            "plus_code": {
+                "compound_code": "WC62+JR Modanimb, Maharashtra",
+                "global_code": "7J9QWC62+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJ5-QDk2tBxDsRkwtuCnwpjfo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10 Mean Market Ch Shivaji Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9576226,
+                    "lng": 75.3313982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.95896812989272,
+                        "lng": 75.33274467989273
+                    },
+                    "southwest": {
+                        "lat": 17.95626847010728,
+                        "lng": 75.33004502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Mahalaxmi Kirana & General Store",
+            "place_id": "ChIJSyuybGFrxDsR8RM3kMFIjwA",
+            "plus_code": {
+                "compound_code": "X85J+2H Aran, Maharashtra",
+                "global_code": "7J9QX85J+2H"
+            },
+            "rating": 0,
+            "reference": "ChIJSyuybGFrxDsR8RM3kMFIjwA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5, near Toll Plaza, Aran"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9701894,
+                    "lng": 75.316209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.97156217989273,
+                        "lng": 75.31753502989272
+                    },
+                    "southwest": {
+                        "lat": 17.96886252010728,
+                        "lng": 75.31483537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Swara Kirana And General Stores",
+            "place_id": "ChIJCYKnoS5pxDsRCWx2E-OALEM",
+            "plus_code": {
+                "compound_code": "X8C8+3G Tembhurni, Maharashtra",
+                "global_code": "7J9QX8C8+3G"
+            },
+            "rating": 0,
+            "reference": "ChIJCYKnoS5pxDsRCWx2E-OALEM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Warwade, Solapur - Pune Hwy, Tembhurni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9104297,
+                    "lng": 75.3980031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91173907989272,
+                        "lng": 75.39937347989272
+                    },
+                    "southwest": {
+                        "lat": 17.90903942010728,
+                        "lng": 75.39667382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Nanda Kirana",
+            "place_id": "ChIJ5-0Gx9NBxDsRzmLTC2GGWw4",
+            "plus_code": {
+                "compound_code": "W96X+55 Modanimb, Maharashtra",
+                "global_code": "7J9QW96X+55"
+            },
+            "rating": 0,
+            "reference": "ChIJ5-0Gx9NBxDsRzmLTC2GGWw4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 2, Main Road, Datta Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9117708,
+                    "lng": 75.4307012
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91309412989272,
+                        "lng": 75.43204612989273
+                    },
+                    "southwest": {
+                        "lat": 17.91039447010728,
+                        "lng": 75.42934647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Prachi Kirana Stores",
+            "place_id": "ChIJVYvcdppBxDsRcrFJthU2Yi4",
+            "rating": 5,
+            "reference": "ChIJVYvcdppBxDsRcrFJthU2Yi4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WC6J+WF4, Shetphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9082931,
+                    "lng": 75.398914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90965447989272,
+                        "lng": 75.40027887989271
+                    },
+                    "southwest": {
+                        "lat": 17.90695482010728,
+                        "lng": 75.39757922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Vetal Kirana Stores",
+            "place_id": "ChIJM72GALFBxDsRwTeIZ2mBSgU",
+            "plus_code": {
+                "compound_code": "W95X+8H Modanimb, Maharashtra",
+                "global_code": "7J9QW95X+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJM72GALFBxDsRwTeIZ2mBSgU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "919 Tanaji Chowk Mean Market, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9061606,
+                    "lng": 75.3927417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90729207989272,
+                        "lng": 75.39378762989273
+                    },
+                    "southwest": {
+                        "lat": 17.90459242010727,
+                        "lng": 75.39108797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ganesh Kirana",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110064826855502771228\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj6qjmzZUtqvbvfy-bLB2BNwWfIEH3cBEIDDLqNpxoh81BiRqKS2c-i-kvIoeJyjU7xtWrj-LPgCp_rUirpRoTp9WDHftg5TAUsMFGUn-UOHCMfvOdOK3BXiaDvtWPetin038Q-pfo_ECOqjqG8L5sY86S8tLTnO8kWeOkcGzsqP9dA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJe81CoApBxDsR5cz7T_x1QWY",
+            "plus_code": {
+                "compound_code": "W94V+F3 Modanimb, Maharashtra",
+                "global_code": "7J9QW94V+F3"
+            },
+            "rating": 5,
+            "reference": "ChIJe81CoApBxDsR5cz7T_x1QWY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1, Mahadev Mandir, near Modnimb, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9074041,
+                    "lng": 75.4303594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90900252989272,
+                        "lng": 75.43140332989272
+                    },
+                    "southwest": {
+                        "lat": 17.90630287010728,
+                        "lng": 75.42870367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Dipanjali Kirana Store",
+            "place_id": "ChIJyX9wmftBxDsRaQW-YO2pLSI",
+            "plus_code": {
+                "compound_code": "WC4J+X4 Shetphal, Maharashtra",
+                "global_code": "7J9QWC4J+X4"
+            },
+            "rating": 5,
+            "reference": "ChIJyX9wmftBxDsRaQW-YO2pLSI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Shop No 1 Shetphal, near Siddheshwar Mandir, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9101045,
+                    "lng": 75.4000842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91144982989272,
+                        "lng": 75.40143742989272
+                    },
+                    "southwest": {
+                        "lat": 17.90875017010728,
+                        "lng": 75.39873777010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Prathmesh Enterprise",
+            "place_id": "ChIJifsfOrVBxDsRt_CuYNq4nro",
+            "plus_code": {
+                "compound_code": "WC62+22 Modanimb, Maharashtra",
+                "global_code": "7J9QWC62+22"
+            },
+            "rating": 0,
+            "reference": "ChIJifsfOrVBxDsRt_CuYNq4nro",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10 Mean Market Swami Samarth Chowk, Datta Nagar, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9061128,
+                    "lng": 75.4320994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90755827989272,
+                        "lng": 75.43318727989272
+                    },
+                    "southwest": {
+                        "lat": 17.90485862010728,
+                        "lng": 75.43048762010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rahul Kirana",
+            "place_id": "ChIJlRZqvptBxDsRXV4kRe-rNtw",
+            "plus_code": {
+                "compound_code": "WC4J+CR Shetphal, Maharashtra",
+                "global_code": "7J9QWC4J+CR"
+            },
+            "rating": 0,
+            "reference": "ChIJlRZqvptBxDsRXV4kRe-rNtw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5 Bhaiya Chowk, Shetphal Rd"
+        }
+    ],
+    "status": "OK"
+}

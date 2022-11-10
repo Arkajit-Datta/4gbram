@@ -1,0 +1,786 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhM8m85GxXVAET1BHC-niYiRj7xe_ms0Daxq93ZULHJSoKzjZtPgeyt2QM_edvF99oLJk6Gboo3ApY-QgjayuB95TgmTCef6yygkNWRcsxI5HlZIq3_IMwN-Ue9p7Im399OXxq_gMOSvY2QY4dqEnc5Kq8WQRXtE86XxD2QbgfSL7oJojTJzfjmPw0xegdD2QKeDg2n9kEKPgHh4pz1j_Slj4dcgdH8IWtUKN-m1vxVQ1oRrcddiLz_y5yQG96KS3zlwaDaTFuj-PhKrXUum47WaPdKFFVN4BMnazr69LXq2UFz-d3euuTi1pKWT_TuBEnsNAoDZBqPsJwFFH-RhxoqR2ngREMW5GZhi7KxaOWvTdvLb7gyQst5pT6jF7cIMFS5ndK4pW44s0-V1jHWau86AUvQPjmtRCrrj7ZBxevl1rmE2pistA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9575607,
+                    "lng": 75.3310214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.95888502989272,
+                        "lng": 75.33235307989273
+                    },
+                    "southwest": {
+                        "lat": 17.95618537010728,
+                        "lng": 75.32965342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Ajit Shop",
+            "place_id": "ChIJl9EOPyBrxDsRdTfbvyiWk1w",
+            "plus_code": {
+                "compound_code": "X85J+2C Warawade, Maharashtra",
+                "global_code": "7J9QX85J+2C"
+            },
+            "rating": 0,
+            "reference": "ChIJl9EOPyBrxDsRdTfbvyiWk1w",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 05, Men Market Opp Tol Pazz Warwade"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9166256,
+                    "lng": 75.4247589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91795732989272,
+                        "lng": 75.42581832989272
+                    },
+                    "southwest": {
+                        "lat": 17.91525767010728,
+                        "lng": 75.42311867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "shiddeshwar pan shop",
+            "place_id": "ChIJVeuQj1JBxDsRl5iO4FGqndg",
+            "plus_code": {
+                "compound_code": "WC8F+MW Mohol, Maharashtra",
+                "global_code": "7J9QWC8F+MW"
+            },
+            "rating": 0,
+            "reference": "ChIJVeuQj1JBxDsRl5iO4FGqndg",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "20, Shetphal Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9072147,
+                    "lng": 75.43016750000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90878397989272,
+                        "lng": 75.43119987989272
+                    },
+                    "southwest": {
+                        "lat": 17.90608432010728,
+                        "lng": 75.42850022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Manish Pan Shop",
+            "place_id": "ChIJsal5YTRBxDsR7NrBkgekY9I",
+            "plus_code": {
+                "compound_code": "WC4J+V3 Mohol, Maharashtra",
+                "global_code": "7J9QWC4J+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJsal5YTRBxDsR7NrBkgekY9I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "22, Shetphal Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.915102,
+                    "lng": 75.40354959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91645552989272,
+                        "lng": 75.40490097989272
+                    },
+                    "southwest": {
+                        "lat": 17.91375587010728,
+                        "lng": 75.40220132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Balasaheb Pan Shop",
+            "place_id": "ChIJtyP1yn5BxDsR-AihG7pDV1I",
+            "plus_code": {
+                "compound_code": "WC83+2C Modanimb, Maharashtra",
+                "global_code": "7J9QWC83+2C"
+            },
+            "rating": 0,
+            "reference": "ChIJtyP1yn5BxDsR-AihG7pDV1I",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9703568,
+                    "lng": 75.3148751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.97174207989272,
+                        "lng": 75.31625862989272
+                    },
+                    "southwest": {
+                        "lat": 17.96904242010728,
+                        "lng": 75.31355897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mayur Pan Shop And Coldrinks",
+            "place_id": "ChIJCTkNVFJpxDsRkxMLJuKi46E",
+            "plus_code": {
+                "compound_code": "X8C7+4X Warawade, Maharashtra",
+                "global_code": "7J9QX8C7+4X"
+            },
+            "rating": 0,
+            "reference": "ChIJCTkNVFJpxDsRkxMLJuKi46E",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Warvade, Near, Solapur - Pune Hwy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9085244,
+                    "lng": 75.39908059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90986417989273,
+                        "lng": 75.40043762989272
+                    },
+                    "southwest": {
+                        "lat": 17.90716452010728,
+                        "lng": 75.39773797010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Swara Ladies Shopi",
+            "place_id": "ChIJfckSY91BxDsRjsT9hPmt3Ic",
+            "plus_code": {
+                "compound_code": "W95X+CJ Modanimb, Maharashtra",
+                "global_code": "7J9QW95X+CJ"
+            },
+            "rating": 0,
+            "reference": "ChIJfckSY91BxDsRjsT9hPmt3Ic",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Shambhaji Nagar Main Road, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9089116,
+                    "lng": 75.39854129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91025707989272,
+                        "lng": 75.39988267989271
+                    },
+                    "southwest": {
+                        "lat": 17.90755742010728,
+                        "lng": 75.39718302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Keber Pan Shop",
+            "place_id": "ChIJGWqPyupBxDsRdRoTqGs0YHw",
+            "plus_code": {
+                "compound_code": "W95X+HC Modanimb, Maharashtra",
+                "global_code": "7J9QW95X+HC"
+            },
+            "rating": 0,
+            "reference": "ChIJGWqPyupBxDsRdRoTqGs0YHw",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10 Mean Market Tanaji Chowk, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9052147,
+                    "lng": 75.4241473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90662522989272,
+                        "lng": 75.42541482989272
+                    },
+                    "southwest": {
+                        "lat": 17.90392557010728,
+                        "lng": 75.42271517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sagar Pan Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102961325592202128948\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh921TIZ0iTrt1fD2isrBfmgsgGSmfosTtwsWGHbTZwXKFYIWQ5cclFDpleGwoc3FpzlwIOGHPZvUicSE8HwcacPmTucwmitnd83cjDxgElDL7oCWbxkRjvkPvZYBowVNQ69OOtQdPQ2tY1CoeGZHNkzq4BbVOrizAPgq-6B2QDemN9",
+                    "width": 2221
+                }
+            ],
+            "place_id": "ChIJoawoi51BxDsRl3agW4G39to",
+            "rating": 0,
+            "reference": "ChIJoawoi51BxDsRl3agW4G39to",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WC4F+3MJ, Siddewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0025639,
+                    "lng": 75.2654621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.00387947989272,
+                        "lng": 75.26680572989271
+                    },
+                    "southwest": {
+                        "lat": 18.00117982010728,
+                        "lng": 75.26410607010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sai Pan Shop",
+            "place_id": "ChIJ23BHlm1pxDsRIv9I2UOTePQ",
+            "plus_code": {
+                "compound_code": "2738+25 Sapatne Tembhurni, Maharashtra",
+                "global_code": "7JCQ2738+25"
+            },
+            "rating": 0,
+            "reference": "ChIJ23BHlm1pxDsRIv9I2UOTePQ",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No, 01, New Garkul Rd, Niwara Road, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9083108,
+                    "lng": 75.4305808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90977322989272,
+                        "lng": 75.43199397989272
+                    },
+                    "southwest": {
+                        "lat": 17.90707357010728,
+                        "lng": 75.42929432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SK pan shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ3aD7K3ZBxDsRfzLV606kHUA",
+            "rating": 0,
+            "reference": "ChIJ3aD7K3ZBxDsRfzLV606kHUA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WC5J+868, Shetphal Rd, Khandali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9072147,
+                    "lng": 75.43016750000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90878397989272,
+                        "lng": 75.43119987989272
+                    },
+                    "southwest": {
+                        "lat": 17.90608432010728,
+                        "lng": 75.42850022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shideshwar Pan Shop",
+            "place_id": "ChIJgTqs9apBxDsR2-d6dzacPDY",
+            "plus_code": {
+                "compound_code": "WC4J+V3 Mohol, Maharashtra",
+                "global_code": "7J9QWC4J+V3"
+            },
+            "rating": 0,
+            "reference": "ChIJgTqs9apBxDsR2-d6dzacPDY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "08, Shetphal Rd, Mohol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9118387,
+                    "lng": 75.4023835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91313682989272,
+                        "lng": 75.40378162989272
+                    },
+                    "southwest": {
+                        "lat": 17.91043717010728,
+                        "lng": 75.40108197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Moraya Pan Shop",
+            "place_id": "ChIJj40qV5JBxDsR-FutVg2h_PY",
+            "plus_code": {
+                "compound_code": "WC62+PX Modanimb, Maharashtra",
+                "global_code": "7J9QWC62+PX"
+            },
+            "rating": 0,
+            "reference": "ChIJj40qV5JBxDsR-FutVg2h_PY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 01 Mean Market, opp. DCC Bank, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9151119,
+                    "lng": 75.40404989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91636177989272,
+                        "lng": 75.40535707989271
+                    },
+                    "southwest": {
+                        "lat": 17.91366212010728,
+                        "lng": 75.40265742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dhanshri Pan Shop",
+            "place_id": "ChIJtTe1-LZBxDsRTlptgCOL3-A",
+            "plus_code": {
+                "compound_code": "WC83+2J Modanimb, Maharashtra",
+                "global_code": "7J9QWC83+2J"
+            },
+            "rating": 0,
+            "reference": "ChIJtTe1-LZBxDsRTlptgCOL3-A",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5 Modnimb, near Solapur Road, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.0241835,
+                    "lng": 75.2639501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.02551137989272,
+                        "lng": 75.2652948798927
+                    },
+                    "southwest": {
+                        "lat": 18.02281172010728,
+                        "lng": 75.26259522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Kiran store",
+            "place_id": "ChIJV99OhYRpxDsR4W0h2pLxZ-I",
+            "rating": 0,
+            "reference": "ChIJV99OhYRpxDsR4W0h2pLxZ-I",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "27F7+MHG, Sapatne"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9067088,
+                    "lng": 75.4251452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90806117989272,
+                        "lng": 75.42638217989271
+                    },
+                    "southwest": {
+                        "lat": 17.90536152010727,
+                        "lng": 75.42368252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "saniya pan shop",
+            "place_id": "ChIJO-sIYJdBxDsRHwJ6fwniElg",
+            "rating": 0,
+            "reference": "ChIJO-sIYJdBxDsRHwJ6fwniElg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WC4G+M25, Siddewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9086855,
+                    "lng": 75.3988256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91000637989272,
+                        "lng": 75.40013002989274
+                    },
+                    "southwest": {
+                        "lat": 17.90730672010728,
+                        "lng": 75.39743037010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji Pan Shop",
+            "place_id": "ChIJ1UfWBy1BxDsR4ST3Bzl8jJQ",
+            "plus_code": {
+                "compound_code": "W95X+FG Modanimb, Maharashtra",
+                "global_code": "7J9QW95X+FG"
+            },
+            "rating": 0,
+            "reference": "ChIJ1UfWBy1BxDsR4ST3Bzl8jJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4 Tanaji Chowk Main Road, Modanimb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9134814,
+                    "lng": 75.4047037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91480697989272,
+                        "lng": 75.40608307989272
+                    },
+                    "southwest": {
+                        "lat": 17.91210732010727,
+                        "lng": 75.40338342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Morya Pan Shop",
+            "place_id": "ChIJUX9bGNBBxDsRUqR69CbMPtY",
+            "plus_code": {
+                "compound_code": "WC73+9V Modanimb, Maharashtra",
+                "global_code": "7J9QWC73+9V"
+            },
+            "rating": 0,
+            "reference": "ChIJUX9bGNBBxDsRUqR69CbMPtY",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 5 Modnimb, Road, near Bus Stand, Solapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9115382,
+                    "lng": 75.4022561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.91287667989272,
+                        "lng": 75.40361292989272
+                    },
+                    "southwest": {
+                        "lat": 17.91017702010728,
+                        "lng": 75.40091327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gauri pan Shop",
+            "place_id": "ChIJQaNLqsBBxDsRcet-qasnt2c",
+            "plus_code": {
+                "compound_code": "WC62+JW Modanimb, Maharashtra",
+                "global_code": "7J9QWC62+JW"
+            },
+            "rating": 0,
+            "reference": "ChIJQaNLqsBBxDsRcet-qasnt2c",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10 Mean Market Modnimb Sahivkasti Chowk"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9066393,
+                    "lng": 75.42519519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90799337989272,
+                        "lng": 75.42643222989271
+                    },
+                    "southwest": {
+                        "lat": 17.90529372010728,
+                        "lng": 75.42373257010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PREM PAN SHOP",
+            "place_id": "ChIJj5CQBUpBxDsR2T9l2hKGCCU",
+            "plus_code": {
+                "compound_code": "WC4G+M3 Shetphal, Maharashtra",
+                "global_code": "7J9QWC4G+M3"
+            },
+            "rating": 0,
+            "reference": "ChIJj5CQBUpBxDsR2T9l2hKGCCU",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1, Chowk, Shetphal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.9054859,
+                    "lng": 75.4280996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.90685247989272,
+                        "lng": 75.42941042989271
+                    },
+                    "southwest": {
+                        "lat": 17.90415282010728,
+                        "lng": 75.42671077010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Jadhav Traders",
+            "place_id": "ChIJfevs6KVBxDsRMiAbyTYqbPU",
+            "plus_code": {
+                "compound_code": "WC4H+56 Shetphal, Maharashtra",
+                "global_code": "7J9QWC4H+56"
+            },
+            "rating": 0,
+            "reference": "ChIJfevs6KVBxDsRMiAbyTYqbPU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 1 Bhaiya Chowk Main Road, Shetphal"
+        }
+    ],
+    "status": "OK"
+}

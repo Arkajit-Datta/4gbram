@@ -1,0 +1,439 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2903529,
+                    "lng": 10.9679834
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29171957989272,
+                        "lng": 10.96933572989272
+                    },
+                    "southwest": {
+                        "lat": 10.28901992010728,
+                        "lng": 10.96663607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tailoring Centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJZUbhxrrn_xARO3YDziTCbZo",
+            "plus_code": {
+                "compound_code": "7XR9+45 Akko, Nigeria",
+                "global_code": "7F2G7XR9+45"
+            },
+            "rating": 0,
+            "reference": "ChIJZUbhxrrn_xARO3YDziTCbZo",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "David Mark Road, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3056875,
+                    "lng": 10.9227841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30678717989272,
+                        "lng": 10.92416777989272
+                    },
+                    "southwest": {
+                        "lat": 10.30408752010728,
+                        "lng": 10.92146812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "UMAR SAIDU Footwears",
+            "place_id": "ChIJ-c3hUzbn_xARnrvm8rRs7L8",
+            "plus_code": {
+                "compound_code": "8W4F+74 Lawanti, Nigeria",
+                "global_code": "7F2G8W4F+74"
+            },
+            "rating": 0,
+            "reference": "ChIJ-c3hUzbn_xARnrvm8rRs7L8",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Lawanti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.288188,
+                    "lng": 10.987216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28950722989272,
+                        "lng": 10.98856542989272
+                    },
+                    "southwest": {
+                        "lat": 10.28680757010728,
+                        "lng": 10.98586577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kbang's creative minds multi-services Ltd",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJSzmLC9Ld_xARFzAzrlV7DHs",
+            "rating": 0,
+            "reference": "ChIJSzmLC9Ld_xARFzAzrlV7DHs",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7XQP+7VG, Tumfure , along world market line, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3056,
+                    "lng": 10.9528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30652947989272,
+                        "lng": 10.95438362989272
+                    },
+                    "southwest": {
+                        "lat": 10.30382982010728,
+                        "lng": 10.95168397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Gamadadi Dispensary",
+            "place_id": "ChIJC0jLLgzn_xARlhF-Qki9WdE",
+            "rating": 0,
+            "reference": "ChIJC0jLLgzn_xARlhF-Qki9WdE",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8X43+64M"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2903529,
+                    "lng": 10.9679834
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29171957989272,
+                        "lng": 10.96933572989272
+                    },
+                    "southwest": {
+                        "lat": 10.28901992010728,
+                        "lng": 10.96663607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Malam Muhammad Vent",
+            "place_id": "ChIJ1x593YDn_xARrrZMKM8IojA",
+            "plus_code": {
+                "compound_code": "7XR9+45 Akko, Nigeria",
+                "global_code": "7F2G7XR9+45"
+            },
+            "rating": 0,
+            "reference": "ChIJ1x593YDn_xARrrZMKM8IojA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Muhammad, Akko"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2833,
+                    "lng": 11.0833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.28485262989272,
+                        "lng": 11.08548295
+                    },
+                    "southwest": {
+                        "lat": 10.28215297010728,
+                        "lng": 11.08257235
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Tumpure Dispensary",
+            "place_id": "ChIJzdcjEnDb_xAR9f2ynpelhc4",
+            "rating": 0,
+            "reference": "ChIJzdcjEnDb_xAR9f2ynpelhc4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "73MM+887, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3598761,
+                    "lng": 10.9891967
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.36123717989272,
+                        "lng": 10.99054257989272
+                    },
+                    "southwest": {
+                        "lat": 10.35853752010728,
+                        "lng": 10.98784292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Bula Dispensary",
+            "place_id": "ChIJj1Wfqhne_xARPxomTPOiuMc",
+            "rating": 0,
+            "reference": "ChIJj1Wfqhne_xARPxomTPOiuMc",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9X5Q+XMG, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3689661,
+                    "lng": 10.9953682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.37029527989272,
+                        "lng": 10.99664982989272
+                    },
+                    "southwest": {
+                        "lat": 10.36759562010728,
+                        "lng": 10.99395017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Bomala Dispensary",
+            "place_id": "ChIJV_X6mjve_xARpfo0u3Nfvq0",
+            "rating": 0,
+            "reference": "ChIJV_X6mjve_xARpfo0u3Nfvq0",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9X9W+H5V, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.3024,
+                    "lng": 10.9199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.30340537989272,
+                        "lng": 10.92150152989272
+                    },
+                    "southwest": {
+                        "lat": 10.30070572010728,
+                        "lng": 10.91880187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Lawanti Dispensary",
+            "place_id": "ChIJyWu5kvbm_xAR-Ylj8WYdWKs",
+            "rating": 0,
+            "reference": "ChIJyWu5kvbm_xAR-Ylj8WYdWKs",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8W29+XX6, Lawanti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2908312,
+                    "lng": 11.0817249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29226482989272,
+                        "lng": 11.08307872989272
+                    },
+                    "southwest": {
+                        "lat": 10.28956517010728,
+                        "lng": 11.08037907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+            "icon_background_color": "#F88181",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+            "name": "Bless Patent Medicine store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107556053869578278672\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHuC5IeyW49tgWIiLcAQTXBLNPmkcZNUfSBFEmTx7fdLbWPBpA6rN0lA2LOVKJo1xgPM_IE-hHS1AWi_pg2zBRDLdz1b6zuhc-Tzi8F0C6BU4SDpKM-BhPEwljF2DgoLuZ7pcyEL0THTKDGBF44n_9UcrHzqBU0KHBMtWhHq05RThJ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJzfKcpO_b_xARNBrDpPDG21I",
+            "plus_code": {
+                "compound_code": "73RJ+8M Gombe, Nigeria",
+                "global_code": "7F2H73RJ+8M"
+            },
+            "rating": 5,
+            "reference": "ChIJzfKcpO_b_xARNBrDpPDG21I",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Lafia Mango, Gombe"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 10.2902,
+                    "lng": 10.9676651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.29165892989272,
+                        "lng": 10.96902072989272
+                    },
+                    "southwest": {
+                        "lat": 10.28895927010728,
+                        "lng": 10.96632107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Firstmonie Agent - Saidu Aliyu",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJB_Q7xFXn_xAREZnEECDrRn8",
+            "plus_code": {
+                "compound_code": "7XR9+33 Akko, Nigeria",
+                "global_code": "7F2G7XR9+33"
+            },
+            "rating": 0,
+            "reference": "ChIJB_Q7xFXn_xAREZnEECDrRn8",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Transformer D#Aya, behind Jiri Filling Station Bagadaza, Akko"
+        }
+    ],
+    "status": "OK"
+}
